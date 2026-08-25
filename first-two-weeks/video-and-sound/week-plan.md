@@ -19,28 +19,32 @@ the gallery walk moved to Day 07.
 
 ## Week 2, Aug 24 to 28
 
-Camera modes moved up to Monday.
+**Revised Tue Aug 25: camera controls in a photo context, all week.** Audio and editing (Premiere) and the
+video five-shot sequence move to a later unit. The focus is learning what aperture, shutter, and ISO each do by
+shooting stills. Camera modes started Monday.
 
 | Day | Topic | Turn in today | Also due |
 |-----|-------|---------------|----------|
 | 04 Mon | Vocabulary, then **aperture, shutter, ISO. Av, Tv, M.** Start the modes shoot | frames offloaded, 5 pts | Week 2 assigned |
-| 05 Tue | Levels, mic distance, room tone, SMART goals | Sound Check, Part B | Part A portfolio |
-| 06 Wed | Finish the modes shoot, five shot sequence in Av | Five Shot Sequence, 20 pts | Parts B and C |
-| 07 Thu | Gallery walk, **Quiz 1**, Premiere: import, trim, order, export | First Cut, 20 pts | build day |
-| 08 Fri | **WebXam pretest**, submission window, screening | strand sheet | **Week 2 package and camera modes due** |
+| 05 Tue | **Shutter speed and motion.** Tv mode, freeze vs. blur, panning | modes shoot Part B | Part A portfolio |
+| 06 Wed | **ISO and Manual.** Match a known exposure, finish the shoot, a little composition | modes shoot Part C | portfolio + SMART goals |
+| 07 Thu | Gallery walk, **Quiz 1**, five-frame photo challenge | photo challenge | build/catch-up day |
+| 08 Fri | **WebXam pretest**, submission window, photo showcase | strand sheet | **Week 2 package and camera modes due** |
 
 ### What Is Graded This Week
 
 | Item | Category | Points |
 |------|----------|-------:|
-| Week 2 package: portfolio, sound check, SMART goals | Projects | 60 |
+| Week 2 package: portfolio + SMART goals | Projects | 40 |
 | Camera Modes Shoot | Labs | 30 |
-| Five Shot Sequence | Labs | 20 |
-| First Cut | Labs | 20 |
+| Five-frame photo challenge | Labs | 15 |
 | Depth of Field Pair, optional | Labs | 20 |
 | Quiz 1, Thursday | Assessments | 20 |
 | WebXam pretest, Friday | not graded | 0 |
 | Bell ringers and exit tickets | Readiness | 20 |
+
+Deferred to Unit 1.1: the Sound Check (audio), the Five Shot Sequence (video), and the First Cut (Premiere
+editing). Their files are kept as-is for when those units run.
 
 ### Documents
 

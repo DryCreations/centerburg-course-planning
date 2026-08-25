@@ -2,91 +2,87 @@
 
 **Course:** Yearbook
 
+> **Beats, points, and cameras.** The ladder is drafted, so today the staff picks where they fit (beat and role
+> preferences), learns how coverage earns points, and gets off Auto on the camera. Theme brainstorming waits;
+> it belongs with Unit 2 when publisher deadlines are known.
+
 ## Objective
 
-The staff generates theme concepts for this year's book, and every student can shoot in Av and Tv instead of
-leaving the camera on Auto.
+Every student submits beat and role preferences, understands the coverage points system and the board, and can
+shoot in Av and Tv instead of leaving the camera on Auto.
 
 ## Materials
 
-Old yearbooks, theme examples from other schools, the outstanding page list for last year's book, cameras
-charged with cards cleared, card readers out, the dim corner and the hallway identified as shooting spots.
+The drafted ladder on the coverage board, *Coverage & Points* handout, *Beats and Roles* handout, beat/role
+preference form in Classroom, fall athletics and arts calendars, cameras charged with cards cleared, card
+readers out, the dim corner and the hallway identified as shooting spots.
 
-## Bell Ringer
+## Bell Ringer (5 min)
 
-In one sentence, what was last school year actually like? Not what happened, what it felt like.
+*A yearbook has a full page for the football team and nothing for the fall play. How does that happen, and who
+is responsible?*
 
-## Direct Instruction
+## Direct Instruction, Part 1: Coverage and Beats (12 min)
 
-**Theme, about twelve minutes.**
+1. **The coverage problem:** the bell ringer is the lesson. Nobody decided to skip the play; nobody was
+   scheduled to be there.
+2. **Points, fast:** what earns points, the bonus for filling a gap or covering your own beat, the quarter
+   target. Showing up is not coverage; submitting is (20 usable frames, names verified, within 48 hours).
+3. **The board and the ladder point at each other:** an event on the board should map to a spread on the ladder.
+4. **Transportation:** in-school coverage counts, nobody is stuck because they cannot get to a Friday game.
+   Tell me and we plan around it.
 
-1. A theme is not a slogan on the cover. It is a decision about what the book says, carried through the cover,
-   the section openers, the type, the color, and the captions.
-2. Show two examples, one specific and one generic like "Together We Rise." Ask which one tells you anything
-   about that school.
-3. The constraint that makes themes better: it has to survive being applied two hundred times.
+**Then, individually: the beat & role preference form** (Week 2, Part A). Rank top three beats from the ladder
+sections, name any role of interest, and say honestly what coverage you can get to. This is what I assign from,
+so it is not a formality. Ten minutes; it can also be finished during the camera rotation.
 
-**Camera modes, about ten minutes.** Do this on the projector with a camera in hand.
+## Direct Instruction, Part 2: Camera Modes (10 min)
 
-1. Aperture, shutter, ISO. What each one changes and what it costs. Three sentences, not a lecture.
-2. Av is the portrait mode. Low f number, soft background, faces separate from a busy hallway.
-3. Tv is the sports mode. 1/500 indoors and faster outside, because a spike at 1/60 is a smear.
-4. ISO is what saves you in the gym, and grain is the price. A grainy sharp photo goes in the book. A clean
-   blurry one does not.
+On the projector, camera in hand.
 
-## Work Time: Two Stations, Swap Halfway
+1. Aperture, shutter, ISO: what each changes and what it costs. Three sentences.
+2. **Av** is the portrait mode: low f number, face separated from a busy hallway.
+3. **Tv** is the sports mode: 1/500 indoors and faster outside, or a spike is a smear.
+4. **ISO** saves you in the gym; grain is the price. A grainy sharp photo goes in the book; a clean blurry one
+   does not.
 
-**Station A: Theme Brainstorm**
+## Work Time (20 min): Camera Modes Lab
 
-- Five ideas in five minutes, individually, no filtering.
-- In small groups, pick two. For each, write how it shows up on the cover, on a section opener, and in a
-  caption.
-- Post to the shared theme doc. No decision today. We choose in Unit 2 once the publisher deadlines are known.
+Lab 1 in `labs/week-2-labs.md`. Nine frames, Av and Tv and ISO, including the panning shot, shot in this room
+and the hallway. Run it as a rotation so everyone gets a camera; students waiting or done finish the preference
+form.
 
-**Station B: Camera Modes**
+**Running all week: Legacy Triage.** Legacy Lead plus one or two people work the outstanding page list from
+last year whenever they are between tasks. Flag anything unrecoverable early.
 
-Lab 1 in `labs/week-2-labs.md`. Nine frames, Av and Tv and ISO, including the panning shot. Shoot in this room
-and the hallway.
+**If time, and only if time:** post one theme idea to the shared theme doc. No theme decision now; that is Unit
+2, once publisher deadlines are known.
 
-**Running all week, not just today: Legacy Triage.** Legacy Lead plus one or two people work the outstanding
-page list whenever they are between tasks.
-
-| Page | Status | What it needs |
-|------|--------|---------------|
-| Cover | Not started | A design decision, and probably my sign off rather than a student's |
-| Robotics club | Not started | Photos, names, copy. Do the photos exist anywhere? |
-| Graduation | Not started | Photos from last spring. Find out who has them. |
-| Table of contents | Not started | Cannot be finished until page order is final, so it goes last |
-| Everything else | Started, unfinished | Page by page inventory, that is the job |
-
-Flag anything unrecoverable. An event nobody photographed cannot be fixed with a photo, and those pages need a
-different answer: a written recap, a redesign, or a different subject.
-
-## Closure
+## Closure / Exit Ticket (5 min)
 
 Cameras offloaded and checked in first.
+**Exit ticket:** *Which mode would you use to shoot a home volleyball game, and why?*
 
-Each theme group says its favorite idea in one sentence.
+## Handouts Used
 
-Exit ticket: which mode would you use to shoot a home volleyball game, and why?
-
-## Handouts
-
+- `handouts/coverage-points.md`
+- `handouts/beats-and-roles.md`
+- `assignments/week-2-assignment.md` (Part A, preferences)
 - `labs/week-2-labs.md`, Lab 1
 - `handouts/vocab-and-standards.md`
-- Theme brainstorm scaffold and legacy triage sheet in Classroom
 
 ## Assignments
 
+- Given and due today: beat & role preferences (Part A)
 - Given and due Friday: Camera Modes for Yearbook, 25 pts
 - In progress: Week 2 Staff Setup Package
 
 ## Teacher Notes
 
 - Set the dials to Av before class or ten minutes disappear into people hunting for the mode.
-- The panning shot is the one they will want to keep trying. Let them, it is the shot that makes them feel
-  like a photographer.
-- Do not let the theme conversation turn into a logo contest. Keep asking what it looks like on page 87.
-- Be honest about the legacy situation. The staff handles reality better than vagueness. Graduation photos are
-  the item most likely to not exist, and finding that out now beats finding out in October.
-- Post role assignments today or tomorrow. They have been waiting since Day 05.
+- Read the preference forms tonight against the ladder. Where a popular beat is oversubscribed and a thin one
+  has no takers is exactly the assignment problem to solve before Friday.
+- The panning shot is the one they will keep trying. Let them; it is the shot that makes them feel like a
+  photographer.
+- Decide the per-quarter point target before this class. 12 is the draft. Students will ask immediately.
+- Post role assignments Thursday or Friday. Preferences are in today, so there is time to do it thoughtfully.

@@ -2,76 +2,66 @@
 
 **Course:** Video and Sound, **Unit:** 1.0 Orientation
 
+> **ISO, manual, and finishing the shoot.** Last camera-controls day of the week. By the end, every student
+> can set all three settings themselves and match a known exposure, and the Camera Modes Shoot is done.
+
 ## Objective
 
-Students finish the Camera Modes Shoot and can shoot a clean five shot sequence in Av, without leaving the
-camera on Auto.
+Students can raise ISO to shoot in low light and name its cost, shoot in Manual, and match their Auto baseline
+by setting all three settings themselves.
 
-> Camera modes started Monday. Today is the second turn on the gear plus the application, so nobody is left
-> having shot three frames in a rotation.
+## Materials & Setup
 
-## Standards / Outcomes
+Kits staged and charged, cards cleared, **dials on M**, card readers out, the dim corner available, the Day 06
+slides, one or two composition examples on the projector.
 
-- 7.7.4: select a recording format and shoot
-- 7.7.1: identify equipment and other production needs
+## Bell Ringer (5 min)
 
-## Materials
+*You are shooting in a dark gym and the photo comes out too dark. Name two different settings you could change,
+and what each one costs you.*
 
-Kits staged and charged, cards cleared, dials on Av, card readers out, tripods or bracing surfaces, the sink
-and the dim corner available, five shot examples ready on the projector.
+## Direct Instruction (15 min)
 
-## Bell Ringer
+Live. Slides Day 06.
 
-You are shooting a volleyball spike indoors and every frame is a blur. Name the setting you change and the
-direction you move it.
+1. **ISO.** Raises the sensor's sensitivity: brightens a dark shot, adds grain (noise). The rule for the year:
+   a grainy sharp photo goes in the book, a clean blurry one does not.
+2. **Manual mode.** You set aperture, shutter, and ISO yourself. Slower to work in, and the only mode that
+   stays consistent shot to shot.
+3. **Matching an exposure.** Take the Auto baseline from shot 1 and rebuild it in Manual. This is the point of
+   the whole assignment: anyone can turn a dial, matching a known exposure means you understand the trade.
+4. **Two composition pointers** while they have the camera up, to make the frames worth keeping: fill the
+   frame, and put the subject off center. Nothing more today.
 
-## Direct Instruction
+## Work Time (25 min): Finish the Camera Modes Shoot
 
-**Monday review, five minutes.** Put four student frames from Monday on the board with their settings. For
-each one, what did the camera do and why does the frame look like that. Fast.
+Students finish the shoot (`assignments/week-2-camera-modes.md`, shots 11 to 13 in Manual, plus anything still
+owed from Parts A and B). Anyone who has not got the panning or water shots gets the gear first.
 
-**The five shot sequence, eight minutes.** The most useful thing a beginner can learn, because it makes any
-simple action editable.
+Fast finishers: the optional Depth of Field Pair, three frames of the same subject changing only the aperture,
+and a sentence on what changed.
 
-1. Close up of the hands
-2. Close up of the face
-3. Wide of the whole scene
-4. Over the shoulder
-5. One unusual angle
-
-Show a strong example. Then say the rule for today: shoot it in Av, not Auto. You learned the mode, use it.
-
-## Work Time
-
-**Finish the Camera Modes Shoot.** Anyone who has not got the panning shot or the water shots gets the gear
-first. Both are due Friday.
-
-**Then Lab 4, Five Shot Sequence**, in `labs/week-2-labs.md`. In pairs, a simple repeated action, five to
-eight seconds per shot, camera braced. Run the whole checkout yourself this time, form to teacher confirmed
-check in.
-
-## Closure
+## Closure / Exit Ticket (5 min)
 
 Everything offloaded and checked in before the exit ticket.
+**Exit ticket:** *What ISO did you need in the dim corner, and what did it cost you in the image?*
 
-Exit ticket: which of your five shots is weakest, and what would you do differently?
+## Handouts / Slides
 
-## Handouts
+- `slides/week-2-slides.md` (Day 06)
+- `assignments/week-2-camera-modes.md` (Parts B and C)
+- `labs/week-2-labs.md` (Depth of Field Pair, optional)
 
-- `assignments/week-2-camera-modes.md`
-- `labs/week-2-labs.md`, Lab 4
+## Assignment Given / Due
 
-## Assignments
-
-- Given and due Friday: Five Shot Sequence
-- In progress: Camera Modes Shoot, due Friday
+- Due Friday: Camera Modes Shoot, 30 pts
 - In progress: Week 2 package, due Day 08
-- Reminder: Quiz 1 is tomorrow. The pretest is Friday.
+- Reminder: Quiz 1 is tomorrow, from the week 2 word list. The WebXam pretest is Friday.
 
 ## Teacher Notes
 
-- Check the Monday logs. Anyone who never got a real turn gets the camera first today, and that is a
-  scheduling fix, not a grade conversation.
-- This is also the second clean checkout cycle, which is what makes independent checkout possible in Unit 1.1.
-  Log who ran it solo.
-- Say tomorrow is the quiz and Friday is the pretest. Twice this week is not too many times.
+- Set the dials to M before class.
+- Shot 11, matching the Auto baseline in Manual, is the one that proves they understand the trade. Push on it.
+  A student who matches it can explain the whole exposure triangle whether they can say the words or not.
+- Last day for no-penalty week 1 work.
+- The five shot sequence and Premiere editing move to a later unit. This week stays on the camera.

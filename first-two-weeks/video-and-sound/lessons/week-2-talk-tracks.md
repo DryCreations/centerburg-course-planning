@@ -18,57 +18,47 @@ in every course, so this is where Video and Sound separates from Design Techniqu
 
 ---
 
-## Tuesday: Bad Audio Kills a Video, Bad Video Does Not
+> **Revised Tue Aug 25.** Audio and editing moved to a later unit. This week is the camera, learned in a photo
+> context. Tuesday is shutter, Wednesday is ISO and Manual, Thursday is a quiz plus a photo challenge.
 
-Say this one flatly. It is true and it surprises them.
+## Tuesday: Freeze It or Blur It
 
-- Play a clip with beautiful footage and terrible audio, then rough footage with clean audio. Ask which one
-  they would keep watching. It is not close.
-- Levels: too quiet is unusable and clipped is unfixable. Show the meter and say where you want to sit.
-- Distance beats every other microphone decision. Get the mic closer. Almost every audio problem a beginner
-  has is a distance problem.
-- Room tone is thirty seconds of nothing, and every editor eventually needs it. The first time they need it
-  and do not have it is the day they start recording it.
-- This is also the headphone exception day. Say out loud that headphones are permitted because we are
-  monitoring audio, and that they come off when the lab ends. Holding that boundary now avoids arguing later.
-
----
-
-## Wednesday: Taking the Camera Off Auto
-
-The biggest day of the week. Talk track for the demo:
-
-- Auto is a guess. It guesses well most of the time and badly exactly when the shot matters, which is a
-  backlit subject, a dim gym, or fast motion.
-- The three settings are a trade. Every time you gain light in one place you give something back somewhere
-  else. Aperture costs depth of field. Shutter costs motion or light. ISO costs grain.
-- Aperture priority is the mode most working shooters live in. Say that. It gives them permission to not use
-  manual for everything.
-- Manual is not more advanced, it is more consistent. Ten shots in manual match each other. Ten shots in Auto
-  do not, and that shows up in the edit as a video that flickers between shots.
-- Video adds two more decisions: frame rate and white balance. Auto white balance drifting mid shot is one of
-  those problems nobody sees until they see it once, and then they see it forever.
-
-Do not say the words "exposure triangle" and then draw a triangle. Show the three changes on screen and let
-the relationship be obvious.
+- One line to open: change one setting, you give something back on another. They felt it with aperture Monday.
+- Shutter speed is how long the sensor is open. Fast freezes and darkens; slow blurs and brightens. Demo a
+  waving hand at 1/30 and 1/500, both on screen.
+- Tv mode: you pick the shutter, the camera picks the aperture. The trade to name out loud: a fast shutter
+  lets in less light, so the ISO climbs to compensate. They watch the numbers move.
+- Panning is the hook. 1/30, turn with the subject, keep them in the same spot in the frame. It takes ten
+  tries and that is the shot that makes them feel like a photographer.
 
 ---
 
-## Thursday: The Edit Is Where You Find Out What You Did Not Shoot
+## Wednesday: ISO, Manual, and Matching an Exposure
 
-- Import, trim, order, export. Four moves. Everything else in Premiere is a variation on those.
-- Media lives in Drive and the project file only points at it. Move the media and the project breaks. This
-  will happen to somebody this week and it should happen while the stakes are a twenty second cut.
-- The cut is a decision. Where you cut and how long you hold is the actual craft, and beginners hold every
-  shot about three times too long.
-- Say plainly that everyone will run out of coverage in the edit. That is normal and it is the argument for
-  the five shot sequence. Shoot more than you need.
+- ISO raises sensitivity: brightens a dark shot, costs grain. The rule for the year: a grainy sharp photo goes
+  in the book, a clean blurry one does not.
+- Manual is not more advanced, it is more consistent. You set all three yourself.
+- The real test is shot 11: match the Auto baseline by hand. Anyone who can do that understands the whole
+  trade, whether or not they can say the words.
+- Two composition pointers while the camera is up: fill the frame, put the subject off center. Nothing more.
+- Do not say "exposure triangle" and then draw a triangle. Show the three changes and let the relationship be
+  obvious.
 
 ---
 
-## Friday: What a Screening Is For
+## Thursday: Prove It in Five Frames
 
-- First screening rule: after each piece, the room says one thing that worked. No critique yet.
+- Gallery walk first, then Quiz 1 (moved here; Friday is the pretest), then the challenge.
+- The five-frame challenge is the week in one short set: shallow depth of field, frozen motion, blurred motion,
+  a low-light frame, and a real composition. Graded on intent, not perfection.
+- Have them write the mode and settings for each frame off the file info, not from memory.
+- Say plainly that editing and video come next, once the camera is second nature. Today proves the camera.
+
+---
+
+## Friday: What a Showcase Is For
+
+- First showcase rule: after each frame, the room says one thing that worked. No critique yet.
 - Explain why. A room that learns to tear things apart in week two stops taking risks in week three. The
   critique protocol comes in Unit 1.1 and it has a format.
 - Their work gets shown all year. Getting used to being watched is part of the training.

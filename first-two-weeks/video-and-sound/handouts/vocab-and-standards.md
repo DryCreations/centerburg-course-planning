@@ -31,17 +31,17 @@ week's word list, and students should know that from Monday morning.
 
 ## Week 2 (Aug 24 to 28)
 
-This is the week the camera stops being an automatic box.
+This is the week the camera stops being an automatic box. All camera, in a photo context. Audio and editing
+come in a later unit.
 
 ### We Are Learning To
 
 | In student words | Outcome |
 |------------------|---------|
-| Explain what aperture, shutter speed, and ISO each change, and shoot in a mode where I control one of them | 7.7.4 |
-| Choose a frame rate on purpose and set shutter speed to match it | 7.7.4 |
-| Set levels on a microphone so the recording is usable, and record room tone | 7.8.4, 7.8.6 |
-| Import, trim, order, and export a short piece in Premiere | 7.7.5, 7.7.8 |
-| Name the three phases of production and say what happens in each | 7.3.1, 7.3.10 |
+| Explain what aperture, shutter speed, and ISO each change | 7.7.4 |
+| Shoot in Av, Tv, and M, controlling one or all of the settings on purpose | 7.7.4 |
+| Freeze motion or blur it on purpose by choosing a shutter speed | 7.7.4 |
+| Match a known exposure in Manual, so I understand how the three settings trade | 7.7.4 |
 
 ### Words to Know
 
@@ -52,36 +52,28 @@ This is the week the camera stops being an automatic box.
 | Shutter speed | How long the sensor is exposed, like 1/60 of a second. Slow means motion blur. Fast freezes motion. |
 | ISO | How sensitive the sensor is. Raising it brightens a dark shot and adds grain, which is called noise. |
 | Depth of field | How much of the shot is in focus front to back. Shallow means the background is soft. |
-| Frame rate | How many frames are recorded per second. 24 looks like film, 30 looks like TV, 60 is for slow motion. |
 | Aperture priority | Mode A or Av. You pick the aperture, the camera picks the shutter speed. |
 | Shutter priority | Mode S or Tv. You pick the shutter speed, the camera picks the aperture. |
 | Manual | Mode M. You set all three. Slower to work in and the only mode that stays consistent shot to shot. |
+| Panning | Turning the camera with a moving subject at a slow shutter, so the subject is sharp and the background streaks. |
 | White balance | Telling the camera what color the light is so white looks white instead of orange or blue. |
-| Levels | How loud the recording is on the meter. Too quiet is unusable, clipped is unfixable. |
-| Clipping | Audio recorded so loud that it distorts. No edit repairs it. |
-| Room tone | Thirty seconds of the room doing nothing. Editors use it to patch gaps. |
-| Pre-production | Everything decided before the camera rolls. |
-| Production | The day you shoot. |
-| Post-production | Editing, sound, titles, export. |
+| Composition | What you choose to include and where you place it. Fill the frame, put the subject off center. |
+
+Audio words (levels, clipping, room tone) and the production phases come back when we start audio and editing.
 
 ### The Exam Connection
 
-The WebXam for this course weights Production, Video, and Audio at about 16 percent each. That is roughly half
-the exam, and week 2 is the first real contact with all three.
+The WebXam for this course weights Video at about 16 percent, and the camera control you learn this week is the
+foundation for it. Audio and Production, weighted about 16 percent each, come in the units that follow.
 
 ---
 
 ## This Week's Standards, Full Text
 
-Four competencies, word for word from the Ohio CTE standards. The exam uses this language, so read them once
-even though they do not sound like the way anyone talks.
+The competency this week is built on, word for word from the Ohio CTE standards. The exam uses this language,
+so read it once even though it does not sound like the way anyone talks.
 
 **7.7.4.** Select a video recording format and shoot the video.
 
-**7.7.5.** Select a linear or nonlinear editing system and edit the video.
-
-**7.8.4.** Determine microphone and speaker placement.
-
-**7.8.6.** Set up and operate audio-for-video recording devices.
-
-The camera modes shoot is 7.7.4. The first cut is 7.7.5. The sound check is 7.8.4 and 7.8.6.
+The whole week is 7.7.4: learning to control the camera and shoot on purpose. The editing standard (7.7.5) and
+the audio standards (7.8.4, 7.8.6) come in the units that follow.

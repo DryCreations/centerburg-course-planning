@@ -9,12 +9,12 @@
 ## Objective
 
 Students complete the WebXam pretest under test conditions, record a strand by strand baseline, and submit a
-complete portfolio, goals, sound check, and camera modes shoot.
+complete portfolio, SMART goals, and Camera Modes Shoot.
 
 ## Materials
 
-WebXam login confirmed and tested on a lab machine, strand recording sheet in Classroom, screening setup ready
-for the closing playback, seating spread out.
+WebXam login confirmed and tested on a lab machine, strand recording sheet in Classroom, projector ready for
+the closing photo showcase, seating spread out.
 
 ## Bell Ringer
 
@@ -32,15 +32,14 @@ Rest of the period until students finish. Finishers record strand scores, then m
 
 - [ ] Portfolio site published, URL submitted, About page has the square and two shots
 - [ ] Three SMART goals submitted and posted
-- [ ] Sound check files submitted, named correctly
 - [ ] Camera Modes Shoot: thirteen frames and the settings table
-- [ ] Five shot sequence submitted
 - [ ] All gear checked in, cards cleared, batteries charging
 
 ## Closure
 
-**Screening**, if there is time. Play four or five pieces. The rule for the first screening of the year is
-that the room says one thing that worked after each one. Critique protocol starts in Unit 1.1.
+**Photo showcase**, if there is time. Put a dozen frames from the week on the screen. The rule for the first
+showcase of the year is that the room says one thing that worked after each one. Critique protocol starts in
+Unit 1.1.
 
 Exit ticket: your two lowest strands, and one sentence on which one you want to attack first.
 
@@ -51,12 +50,13 @@ Exit ticket: your two lowest strands, and one sentence on which one you want to 
 
 ## Assignments
 
-- **Due:** Week 2 package, Camera Modes Shoot, Five Shot Sequence
-- Preview Monday: Unit 1.1, Media Industry and Careers
+- **Due:** Week 2 package (portfolio + SMART goals), Camera Modes Shoot
+- Preview Monday: Unit 1.1, then audio and editing once the camera is second nature
 
 ## Teacher Notes
 
 - Every student should now have 8 Readiness scores, three or four Labs, one Project, and one Assessment.
 - Update the independent checkout list based on two weeks of returns.
 - Note whose files still live on desktops or cards. Fix that habit now, it gets expensive in Q2.
-- If the login did not come through, run the First Cut lab instead and get the pretest scheduled in Unit 1.1.
+- If the login did not come through, run the optional Depth of Field Pair lab or extend the photo showcase, and
+  get the pretest scheduled in Unit 1.1.

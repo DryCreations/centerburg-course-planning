@@ -1,8 +1,8 @@
 # Video and Sound: Week 2 Slides
 
-Copy-paste ready. Each `---` is a new slide. Keep the screen sparse, say the rest out loud. Order matches the
-direct-instruction days (04 to 06). Day 07 is the gallery walk and catch-up; Day 08 is Quiz 1 plus the WebXam
-pretest. Neither needs a deck.
+Copy-paste ready. Each `---` is a new slide. Keep the screen sparse, say the rest out loud. **This week is the
+camera, in a photo context** (audio and editing come later), so the days are: Mon intro, Tue shutter, Wed ISO
+and Manual, Thu quiz plus a photo challenge, Fri pretest.
 
 Where a slide says **demo**, do it live with the camera tethered or on the document camera. The slide sets it
 up; the demo teaches.
@@ -48,74 +48,95 @@ up; the demo teaches.
 
 ---
 
-# DAY 05 — Sound
+# DAY 05 — Shutter Speed and Motion
 
 ---
 
-## Bad audio you cannot fix
+## Shutter speed: how long the sensor is open
 
-- Too quiet → unusable
-- Clipped (too loud) → unfixable
-- Aim for the middle, peaks below the top
-- (today headphones are allowed and required, for monitoring only)
-
----
-
-## demo: hear the difference
-
-- Same line at 6 inches, 2 feet, across the room
-- 30 seconds of "nothing" = room tone. The editor needs it.
+- **Fast** (1/500, 1/1000): freezes motion, darker
+- **Slow** (1/30, 1/15): blurs motion, brighter
+- **demo:** wave a hand at 1/30, then 1/500. Both on screen.
 
 ---
 
-## SMART goals
+## Tv mode
 
-- One strong example, one weak, side by side
-- Specific, Measurable, Achievable, Relevant, Time-bound
-- Three for this course
-
----
-
-## Your turn — sound check
-
-- Record the same line at three mic distances
-- 30 seconds of room tone
-- One deliberately clipped take, so you hear it
-- Then: three SMART goals on your About page
+- You pick the shutter speed
+- The camera picks the aperture to keep it exposed
+- Fast shutter = less light in, so the camera opens up or raises ISO. Watch the numbers.
 
 ---
 
-# DAY 06 — The Five-Shot Sequence
+## Panning (the fun one)
+
+- Slow shutter, ~1/30
+- Turn **with** the subject, keep them in the same spot in the frame
+- Sharp subject, streaked background
+- Expect ten tries. Throwaways do not count.
 
 ---
 
-## Monday review (fast)
+## Your turn — modes shoot, Part B
 
-- Four of your frames on the board with their settings
-- For each: what did the camera do, and why does it look like that?
-
----
-
-## The five shots that make an action editable
-
-1. Close up of the hands
-2. Close up of the face
-3. Wide of the whole scene
-4. Over the shoulder
-5. One unusual angle
+- Water frozen (fast) and streaked (slow)
+- A walk-by frozen (fast) and panned (slow)
+- Your own choice of motion
 
 ---
 
-## The rule for today
-
-- Shoot it in **Av**, not Auto
-- You learned the mode. Use it.
-- Camera braced, 5 to 8 seconds a shot
+# DAY 06 — ISO and Manual
 
 ---
 
-## Your turn
+## ISO: the sensor's sensitivity
 
-- Finish the Camera Modes Shoot (panning and water shots first if you owe them)
-- Then Lab 4: the five-shot sequence, in pairs
-- Run the whole checkout yourself this time
+- Raises brightness in low light
+- Costs grain (noise)
+- Rule for the year: a **grainy sharp** photo goes in the book; a **clean blurry** one does not
+
+---
+
+## Manual mode
+
+- You set all three: aperture, shutter, ISO
+- Slower, but consistent shot to shot
+- **The real test:** match your Auto baseline from shot 1, by hand
+
+---
+
+## A little composition
+
+- Fill the frame
+- Put the subject off center
+- Two moves, that is all today
+
+---
+
+## Your turn — finish the shoot
+
+- Manual frames (shots 11-13), including matching the baseline
+- Anything still owed from Parts A and B
+- Fast finishers: the Depth of Field pair
+
+---
+
+# DAY 07 — Five-Frame Photo Challenge
+
+---
+
+## Show what you learned, five frames
+
+1. Shallow depth of field portrait (low f number)
+2. Frozen motion (fast shutter)
+3. Blurred or panned motion (slow shutter)
+4. A low-light frame, ISO set on purpose
+5. Your best composition (fill the frame / off center)
+
+---
+
+## For each frame
+
+- Write the mode and the settings you used
+- One sentence: why you chose them
+- Graded on **intent**, not on being perfect

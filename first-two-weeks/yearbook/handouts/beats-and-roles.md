@@ -65,9 +65,10 @@ appreciated job on staff, because until it is done nobody's copy of last year ex
 ## How Roles Get Assigned
 
 1. **Day 04:** we build the beat list together.
-2. **Day 05:** you submit a short interest form, your top two beats, any role you want, and why.
-3. **Day 06-07:** I assign. I try to give people their first choice; some gaps have to be filled anyway.
-4. **Quarter check:** roles can change at semester if something is not working. Beats stay all year.
+2. **Day 05:** we draft the page ladder, so you can see the sections a beat actually covers.
+3. **Day 06:** you submit a short interest form, your top three beats, any role you want, and why.
+4. **Day 07-08:** I assign. I try to give people their first choice; some gaps have to be filled anyway.
+5. **Quarter check:** roles can change at semester if something is not working. Beats stay all year.
 
 ## What Makes Someone Good at This
 

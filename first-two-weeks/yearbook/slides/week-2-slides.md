@@ -75,22 +75,32 @@ the slide.
 
 ---
 
-## Your turn
+## Your turn — the whole period
 
 - Help build the ladder on the shared sheet
-- Fill in your beat and role preferences: top three beats, any role, what coverage you can get to
+- Every spread gets a section; count against 48
+- (beat and role preferences are tomorrow)
 
 ---
 
-# DAY 06 — Theme and Camera Modes
+# DAY 06 — Beats, Points, and Cameras
 
 ---
 
-## A theme is not a slogan
+## Coverage is scheduled, not whoever feels like it
 
-- It is a decision about what the book **says**
-- Carried through the cover, dividers, type, color, captions
-- The test: it has to survive being used 200 times
+- A page fails one way: nobody was there with a camera
+- Points reward covering your beat and filling gaps
+- Covered = 20 usable frames, names verified, within 48 hours
+- In-school coverage counts. Nobody is stuck.
+
+---
+
+## Your turn — pick where you fit
+
+- Beat & role preference form: top three beats, any role, what coverage you can get to
+- Rank from the ladder sections we just built
+- This is what I assign from. Not a formality.
 
 ---
 
@@ -103,11 +113,11 @@ the slide.
 
 ---
 
-## Your turn — two stations
+## Your turn — camera lab
 
-- **Theme brainstorm:** five ideas in five minutes, pick two, say how each shows up on the cover and in a
-  caption
-- **Camera lab:** nine frames, Av and Tv and ISO, including a panning shot
+- Nine frames: Av, Tv, and ISO, including a panning shot
+- Rotation so everyone gets a camera; finish the preference form while you wait
+- (theme brainstorming comes later, with Unit 2)
 
 ---
 

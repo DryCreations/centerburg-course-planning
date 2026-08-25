@@ -1,7 +1,10 @@
-# Week 2: Portfolio, Goals & Sound Check
+# Week 2: Portfolio & Goals
 
 **Course:** Video and Sound, **Assigned:** Mon Aug 24 (Day 04), **Due:** Fri Aug 28 (Day 08)
-**Category:** Projects, **Points:** 60, **Late:** accepted. Ask me to reopen it if submissions have closed.
+**Category:** Projects, **Points:** 40, **Late:** accepted. Ask me to reopen it if submissions have closed.
+
+> The Sound Check moved out of this week. This week is the camera, in a photo context. Audio comes back in a
+> later unit.
 
 ---
 
@@ -22,23 +25,7 @@ Test the link in a private browser window before you submit. A site nobody can o
 
 ---
 
-## Part B: Sound Check (20 pts), Day 05
-
-Recorded with a partner; each person submits their own files.
-
-**Requirements**
-
-| # | Requirement |
-|---|-------------|
-| 1 | The same sentence recorded at **three mic distances** (about 6 in, 2 ft, across the room) |
-| 2 | **30 seconds of room tone** |
-| 3 | One clipped take, so you know what it sounds like |
-| 4 | Files named `lastname-soundcheck-6in.wav`, `-2ft.wav`, `-far.wav`, `-roomtone.wav`, `-clipped.wav` |
-| 5 | Two sentences: which distance sounded best and why |
-
----
-
-## Part C: Three SMART Goals (20 pts), Day 05
+## Part B: Three SMART Goals (20 pts), Day 06
 
 Write three goals for this course. SMART means **S**pecific, **M**easurable, **A**chievable, **R**elevant,
 **T**ime-bound.
@@ -62,19 +49,18 @@ We revisit these at the end of each quarter, so write goals you would actually w
 
 ---
 
-## Labs Running Alongside This
+## Camera Work Running Alongside This
 
-These are graded separately in the Labs category, 20 points each. They are listed here so the week is in one
-place. Full instructions are in `../labs/week-2-labs.md`.
+Graded separately in the Labs category. Listed here so the week is in one place.
 
 | Lab | Day | What it is |
 |-----|-----|-----------|
-| Shooting Modes | Day 06 | Thirteen frames and a settings table, taking the camera off Auto |
-| Depth of Field Pair | Day 06 | Three frames, same subject, one change |
-| Five Shot Sequence | Day 06 or 07 | Five shots of a simple action, shot in aperture priority |
-| First Cut | Day 07 | Twenty to thirty seconds cut and exported in Premiere |
+| Camera Modes Shoot | Days 04-06 | Thirteen frames and a settings table, taking the camera off Auto. `week-2-camera-modes.md` |
+| Depth of Field Pair | Day 06 | Three frames, same subject, one change. Optional. |
+| Five-frame photo challenge | Day 07 | Five deliberate frames using everything from the week |
 
-The Sound Check is Part B above, so it is graded there and not twice.
+Deferred to a later unit: the Sound Check (audio), the Five Shot Sequence (video), and the First Cut (Premiere
+editing).
 
 ---
 
@@ -82,9 +68,8 @@ The Sound Check is Part B above, so it is graded there and not twice.
 
 - [ ] Site published + URL submitted
 - [ ] About Me Square and two Day 03 shots on the About page
-- [ ] Five sound check files, named correctly
-- [ ] Two-sentence sound reflection
 - [ ] Three SMART goals posted and submitted
+- [ ] Camera Modes Shoot submitted (graded separately)
 - [ ] Gear checked in, cards cleared, batteries charging
 
 ## Grading

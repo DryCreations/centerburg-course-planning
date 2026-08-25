@@ -1,6 +1,6 @@
-# Quiz 1: Camera Modes, Audio, and Procedure
+# Quiz 1: Camera Controls and Procedure
 
-**Course:** Video and Sound, **Day 08, Fri Aug 28**, **Category:** Assessments, **Points:** 20
+**Course:** Video and Sound, **Day 07, Thu Aug 27**, **Category:** Assessments, **Points:** 20
 
 Ten multiple choice at 1.5 points each, two short answer at 2.5 points each. Everything comes from the week 1
 and week 2 word lists posted on the wall.
@@ -46,33 +46,33 @@ B. Color accuracy only
 C. Grain, also called noise
 D. Nothing, ISO is free
 
-**6.** A recording is so loud that it distorts. This is called:
+**6.** Which mode lets you set the aperture, the shutter speed, and the ISO all yourself?
 
-A. Room tone
-B. Clipping
-C. Levels
-D. Monitoring
+A. Auto
+B. Av
+C. Tv
+D. Manual
 
-**7.** What is room tone and why do you record it?
+**7.** You raise the shutter speed to freeze fast motion. All else equal, the image gets:
 
-A. Background music, to fill silence
-B. Thirty seconds of the room doing nothing, so the editor can patch gaps
-C. A test of the microphone, to check it works
-D. The narration track
+A. Brighter
+B. Darker
+C. More colorful
+D. Sharper in the background
 
-**8.** The single most effective way to improve a bad recording is to:
+**8.** You want as much of the scene as possible in focus, front to back. You should use:
 
-A. Turn the gain all the way up
-B. Move the microphone closer to the source
-C. Record in stereo
-D. Use a different file format
+A. A low f number like f/2.8
+B. A high f number like f/16
+C. A slow shutter speed
+D. A high ISO
 
-**9.** Which of these happens during pre-production?
+**9.** Panning means:
 
-A. Trimming clips on the timeline
-B. Recording the interview
-C. Writing the shot list
-D. Exporting the final file
+A. Zooming in slowly while you shoot
+B. Turning the camera with a moving subject at a slow shutter, so the subject is sharp and the background streaks
+C. Holding the camera perfectly still for a long exposure
+D. Switching to Auto for a moving subject
 
 **10.** Before a camera case goes back in the cabinet, which of these must be true?
 
@@ -95,7 +95,7 @@ speed, and ISO in your answer.
 
 ## Answer Key
 
-1: B, 2: A, 3: B, 4: B, 5: C, 6: B, 7: B, 8: B, 9: C, 10: A
+1: B, 2: A, 3: B, 4: B, 5: C, 6: D, 7: B, 8: B, 9: B, 10: A
 
 **11.** Tv mode is the strongest answer, with shutter speed at 1/500 or faster and ISO watched because the gym
 is dark. Av with a low f number is acceptable if the reasoning is sound. The reasoning is what is being

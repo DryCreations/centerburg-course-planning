@@ -2,12 +2,12 @@
 
 **Aug 24 to 28**
 
+This week is all about the camera. We learn what the settings do by shooting photos. Audio and editing come
+later.
+
 ## Standards
 
-- 7.7.4 Select a video recording format and shoot the video
-- 7.7.5 Select a linear or nonlinear editing system and edit the video
-- 7.8.4 Determine microphone and speaker placement
-- 7.8.6 Set up and operate audio-for-video recording devices
+- 7.7.4 Select a recording format and shoot, controlling aperture, shutter, and ISO
 
 ## Monday
 
@@ -17,29 +17,27 @@
 
 ## Tuesday
 
-- Microphone levels, mic distance, room tone
-- Headphones allowed today, because we are monitoring audio
-- Turn in: Sound Check
+- Shutter speed and motion. Freeze it or blur it. Panning.
+- Turn in: the motion frames of the Camera Modes Shoot
 
 ## Wednesday
 
-- Finish the Camera Modes Shoot
-- Five shot sequence, shot in Av
-- Turn in: five shot sequence
+- ISO and Manual mode. Match a known exposure. Finish the shoot.
+- Turn in: the Manual frames
 
 ## Thursday
 
 - Gallery walk, printed squares
-- Premiere: import, trim, order, export
 - **Quiz 1**, from the vocabulary list
+- A five-frame photo challenge using everything you learned
 
 ## Friday
 
 - **WebXam pretest.** It does not count for a grade
-- Final submission window, then a screening
+- Final submission window, then a photo showcase
 
 ## Due Friday
 
 - Camera Modes Shoot, all thirteen frames and the settings table
-- Week 2 package: portfolio, sound check, SMART goals
+- Week 2 package: portfolio and three SMART goals
 - Any week 1 work is accepted through Wednesday with no penalty
