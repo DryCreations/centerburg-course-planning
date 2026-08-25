@@ -52,4 +52,5 @@ Camera modes moved up to Monday.
 - Quiz: `assessments/quiz-1.md`
 - Pretest: `../_shared/webxam-pretest.md`
 - Camera signup: `../_shared/camera-signup-sheet.md`
+- Slides (copy-paste into a deck): `slides/week-2-slides.md`
 - For me: `lessons/week-2-talk-tracks.md`

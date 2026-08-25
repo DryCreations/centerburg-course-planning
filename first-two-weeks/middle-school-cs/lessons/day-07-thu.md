@@ -1,70 +1,67 @@
 # Day 07 - Thu, Aug 27 (Week 2)
 
-**Course:** Middle School CS, **Unit:** Algorithms & Robotics
-**Strands:** Algorithmic Thinking & Programming, Computing Systems
+**Course:** Middle School CS, **Unit:** MakeCode Arcade, Build a Game
+**Strands:** Algorithmic Thinking and Programming
+
+> **Winning, losing, and debugging.** The game already moves and scores. Today it gets a way to end: a
+> conditional, lives, and game over. And everyone keeps a debug log, because this is where bugs show up.
 
 ## Objective
 
-Students can program a Sphero to complete a course they planned in advance, and can document the bugs they
-found and the fixes they made.
+Students can use a conditional to win or end the game, add lives so the player can lose, and document one bug
+they fixed by changing a single thing.
 
-> **Station day again, two Spheros.** Every team gets a real run today; teams that did not run on Day 03 go
-> first. Everyone else is on Arcade, which is not filler, it is the same debugging skill on a screen.
+## Materials
 
-## Materials & Setup
-
-Both Spheros charged, taped floor course (change it from Day 03 so nobody reuses a solution), Sphero Edu app
-tested, debug logs printed, Arcade open on the machines.
+Arcade open, projector, Day 07 slides (`slides/week-2-slides.md`), the demo game from Day 06 to break on
+purpose.
 
 ## Bell Ringer (5 min)
 
-*Your robot goes too far every time. Name two different things that could be causing it.*
+**Bell Ringer 4** (lives and a conditional, walk through what happens). From `handouts/bell-ringers-week-2.md`.
+Go over out loud, and name the shape: *if this is true, do that.*
 
 ## Direct Instruction (12 min)
 
-1. **Plan, run, fix**: the loop that runs the rest of the year. Say the rule again: **write it before you run it.**
-2. Demo block programming for the Sphero on the projector: roll (heading, speed, duration), delay, repeat.
-3. **Model debugging out loud** on a deliberately broken program: *it overshoots, so either the speed is too
-   high or the duration is too long, change one, not both.*
-4. **Change one thing at a time.** The single most important habit of the day, and it applies at the Sphero
-   station and in Arcade equally.
+Slides Day 07, live.
 
-## Work Time (25 min): Rotation
+1. **A conditional decides.** `if score >= 10: you win`. `if lives <= 0: game over`. A loop repeats; a
+   conditional decides. Different jobs, and students mix them up for weeks.
+2. **A way to lose:** start lives at 3, lose one on a miss or a bad hit, game over at 0.
+3. **The most common bug:** score change inside a forever loop counts forever. It belongs in the overlap
+   event. Break it live, ask what is happening, then fix it.
+4. **Change one thing at a time.** Write what it does, change one thing, run, write what changed. Model it out
+   loud on the broken demo.
 
-**Sphero station (one team at a time per robot, ~8 minutes each):**
+## Work Time (25 min): Part C
 
-1. Hand me your written program before you touch the robot.
-2. Run it. Log what happened.
-3. Change **one** thing. Run again. Log it.
-4. Keep going until you complete the course or your time is up: an incomplete run with a good log scores
-   better than a lucky run with no log.
+Students add to their game:
 
-**At the desks (everyone else):**
-
-- Continue the Arcade program from Day 05, applying the same discipline: predict, change one thing, test, log.
-- Keep a debug log for Arcade too: same form, same requirements. Bugs are bugs.
+- Lives (start at 3) or a timer, so the player can lose
+- A conditional that wins or ends the game
+- A short debug log: one bug, what they thought was wrong, the one thing they changed, what happened
+- The game plays start to finish, winnable and losable
 
 ## Closure / Exit Ticket (5 min)
 
-Spheros back and charging first.
-**Exit ticket:** *What is the difference between the program you wrote on paper and the one that finally
-worked?* (Arcade students: the version you started with vs. the version you have now.)
+**Exit ticket:** *What is one bug you hit today, and the one thing you changed to fix it?*
 
-## Handouts Used
+## Handouts / Slides
 
-- Debug log (print + Classroom)
-- `assignments/week-2-assignment.md` (Part D)
+- `handouts/bell-ringers-week-2.md` (Bell Ringer 4)
+- `slides/week-2-slides.md` (Day 07)
+- `assignments/week-2-assignment.md` (Part C)
 
 ## Assignment Given / Due
 
-- Due tomorrow: Week 2 package
-- Reminder: first checkpoint tomorrow
+- Due tomorrow: Build a Real Arcade Game
+- Reminder: Checkpoint 1 tomorrow, from the word list
 
 ## Teacher Notes
 
-- The debug log is the actual assessment. A team that never fails is either lucky or not documenting.
-- Enforce the paper plan at the station. It is the only thing that makes two robots work for a full class,
-  and the habit transfers to VEX in Q2, when kits will also be limited.
-- Watch for one partner dominating the controls; enforce the swap.
-- **Part D of the Week 2 assignment accepts either** the Sphero log or the Arcade debug log, so nobody is
-  penalized by the rotation.
+- Minimal setup: Bell Ringer 4 on the board, Day 07 slides, the demo game ready to break.
+- The debug log is the real assessment here, not a working game. A student with a messy game and an honest log
+  understands more than one with a clean game they cannot explain.
+- Fast finishers: a second level, a high-score display, or a start screen. Keep it inside the same skills.
+- Watch for the student who says "it just works now" with no idea why. That is a redo conversation, framed as a
+  redo, not an accusation.

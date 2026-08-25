@@ -48,4 +48,5 @@ the gallery walk moved to Day 07.
 - Labs: `labs/week-2-labs.md`
 - Quiz: `assessments/quiz-1.md`
 - Pretest: `../_shared/webxam-pretest.md`
+- Slides (copy-paste into a deck): `slides/week-2-slides.md`
 - For me: `lessons/week-2-talk-tracks.md`

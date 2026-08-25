@@ -52,4 +52,5 @@ By Friday every person knows their beat, their role, one event they are covering
 - Labs: `labs/week-2-labs.md`
 - Camera signup: `../_shared/camera-signup-sheet.md`
 - Beats and coverage: `handouts/beats-and-roles.md`, `handouts/coverage-points.md`
+- Slides (copy-paste into a deck): `slides/week-2-slides.md`
 - For me: `lessons/week-2-talk-tracks.md`

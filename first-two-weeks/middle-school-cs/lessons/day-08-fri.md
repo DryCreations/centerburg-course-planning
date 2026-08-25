@@ -1,57 +1,61 @@
 # Day 08 - Fri, Aug 28 (Week 2)
 
-**Course:** Middle School CS, **Unit:** Orientation wrap-up
-**Strands:** all five touched in two weeks
+**Course:** Middle School CS, **Unit:** MakeCode Arcade, Build a Game
+**Strands:** Algorithmic Thinking and Programming, plus the two-week vocabulary
 
 ## Objective
 
-Students demonstrate the vocabulary and concepts from the first two weeks on the first checkpoint, and submit
-a complete Week 2 package.
+Students demonstrate the week's concepts on Checkpoint 1, finish and submit their Arcade game with
+explanations, and see each other's games.
 
 ## Materials & Setup
 
-Checkpoint in Classroom, paste ready in `assessments/checkpoint-1.md`. Spheros available for the closing activity.
+Checkpoint in Classroom, paste ready in `assessments/checkpoint-1.md`. Arcade open for finishing and the
+showcase. Day 08 slides (`slides/week-2-slides.md`).
 
 ## Bell Ringer (5 min)
 
-Partner drill: quiz each other on five vocabulary terms, then close notes.
+**Bell Ringer 5** (the forever-loop bug). From `handouts/bell-ringers-week-2.md`. A good last warm-up because
+it is the exact bug most of them fixed this week. Go over out loud.
 
-## Checkpoint (15 min)
+## Checkpoint 1 (15 min)
 
-**Checkpoint 1.** Ten questions, mostly recall with two "explain it" questions. Tell them the format now,
-it repeats most Fridays and it should never feel like an ambush.
+**Checkpoint 1.** Ten questions, mostly recall with two "explain it" questions, all from the word list on the
+wall. Tell them the format now, it repeats most Fridays and should never feel like an ambush. You can redo it.
 
-## Work Time (15 min)
+## Work Time (15 min): Finish and submit
 
-Final submission window for the Week 2 package. Self-check:
+Final submission window for the game. Self-check:
 
-- [ ] Parts and Jobs lab
-- [ ] Arcade program with score and win condition, with explanations
-- [ ] Digital citizenship reflection
-- [ ] Debug log (Sphero or Arcade)
+- [ ] Player I control and a sprite that moves with velocity
+- [ ] Score variable that changes on overlap
+- [ ] Lives or a timer, so I can lose
+- [ ] A conditional that wins or ends the game
+- [ ] A debug log with a real bug in it
+- [ ] Explanations of my variable and my conditional
+- [ ] Project link submitted on Classroom
 
-## Closure (12 min): Fewest Blocks Challenge
+## Closure (10 min): Showcase
 
-Two Spheros, so run it as a bracket: teams submit their program on paper, the two shortest programs run first,
-and the winner is the team that completes the course in the **fewest blocks**, not the fastest time.
-**Efficiency is the concept being smuggled in here**, and it comes back all year.
+Everyone plays three games that are not their own. For each: name one thing that worked and one idea they would
+steal. Collect the best ideas out loud, they become starting points for next week.
 
-Teams waiting their turn do the same challenge in Arcade: same behavior, fewest blocks.
+**Exit ticket:** *One thing from your game you want to build on next.*
 
-**Exit ticket:** *One thing from these two weeks you want to do more of.*
+## Handouts / Slides
 
-## Handouts Used
-
-- Checkpoint (Classroom)
+- `assessments/checkpoint-1.md`
+- `slides/week-2-slides.md` (Day 08)
 
 ## Assignment Given / Due
 
-- **Due:** Week 2, Systems & Sequence package
-- Preview Monday: how computers actually store information, and the first VEX IQ build
+- **Due:** Build a Real Arcade Game
+- Preview Monday: adding levels and a title screen, then where we go next
 
 ## Teacher Notes
 
-- Every student should have 8 Readiness scores, 3 Labs, one project-level submission, and one Checkpoint.
-- The "one thing you want more of" answers help sequence Q1: this map is deliberately flexible.
-- Check that every Arcade submission has explanations. Anyone who cannot explain theirs gets a redo, framed
-  as a redo and not an accusation.
+- Minimal setup: Checkpoint posted as a Google Form (delete the answer key first), Bell Ringer 5 on the board.
+- Check that every submission has explanations. Anyone who cannot explain theirs gets a redo, framed as a redo.
+- The showcase is the assessment that matters most to them. Keep it positive and specific: "one thing that
+  worked, one idea to steal" keeps it from turning into ranking.
+- The "what you want to build on" answers help sequence next week; this map is deliberately flexible.

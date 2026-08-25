@@ -35,6 +35,11 @@ Standards detail: `courses/middle-school-cs/standards.md`.
 
 ---
 
+> **Note (Tue Aug 25):** in practice Q1 is running **Arcade-first**. The class took to MakeCode Arcade in
+> week 1, so the game programming (below at weeks 7-9) is being taught now, in weeks 1-2, and the hardware,
+> digital-citizenship, and Sphero units slide later in the quarter. The quarter still covers the same ground;
+> only the order changed. This draft table is left as written pending a fuller revision.
+
 ## Quarter 1: Foundations (weeks 1-9)
 
 | Weeks | Unit | Strands | Physical / tool |

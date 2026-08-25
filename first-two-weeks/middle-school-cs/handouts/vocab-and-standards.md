@@ -32,45 +32,41 @@ the week's word list, and you should know that from Monday morning.
 
 ### We Are Learning To
 
-- Name the parts inside a computer and say what each one does.
-- Explain the difference between memory and storage, and why unsaved work disappears.
-- Use a variable to keep score and a conditional to end the game.
+- Use **velocity** and events to make a player and other sprites move.
+- Use a **variable** to keep score, and change it when sprites overlap.
+- Use a **conditional** to win or end the game, and add lives so you can lose.
 - Change one thing at a time when something is broken, and write down what happened.
-- Describe what a digital footprint is and what is actually private online.
+- Read a short piece of code and predict what it does.
 
 ### Words to Know
 
 | Word | What it means |
 |------|---------------|
-| CPU | The part that does the thinking. |
-| RAM, memory | Your desk. Big enough to work on, wiped clean when the power goes off. |
-| Storage | The filing cabinet. Slower than memory, but it is still there tomorrow. |
-| GPU | The part that draws things on the screen. |
-| Motherboard | The board that connects everything to everything. |
+| Sprite | A thing in your game that moves or gets touched. |
+| Position | Where a sprite is right now: its x and y. |
+| Velocity | How fast a sprite moves and which way: vx and vy. Set it once and it keeps moving. |
 | Variable | A named box that holds a value. Score lives in a variable. |
+| Overlap (event) | When two sprites touch. A common place to change the score. |
 | Conditional | Code that decides. If this is true, do that. |
 | Loop vs conditional | A loop repeats. A conditional decides. They get mixed up constantly. |
-| Troubleshooting | Working through a problem in order instead of poking at it randomly. |
-| Digital footprint | Everything you post, and everything posted about you. It does not expire. |
+| Game over | The game ends, usually from a conditional like lives reaching 0. |
+| Bug | Something in your program that does not do what you meant. |
+| Debug | Finding the bug and fixing it, by changing one thing at a time. |
 
 ---
 
 ## This Week's Standards, Full Text
 
-Four topic statements from Ohio's Learning Standards for Computer Science, grades 6 to 8. Written in the plain
-language version, because the official numbered statements still need to be copied from the state document.
-
-**Computing Systems, Devices.** Identify and describe the components of a computing system and how they
-interact.
-
-**Computing Systems, Troubleshooting.** Apply a systematic troubleshooting process to identify and fix
-problems.
+Topic statements from Ohio's Learning Standards for Computer Science, grades 6 to 8, plain-language version.
+The official numbered statements still need to be copied from the state document.
 
 **Algorithmic Thinking and Programming, Variables and Data Representation.** Create and use variables, and
 understand data types at a basic level.
 
-**Impacts of Computing, Safety, Law and Ethics.** Explain digital footprint, privacy, intellectual property,
-and responsible use.
+**Algorithmic Thinking and Programming, Control.** Use events, loops, and conditionals to control a program.
 
-Monday is Devices. Tuesday is Variables. Wednesday is Safety, Law and Ethics. Thursday is Troubleshooting.
-Friday you get asked about all four.
+**Algorithmic Thinking and Programming, Program Development.** Test and refine a program, and find and fix
+errors.
+
+Tuesday is velocity and events. Wednesday is variables. Thursday is conditionals and control. Friday you get
+asked about all of it.

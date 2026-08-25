@@ -21,22 +21,24 @@ with no penalty through Wednesday.
 
 ## Week 2, Aug 24 to 28
 
+**Revised Tue Aug 25.** The class stayed in MakeCode Arcade (variables, sprites, events, position, velocity),
+so week 2 is now **one Arcade game built a piece a day**, deeper than last week's moving card. The hardware,
+digital-citizenship, and Sphero material moves to later units (see `year-map-draft.md` and `../DECISIONS.md`).
+Every class opens with a **code-reading bell ringer**, `handouts/bell-ringers-week-2.md`.
+
 | Day | Topic | Turn in today | Also due |
 |-----|-------|---------------|----------|
-| 04 Mon | Vocabulary, what is inside a computer, spec hunt, Arcade tinker time | Spec Hunt, 10 pts, and Parts and Jobs Part A | Week 2 assigned |
-| 05 Tue | Variables and conditionals in Arcade | Exact Instructions, 10 pts | Part A |
-| 06 Wed | Digital citizenship, mostly off the screen | Part C reflection | |
-| 07 Thu | Sphero station day, plan run fix, change one thing | Debug Log, Part D | Part B Arcade program |
-| 08 Fri | **Checkpoint 1**, submission window, fewest blocks challenge | | **Week 2 package due** |
+| 04 Mon | (taught) MakeCode Arcade basics: variables, sprites, events, position, velocity | week 1 program | Week 2 assigned Tue |
+| 05 Tue | Velocity: a player you control and a sprite that moves on its own | Game Part A | — |
+| 06 Wed | Score and collisions: a variable and the overlap event | Game Part B | — |
+| 07 Thu | Winning, losing, debugging: conditionals, lives, game over, debug log | Game Part C | — |
+| 08 Fri | **Checkpoint 1**, submission window, game showcase | Game Part D | **Game project due** |
 
 ### What Is Graded This Week
 
 | Item | Category | Points |
 |------|----------|-------:|
-| Week 2 package, Parts A to D | Projects and Labs | 50 |
-| Spec Hunt | Labs and Activities | 10 |
-| Exact Instructions | Labs and Activities | 10 |
-| How Big Is a File, optional | Labs and Activities | 10 |
+| Build a Real Arcade Game, Parts A to D | Projects and Labs | 50 |
 | Checkpoint 1 | Checkpoints | 20 |
 | Bell ringers and exit tickets | Readiness | 20 |
 
@@ -47,6 +49,9 @@ Any project in this course can be redone. Say it out loud again this week.
 - Student week summary: `handouts/week-at-a-glance.md`
 - Wall poster: `handouts/vocab-and-standards.md`
 - Assignment: `assignments/week-2-assignment.md`
-- Labs: `labs/week-2-labs.md`
+- Daily bell ringers: `handouts/bell-ringers-week-2.md`
+- Slides (copy-paste): `slides/week-2-slides.md`
 - Checkpoint: `assessments/checkpoint-1.md`
 - For me: `lessons/week-2-talk-tracks.md`
+- Deferred to later units: `labs/week-2-labs.md` (hardware, files) and the digital-citizenship + Sphero
+  material. Kept as-is for when those units run.
