@@ -2,81 +2,90 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
+> **Pretest day, moved up from Friday so Friday can be the flight.** Proctor script, prep checklist, and the
+> fallback if the login is not ready are in `../_shared/webxam-pretest.md`. The period ends with the final
+> flight briefing so everyone walks in Friday knowing the plan.
+
 ## Objective
 
-Students can execute a written preflight inspection checklist against a real aircraft on the ground and
-document the results.
-
-## Standards / Outcomes
-
-- 7.11: preflight preparation
-- 2.1: facility and operational safety
+Students complete the WebXam pretest under test conditions, record a strand-by-strand baseline, submit the
+Week 2 Ground School Package, and know exactly how Friday's flight runs.
 
 ## Materials & Setup
 
-Aircraft staged on tables (unpowered, props removed or clearly secured), printed preflight checklist per pair,
-inspection log in Classroom. Pretest makeup station if Plan A ran Day 06.
+WebXam login confirmed and tested on a lab machine (checked Wednesday), strand recording sheet in Classroom,
+the printed About Me squares on the wall, the Friday flight plan on the board (location, aircraft, pilot order,
+weather-abort plan).
 
 ## Gallery Walk (first 10 minutes)
 
-Moved here from Day 04, because the squares were not printed yet. Run it first, before anything else.
+Moved here from Day 04, because the squares were not printed yet. Run it first, before the pretest settles the
+room.
 
 1. Everyone walks the room and looks at the printed squares. No talking for the first few minutes.
-2. Then a fast round: each person names one thing they saw in someone else's square that they want to try.
-3. I name three things I saw across the whole set: what worked, what repeated, and one habit to break.
+2. A fast round: each person names one thing they saw in someone else's square that they want to try.
+3. I name three things across the whole set: what worked, what repeated, one habit to break.
 
-Print reads differently than screen. Point out anything that looked fine on a monitor and does not hold up on
-paper, especially thin type and low contrast color.
+The squares stay on the wall. They set the tone for the room.
 
-The squares stay on the wall. They are the first thing up in this room and they set the tone.
+## Bell Ringer (built into the pretest intro)
 
-## Bell Ringer (5 min)
+*What is the point of a diagnostic?* This is not graded, and neither is the pretest.
 
-*Why does a professional pilot read a checklist out loud on their thousandth flight?*
+## Pretest Instruction (5 min)
 
-## Quiz 1
+Read the proctor script from `../_shared/webxam-pretest.md`. Add the course-specific line: the WebXam covers 15
+outcomes across three strands, and most of them have not been taught yet. Low is expected and it is the point.
 
-Fifteen minutes, after the gallery walk and before the work block. Paste ready in `assessments/quiz-1.md`.
+## Pretest
 
-Moved here from Friday, because Friday is the WebXam pretest. Format repeats: mostly recall and application,
-a couple of scenario questions, all from the vocabulary list posted Monday.
+The main block, until students finish. Finishers record their strand scores, then move to the submission
+window.
 
-## Direct Instruction (15 min)
+## Submission Window
 
-1. Why checklists exist: not memory aids for beginners, defenses against experienced people skipping steps.
-2. Walk one full preflight inspection on the projector or with the aircraft in hand: airframe, arms, motors,
-   props, battery, gimbal/camera, controller, firmware, environment.
-3. Model the documentation: what "inspected, no defects" means vs. "noted: small nick, left front prop."
+- [ ] Four Forces lab submitted
+- [ ] Airspace Lookup from Monday submitted
+- [ ] TRUST completion posted
+- [ ] Preflight inspection log submitted
+- [ ] Any remaining Week 2 Ground School Package items
 
-## Work Time (25 min): Lab: Preflight Inspection Drill
+## Final Flight Briefing (last 10 minutes)
 
-In pairs, one reading the checklist aloud and one performing the inspection, then swap:
+Everyone off the machines. Walk Friday's plan out loud, no aircraft powered:
 
-- Complete the full checklist against the aircraft. Nothing is powered on.
-- Document every item on the inspection log.
-- I will have introduced **one deliberate discrepancy** on some aircraft. Finding it is part of the lab.
-- Report anything found the way it would be reported for real.
-
-Then: finish outstanding Week 2 work, and pretest makeup for absences.
+1. **The location and the boundaries.** Where we fly, where the "do not cross" line is, where spectators stand.
+2. **The sequence per pilot.** Preflight check, power on, arm, launch to a low hover, hold, one or two slow
+   controlled moves, land on the same spot. Short flights, everyone gets a turn.
+3. **The weather-abort plan.** We pull the real weather Friday morning and make the go/no-go call together. If
+   it is no-go, we run the flight simulator/ground alternative and fly the next clear day. Flying is not
+   promised; a safe flight is.
+4. **Roles on the ground.** Pilot, visual observer, and the person timing/logging. Everyone rotates through.
 
 ## Closure / Exit Ticket (5 min)
 
-Aircraft back in cases, logged, before the exit ticket.
-**Exit ticket:** *Did your aircraft have a discrepancy? How do you know you would have caught it if it did?*
+**Exit ticket:** *Your two lowest pretest strands, and one line on what you personally need to remember for
+your turn on the sticks Friday.*
 
 ## Handouts Used
 
-- Preflight checklist + inspection log (Classroom / printed)
+- `../_shared/webxam-pretest.md`
+- Strand recording sheet in Classroom
+- Friday flight plan (board / Classroom)
 
 ## Assignment Given / Due
 
-- Due tomorrow: Week 2 assignment
-- Given/Due: Preflight Inspection lab
-- **Quiz 1 today.** Friday is the WebXam pretest.
+- **Due:** Week 2 Ground School Package
+- Given: UAS Career Brief, due Wed Sep 2
+- Preview Friday: **first flight.** Preview Monday: Unit 1.1, Aviation Industry
 
 ## Teacher Notes
 
-- Plant the discrepancy on roughly half the aircraft. The pairs that report "all clear" on a bad unit get the
-  most useful lesson of the two weeks, handle it without embarrassment.
-- Nothing gets powered on today, and say why: the procedure is complete only when the flight training unit is.
-- Log which students read the checklist verbatim vs. skimmed. That habit predicts flight-day readiness.
+- The strand ranking from today drives the emphasis for the rest of the year. Record it the same day.
+- If the login did not come through, run the Weight and Balance lab instead and put the pretest on the calendar
+  in Unit 1.1 rather than letting it drift. Do not let a dead login eat the flight briefing; Friday still needs
+  the plan.
+- Confirm Friday's aircraft are charged, props inspected, and the location is actually cleared and available
+  before students walk out today.
+- Pilot order: use Wednesday's checklist-discipline notes. The students who read the preflight verbatim fly
+  first and model it for the rest.

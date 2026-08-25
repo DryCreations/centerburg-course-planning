@@ -2,63 +2,83 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
-> **Friday is the WebXam pretest.** Proctor script, prep checklist, and the fallback if the login is not
-> ready are in `../_shared/webxam-pretest.md`. Quiz 1 moved to Thursday so Friday can be the pretest plus the
-> final submission window.
+> **First flight.** Everything this week built to this: TRUST done, preflight drilled Wednesday, pretest behind
+> us Thursday. Today is short, real flights, run by the book. A safe flight is the goal, not a long one.
 
 ## Objective
 
-Students complete the WebXam pretest under test conditions, record a strand by strand baseline, and submit the
-Week 2 Ground School Package.
+Students make a real go/no-go call from current weather, complete a preflight on the aircraft they will fly,
+and safely launch, hold a low hover, make a controlled move or two, and land on the same spot, rotating through
+pilot, visual observer, and logger.
 
-## Materials
+## Standards / Outcomes
 
-WebXam login confirmed and tested on a lab machine, strand recording sheet in Classroom, sectional excerpts
-available for the closing activity, seating spread out.
+- 7.11: preflight preparation and flight operations
+- 7.11.4 / 7.6: weather products applied to a real go/no-go decision
+- 2.1: facility and operational safety
 
-## Bell Ringer
+## Materials & Setup
 
-This is not graded. What is the point of a diagnostic?
+Aircraft charged and props inspected the day before, controllers bound and tested, the cleared flight location
+set up with boundary and spectator lines, batteries staged, a flight log in Classroom, today's real METAR/weather
+pulled up **before class**, first-aid and the abort plan in place.
 
-## Instruction, Five Minutes
+## Go / No-Go (first 10 minutes)
 
-Read the proctor script from `../_shared/webxam-pretest.md`. Add one line specific to this course: the WebXam
-covers 15 outcomes across three strands, and most of them have not been taught. Low is expected.
+Do this together, out loud, before anyone touches an aircraft.
 
-## Pretest
+1. Pull the real weather now: wind, gusts, visibility, precipitation, ceiling.
+2. State the limits we care about for flying here today and make the call as a group.
+3. If it is **no-go**, say so plainly and switch to the ground alternative below. The go/no-go call is a real
+   lesson whichever way it lands. A pilot who scrubs a marginal day made the right decision.
 
-Rest of the period until students finish. Finishers record strand scores, then move to the submission window.
+## Safety Briefing (5 min)
 
-## Submission Window
+Boundaries, spectator line, who calls "stop." One rule above all: **anyone may call an all-stop for any
+reason, and the pilot lands immediately, no argument.**
 
-- [ ] Four Forces lab submitted
-- [ ] Airspace Reading lab submitted
-- [ ] Airspace Lookup from Monday submitted
-- [ ] Go / No Go lab submitted
-- [ ] Preflight inspection log submitted
-- [ ] Mission planning worksheet complete, all seven sections
+## Flight Block (rest of the period)
 
-## Closure
+In small groups, rotating roles so everyone flies and everyone observes:
 
-**Airspace speed round**, if there is time. Teams, projector, sectional excerpt. Point at a location, first
-team to name the airspace class and altitude limit scores. Five rounds.
+1. **Preflight** the aircraft against the checklist from Wednesday. No preflight, no flight.
+2. **Pilot:** power on, arm, ease up to a low hover, hold it steady, one or two slow controlled moves, then a
+   slow controlled descent to the same spot. Getting up and back down on the same square is the whole task.
+3. **Visual observer:** eyes on the aircraft and the airspace, calls hazards.
+4. **Logger:** records the flight in the log, aircraft, pilot, duration, anything notable.
 
-Exit ticket: your two lowest strands, and one sentence on which one you want to attack first.
+Keep flights short so everyone gets a real turn. A clean thirty-second flight beats a long shaky one.
 
-## Handouts
+## If No-Go (ground alternative)
 
-- `../_shared/webxam-pretest.md`
-- Strand recording sheet in Classroom
+Run the flight simulator or a controls dry-run and a battery/charging and care session, then schedule the
+flight for the next clear day. Do not force a flight in bad conditions to keep a date.
 
-## Assignments
+## Closure / Exit Ticket (5 min)
 
-- **Due:** Week 2 Ground School Package
-- Given: UAS Career Brief, due Wed Sep 2
+Aircraft powered down, inspected, batteries logged and on the correct charge state before anyone leaves.
+**Exit ticket:** *One thing that went differently than you expected on the sticks, and one thing you will do
+on your next flight.*
+
+## Handouts Used
+
+- Preflight checklist + flight log (Classroom)
+- Today's weather (projector)
+
+## Assignment Given / Due
+
+- Given/Due: Flight log entry for your flight(s)
+- Reminder: UAS Career Brief due Wed Sep 2
 - Preview Monday: Unit 1.1, Aviation Industry
 
 ## Teacher Notes
 
-- Every student should now have 8 Readiness scores, four or five Labs, two Projects, and one Assessment.
-- The strand ranking from today drives the emphasis for the rest of the year. Record it the same day.
-- If the login did not come through, run the Weight and Balance lab instead and get the pretest scheduled in
-  Unit 1.1 rather than letting it drift.
+- The WebXam pretest was Thursday, so today is clear to fly. If Thursday's login failed and the pretest
+  slipped, still fly today as planned and put the pretest in Unit 1.1; do not trade the flight for it.
+- Confirm every student has TRUST proof on file before they take the sticks. No proof, they run observer and
+  logger roles today.
+- Charge state matters more than flight count. End every battery at a safe storage charge and log it.
+- Pilot order set Thursday from checklist discipline. Keep the strongest-preflight students flying first as the
+  model.
+- Debrief every scrub or anomaly the same day. The first time a real thing goes sideways is the best lesson of
+  the unit; do not let it pass without naming what happened and why.

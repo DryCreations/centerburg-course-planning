@@ -1,6 +1,10 @@
 # WebXam Pretest, Friday Aug 28 (Day 08)
 
-Runs in **Design Techniques, Video and Sound, and Aviation UAS**, all three periods, same day.
+Runs in **Design Techniques, Video and Sound, and Aviation UAS**.
+
+> **Revised Tue Aug 25:** **Aviation UAS runs its pretest Thursday, Day 07** (Friday is now the first flight).
+> **Design Techniques and Video and Sound stay Friday, Day 08.** The proctor script, prep, and fallbacks below
+> apply the same on whichever day each course runs it. Confirm the login by Wednesday regardless.
 
 Middle School CS and Yearbook have no WebXam. MS CS takes Checkpoint 1 that day instead, and Yearbook submits
 the first weekly status. Do not invent a pretest for those two.

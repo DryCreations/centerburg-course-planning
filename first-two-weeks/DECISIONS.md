@@ -155,7 +155,20 @@ Live unknowns are in [OPEN-ITEMS.md](OPEN-ITEMS.md).
 | Video and Sound camera modes | Moved up to **Monday, Day 04**. Day 06 finishes the shoot and adds the five shot sequence. |
 | Student week summary | `<course>/handouts/week-at-a-glance.md`, short, standards at the top, two bullets a day, made for pasting into Classroom. The longer teacher version is `<course>/week-plan.md`. |
 
-## Slide Decks
+## Week 2 Mid-Week Update (Tue Aug 25)
+
+What actually ran Monday and Tuesday, and the changes that came out of it. Where this contradicts an earlier
+row, this is newer and wins.
+
+| Course | Update |
+|--------|--------|
+| **Yearbook** | Monday ran as planned: eDesign explored, old book reviewed, discussed what needs improving. **Day 05 rebuilt** around the **page ladder**: the whole 96-page (48-spread) book gets a first-draft ladder, referencing old books, and beat/role preferences are collected so assignment can start. New handout `yearbook/handouts/page-ladder.md`. The full coverage-points lesson and live board sign-up now ride on top once roles firm up, rather than being Tuesday's centerpiece. |
+| **Design Techniques** | The **entire Week 2 assignment (Parts A, B, C) was handed out at once on Day 04**, not staged. Students self-pace, do the parts in order, all due Friday. Skills still taught on their planned days (portfolio Mon, brand kit Tue, hierarchy/export Wed, monogram Thu). Assignment doc updated; part headers now read "skills covered Day NN" instead of "started Day NN". |
+| **Video and Sound** | On track, no plan changes. Exposure triangle taught fully in class; on the Camera Modes Shoot most groups finished Part A (aperture/Av) and are ready for Part B (shutter/Tv), which is exactly Day 06 as written. |
+| **Middle School CS** | MakeCode Arcade basics covered (variables, sprites, events, position, velocity); ready for the next lab. Teacher intent for the year: **Unit 1 = MakeCode Arcade; Unit 2 (much later) = 3D modeling or robotics** (which one is TBD). Per teacher, **no document changes needed** for this reorder now; logged here for continuity. |
+| **Aviation UAS** | **TRUST certification completed Tuesday.** Week re-aimed at flight. **Decision: WebXam pretest moves to Thursday (Day 07); first flight is Friday (Day 08).** Quiz 1 moved to Wednesday (Day 06). Wednesday is preflight inspection + basic controls; Thursday is pretest + final flight briefing; Friday is the flight (go/no-go from real weather, safety brief, launch/hover/land, rotating pilot/observer/logger). Full METAR-decoding lesson deferred to Unit 1.1; Friday's real go/no-go call is the practical version. **The flight-safety agreement is already handled for this group** and is not referenced in the plans. Earlier "no flying this week" decision is superseded. |
+
+
 
 - Yearbook day 1: `yearbook/slides/day-1-slides.md`
 - All three CTE courses: `_shared/slides/cte-day-1-slides.md`. Shared slides 1 to 9, a section per course, then

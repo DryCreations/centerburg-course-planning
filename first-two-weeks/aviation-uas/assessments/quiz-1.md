@@ -1,6 +1,6 @@
 # Quiz 1: Orientation, Airspace, Weather, and Safety
 
-**Course:** Aviation UAS, **Day 08, Fri Aug 28**, **Category:** Assessments, **Points:** 20
+**Course:** Aviation UAS, **Day 06, Wed Aug 26**, **Category:** Assessments, **Points:** 20
 
 Ten multiple choice at 1.5 points each, two short answer at 2.5 points each. Written in Part 107 question
 style on purpose, and tell them that before they start. Everything comes from the week 1 and week 2 word lists

@@ -2,65 +2,89 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
+> **Flight-readiness day.** This is the "what do we actually do to get it up and back down safely" lesson. By
+> the end, every student can run a preflight inspection and name the basic controls. Nobody flies Friday who
+> did not do the preflight drill today. Quiz 1 also moves here, since Thursday is now the pretest.
+
 ## Objective
 
-Students can decode a METAR and make a go or no go call they can defend, including the case where the flight
-is legal but the answer is still no.
-
-> The pretest is Friday, not today. Confirm the login is active before Wednesday ends.
+Students can execute a written preflight inspection against a real aircraft on the ground, document it, and
+describe the basic controls and the launch/hover/land sequence they will use Friday.
 
 ## Standards / Outcomes
 
-- 7.11.4: weather products and resources required for preflight planning
-- 7.6: meteorology, introduced
+- 7.11: preflight preparation
+- 2.1: facility and operational safety
+- 7.4.2: forces of flight and axes of motion (applied to the controls)
 
-## Materials
+## Materials & Setup
 
-Today's actual METAR from the nearest reporting station pulled up before class, four more printed, the METAR
-decoder key printed one per pair, projector.
+Aircraft staged on tables (unpowered, props removed or clearly secured), printed preflight checklist per pair,
+inspection log in Classroom, a controller in hand for the controls walk-through, the Friday flight setup
+sketched on the board (location, aircraft, pilot order, abort plan).
 
-## Bell Ringer
+## Bell Ringer (5 min)
 
-Name three weather conditions that would stop you from flying, and rank them worst to least bad.
+*Why does a professional pilot read a checklist out loud on their thousandth flight?* (Not a memory aid for
+beginners; a defense against experienced people skipping steps.)
 
-## Direct Instruction
+## Quiz 1 (15 min)
 
-**The limits, about five minutes.** Part 107 weather minimums stated plainly: 3 statute miles visibility, 500
-feet below the clouds, 2,000 feet horizontally from them. Write them on the board and leave them there.
+Right after the bell ringer, before the hands-on work. Paste ready in `assessments/quiz-1.md`. Mostly recall
+and application with a couple of scenario questions, all from the week 1 and week 2 word lists posted on the
+wall. Moved here from Thursday, because Thursday is the WebXam pretest.
 
-**METAR decoding, about twelve minutes.** Field by field, using today's real report. Station, time, wind,
-visibility, sky condition, temperature and dew point, altimeter. Do not use a textbook example when a real one
-is thirty seconds away.
+## Direct Instruction (15 min)
 
-**Two more as a class, about five minutes.** One obviously flyable, one obviously not. Fast.
+1. **Why the preflight exists,** then walk one full inspection with the aircraft in hand: airframe, arms,
+   motors, props, battery, gimbal/camera, controller, firmware, environment. Model the documentation: what
+   "inspected, no defects" means versus "noted: small nick, left front prop."
+2. **The basic controls,** controller in hand, tied back to the four forces and the three axes:
+   - **Throttle** up and down: altitude, straight up and straight down.
+   - **Yaw**: rotating in place, the nose swinging left and right.
+   - **Pitch and roll**: moving forward/back and left/right.
+   - The launch/hover/land sequence in order: power on, arm, ease up to a low hover, hold it steady, then a
+     slow controlled descent to the same spot. Getting up and getting back down on the same square is the
+     whole skill Friday.
 
-## Work Time
+## Work Time (25 min): Preflight Inspection Drill
 
-**Lab 3: Go / No Go**, in `labs/week-2-labs.md`. Five METARs decoded with a legal call and reasoning, then the
-judgment case, then a real call on today's conditions.
+In pairs, one reading the checklist aloud and one performing the inspection, then swap:
 
-The judgment case is the point of the day. Gusting wind under the limits is legal. Ask what a professional
-does about it.
+- Complete the full checklist against the aircraft. Nothing is powered on.
+- Document every item on the inspection log.
+- I will have introduced **one deliberate discrepancy** on some aircraft. Finding it is part of the lab.
+- Report anything found the way you would report it for real.
 
-## Closure
+Then, dry, with the unpowered aircraft and the controller: rehearse the launch/hover/land call-outs for Friday,
+so the sequence is muscle memory before anything spins.
 
-Exit ticket: which METAR field was hardest to read, and what does it tell you?
+## Closure / Exit Ticket (5 min)
 
-## Handouts
+Aircraft back in cases, logged, before the exit ticket.
+**Exit ticket:** *Did your aircraft have a discrepancy? And in one line, what is your launch/hover/land plan
+for Friday?*
 
-- `labs/week-2-labs.md`, Lab 3
-- METAR decoder key, printed
-- `handouts/vocab-and-standards.md`
+## Handouts Used
 
-## Assignments
+- Preflight checklist + inspection log (Classroom / printed)
+- `assessments/quiz-1.md`
 
-- Given and due: Go / No Go lab
-- In progress: Week 2 Ground School Package, due Day 08
-- Reminder: Quiz 1 is tomorrow, from the week 2 word list. The WebXam pretest is Friday.
+## Assignment Given / Due
+
+- **Quiz 1 today** (moved from Thursday).
+- Given/Due: Preflight Inspection lab
+- In progress: Week 2 Ground School Package, due Day 07
 
 ## Teacher Notes
 
-- Pull the real METAR before first period, not during it.
-- The judgment case is the first real judgment lesson of the year and it maps straight to the operations
-  section of the Part 107 test. Do not let it get cut for time.
-- Students will want a rule for the gusting case. There is not one. Sit in that with them.
+- **Confirm the WebXam login today.** The pretest is tomorrow, and this is the last chance to catch a dead
+  login. Full prep list in `../_shared/webxam-pretest.md`.
+- Plant the discrepancy on roughly half the aircraft. Pairs that report "all clear" on a bad unit get the most
+  useful lesson of the week; handle it without embarrassment.
+- Nothing gets powered on today. The procedure is complete only when the flight training unit is, and that is
+  Friday.
+- Log which students read the checklist verbatim versus skimmed. That habit predicts flight-day readiness, and
+  it decides pilot order Friday.
+- Full METAR decoding moves to Unit 1.1. Friday's go/no-go call is the practical version: pull the real weather
+  that morning and decide.

@@ -19,27 +19,30 @@ the gallery walk moved to Day 07.
 
 ## Week 2, Aug 24 to 28
 
-Ground school. No flying, and say so Monday.
+**Flight-prep week.** TRUST is done Tuesday and this week ends with the first flight Friday. Revised Tuesday
+Aug 25 after TRUST certification: pretest moved to Thursday, Friday is the flight. (See `../DECISIONS.md`,
+Mid-Week Update.) The full METAR-decoding lesson moves to Unit 1.1; Friday's real go/no-go call is the
+practical version.
 
 | Day | Topic | Turn in today | Also due |
 |-----|-------|---------------|----------|
 | 04 Mon | Vocabulary, four forces, then the FAA UAS Facility Map | Airspace Lookup, 15 pts, and Four Forces Part A | Week 2 assigned |
-| 05 Tue | Controlled and uncontrolled airspace, paper sectionals | Airspace Reading, Part B | Part A |
-| 06 Wed | Part 107 weather minimums, METAR decoding, go and no go | Go / No Go, 20 pts | Part B |
-| 07 Thu | Gallery walk, **Quiz 1**, preflight inspection drill | Preflight Inspection, Part C | build day on Part D |
-| 08 Fri | **WebXam pretest**, submission window, airspace speed round | strand sheet | **Ground School Package due** |
+| 05 Tue | **TRUST certification**, flight-safety orientation | TRUST completion | ground-school catch-up |
+| 06 Wed | Preflight inspection drill, basic controls, **Quiz 1** | Preflight Inspection lab | Quiz 1 |
+| 07 Thu | Gallery walk, **WebXam pretest**, final flight briefing | strand sheet | **Ground School Package due** |
+| 08 Fri | **First flight:** go/no-go, safety brief, launch/hover/land, rotate roles | Flight log entry | — |
 
 ### What Is Graded This Week
 
 | Item | Category | Points |
 |------|----------|-------:|
-| Week 2 package, Parts A to C | Labs | 40 |
-| Week 2 package, Part D mission planning worksheet | Projects | 20 |
+| Week 2 Ground School Package (four forces, airspace, preflight log, mission planning) | Labs / Projects | 40 / 20 |
 | Airspace Lookup | Labs | 15 |
-| Go / No Go | Labs | 20 |
-| Weight and Balance, optional | Labs | 20 |
-| Quiz 1, Thursday, Part 107 question style | Assessments | 20 |
-| WebXam pretest, Friday | not graded | 0 |
+| Preflight Inspection lab | Labs | 20 |
+| Flight log entry | Labs | 10 |
+| Quiz 1, Wednesday, Part 107 question style | Assessments | 20 |
+| TRUST completion | Readiness | in Readiness |
+| WebXam pretest, Thursday | not graded | 0 |
 | Bell ringers and exit tickets | Readiness | 20 |
 
 ### Documents
@@ -54,4 +57,4 @@ Ground school. No flying, and say so Monday.
 
 ### Assigned Next
 
-UAS Career Brief goes out Day 08, due Wed Sep 2. `assignments/career-brief.md`.
+UAS Career Brief goes out Day 07, due Wed Sep 2. `assignments/career-brief.md`.

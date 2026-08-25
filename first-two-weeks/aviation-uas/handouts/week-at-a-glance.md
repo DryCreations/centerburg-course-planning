@@ -2,7 +2,7 @@
 
 **Aug 24 to 28**
 
-No flying this week. Ground school first.
+Flight-prep week. We earn TRUST, drill the preflight, and **fly Friday.**
 
 ## Standards
 
@@ -13,34 +13,40 @@ No flying this week. Ground school first.
 
 ## Monday
 
-- Vocabulary goes up. Thursday's quiz comes from it
+- Vocabulary goes up. Wednesday's quiz comes from it
 - Four forces of flight
 - Turn in: airspace lookup, five locations
 
 ## Tuesday
 
-- Controlled and uncontrolled airspace
-- Reading a sectional chart on paper
-- Turn in: Airspace Reading lab
+- **TRUST**, the recreational UAS safety test
+- What makes a flight legal and safe before Friday
+- Turn in: your TRUST completion
 
 ## Wednesday
 
-- Part 107 weather minimums
-- Decoding a METAR, and making a go or no go call
-- Turn in: Go / No Go lab
+- Preflight inspection off a written checklist
+- The basic controls, and the launch/hover/land plan for Friday
+- **Quiz 1**, written in Part 107 question style
+- Turn in: preflight inspection lab
 
 ## Thursday
 
 - Gallery walk, printed squares
-- Preflight inspection off a written checklist
-- **Quiz 1**, written in Part 107 question style
+- **WebXam pretest.** It does not count for a grade
+- Final submission window, then the flight briefing
 
 ## Friday
 
-- **WebXam pretest.** It does not count for a grade
-- Final submission window, then an airspace speed round
+- **First flight.** Go/no-go from real weather, safety brief, then short flights
+- Everyone rotates through pilot, visual observer, and logger
+- Turn in: your flight log entry
 
-## Due Friday
+## Due Thursday
 
-- Ground School Package: four forces, airspace reading, preflight log, mission planning worksheet
+- Ground School Package: four forces, airspace, preflight log, mission planning worksheet
 - Any week 1 work is accepted through Wednesday with no penalty
+
+## Before you fly Friday
+
+- You need TRUST done and the Wednesday preflight drill done. No exceptions

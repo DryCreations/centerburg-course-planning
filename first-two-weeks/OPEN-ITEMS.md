@@ -29,15 +29,32 @@ Nothing here blocks a lesson. Everything here has a written fallback in the affe
 - [ ] eDesign: confirm every yearbook login worked on Day 04 and follow up on any that did not.
 - [ ] Plant the deliberate discrepancy on about half the UAS aircraft.
 
-**Before Friday, Day 08, the pretest:**
+**The WebXam pretest** (Aviation on **Thursday Day 07** so Friday is free to fly; DT and VS stay on **Friday
+Day 08**):
 
-- [ ] **Confirm the WebXam login is active.** Check Wednesday, not Friday. This is the one thing that can sink
-      the day. Full prep list in `_shared/webxam-pretest.md`.
+- [ ] **Confirm the WebXam login is active.** Check **Wednesday**, not the day of. This is the one thing that
+      can sink the day. Full prep list in `_shared/webxam-pretest.md`.
 - [ ] Log in yourself and load two questions on a lab machine, then abandon it.
 - [ ] Build the strand recording sheet in Classroom, one per CTE course.
-- [ ] Build Quiz 1 as a Google Form for **Thursday**, and Checkpoint 1 for Friday. Delete the answer keys
-      before posting.
-- [ ] Yearbook: beat and role assignments finalized and printed.
+- [ ] Build Quiz 1 as a Google Form. **Aviation Quiz 1 is now Wednesday (Day 06);** DT and VS Quiz 1 stay on
+      the plan (Thursday). Checkpoint 1 for MS CS on Friday. Delete the answer keys before posting.
+- [ ] Yearbook: beat and role assignments finalized and printed by Day 08.
+
+**Before Friday, Day 08, the Aviation first flight:**
+
+- [ ] Location cleared and available for flight, boundary and spectator lines set.
+- [ ] Aircraft charged, props inspected, controllers bound and tested.
+- [ ] Every flying student's **TRUST completion on file.** No proof, no sticks (observer/logger only).
+- [ ] Pull the real weather Friday morning for the group go/no-go call. Have the ground alternative ready if
+      it is no-go.
+- [ ] Set pilot order from Wednesday's preflight-discipline notes.
+
+**Yearbook, ladder and roles this week:**
+
+- [ ] Ladder Google Sheet built on the coverage board (48 spread rows, fixed spreads pre-filled) before Day 05.
+- [ ] Read Day 05 preference forms against the ladder; resolve oversubscribed vs. empty beats before assigning
+      Day 06-07.
+- [ ] Set the per-quarter coverage point target (12 is the draft).
 
 **Still outstanding from week 1:**
 
@@ -60,7 +77,7 @@ Nothing here blocks a lesson. Everything here has a written fallback in the affe
 
 | Item | Blocks | Fallback in place |
 |------|--------|-------------------|
-| **WebXam login**, no update | **Friday Day 08 pretest in all three CTE courses.** This is now a scheduled event, not a maybe. | Per course fallback lab in `_shared/webxam-pretest.md`. If it slips, put the pretest on the calendar in Unit 1.1 rather than letting it float. |
+| **WebXam login**, no update | **Aviation pretest Thursday Day 07** (so Friday can be the flight); **DT and VS pretest stays Friday Day 08.** Confirm Wednesday. | Per course fallback lab in `_shared/webxam-pretest.md`. If it slips, put the pretest on the calendar in Unit 1.1 rather than letting it float. |
 | **Varsity publisher deadlines** | Yearbook deadline board on Day 08 | Board goes up with internal deadlines only; publisher dates added when they arrive |
 | **Part 107 logistics**, testing center, window, funding | Nothing this year until Q3 | Handout says "to be announced" honestly |
 

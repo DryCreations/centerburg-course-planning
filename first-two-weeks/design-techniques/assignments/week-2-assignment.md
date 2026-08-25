@@ -10,11 +10,14 @@
 Three connected pieces of setup you will use for the entire year: the website that holds your work, the brand
 kit that keeps your work consistent, and the personal mark that identifies it.
 
-Do them in order. Each part builds on the one before.
+**All three parts are assigned now, together.** Do them in order, because each builds on the one before, but
+you set your own pace. We cover the skills each part needs across this week: the portfolio Monday, brand kits
+Tuesday, hierarchy and export Wednesday, the monogram Thursday. If you are ahead, keep going; nothing is
+gated. Everything is due Friday.
 
 ---
 
-## Part A: Portfolio Site (20 pts), started Day 04
+## Part A: Portfolio Site (20 pts), skills covered Day 04
 
 Build and publish a Google Sites portfolio.
 
@@ -34,7 +37,7 @@ Build and publish a Google Sites portfolio.
 
 ---
 
-## Part B: Brand Kit (20 pts), started Day 05
+## Part B: Brand Kit (20 pts), skills covered Day 05
 
 Build a brand kit in Adobe Express that you will use in every project this year.
 
@@ -54,7 +57,7 @@ This kit is not permanent. You will rebuild it in Unit 1.3 once you know more ab
 
 ---
 
-## Part C: Monogram (20 pts), started Day 07
+## Part C: Monogram (20 pts), skills covered Day 07
 
 Design a personal mark from your initials.
 
