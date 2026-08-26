@@ -53,6 +53,22 @@ and that is correct. Open spreads get owners as beats and roles firm up this wee
 - **Every student in the building appears at least once.** The Index / Names Lead watches the ladder for who
   is missing, not just which events are missing.
 
+## When the Theme Changes the Organization
+
+A ladder is not always organized the same way. The theme can decide the order.
+
+- **The default: by section.** Sports together, clubs together, academics together. Easy to plan, and what most
+  books do.
+- **Chronological / by season.** If the theme is time-based, like **Seasons of Our Lives**, the book reads
+  fall to summer and events sit where they happened: homecoming and fall sports early, winter sports and the
+  play in the middle, prom and spring sports and graduation at the end. Student life threads through all of it.
+- **What to do about it:** once the theme vote lands, walk the drafted ladder and ask, spread by spread,
+  "does this still go here, or does the theme move it?" Most spreads keep their content and just change
+  neighbors. A seasonal book, for example, splits the sports spreads across the calendar instead of grouping
+  them.
+
+Do not rebuild the ladder from scratch when the organization changes. Re-order the spreads you already have.
+
 ## After Day 05
 
 The ladder is never finished, but it is *usable* once every spread has a section and roughly half have an owner.

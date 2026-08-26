@@ -1,8 +1,9 @@
 # Aviation UAS: Week 2 Slides
 
 Copy-paste ready. Each `---` is a new slide. Keep the screen sparse, say the rest out loud. This matches the
-**revised flight-prep week**: TRUST Tuesday, preflight and controls Wednesday, pretest Thursday, flight Friday.
-Day 07 is mostly the WebXam pretest, so its only slides are the flight briefing at the end.
+**revised flight-prep week** (updated Wed Aug 27): TRUST Tuesday, ODOT course setup Wednesday, the controller
+and controls Thursday, **flight Friday** (gated by a start-of-class flight check). The WebXam pretest is
+deferred to Unit 1.1.
 
 Where a slide says **hold it up**, have the aircraft or controller in hand. The object teaches better than the
 slide.
@@ -66,65 +67,79 @@ slide.
 
 ---
 
-# DAY 06 — Preflight and Controls
+# DAY 06 — Off-Book: ODOT Part 107 Course
 
 ---
 
-## Why a checklist, every time
+## Setting up your prep account
 
-- Not a memory aid for beginners
-- A defense against experienced people skipping steps
-- **hold it up:** walk one full preflight: airframe, arms, motors, props, battery, gimbal, controller,
-  firmware, environment
-
----
-
-## Document it like a pro
-
-- "Inspected, no defects" — a record
-- "Left front prop, small nick, about 2 mm" — a better record
-- Vague notes are a shrug, not a log
+- Ohio DOT's **free Part 107 online course**
+- We request your ODOT / LDAP account today
+- Access can take 48+ hours, so we start the real course once it comes through
+- Meanwhile: preflight basics
 
 ---
 
-## The basic controls (controller in hand)
+# DAY 07 — The Controller and the Controls
+
+---
+
+## The words we use all year (hold it up)
 
 - **Throttle:** up and down (altitude)
 - **Yaw:** rotate in place, nose left/right
-- **Pitch and roll:** move forward/back, left/right
-- Launch → low hover → hold → slow descent to the **same spot**
+- **Pitch:** forward and back
+- **Roll:** slide left and right
+- **Hover:** hold still in one spot. The first real skill.
 
 ---
 
-## Your turn
+## The sticks (Mode 2, our setup)
 
-- Preflight drill in pairs, one reads aloud, one inspects, then swap
-- Find the discrepancy I planted on some aircraft
-- Then rehearse the launch/hover/land call-outs, dry, nothing powered
-
----
-
-# DAY 07 — Pretest, Then the Plan
+- **Left stick:** up/down = throttle, left/right = yaw
+- **Right stick:** up/down = pitch (fwd/back), left/right = roll
+- **Center is stop.** Let go and it hovers.
+- **Small inputs.** Nudge, don't shove.
 
 ---
 
-## The pretest
+## The two safety buttons
 
-- Not graded. Most of it has not been taught. Low is the point.
-- It sets your baseline. We attack your lowest strands all year.
+- **Pause / hover:** stops it and holds it in place. The panic button.
+- **Return to Home (RTH):** climbs and flies back to where it took off
+- Find both without looking, before you ever fly
+- Flight mode: **Cine or Normal**, never Sport
 
 ---
 
-## Friday flight briefing
+## Four numbers on the screen
 
-- **Where:** the cleared area, the do-not-cross line, where spectators stand
-- **Your turn:** preflight, power on, launch to a low hover, hold, one or two slow moves, land on the same spot
-- **Weather:** we make the go/no-go call Friday morning, together
-- **Roles:** pilot, visual observer, logger. Everyone rotates.
+- Aircraft **battery percent**
+- **Height**
+- **Distance** from home
+- **GPS lock** (wait for a solid one)
+
+---
+
+## Your turn — hands on, no flight
+
+- Everyone holds it, shows me throttle and yaw, then pitch and roll
+- Point to the pause and RTH buttons without looking
+- Walk the preflight checklist
+- Hear the plan for tomorrow's flight
 
 ---
 
 # DAY 08 — First Flight
+
+---
+
+## Flight check first
+
+- Ten quick questions on the controls and safety
+- **Pass it and you fly today**
+- Miss too much = observer and logger, retake before your turn
+- It's a safety gate, not a grade
 
 ---
 

@@ -93,6 +93,17 @@ build teaches it.
 
 ---
 
+## Make it different every time: pick random
+
+- `pick random 10 to 150` for the new item's **x** → it falls somewhere new
+- You can pick random for almost anything:
+  - the **speed** it falls
+  - **which** item appears
+  - a **color**
+- Random is what makes the game not boring on the second play
+
+---
+
 ## Your turn — Part B
 
 - A **score** variable, starts at 0

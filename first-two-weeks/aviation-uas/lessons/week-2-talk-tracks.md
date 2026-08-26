@@ -20,9 +20,11 @@ course starts sounding like an aviation course. Keep each one under ten minutes.
 
 ---
 
-> **Revised Tuesday Aug 25.** After TRUST this became a flight-prep week: pretest Thursday, flight Friday.
-> The airspace and full weather talks below move into Unit 1.1; what stays here is the safety and readiness
-> version of each.
+> **Revised again Wed Aug 27.** We went off-book: ODOT Part 107 course setup Wednesday, **the controller and
+> controls Thursday** (`handouts/controller-and-controls.md`), **flight Friday** gated by
+> `assessments/flight-check.md`. The WebXam pretest, METAR, and Quiz 1 are all deferred to Unit 1.1. The
+> Thursday/Friday sections below are superseded by the Day 07 and Day 08 plans; use those. The Monday-Wednesday
+> tracks still hold for the ground-school pieces.
 
 ## Tuesday: TRUST, and What Makes a Flight Legal and Safe
 

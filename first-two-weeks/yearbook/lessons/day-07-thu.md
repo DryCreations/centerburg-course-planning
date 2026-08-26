@@ -2,72 +2,70 @@
 
 **Course:** Yearbook
 
+> **Decide the theme, then re-plan the book around it.** Yesterday the staff brainstormed theme ideas and three
+> drew votes. Today we pick the winner by form, talk through what the book now looks like, and get back into the
+> ladder, which may re-organize once the theme is set.
+
 ## Objective
 
-Students can log into eDesign, find their way around a spread, place a photo and a caption, and check a page
-back in.
+The staff picks a final theme, describes how it shapes the book (cover, openers, unique spreads, and how the
+ladder is organized), and keeps building the ladder or works outstanding pages from last year's book.
 
-## Materials
+## Materials & Setup
 
-eDesign accounts tested by you before class. Logins should already exist from week 1. Ladder loaded if we have
-it, week 1 photos in Drive, projector.
+The final theme vote as a Google Form (`handouts/theme-vote-form.md`) up as students walk in, the drafted
+ladder on the coverage board, last year's book and older books on the tables, the outstanding-page list for
+Legacy Triage.
 
-## Gallery Walk (first 10 minutes)
+## Bell Ringer (5 min): Vote
 
-Moved here from Day 04, because the squares were not printed yet. Run it first, before anything else.
+**The final theme vote** (`handouts/theme-vote-form.md`), between the three finalists that got votes yesterday.
+One response per student. Show the live results when the timer ends.
 
-1. Everyone walks the room and looks at the printed squares. No talking for the first few minutes.
-2. Then a fast round: each person names one thing they saw in someone else's square that they want to try.
-3. I name three things I saw across the whole set: what worked, what repeated, and one habit to break.
+## Direct Instruction / Discussion (15 min): What the Theme Makes Possible
 
-Print reads differently than screen. Point out anything that looked fine on a monitor and does not hold up on
-paper, especially thin type and low contrast color.
+1. **Announce the winner** as a decision, and read a couple of the "why" answers out loud.
+2. **What it looks like:** how the theme shows up on the cover, on section openers, in the type and color, and
+   in captions. Keep asking, "what does this look like on page 40?"
+3. **Unique spreads:** the theme should make some spreads possible that a plain book would not have. Pull the
+   best answers from the vote's third question and name them.
+4. **How it organizes the book:** some themes change the order. If it is **Seasons of Our Lives** (or any
+   time-based theme), the book goes chronological, fall to summer, and sports and events split across the
+   calendar instead of grouping by section. Walk the `page-ladder.md` "When the Theme Changes the Organization"
+   note. We **re-order** the drafted ladder; we do not rebuild it.
 
-The squares stay on the wall. They are the first thing up in this room and they set the tone.
+## Work Time (25 min): Break Out
 
-## Bell Ringer
+Two tracks, students pick or you assign:
 
-Write a caption for this photo. One sentence. Who, what is happening, and something the photo does not tell you.
-Use one of their week 1 photos on the board.
+1. **The ladder.** Re-order and keep filling it against the chosen theme. Every spread still needs a section
+   and a subject; now it also needs to sit in the right place for the theme. Reference the old books.
+2. **Old yearbook pages.** Legacy Lead and a couple of others keep working the outstanding pages from last
+   year's book, flagging anything unrecoverable.
 
-## Direct Instruction
+## Closure / Exit Ticket (5 min)
 
-1. Read three bell ringer captions out loud. Compare "students in the hallway" to one that names people and
-   says something. A caption adds what the photo cannot show.
-2. eDesign tour: log in, the ladder, opening a spread, the template library.
-3. Demo: place a photo, place a caption, adjust the frame, save, check the page in. Say what happens if you do
-   not check it in. Nobody else can touch that page.
+Each track reports one thing in a sentence: the ladder track names a spread the theme changed; the legacy track
+names a page they moved forward.
 
-## Work Time
+**Exit ticket:** *Now that we have a theme, one spread you are excited to work on, and why.*
 
-Each student builds their practice spread:
+## Handouts Used
 
-- Four photos from week 1
-- A caption for each: names, what is happening, one detail
-- A headline
-- Save and check the page in
+- `handouts/theme-vote-form.md`
+- `handouts/page-ladder.md`
+- last year's book and older books
 
-Names have to be right. Check with the person or a roster.
+## Assignment Given / Due
 
-Finished early: trade with a partner and check their names against a roster. Finding one wrong name in someone
-else's spread is worth more than adding a fifth photo to your own.
-
-## Closure
-
-Exit ticket: which caption was hardest to write, and why?
-
-## Handouts
-
-- `assignments/week-2-assignment.md`, Part C
-
-## Assignments
-
-- Due tomorrow: Week 2 Staff Setup Package
-- Reminder: first weekly status is due tomorrow
+- Given and due today: final theme vote
+- In progress: Week 2 Staff Setup Package, and the ladder
 
 ## Teacher Notes
 
-- Test your login and one student login before class. A platform failure eats the period.
-- InDesign should be on the machines by now. Mention it exists, then keep everyone in eDesign for this.
-- Captions are where beginners write the same empty sentence every time. Push on the specific detail.
-- Confirm the names process with whoever is Copy Editor or Index Lead.
+- Your favorite, **Seasons of Our Lives**, is the one that most changes the organization, so if it wins, budget
+  the most re-planning time and lean on the ladder note. If a section-based theme wins, the ladder barely moves.
+- Let the vote be real. If you steer it, the staff knows, and the buy-in you are building evaporates.
+- Do not try to finish the ladder today. A themed, re-ordered, half-full ladder is exactly right at this stage.
+- Beat and role assignments: you have preferences in from yesterday. Post them tomorrow or early next week,
+  now that the theme is set and the sections are firmer.

@@ -48,6 +48,7 @@ You may also invent your own, as long as it has everything on the checklist belo
 | 2 | An **on sprite overlap** event: when the player touches the right sprite, the score changes |
 | 3 | The touched sprite is **destroyed or reset** so it does not score twice |
 | 4 | A new one appears, so the game keeps going |
+| 5 | Use **pick random** so the new one shows up somewhere different each time (position, speed, or which item) |
 
 ### Part C: Winning, losing, and one bug you fixed (Day 07, 15 pts)
 

@@ -3,65 +3,72 @@
 **Course:** Middle School CS, **Unit:** MakeCode Arcade, Build a Game
 **Strands:** Algorithmic Thinking and Programming
 
-> **Winning, losing, and debugging.** The game already moves and scores. Today it gets a way to end: a
-> conditional, lives, and game over. And everyone keeps a debug log, because this is where bugs show up.
+> **Overlap, destroy, and random.** Yesterday everyone got a player moving and something spawning in with
+> velocity (Part A). Today is a **short demo** of the three blocks that turn that into a game: on-overlap,
+> destroy, and pick-random. Show the basics, then they build. Do not build it for them.
 
 ## Objective
 
-Students can use a conditional to win or end the game, add lives so the player can lose, and document one bug
-they fixed by changing a single thing.
+Students can use an on-sprite-overlap event to change the score and destroy the caught sprite, and can use a
+random number to spawn the next one in a different spot.
 
 ## Materials
 
-Arcade open, projector, Day 07 slides (`slides/week-2-slides.md`), the demo game from Day 06 to break on
-purpose.
+Arcade open, projector, the Day 06 slides plus the random-spawn slide (`slides/week-2-slides.md`), a
+half-built demo game from Part A to add to live.
 
 ## Bell Ringer (5 min)
 
-**Bell Ringer 4** (lives and a conditional, walk through what happens). From `handouts/bell-ringers-week-2.md`.
-Go over out loud, and name the shape: *if this is true, do that.*
+**Bell Ringer 3** (how many times does an event run) from `handouts/bell-ringers-week-2.md`. It sets up today:
+the code inside an event runs *every time* the event happens, which is exactly how scoring works.
 
-## Direct Instruction (12 min)
+## Short Demo (10 min): The Three Blocks
 
-Slides Day 07, live.
+Live, on your Part A demo. Keep it to the blocks, not a finished game.
 
-1. **A conditional decides.** `if score >= 10: you win`. `if lives <= 0: game over`. A loop repeats; a
-   conditional decides. Different jobs, and students mix them up for weeks.
-2. **A way to lose:** start lives at 3, lose one on a miss or a bad hit, game over at 0.
-3. **The most common bug:** score change inside a forever loop counts forever. It belongs in the overlap
-   event. Break it live, ask what is happening, then fix it.
-4. **Change one thing at a time.** Write what it does, change one thing, run, write what changed. Model it out
-   loud on the broken demo.
+1. **on sprite overlap** (player and the item): "when these two touch, do this." Put a `change score by 1`
+   inside it and watch it fire when they collide.
+2. **destroy** the item sprite inside the overlap, so one catch is one point, not twenty. Show the bug first
+   (score leaps by 20 without destroy), then fix it.
+3. **pick random**: spawn the next item at `pick random` x, so it does not always fall in the same place.
+   Show `pick random 10 to 150` for a position, and mention you can pick random for anything, a speed, a
+   color, which item appears.
 
-## Work Time (25 min): Part C
+Say plainly: this is the toolkit, not your game. Your job is to put these into *your* catch-or-dodge game.
 
-Students add to their game:
+## Work Time (25 min): Part B
 
-- Lives (start at 3) or a timer, so the player can lose
-- A conditional that wins or ends the game
-- A short debug log: one bug, what they thought was wrong, the one thing they changed, what happened
-- The game plays start to finish, winnable and losable
+Students add to their own game:
+
+- A **score** variable set to 0 at the start
+- An **on-overlap** event that changes the score
+- **Destroy** the caught sprite and spawn a new one
+- Use **pick random** so the new one appears somewhere different
+
+Fast finishers: random speed too, or a second kind of item worth more points, or start on losing a life when
+you miss (that is where Part C goes next).
 
 ## Closure / Exit Ticket (5 min)
 
-**Exit ticket:** *What is one bug you hit today, and the one thing you changed to fix it?*
+**Exit ticket:** *Where in your game does the score change, and what did you use pick-random for?*
 
 ## Handouts / Slides
 
-- `handouts/bell-ringers-week-2.md` (Bell Ringer 4)
-- `slides/week-2-slides.md` (Day 07)
-- `assignments/week-2-assignment.md` (Part C)
+- `handouts/bell-ringers-week-2.md` (Bell Ringer 3)
+- `slides/week-2-slides.md` (Day 06 score/collisions + random spawn)
+- `assignments/week-2-assignment.md` (Part B)
 
 ## Assignment Given / Due
 
-- Due tomorrow: Build a Real Arcade Game
-- Reminder: Checkpoint 1 tomorrow, from the word list
+- In progress: Build a Real Arcade Game, due Day 08 (Friday)
 
 ## Teacher Notes
 
-- Minimal setup: Bell Ringer 4 on the board, Day 07 slides, the demo game ready to break.
-- The debug log is the real assessment here, not a working game. A student with a messy game and an honest log
-  understands more than one with a clean game they cannot explain.
-- Fast finishers: a second level, a high-score display, or a start screen. Keep it inside the same skills.
-- Watch for the student who says "it just works now" with no idea why. That is a redo conversation, framed as a
-  redo, not an accusation.
+- Keep the demo to the three blocks and under ten minutes. The moment it becomes "here is my finished game,"
+  they copy instead of build.
+- The destroy bug (score leaping without destroy) is worth showing on purpose. It is the clearest "the computer
+  did exactly what you said" moment of the week.
+- pick-random is the depth this project has over last week's card: it makes the game different every run. Sell
+  that.
+- Fast finishers move into lives and game over (Part C) on their own; that is the next demo if the room is
+  ready, but do not force it today.

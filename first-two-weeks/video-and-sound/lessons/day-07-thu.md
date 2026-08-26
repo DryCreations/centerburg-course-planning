@@ -2,14 +2,15 @@
 
 **Course:** Video and Sound, **Unit:** 1.0 Orientation
 
-> **Gallery walk, Quiz 1, and a photo challenge.** The camera work is in. Today locks it in with a short quiz
-> and a composition challenge, and clears the submission runway for Friday. Editing and video come in a later
-> unit.
+> **Finish the camera work, then prove it.** Shutter got most of the way yesterday but the worksheet is not
+> done, and ISO/Manual still need a turn. So today: a quick review, finish the Camera Modes Shoot, then Quiz 1
+> and a short photo challenge for anyone who is caught up. The class has a solid handle on the vocabulary, so
+> the review is fast. Editing and video come in a later unit.
 
 ## Objective
 
-Students can apply the camera controls from this week to make a deliberate set of photographs, and can answer
-recall and application questions about aperture, shutter, and ISO.
+Students finish the Camera Modes Shoot (including ISO and Manual), can apply the camera controls to make a
+deliberate set of photographs, and can answer recall and application questions about aperture, shutter, and ISO.
 
 ## Materials & Setup
 
@@ -26,32 +27,26 @@ Moved here from Day 04, because the squares were not printed yet. Run it first.
 
 The squares stay on the wall. They set the tone for the room.
 
-## Bell Ringer (5 min)
+## Bell Ringer / Review (5 min)
 
 *You want a portrait where the face is sharp and the background is soft. Name the mode and the setting, and
-which direction you move it.*
+which direction you move it.* Then a fast round-the-room review, one word each: aperture, shutter, ISO,
+exposure, depth of field, Av, Tv, M. They know these; this is a warm confidence check, not a re-teach. If
+anyone is shaky on ISO or Manual, that is the 60-second thing to demo before they shoot.
 
 ## Quiz 1 (15 min)
 
-After the gallery walk, before the challenge. Paste ready in `assessments/quiz-1.md`. Mostly recall and
-application, a couple of scenario questions, all from the week 1 and week 2 word lists. Stays on Thursday;
-Friday is the WebXam pretest.
+Paste ready in `assessments/quiz-1.md`. Mostly recall and application, a couple of scenario questions, all from
+the week 1 and week 2 word lists. Stays on Thursday; Friday is the WebXam pretest.
 
-## Photo Challenge (20 min): Five Frames, On Purpose
+## Work Time (20 min): Finish the Shoot, Then the Challenge
 
-Not graded on quality, graded on intent. In pairs or solo, shoot five frames, each one a deliberate choice:
-
-1. A shallow depth of field portrait (low f number)
-2. Frozen motion (fast shutter)
-3. Blurred or panned motion (slow shutter)
-4. A low-light frame where you set the ISO on purpose
-5. Your best composition, using fill the frame or off center
-
-For each, write the mode and the settings you used and one sentence on why. This is the camera controls of the
-whole week in one short set.
-
-Then: finish anything outstanding, the portfolio, SMART goals, and any missing Camera Modes frames. Everything
-is due tomorrow.
+1. **Finish the Camera Modes Shoot first.** Anyone missing the shutter/motion frames, the ISO low-light frame,
+   or the Manual matched-exposure frame gets the gear and finishes them. That is the worksheet from yesterday.
+2. **Caught up? The five-frame photo challenge** (graded on intent, not quality): a shallow-depth portrait,
+   frozen motion, blurred or panned motion, an ISO low-light frame, and your best composition. Write the mode
+   and settings for each and one sentence on why.
+3. Then finish the portfolio and SMART goals. Everything is due tomorrow.
 
 ## Closure / Exit Ticket (5 min)
 

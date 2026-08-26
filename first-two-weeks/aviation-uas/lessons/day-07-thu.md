@@ -2,90 +2,74 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
-> **Pretest day, moved up from Friday so Friday can be the flight.** Proctor script, prep checklist, and the
-> fallback if the login is not ready are in `../_shared/webxam-pretest.md`. The period ends with the final
-> flight briefing so everyone walks in Friday knowing the plan.
+> **Flight prep day. We fly tomorrow.** No simulator talks to our controller, so today is hands-on the actual
+> controller, on the ground: the words, the sticks, and the safety buttons. Nothing takes off today. The
+> flight-check quiz that gates flying runs at the start of tomorrow.
 
 ## Objective
 
-Students complete the WebXam pretest under test conditions, record a strand-by-strand baseline, submit the
-Week 2 Ground School Package, and know exactly how Friday's flight runs.
+Every student can name the flight controls (throttle, yaw, pitch, roll), show them on the controller in Mode 2,
+find the pause and Return-to-Home buttons without looking, and describe how tomorrow's flight will run.
 
 ## Materials & Setup
 
-WebXam login confirmed and tested on a lab machine (checked Wednesday), strand recording sheet in Classroom,
-the printed About Me squares on the wall, the Friday flight plan on the board (location, aircraft, pilot order,
-weather-abort plan).
+The **DJI RC controller** and a **Mavic 3 Classic** in hand (props off or clearly secured), a labeled photo of
+the controller on the projector, `handouts/controller-and-controls.md` printed, the preflight checklist from
+this week, the flight-day plan sketched on the board.
 
-## Gallery Walk (first 10 minutes)
+## Bell Ringer (5 min)
 
-Moved here from Day 04, because the squares were not printed yet. Run it first, before the pretest settles the
-room.
+*You are flying and you get confused about which way the drone is going. What is the safest single thing you
+can do with your thumbs?* (Let go. The sticks center and it hovers.)
 
-1. Everyone walks the room and looks at the printed squares. No talking for the first few minutes.
-2. A fast round: each person names one thing they saw in someone else's square that they want to try.
-3. I name three things across the whole set: what worked, what repeated, one habit to break.
+## Direct Instruction (20 min): The Controller
 
-The squares stay on the wall. They set the tone for the room.
+Work straight through `handouts/controller-and-controls.md`, controller in hand.
 
-## Bell Ringer (built into the pretest intro)
+1. **The words** (Part 1): throttle, yaw, pitch, roll, hover, RTH, line of sight. Show each with the aircraft
+   or your own body. The big three are throttle, yaw, pitch/roll.
+2. **The sticks** (Part 2, Mode 2): left stick throttle and yaw, right stick pitch and roll. Two rules:
+   **center is stop** (let go and it hovers) and **small inputs**.
+3. **The tour** (Part 3): power, flight-mode switch (we fly Cine or Normal, never Sport), **RTH button**,
+   **pause/hover button**, gimbal dial, shutter. Drill the pause and RTH buttons by name.
+4. **The screen** (Part 4): battery percent, height, distance, GPS lock. In the air, those numbers are the job.
 
-*What is the point of a diagnostic?* This is not graded, and neither is the pretest.
+## Activity (20 min): Hands On the Controller
 
-## Pretest Instruction (5 min)
+No flight. Rotate the controller through every student.
 
-Read the proctor script from `../_shared/webxam-pretest.md`. Add the course-specific line: the WebXam covers 15
-outcomes across three strands, and most of them have not been taught yet. Low is expected and it is the point.
-
-## Pretest
-
-The main block, until students finish. Finishers record their strand scores, then move to the submission
-window.
-
-## Submission Window
-
-- [ ] Four Forces lab submitted
-- [ ] Airspace Lookup from Monday submitted
-- [ ] TRUST completion posted
-- [ ] Preflight inspection log submitted
-- [ ] Any remaining Week 2 Ground School Package items
-
-## Final Flight Briefing (last 10 minutes)
-
-Everyone off the machines. Walk Friday's plan out loud, no aircraft powered:
-
-1. **The location and the boundaries.** Where we fly, where the "do not cross" line is, where spectators stand.
-2. **The sequence per pilot.** Preflight check, power on, arm, launch to a low hover, hold, one or two slow
-   controlled moves, land on the same spot. Short flights, everyone gets a turn.
-3. **The weather-abort plan.** We pull the real weather Friday morning and make the go/no-go call together. If
-   it is no-go, we run the flight simulator/ground alternative and fly the next clear day. Flying is not
-   promised; a safe flight is.
-4. **Roles on the ground.** Pilot, visual observer, and the person timing/logging. Everyone rotates through.
+1. Each student holds it, finds both sticks, and shows you **throttle** and **yaw**, then **pitch** and **roll**.
+2. Each student points to the **pause** button and the **RTH** button without looking.
+3. If it is safe (props off or secured, indoors), power on so they see the gimbal move and the screen come
+   alive, with zero chance of flight.
+4. Walk the **preflight checklist** against the aircraft, so tomorrow's first step is familiar.
+5. Read the **flight-day plan** (Part 5) out loud so nobody is surprised: preflight, power on, low hover, small
+   moves, land on the same spot, rotate roles. And the one rule: anyone may call an all-stop.
 
 ## Closure / Exit Ticket (5 min)
 
-**Exit ticket:** *Your two lowest pretest strands, and one line on what you personally need to remember for
-your turn on the sticks Friday.*
+**Exit ticket, on the controller:** show me throttle and yaw, and point to the pause button. (Do this as they
+line up to leave; it is also the readiness check for who is set to fly.)
 
 ## Handouts Used
 
-- `../_shared/webxam-pretest.md`
-- Strand recording sheet in Classroom
-- Friday flight plan (board / Classroom)
+- `handouts/controller-and-controls.md`
+- Preflight checklist (Classroom / printed)
 
 ## Assignment Given / Due
 
-- **Due:** Week 2 Ground School Package
-- Given: UAS Career Brief, due Wed Sep 2
-- Preview Friday: **first flight.** Preview Monday: Unit 1.1, Aviation Industry
+- In progress: Week 2 Ground School Package
+- Tomorrow: the **Flight Check** at the start of class (`assessments/flight-check.md`), then we fly
 
 ## Teacher Notes
 
-- The strand ranking from today drives the emphasis for the rest of the year. Record it the same day.
-- If the login did not come through, run the Weight and Balance lab instead and put the pretest on the calendar
-  in Unit 1.1 rather than letting it drift. Do not let a dead login eat the flight briefing; Friday still needs
-  the plan.
-- Confirm Friday's aircraft are charged, props inspected, and the location is actually cleared and available
-  before students walk out today.
-- Pilot order: use Wednesday's checklist-discipline notes. The students who read the preflight verbatim fly
-  first and model it for the rest.
+- **ODOT / Part 107 online course:** accounts were requested but access can take more than 48 hours, so it is
+  not ready for today. When it comes through, that course becomes the ongoing Part 107 prep. See OPEN-ITEMS.
+- **The WebXam pretest is deferred out of this week** (flight took the day). Put it in Unit 1.1 with the ODOT
+  course rather than cramming it onto flight day. Confirm with me if you would rather run it.
+- Drill the pause and RTH buttons until they are automatic. Those two buttons are the whole safety story for a
+  first flight.
+- Confirm before students leave: aircraft charged, props inspected, batteries on chargers, and the flight
+  location cleared and available for tomorrow.
+- Set the flight order from today's exit check: the students who can name the controls cold fly first and model
+  it for the rest.

@@ -109,3 +109,63 @@ Where a slide says **demo**, do it live in Express or on the projector. The slid
 - **Hierarchy Fix:** same flyer text, built twice, changing only size, contrast, position. Both exported.
 - Finished early: the Export Test, three exports of your monogram compared, plus a file-size table
 - Then keep going on the week 2 project (Parts A and B should be done today)
+
+---
+
+# DAY 07 — Typography (Standard 7.5.4)
+
+---
+
+## Fonts carry meaning, like colors do
+
+- Last week: you chose colors and said **why**
+- This week: same for type
+- The standard: **7.5.4, identify appropriate typefaces**
+- A font has a personality before it says a single word
+
+---
+
+## The families you'll see in Adobe Express
+
+- **Serif** — little feet on the letters. Traditional, trustworthy, editorial.
+- **Sans serif** — no feet, clean lines. Modern, simple, neutral.
+- **Slab serif** — thick blocky feet. Strong, sturdy, bold.
+- **Script** — handwriting or cursive. Personal, elegant, or fun.
+- **Display / decorative** — big personality, for headlines only. Never body text.
+- **Monospace** — every letter the same width. Technical, code, retro.
+
+---
+
+## What each one signals
+
+- A hardware store: **slab serif or strong sans** — sturdy, dependable
+- A wedding: **script + serif** — elegant, personal
+- A tech startup: **geometric sans** — clean, modern
+- A horror poster: **rough display** — the font does the scaring
+- The font is a promise about what's inside
+
+---
+
+## The one real rule: pairing (7.5.2)
+
+- **Two families is plenty.** One for headings, one for body.
+- They should **contrast**, not clash: a sans heading over a serif body is a classic pair
+- Same font can't do both jobs well
+- Body text is boring on purpose. Save the personality for headings.
+
+---
+
+## Reasoning, like you did with color
+
+- With color you used complementary and analogous. With type you use **contrast** and **role**.
+- "I chose a slab serif heading because my brand is rugged, and a plain sans body so it stays readable."
+- That sentence is the assignment. Pick fonts you can defend.
+
+---
+
+## Your turn
+
+- In your brand kit, set a **heading font** and a **body font** from the Express picker
+- Name the family of each (serif? sans? slab? script?)
+- On your About page, add two sentences: **why** these fonts fit your brand
+- Tomorrow: finalize the monogram and type, then the pretest

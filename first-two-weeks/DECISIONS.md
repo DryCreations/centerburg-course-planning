@@ -174,6 +174,19 @@ row, this is newer and wins.
 - All three CTE courses: `_shared/slides/cte-day-1-slides.md`. Shared slides 1 to 9, a section per course, then
   shared closing slides. Exam percentages come from the 2026 WebXam blueprints.
 
+## Day 07 Update (Thu Aug 27)
+
+Planning Thursday (Day 07); flight and finalize are "tomorrow" (Fri, Day 08). Newer than the mid-week rows
+above where they conflict.
+
+| Course | Update |
+|--------|--------|
+| **Yearbook** | Theme brainstorming happened after all (~6 ideas; 3 drew votes, 3 did not). **Day 07 rebuilt:** start with a **final theme vote** (`handouts/theme-vote-form.md`, 3 finalists, teacher fills the two beyond "Seasons of Our Lives"), discuss what the book looks like and unique spreads, then break out onto the ladder or last year's pages. Teacher's favorite is **Seasons of Our Lives**, which would reorganize the ladder **chronologically by season**; added a "When the Theme Changes the Organization" note to `handouts/page-ladder.md`. The eDesign captions/practice-spread that was Day 07 is deferred. |
+| **Design Techniques** | Colors + monogram introduced Wed. **Day 07 = typography**, focus standard **7.5.4** (identify typefaces) with **7.5.2** (mix families): serif/sans/slab/script/display and what each signifies, plus font pairing and the "why" reasoning that mirrors the color work. Added a typography section to `slides/week-2-slides.md`. **Finalize monogram + type Friday, then the WebXam pretest** (per teacher: "typography today, finalize tomorrow, Friday pretest"). Quiz 1 stays Thursday. |
+| **Video and Sound** | Shutter mostly covered but the worksheet is unfinished and ISO/Manual still need a turn; class has a good vocab handle. **Day 07 adjusted:** a fast review, **finish the Camera Modes Shoot** (shutter + ISO + Manual), Quiz 1, and the five-frame photo challenge for anyone caught up. Pretest stays Friday. |
+| **Middle School CS** | Part A done (moving player + a sprite spawning with velocity). **Day 07 = a short demo** of `on sprite overlap`, `destroy`, and `pick random` (spawn somewhere new), then students build Part B themselves. Added a pick-random slide and a Part B requirement. Demo only, not building it for them. Checkpoint + showcase still Friday. |
+| **Aviation UAS** | Went off-book: started setting students up on **Ohio DOT's free Part 107 online course** (ODOT LDAP accounts), which replaces the WebXam-pretest plan. Access takes 48h+, not ready yet. **Day 07 = the controller and the controls**, hands-on and on the ground (new handout `handouts/controller-and-controls.md`: Mode-2 sticks, throttle/yaw/pitch/roll, pause + RTH buttons, screen reads). **Day 08 = flight**, gated by a start-of-class **flight check** (`assessments/flight-check.md`); pass it and you fly, otherwise observer/logger. **WebXam pretest, METAR lesson, and Quiz 1 all deferred to Unit 1.1.** No simulator is compatible with the DJI RC controller for the Mavic 3 Classic, so ground handling replaces sim time. |
+
 ## Writing Style
 
 - No em dashes anywhere in these documents.

@@ -13,7 +13,7 @@ Flight-prep week. We earn TRUST, drill the preflight, and **fly Friday.**
 
 ## Monday
 
-- Vocabulary goes up. Wednesday's quiz comes from it
+- Vocabulary goes up
 - Four forces of flight
 - Turn in: airspace lookup, five locations
 
@@ -25,28 +25,29 @@ Flight-prep week. We earn TRUST, drill the preflight, and **fly Friday.**
 
 ## Wednesday
 
-- Preflight inspection off a written checklist
-- The basic controls, and the launch/hover/land plan for Friday
-- **Quiz 1**, written in Part 107 question style
-- Turn in: preflight inspection lab
+- Setting up your Ohio DOT Part 107 online course account
+- Preflight basics
+- Turn in: ODOT account requested
 
 ## Thursday
 
-- Gallery walk, printed squares
-- **WebXam pretest.** It does not count for a grade
-- Final submission window, then the flight briefing
+- **The controller and the controls**, hands-on, on the ground
+- Throttle, yaw, pitch, roll; the pause and Return-to-Home buttons
+- How tomorrow's flight will run
+- Exit check: show throttle and yaw on the controller
 
 ## Friday
 
-- **First flight.** Go/no-go from real weather, safety brief, then short flights
+- **First flight.** Start with a quick flight check: pass it and you fly today
+- Go/no-go from real weather, safety brief, then short flights
 - Everyone rotates through pilot, visual observer, and logger
 - Turn in: your flight log entry
 
-## Due Thursday
+## Due this week
 
-- Ground School Package: four forces, airspace, preflight log, mission planning worksheet
-- Any week 1 work is accepted through Wednesday with no penalty
+- Ground School Package: four forces, airspace, preflight, mission planning
+- Any week 1 work is accepted with no penalty
 
 ## Before you fly Friday
 
-- You need TRUST done and the Wednesday preflight drill done. No exceptions
+- TRUST done, and you pass the Friday flight check. No pass, no sticks (you run observer and logger)

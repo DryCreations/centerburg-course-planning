@@ -2,6 +2,11 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
+> **What actually ran (Wed Aug 27):** went off-book to start **ODOT Part 107 online course** account setup
+> (LDAP), plus preflight basics. The preflight-drill + Quiz 1 plan below was not run as written; the preflight
+> content folds into Thursday's controller day and Friday's real preflight, and Quiz 1 is deferred to Unit 1.1.
+> Kept for reference.
+
 > **Flight-readiness day.** This is the "what do we actually do to get it up and back down safely" lesson. By
 > the end, every student can run a preflight inspection and name the basic controls. Nobody flies Friday who
 > did not do the preflight drill today. Quiz 1 also moves here, since Thursday is now the pretest.

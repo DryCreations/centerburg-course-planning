@@ -30,12 +30,13 @@ keeps a low score from reading as failure.
 Rest of the period until students finish. As each one finishes, they record strand scores on the sheet and
 move to the submission window.
 
-## Submission Window
+## Submission Window (also the finalize block)
 
-Self check before turning in.
+This is the finalize time from yesterday: last chance to lock the monogram and the type, then submit.
 
 - [ ] Site published, URL submitted, unit pages exist
-- [ ] Brand kit saved in Express: colors, fonts, adjectives
+- [ ] Brand kit saved in Express: colors, **heading and body fonts**, adjectives
+- [ ] About page explains the color choices **and the font choices** (two sentences each)
 - [ ] Monogram exported as a transparent PNG and placed on the site
 - [ ] Files named `lastname-item-version.ext`
 

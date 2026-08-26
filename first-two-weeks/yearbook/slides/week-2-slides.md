@@ -121,24 +121,40 @@ the slide.
 
 ---
 
-# DAY 07 — Captions and Spreads
+# DAY 07 — Decide the Theme
 
 ---
 
-## A caption adds what the photo cannot
+## Vote (today's bell ringer)
 
-- "Students in the hallway" says nothing
-- Name the people, say what is happening, add one detail the photo does not show
-- Names have to be right. Ask twice.
+- Three finalists from yesterday
+- Vote for the one you'd be proud to have your name on
+- One sentence: why that one
 
 ---
 
-## Your turn — a practice spread
+## A theme is a decision about what the book says
 
-- Four photos from week 1
-- A caption for each: names, action, one detail
-- A headline
-- Save and check the page in
+- It shows up on the cover, the openers, the type, the color, the captions
+- The test: what does it look like on **page 40?**
+- Good themes make some spreads possible a plain book can't have
+
+---
+
+## Some themes change the order
+
+- Default: organize by section (sports together, clubs together)
+- **Seasons of Our Lives** → chronological, fall to summer
+- Sports and events sit where they happened, not grouped
+- We **re-order** the ladder we already built. We don't start over.
+
+---
+
+## Your turn — break out
+
+- **Ladder track:** re-order and keep filling it around the theme
+- **Legacy track:** keep working last year's unfinished pages
+- Every spread still needs a section, a subject, and now the right spot for the theme
 
 ---
 
