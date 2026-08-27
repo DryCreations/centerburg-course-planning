@@ -2,78 +2,77 @@
 
 **Course:** Design Techniques, **Unit:** 1.0 Orientation and Portfolio Setup
 
-> **Typography day.** Colors and the monogram were introduced yesterday. Today the type: what the font families
-> are, what they signify, and how to pick a heading and body pair you can defend, the same way they defended
-> their colors. Finalizing the monogram and type is tomorrow's work block, then the pretest.
+> **Get the monogram onto the site, small and legible.** Most are finishing the monogram, so today it goes onto
+> the Google Site as an icon and a header, and we test the thing that actually matters: does it still read when
+> it is shrunk down. Finalize and the pretest are tomorrow.
 
 ## Objective
 
-Students can identify the main typeface families (serif, sans serif, slab, script, display), say what each one
-signifies, and choose a heading font and a body font for their brand kit with a stated reason.
+Students place their monogram on their Google Site as a site icon and a header image, and can judge whether a
+mark stays legible when it is small or seen from a distance, fixing it if it does not.
 
 ## Standards / Outcomes
 
-- **7.5.4.** Identify appropriate typefaces (serif, sans serif, web safe, screen, print).
-- **7.5.2.** Mix families of type within a project.
-- 7.5: typography (introduced)
+- 7.4.7: optimize and export graphics for intended use
+- 7.5.4: appropriate typefaces (legibility at size)
+- 1.1.5: portfolio development
 
 ## Materials & Setup
 
-Typography slides (`slides/week-2-slides.md`, Day 07 section), Express open on the projector with the font
-picker ready, two or three real examples where the font obviously fits (or clashes with) the brand, the printed
-squares still on the wall.
+Google Sites open on the projector, a student (or exemplar) monogram exported as a transparent PNG, the Day 07
+icon/legibility slides, the printed squares still on the wall for the distance test.
 
 ## Bell Ringer (5 min)
 
-*Two versions of the same word "BAKERY" on the board, one in an elegant script and one in a heavy blocky font.
-Which bakery would you rather visit, and what did the font alone tell you?*
+*Look at three phone apps on your home screen from arm's length. Which icon do you recognize fastest, and why?*
+(Simple, high-contrast, one idea. That is the whole legibility lesson in one question.)
 
-## Quiz 1 (15 min)
+## Quiz 1 (10 min, if not already given)
 
-Paste ready in `assessments/quiz-1.md`, from Monday's vocabulary. Stays on Thursday; Friday is the WebXam
-pretest. Run it after the bell ringer.
+Short, from the week's vocabulary, paste ready in `assessments/quiz-1.md`. Skip if you ran it earlier in the
+week; if so, go straight to the demo.
 
-## Direct Instruction (15 min)
+## Direct Instruction (15 min): Icons and Legibility
 
-Slides Day 07, with the Express font picker live.
+Live in Google Sites.
 
-1. **Fonts carry meaning, like colors do.** Last week they chose colors and said why; today, the same for type.
-2. **The families** (7.5.4): serif (traditional, trustworthy), sans serif (modern, clean), slab (strong,
-   sturdy), script (personal, elegant), display (headline only), monospace (technical). Show each in the picker.
-3. **What each signals:** a hardware store versus a wedding versus a tech startup. The font is a promise about
-   what is inside.
-4. **Pairing** (7.5.2): two families is plenty, one heading and one body, contrast without clashing. Body text
-   is plain on purpose; the personality lives in the headings.
-5. **The reasoning move:** with color they used complementary and analogous; with type they use contrast and
-   role. "Slab serif heading because my brand is rugged, plain sans body so it stays readable."
+1. **Add a site icon (favicon):** Settings → Brand images → **Favicon**, upload the monogram PNG. Show where it
+   appears, the little icon on the browser tab. Then **Logo**, which shows in the site header.
+2. **The transparent PNG matters here:** a white box behind the mark looks broken on a colored header. This is
+   why we exported transparent.
+3. **The small-size test:** shrink the mark on screen to about 32 px, the real favicon size. Does it still read?
+   Most first monograms turn into a smudge. Simple survives; fussy dies.
+4. **The distance test:** stand back from the projector, or look at the printed squares from across the room.
+   Thin lines and low contrast disappear first. If it vanishes, it is too detailed or too low-contrast.
 
 ## Work Time (20 min)
 
-- Set a **heading font** and a **body font** in the brand kit, from the Express picker.
-- Name the family of each.
-- Add **two sentences on the About page**: why these fonts fit the brand, the same kind of reasoning used for
-  the colors.
-- Keep building or refining the monogram with the brand kit type. Finalizing is tomorrow's block.
+- **Place the monogram** on the Google Site: as the **favicon** and in the **header/logo**.
+- **Run both tests:** shrink it to 32 px, and look from across the room.
+- **Fix what fails:** thicken thin strokes, raise contrast, remove a detail. Re-export the PNG and replace it.
+- Keep building the site: home page, About page with the square, unit placeholder pages.
 
 ## Closure / Exit Ticket (5 min)
 
-**Exit ticket:** *Your two fonts, their families, and one word each for the feeling they give.*
+**Exit ticket:** *Did your monogram survive the 32 px test? If yes, what made it work; if no, what will you
+change?*
 
 ## Handouts Used
 
-- `slides/week-2-slides.md` (Day 07 typography)
-- `assessments/quiz-1.md`
-- `assignments/week-2-assignment.md` (brand kit type, monogram)
+- `slides/week-2-slides.md` (Day 07 icons/legibility)
+- `assessments/quiz-1.md` (if not already given)
+- `assignments/week-2-assignment.md` (monogram, portfolio)
 
 ## Assignment Given / Due
 
-- **Quiz 1 today**, from Monday's vocabulary.
 - In progress: Week 2 package. **Finalize tomorrow**, then the WebXam pretest.
 
 ## Teacher Notes
 
-- Push the same standard you pushed on color: a choice with a reason. "It looked cool" is not a reason; "it
-  fits because my brand is X" is.
-- The most common mistake is a fussy display font as body text. Show it once, unreadable, and move on.
-- Keep it to two fonts. Students want five. Two that contrast beat five that fight.
-- Everything finalizes tomorrow before the pretest, so today is choosing and reasoning, not perfecting.
+- The 32 px test is the lesson. A monogram that only works big is not a usable mark, and this is the fastest,
+  most honest way for them to see it. Let the smudges happen, then fix them.
+- Favicon upload in Google Sites is under Settings, not the header, and students will hunt for it. Show the
+  exact clicks once.
+- The transparent-PNG payoff lands today: the marks with a white box look broken on the header, and that sells
+  why the export setting mattered.
+- Finalizing (type, colors, monogram, About-page reasoning) is tomorrow's block before the pretest.

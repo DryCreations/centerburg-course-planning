@@ -121,40 +121,50 @@ the slide.
 
 ---
 
-# DAY 07 — Decide the Theme
+# DAY 07 — Seasons of Our Lives
 
 ---
 
-## Vote (today's bell ringer)
+## The theme is set. Now we build it.
 
-- Three finalists from yesterday
-- Vote for the one you'd be proud to have your name on
-- One sentence: why that one
-
----
-
-## A theme is a decision about what the book says
-
-- It shows up on the cover, the openers, the type, the color, the captions
-- The test: what does it look like on **page 40?**
-- Good themes make some spreads possible a plain book can't have
+- The book reads **fall → winter → spring → year's end**
+- Events sit where they happened, not grouped by section
+- Student life threads through all four seasons
 
 ---
 
-## Some themes change the order
+## Sort the ladder into seasons
 
-- Default: organize by section (sports together, clubs together)
-- **Seasons of Our Lives** → chronological, fall to summer
-- Sports and events sit where they happened, not grouped
-- We **re-order** the ladder we already built. We don't start over.
+- Fall sports + homecoming → early
+- Winter sports + the play → middle
+- Prom, spring sports, graduation → end
+- Every spread gets a **season, a section, and a subject**
 
 ---
 
-## Your turn — break out
+## Covers
 
-- **Ladder track:** re-order and keep filling it around the theme
-- **Legacy track:** keep working last year's unfinished pages
-- Every spread still needs a section, a subject, and now the right spot for the theme
+- Pull up old covers and other schools'
+- What makes a cover feel like *this* year?
+- All four seasons in one design, or one strong image for the whole year?
+- Collecting directions today, not deciding
+
+---
+
+## A reviewer on every page
+
+- No spread is "done" until someone else checks it
+- Names right, captions say something, nothing crosses the gutter
+- Being reviewed is normal, not a judgment
+
+---
+
+## Your turn — three tracks
+
+- **Ladder + seasons:** finish sorting the ladder
+- **Covers:** three cover directions, sketch + one line each
+- **Finalize + review:** build spreads, check each other's pages
+- **Weekend:** sign out a camera, shoot a game
 
 ---
 

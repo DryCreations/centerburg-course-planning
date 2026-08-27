@@ -2,74 +2,79 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
-> **Flight prep day. We fly tomorrow.** No simulator talks to our controller, so today is hands-on the actual
-> controller, on the ground: the words, the sticks, and the safety buttons. Nothing takes off today. The
-> flight-check quiz that gates flying runs at the start of tomorrow.
+> **First flight.** Controller day was yesterday, so today we fly. Start with the controller quiz (it gates who
+> flies), then outside for a short, structured flight per student, each one coming back with two photos. Nine
+> students, so everyone flies and everyone observes.
 
 ## Objective
 
-Every student can name the flight controls (throttle, yaw, pitch, roll), show them on the controller in Mode 2,
-find the pause and Return-to-Home buttons without looking, and describe how tomorrow's flight will run.
+Students pass the controller quiz, then safely fly a short set sequence, launch, forward, turn, two photos,
+Return to Home, and land, and offload their photos to Classroom.
 
 ## Materials & Setup
 
-The **DJI RC controller** and a **Mavic 3 Classic** in hand (props off or clearly secured), a labeled photo of
-the controller on the projector, `handouts/controller-and-controls.md` printed, the preflight checklist from
-this week, the flight-day plan sketched on the board.
+Aircraft charged and props inspected, controllers bound and tested, the cleared flight area with a boundary and
+a spectator line, batteries staged, the controller quiz posted, today's real weather pulled up before class, a
+card reader and a computer for offloading after.
 
-## Bell Ringer (5 min)
+## Controller Quiz (first 10 minutes)
 
-*You are flying and you get confused about which way the drone is going. What is the safest single thing you
-can do with your thumbs?* (Let go. The sticks center and it hovers.)
+**`assessments/flight-check.md`**, five to ten questions on the controller and the controls from yesterday.
+Pass (8 of 10, and all four safety questions) and you are cleared to fly today. Anyone who misses runs visual
+observer and logger and retakes it before their turn. Safety gate, not a grade.
 
-## Direct Instruction (20 min): The Controller
+## Go / No-Go (5 min)
 
-Work straight through `handouts/controller-and-controls.md`, controller in hand.
+Pull the real weather and make the call together: wind, gusts, visibility, ceiling. If it is no-go, run the
+ground alternative and fly the next clear day. A scrub is a good decision, not a failure.
 
-1. **The words** (Part 1): throttle, yaw, pitch, roll, hover, RTH, line of sight. Show each with the aircraft
-   or your own body. The big three are throttle, yaw, pitch/roll.
-2. **The sticks** (Part 2, Mode 2): left stick throttle and yaw, right stick pitch and roll. Two rules:
-   **center is stop** (let go and it hovers) and **small inputs**.
-3. **The tour** (Part 3): power, flight-mode switch (we fly Cine or Normal, never Sport), **RTH button**,
-   **pause/hover button**, gimbal dial, shutter. Drill the pause and RTH buttons by name.
-4. **The screen** (Part 4): battery percent, height, distance, GPS lock. In the air, those numbers are the job.
+## Safety Briefing (5 min)
 
-## Activity (20 min): Hands On the Controller
+Boundary, spectator line, who calls "stop." The one rule above all: **anyone may call an all-stop for any
+reason, and the pilot lands or hovers immediately, no argument.**
 
-No flight. Rotate the controller through every student.
+## Flight Block (rest of the period): The Sequence
 
-1. Each student holds it, finds both sticks, and shows you **throttle** and **yaw**, then **pitch** and **roll**.
-2. Each student points to the **pause** button and the **RTH** button without looking.
-3. If it is safe (props off or secured, indoors), power on so they see the gimbal move and the screen come
-   alive, with zero chance of flight.
-4. Walk the **preflight checklist** against the aircraft, so tomorrow's first step is familiar.
-5. Read the **flight-day plan** (Part 5) out loud so nobody is surprised: preflight, power on, low hover, small
-   moves, land on the same spot, rotate roles. And the one rule: anyone may call an all-stop.
+Each student, in turn, flies the sequence from `assignments/first-flight-photos.md`:
+
+1. Preflight, then boot up and wait for GPS lock.
+2. Up to a low hover.
+3. A little forward, then stop and hover.
+4. Yaw 180 to face the group.
+5. **Photo 1:** the group selfie.
+6. Zoom in, reframe.
+7. **Photo 2:** the zoomed shot.
+8. **Return to Home**, land.
+
+Roles rotate: pilot, visual observer, logger. Everyone watches before everyone flies. Keep each flight short so
+all nine get a real turn.
+
+## Back Inside (last 10 minutes)
+
+Offload the photos to a computer and upload two per student to Classroom, named `lastname-flight-selfie.jpg`
+and `lastname-flight-zoom.jpg`. That is the First Flight Photos assignment.
 
 ## Closure / Exit Ticket (5 min)
 
-**Exit ticket, on the controller:** show me throttle and yaw, and point to the pause button. (Do this as they
-line up to leave; it is also the readiness check for who is set to fly.)
+Aircraft powered down, inspected, batteries logged and on a safe charge.
+**Exit ticket:** *One thing that went differently than you expected on the sticks, and one thing you would do
+on your next flight.*
 
 ## Handouts Used
 
-- `handouts/controller-and-controls.md`
-- Preflight checklist (Classroom / printed)
+- `assessments/flight-check.md`
+- `assignments/first-flight-photos.md`
+- `handouts/controller-and-controls.md` (reference)
 
 ## Assignment Given / Due
 
-- In progress: Week 2 Ground School Package
-- Tomorrow: the **Flight Check** at the start of class (`assessments/flight-check.md`), then we fly
+- Given and due today: First Flight Photos, 10 pts
+- Anyone who did not fly today (missed the quiz, absent, or weather): flies tomorrow.
 
 ## Teacher Notes
 
-- **ODOT / Part 107 online course:** accounts were requested but access can take more than 48 hours, so it is
-  not ready for today. When it comes through, that course becomes the ongoing Part 107 prep. See OPEN-ITEMS.
-- **The WebXam pretest is deferred out of this week** (flight took the day). Put it in Unit 1.1 with the ODOT
-  course rather than cramming it onto flight day. Confirm with me if you would rather run it.
-- Drill the pause and RTH buttons until they are automatic. Those two buttons are the whole safety story for a
-  first flight.
-- Confirm before students leave: aircraft charged, props inspected, batteries on chargers, and the flight
-  location cleared and available for tomorrow.
-- Set the flight order from today's exit check: the students who can name the controls cold fly first and model
-  it for the rest.
+- Confirm every flying student passed the controller quiz and has TRUST on file before they take the sticks.
+- Drill the pause and RTH buttons by name before the first launch, one more time.
+- Charge state matters more than flight count. End every battery at a safe storage charge and log it.
+- With nine students, protect flight time: keep the ground briefing tight so everyone gets a real turn.
+- Tomorrow can catch any makeups and start the wrap-up, since next week we consolidate and re-plan.

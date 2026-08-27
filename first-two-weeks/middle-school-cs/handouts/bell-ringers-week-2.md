@@ -88,8 +88,71 @@ when the player actually touches a coin. This is the single most common Arcade b
 
 ---
 
+## More: Variable Manipulation (reassignment, changes, order)
+
+These test the thing the class needs next: **`set` overwrites, `change by` adds,** and the order of lines
+matters. Keep them on the board and walk each line, writing the value next to it as you go. That is the move
+that turns a "trick question" into an obvious one.
+
+### Bell Ringer 6 (Day 07): Why didn't they swap?
+
+```
+set a to 5
+set b to 10
+set a to b
+set b to a
+```
+
+**Ask:** What are `a` and `b` at the end?
+
+**Answer:** Both **10**. After `set a to b`, a is already 10, so `set b to a` just sets b to 10 again. This is
+the classic "I tried to swap two variables and they both ended up the same." Walk it line by line and it stops
+being a trick. (Real swapping needs a third temporary box, which is a great follow-up.)
+
+### Bell Ringer 7 (Day 07 or spare): set vs. change
+
+```
+set score to 10
+change score by 5
+set score to 0
+change score by 2
+```
+
+**Ask:** What is `score` at the end?
+
+**Answer:** **2.** The `set score to 0` wipes it back to zero; then change by 2. Point out the difference:
+`change by` adds to what is there, `set` throws it away and starts over.
+
+### Bell Ringer 8 (spare): plain accumulation
+
+```
+set coins to 0
+change coins by 5
+change coins by 5
+change coins by -3
+```
+
+**Ask:** What is `coins`?  **Answer:** **7.** Warm and easy, good on a slow morning.
+
+### The Fibonacci one (harder, use with care)
+
+```
+set n1 to 1
+set n2 to 2
+change n1 by n2
+change n2 by n1
+change n1 by n2
+change n2 by n1
+```
+
+Values go 1, 2, then n1=3, n2=5, n1=8, n2=13, the Fibonacci sequence. It is a great payoff **but it confused a
+lot of the class**, because each variable keeps changing and depends on the other. If you use it, write the two
+values in a little table and update them line by line, out loud, together. Do not use it cold as a "what's the
+answer" question; use it as a walk-through.
+
 ## Making Your Own
 
-When you need more, keep the same shapes: a few variable changes and "what is it at the end," a sprite with a
-velocity and "which way and how far," an event and "how many times does this run," or a small program with one
-planted bug and "what does it really do." Reading code is the skill; keep them short.
+Keep the same shapes: a few variable changes and "what is it at the end," a `set` then a `change` to test the
+difference, a sprite with a velocity and "which way and how far," an event and "how many times does this run,"
+or a small program with one planted bug and "what does it really do." Reading code is the skill; keep them
+short, and **walk the confusing ones line by line** rather than asking for the answer cold.

@@ -2,70 +2,77 @@
 
 **Course:** Yearbook
 
-> **Decide the theme, then re-plan the book around it.** Yesterday the staff brainstormed theme ideas and three
-> drew votes. Today we pick the winner by form, talk through what the book now looks like, and get back into the
-> ladder, which may re-organize once the theme is set.
+> **Theme decided: Seasons of Our Lives.** The vote is in, so today we build around it: how the book organizes
+> by season, what the cover could be, and finishing the ladder with a reviewer on every page we can. The camera
+> sign-out sheet is up so photos start coming in from this weekend's games.
 
 ## Objective
 
-The staff picks a final theme, describes how it shapes the book (cover, openers, unique spreads, and how the
-ladder is organized), and keeps building the ladder or works outstanding pages from last year's book.
+The staff decides how the book is organized by season, studies old covers for ideas, keeps finalizing the
+ladder and spreads with a reviewer named on each page, and signs out cameras for weekend coverage.
 
 ## Materials & Setup
 
-The final theme vote as a Google Form (`handouts/theme-vote-form.md`) up as students walk in, the drafted
-ladder on the coverage board, last year's book and older books on the tables, the outstanding-page list for
-Legacy Triage.
+The ladder on the coverage board, last year's book and several older books open to their **covers**, the
+outstanding-page review list, the camera sign-out sheet posted, the shared theme/cover doc for ideas.
 
-## Bell Ringer (5 min): Vote
+## Bell Ringer (5 min)
 
-**The final theme vote** (`handouts/theme-vote-form.md`), between the three finalists that got votes yesterday.
-One response per student. Show the live results when the timer ends.
+*Seasons of Our Lives. Name the four sections of our year in order, and one thing that belongs in each.* (Fall,
+winter, spring, and the end-of-year/summer send-off. This is the spine of the whole book now.)
 
-## Direct Instruction / Discussion (15 min): What the Theme Makes Possible
+## Direct Instruction / Discussion (15 min)
 
-1. **Announce the winner** as a decision, and read a couple of the "why" answers out loud.
-2. **What it looks like:** how the theme shows up on the cover, on section openers, in the type and color, and
-   in captions. Keep asking, "what does this look like on page 40?"
-3. **Unique spreads:** the theme should make some spreads possible that a plain book would not have. Pull the
-   best answers from the vote's third question and name them.
-4. **How it organizes the book:** some themes change the order. If it is **Seasons of Our Lives** (or any
-   time-based theme), the book goes chronological, fall to summer, and sports and events split across the
-   calendar instead of grouping by section. Walk the `page-ladder.md` "When the Theme Changes the Organization"
-   note. We **re-order** the drafted ladder; we do not rebuild it.
+1. **Organize by season.** The book now reads fall → winter → spring → year's end. Walk the ladder and sort:
+   which spreads live in which season, and where student life threads through all four. Fall sports and
+   homecoming early; winter sports and the play in the middle; prom, spring sports, and graduation at the end.
+2. **Covers.** Pull old covers and other schools' covers up. What makes a cover feel like *this* year? For
+   Seasons of Our Lives: does the cover show all four seasons, or one strong image that implies the whole year?
+   No decision today, we are collecting directions.
+3. **A reviewer on every page.** Introduce the rule for finalizing: no spread is "done" until someone other
+   than its maker has checked it, names first. Assign reviewers as we go.
 
-## Work Time (25 min): Break Out
+## Work Time (25 min): Three Tracks
 
-Two tracks, students pick or you assign:
+Pick your track or I will point you to one.
 
-1. **The ladder.** Re-order and keep filling it against the chosen theme. Every spread still needs a section
-   and a subject; now it also needs to sit in the right place for the theme. Reference the old books.
-2. **Old yearbook pages.** Legacy Lead and a couple of others keep working the outstanding pages from last
-   year's book, flagging anything unrecoverable.
+1. **Ladder + seasons.** Finish sorting the ladder into the four seasons; every spread gets a season, a
+   section, and a subject.
+2. **Covers.** Small group: three cover directions for Seasons of Our Lives, each with a one-line description
+   and a rough sketch. Post to the shared doc.
+3. **Finalize + review.** Keep building spreads in eDesign, and **review each other's pages** against the
+   checklist: names right, captions say something, nothing crosses the gutter. Legacy Lead keeps closing out
+   last year's pages.
+
+## Weekend Coverage (2 min)
+
+The **camera sign-out sheet** is up. If you can get to a game or event this weekend, sign out a camera and
+shoot. This is the first real coverage of the year, and it counts.
 
 ## Closure / Exit Ticket (5 min)
 
-Each track reports one thing in a sentence: the ladder track names a spread the theme changed; the legacy track
-names a page they moved forward.
+Each track reports one thing: a season that is now full on the ladder, a favorite cover direction, or a page
+that got reviewed and finalized.
 
-**Exit ticket:** *Now that we have a theme, one spread you are excited to work on, and why.*
+**Exit ticket:** *One event this weekend you could cover, and which season of the book it feeds.*
 
 ## Handouts Used
 
-- `handouts/theme-vote-form.md`
-- `handouts/page-ladder.md`
-- last year's book and older books
+- `handouts/page-ladder.md` (seasonal organization note)
+- `../_shared/camera-signup-sheet.md`
+- last year's book and older books, open to covers
 
 ## Assignment Given / Due
 
-- Given and due today: final theme vote
-- In progress: Week 2 Staff Setup Package, and the ladder
+- Given: weekend camera sign-out and coverage
+- In progress: the ladder, spreads, and Week 2 Staff Setup Package
 
 ## Teacher Notes
 
-- Your favorite, **Seasons of Our Lives**, is the one that most changes the organization, so if it wins, budget
-  the most re-planning time and lean on the ladder note. If a section-based theme wins, the ladder barely moves.
-- Let the vote be real. If you steer it, the staff knows, and the buy-in you are building evaporates.
-- Do not try to finish the ladder today. A themed, re-ordered, half-full ladder is exactly right at this stage.
-- Beat and role assignments: you have preferences in from yesterday. Post them tomorrow or early next week,
-  now that the theme is set and the sections are firmer.
+- Seasons of Our Lives is the organization-heavy theme, so the ladder re-sort is the real work today. Do not
+  let it get skipped for cover sketching, which is more fun and less urgent.
+- "A reviewer on every page" is the habit that keeps names right all year. Start it now while the stakes are
+  low, and make being reviewed normal, not a judgment.
+- Confirm the weekend sign-outs: who has a camera, which event, and that they know how to offload Monday.
+- Beat and role assignments: post them now that the theme and sections are set, if you have not.
+- This is the last week-2 planning day; next week we consolidate and plan the quarter.

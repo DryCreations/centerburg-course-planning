@@ -37,18 +37,17 @@ Nothing here blocks a lesson. Everything here has a written fallback in the affe
 - [ ] Build the strand recording sheet in Classroom, one per CTE course (DT, VS).
 - [ ] DT and VS Quiz 1 on **Thursday**. Checkpoint 1 for MS CS on Friday. Delete the answer keys before posting.
 
-**Aviation, Thursday (Day 07) controller day and Friday (Day 08) flight:**
+**Aviation, Thursday (Day 07) first flight and Friday (Day 08) makeups:**
 
-- [ ] Pull up a **labeled photo of the DJI RC controller** for the projector (handout is
-      `aviation-uas/handouts/controller-and-controls.md`).
-- [ ] Charge controller and aircraft; if safe, plan to power on indoors (props off) so the sticks/gimbal/screen
-      demo works with no chance of flight.
-- [ ] Build the **flight-check quiz** as a Google Form (`aviation-uas/assessments/flight-check.md`); it gates
-      who flies Friday. Delete the key.
+- [ ] Build the **controller quiz** as a Google Form (`aviation-uas/assessments/flight-check.md`); it gates who
+      flies Thursday. Delete the key.
 - [ ] Location cleared and available for the flight, boundary and spectator lines set.
 - [ ] Aircraft charged, props inspected, controllers bound and tested; batteries at safe charge.
-- [ ] Every flying student's **TRUST completion on file**, and they pass the flight check. No pass, no sticks.
-- [ ] Pull the real weather Friday morning for the group go/no-go call; ground alternative ready if no-go.
+- [ ] Every flying student's **TRUST completion on file**, and they pass the controller quiz. No pass, no sticks.
+- [ ] Pull the real weather Thursday morning for the group go/no-go call; ground alternative ready if no-go.
+- [ ] Card reader + a computer ready to **offload the flight photos** and upload to Classroom
+      (`aviation-uas/assignments/first-flight-photos.md`).
+- [ ] Friday: fly any makeups, collect all photos, gear/battery care, run the two-weeks-in wrap-up.
 
 **Aviation ODOT / Part 107 online course (off-book pivot):**
 
@@ -57,14 +56,20 @@ Nothing here blocks a lesson. Everything here has a written fallback in the affe
 - [ ] Once access lands, the ODOT course is the Part 107 prep path. Re-slot the **WebXam pretest, METAR
       lesson, and aviation Quiz 1** into Unit 1.1 around it.
 
-**Yearbook, theme and ladder this week:**
+**Yearbook, theme decided (Seasons of Our Lives):**
 
-- [ ] Fill finalists 2 and 3 on the **theme vote form** (`yearbook/handouts/theme-vote-form.md`) with the two
-      other themes that got votes; post it as Thursday's bell ringer.
-- [ ] If **Seasons of Our Lives** (or another time-based theme) wins, budget time to **re-order the ladder
-      chronologically**; see the note in `yearbook/handouts/page-ladder.md`.
-- [ ] Post beat and role assignments (preferences are in) once the theme and sections firm up.
+- [ ] Finish sorting the ladder into the **four seasons**; every spread gets a season, a section, a subject.
+      See the note in `yearbook/handouts/page-ladder.md`.
+- [ ] Collect **cover directions** for Seasons of Our Lives (old covers as reference); decide later.
+- [ ] Stand up the **"reviewer on every page"** habit as spreads finalize.
+- [ ] **Weekend camera sign-outs:** confirm who has a camera, which event, and that they can offload Monday.
+- [ ] Post beat and role assignments (preferences are in), now that theme and sections are set.
 - [ ] Set the per-quarter coverage point target (12 is the draft).
+
+**After Friday, all courses:**
+
+- [ ] Stop the day-by-day format. **Consolidate what actually ran** these two weeks, then **re-plan the year /
+      Q1** per course (see DECISIONS, "Final Week-2 Prep"). Yearbook and MS CS still need unit-level plans first.
 
 **Still outstanding from week 1:**
 

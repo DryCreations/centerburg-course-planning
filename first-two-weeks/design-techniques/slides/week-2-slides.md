@@ -169,3 +169,44 @@ Where a slide says **demo**, do it live in Express or on the projector. The slid
 - Name the family of each (serif? sans? slab? script?)
 - On your About page, add two sentences: **why** these fonts fit your brand
 - Tomorrow: finalize the monogram and type, then the pretest
+
+---
+
+# DAY 07 (cont.) — Icons and Legibility
+
+*(Typography above was the earlier lesson; this is the monogram-onto-the-site day.)*
+
+---
+
+## Your mark becomes the site's icon
+
+- **Google Sites → Settings → Brand images**
+- **Favicon** = the little icon on the browser tab
+- **Logo** = shows in the site header
+- Upload your monogram PNG (transparent, so no white box)
+
+---
+
+## The 32-pixel test
+
+- Shrink the mark to ~32 px on screen (real favicon size)
+- Does it still read, or is it a smudge?
+- **Simple survives. Fussy dies.**
+- Most first marks fail this. That's the lesson, not a fail.
+
+---
+
+## The distance test
+
+- Stand back from the screen, or look at the wall squares from across the room
+- Thin lines and low contrast disappear first
+- If it vanishes: thicken strokes, raise contrast, drop a detail
+
+---
+
+## Fix it and re-place it
+
+- Change the mark in Express
+- Re-export the **transparent PNG**
+- Replace the favicon and header logo
+- Then keep building your pages

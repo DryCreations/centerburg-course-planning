@@ -187,6 +187,23 @@ above where they conflict.
 | **Middle School CS** | Part A done (moving player + a sprite spawning with velocity). **Day 07 = a short demo** of `on sprite overlap`, `destroy`, and `pick random` (spawn somewhere new), then students build Part B themselves. Added a pick-random slide and a Part B requirement. Demo only, not building it for them. Checkpoint + showcase still Friday. |
 | **Aviation UAS** | Went off-book: started setting students up on **Ohio DOT's free Part 107 online course** (ODOT LDAP accounts), which replaces the WebXam-pretest plan. Access takes 48h+, not ready yet. **Day 07 = the controller and the controls**, hands-on and on the ground (new handout `handouts/controller-and-controls.md`: Mode-2 sticks, throttle/yaw/pitch/roll, pause + RTH buttons, screen reads). **Day 08 = flight**, gated by a start-of-class **flight check** (`assessments/flight-check.md`); pass it and you fly, otherwise observer/logger. **WebXam pretest, METAR lesson, and Quiz 1 all deferred to Unit 1.1.** No simulator is compatible with the DJI RC controller for the Mavic 3 Classic, so ground handling replaces sim time. |
 
+## Final Week-2 Prep (Thu Aug 27 / Fri Aug 28)
+
+Last day-by-day update before we **consolidate the two weeks and re-plan the year (or at least Q1)**. Things
+moved faster than the day-files assumed, so this supersedes the rows above where they differ.
+
+| Course | Thursday (Day 07) | Friday (Day 08) |
+|--------|-------------------|-----------------|
+| **Yearbook** | Theme decided: **Seasons of Our Lives.** Organize the ladder by season (fall → year's end), study old **covers**, keep finalizing spreads with **a reviewer named on every page**, and sign out cameras for weekend game coverage. | "Fully operational" wrap: beats/roles, deadline board, first weekly status (existing Day 08). |
+| **Design Techniques** | Monogram is finishing, so **place it on the Google Site** (favicon + header) and teach **icons and small-size legibility** (the 32 px test, the distance test). Typography was the earlier lesson. | Finalize (type, color, monogram, About-page reasoning) + **WebXam pretest**. |
+| **Video and Sound** | Slower than planned: most groups **not through shutter**, ready to **start Manual**. Finish shutter, start Manual; whatever is unfinished carries to Friday. Quiz 1 optional. Early finishers work silently. | **WebXam pretest**, then the planned **catch-up window** to finish the Camera Modes Shoot silently. |
+| **Middle School CS** | Part B done. Open with a **variable-manipulation bell ringer** (the swap "why didn't they swap" gotcha, walked line by line, since yesterday's Fibonacci one read as a trick), then **finish the lab** (Part C). New bell ringers added to the handout. | Checkpoint 1 + game showcase (existing Day 08). |
+| **Aviation UAS** | **First flight moved to Thursday.** Controller quiz gates who flies (`assessments/flight-check.md`), then the set sequence: up, forward, turn, **group selfie photo**, zoom, **second photo**, Return to Home. Offload + upload two photos to Classroom (**First Flight Photos**, `assignments/first-flight-photos.md`). Nine students. | **Makeups + wrap:** anyone who did not fly, submit photos, gear/battery care, and a two-weeks-in discussion that feeds the re-plan. |
+
+**Next:** after Friday, stop the day-by-day format and **consolidate what actually ran** across the five
+courses, then re-plan the full year, or at least Q1, per course. The exit tickets and "what you want more of"
+answers from Friday are the first inputs.
+
 ## Writing Style
 
 - No em dashes anywhere in these documents.

@@ -2,82 +2,62 @@
 
 **Course:** Aviation UAS, **Unit:** 1.0 Orientation
 
-> **First flight.** Start with the flight-check quiz: it gates who flies. Pass it and you fly today; miss too
-> much and you run visual observer and logger, and fly once you have it down. A safe flight is the goal, not a
-> long one.
+> **Makeups and wrap.** Most flew Thursday. Today catches anyone who did not, gets every photo submitted, and
+> closes out the first two weeks. Next week we consolidate and start planning the year.
 
 ## Objective
 
-Students pass the flight-check gate, make a go/no-go call from real weather, complete a preflight, and safely
-launch, hold a low hover, make a controlled move or two, and land on the same spot, rotating through pilot,
-visual observer, and logger.
+Every student has flown the first-flight sequence or is scheduled to, all First Flight Photos are submitted,
+and the class can name what it learned in two weeks and what it wants next.
 
 ## Materials & Setup
 
-Aircraft charged and props inspected the day before, controllers bound and tested, the cleared flight location
-set up with a boundary and a spectator line, batteries staged, the flight-check quiz posted, today's real
-weather pulled up **before class**, a flight log in Classroom.
+Aircraft charged if any makeup flights are needed, the flight area available, card reader and a computer for
+offloading, today's weather, the flight log open.
 
-## Flight Check (first 10 minutes)
+## Bell Ringer (5 min)
 
-**`assessments/flight-check.md`**, at the start of class. Ten quick questions on the controls and safety from
-yesterday. Pass (8 of 10, and all four safety questions) and you are cleared to fly. Anyone who misses runs
-observer and logger today and retakes it before their turn. This is a safety gate, not a grade.
+*What surprised you most about actually flying, versus how you thought it would feel?*
 
-## Go / No-Go (next 10 minutes)
+## Makeup Flights (if needed)
 
-Together, out loud, before anyone touches an aircraft.
+Anyone who missed Thursday, absent, did not pass the controller quiz, or lost the day to weather, flies today.
+Same short sequence, same gate: pass the controller quiz first, TRUST on file. Others run observer and logger.
 
-1. Pull the real weather now: wind, gusts, visibility, precipitation, ceiling.
-2. State the limits for flying here today and make the call as a group.
-3. If it is **no-go**, say so plainly and switch to the ground alternative below. A pilot who scrubs a marginal
-   day made the right decision.
+## Submission and Cleanup (main block)
 
-## Safety Briefing (5 min)
+- Offload and **submit both First Flight Photos** on Classroom, named correctly.
+- Finish any outstanding **Week 2 Ground School Package** items (four forces, airspace, mission planning).
+- **Battery and gear care:** every battery to a safe storage charge and logged; props and cases inspected and
+  put away complete.
 
-Boundaries, spectator line, who calls "stop." The one rule above all: **anyone may call an all-stop for any
-reason, and the pilot lands or hovers immediately, no argument.**
+## Wrap-Up Discussion (10 min): Two Weeks In
 
-## Flight Block (rest of the period)
+Set up next week's consolidation with the students' own words.
 
-Small groups, rotating roles so everyone flies and everyone observes:
-
-1. **Preflight** the aircraft against the checklist. No preflight, no flight.
-2. **Pilot:** power on, wait for GPS lock, launch to a low hover, hold it steady, one or two small controlled
-   moves (a little yaw, a little forward and back), then a slow descent to the same spot.
-3. **Visual observer:** eyes on the aircraft and the airspace, calls hazards.
-4. **Logger:** records aircraft, pilot, duration, and anything notable in the flight log.
-
-Keep flights short so everyone gets a real turn. A clean thirty-second hover beats a long shaky flight.
-
-## If No-Go (ground alternative)
-
-More controller drills and a battery care and charging session, then schedule the flight for the next clear
-day. Do not force a flight in bad conditions to keep a date.
+1. **What we did:** TRUST, airspace, the controller, a first flight.
+2. **What clicked and what did not:** go around; honest answers drive what we emphasize next.
+3. **What is coming:** the ODOT Part 107 course once accounts are live, then Unit 1.1.
 
 ## Closure / Exit Ticket (5 min)
 
-Aircraft powered down, inspected, batteries logged and on the correct charge state before anyone leaves.
-**Exit ticket:** *One thing that went differently than you expected on the sticks, and one thing you will do on
-your next flight.*
+**Exit ticket:** *One thing from these two weeks you want to do more of, and one thing you want to understand
+better before you fly again.*
 
 ## Handouts Used
 
-- `assessments/flight-check.md`
-- Preflight checklist + flight log (Classroom)
+- `assignments/first-flight-photos.md`
+- Flight log (Classroom)
 
 ## Assignment Given / Due
 
-- Given/Due: flight log entry for your flight(s)
-- Reminder: Week 2 Ground School Package
-- Preview Monday: Unit 1.1, and the ODOT Part 107 online course once access comes through
+- **Due:** First Flight Photos, Week 2 Ground School Package
+- Preview: next week we consolidate the first two weeks and plan the quarter; the ODOT Part 107 course starts
+  when accounts activate
 
 ## Teacher Notes
 
-- Confirm every flying student passed the flight check and has TRUST on file before they take the sticks. No
-  pass, no sticks: they run observer and logger and fly once they retake it.
-- The WebXam pretest was deferred out of this week; do not try to also run it today. It goes in Unit 1.1 with
-  the ODOT course.
-- Charge state matters more than flight count. End every battery at a safe storage charge and log it.
-- Debrief every scrub or anomaly the same day. The first time a real thing goes sideways is the best lesson of
-  the unit.
+- The exit-ticket answers are the first real input for re-planning the year. Keep them.
+- Deferred to Unit 1.1 and tracked in OPEN-ITEMS: the WebXam pretest, the METAR / go-no-go lesson, and Quiz 1.
+  Re-slot them around the ODOT course rather than cramming them in now.
+- If weather scrubbed both days, put the flight first thing next week; do not force it.

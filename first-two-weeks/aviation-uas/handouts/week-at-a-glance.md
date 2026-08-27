@@ -26,28 +26,27 @@ Flight-prep week. We earn TRUST, drill the preflight, and **fly Friday.**
 ## Wednesday
 
 - Setting up your Ohio DOT Part 107 online course account
-- Preflight basics
+- The controller and the controls: throttle, yaw, pitch, roll, pause, Return-to-Home
 - Turn in: ODOT account requested
 
 ## Thursday
 
-- **The controller and the controls**, hands-on, on the ground
-- Throttle, yaw, pitch, roll; the pause and Return-to-Home buttons
-- How tomorrow's flight will run
-- Exit check: show throttle and yaw on the controller
+- **First flight.** Start with a quick controller quiz: pass it and you fly today
+- Go/no-go from real weather, safety brief
+- Your turn: up, forward, turn around, take a group photo, zoom, another photo, Return to Home
+- Turn in: your two flight photos on Classroom
 
 ## Friday
 
-- **First flight.** Start with a quick flight check: pass it and you fly today
-- Go/no-go from real weather, safety brief, then short flights
-- Everyone rotates through pilot, visual observer, and logger
-- Turn in: your flight log entry
+- Makeups for anyone who did not fly, then submit photos and put the gear away right
+- Two-weeks-in wrap-up: what we did and what is next
 
 ## Due this week
 
+- First Flight Photos (2 per student)
 - Ground School Package: four forces, airspace, preflight, mission planning
 - Any week 1 work is accepted with no penalty
 
-## Before you fly Friday
+## Before you fly
 
-- TRUST done, and you pass the Friday flight check. No pass, no sticks (you run observer and logger)
+- TRUST done, and you pass the controller quiz. No pass, no sticks (you run observer and logger)

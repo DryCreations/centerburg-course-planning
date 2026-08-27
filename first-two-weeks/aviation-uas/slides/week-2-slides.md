@@ -165,3 +165,18 @@ slide.
 - Rotate: pilot, visual observer, logger
 - A clean 30-second flight beats a long shaky one
 - No TRUST proof = observer and logger today
+
+---
+
+## Your flight, the sequence
+
+1. Preflight, boot up, wait for GPS lock
+2. Up to a low hover
+3. A little forward, then stop
+4. Turn around (yaw 180) to face the group
+5. **Photo 1:** the group selfie
+6. Zoom in
+7. **Photo 2:** the zoomed shot
+8. **Return to Home**, land
+
+Then: offload and upload your two photos to Classroom.

@@ -28,6 +28,9 @@ Read the proctor script from `../_shared/webxam-pretest.md`.
 
 Rest of the period until students finish. Finishers record strand scores, then move to the submission window.
 
+> **Finishing the Camera Modes Shoot:** groups that ran out of time Thursday finish the shoot here, silently
+> and independently, once they are done with the pretest. This is the planned catch-up window.
+
 ## Submission Window
 
 - [ ] Portfolio site published, URL submitted, About page has the square and two shots

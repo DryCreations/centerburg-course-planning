@@ -1,6 +1,6 @@
 # Flight Check: Before You Touch the Sticks
 
-**Course:** Aviation UAS, **Day 08, Fri Aug 28 (start of class)**, **Category:** Readiness (check for
+**Course:** Aviation UAS, **Day 07, Thu Aug 27 (start of class)**, **Category:** Readiness (check for
 understanding, not a graded test)
 
 This is the gate. Take it at the start of flight day. **Pass it and you fly today.** Miss too many and you run

@@ -3,72 +3,72 @@
 **Course:** Middle School CS, **Unit:** MakeCode Arcade, Build a Game
 **Strands:** Algorithmic Thinking and Programming
 
-> **Overlap, destroy, and random.** Yesterday everyone got a player moving and something spawning in with
-> velocity (Part A). Today is a **short demo** of the three blocks that turn that into a game: on-overlap,
-> destroy, and pick-random. Show the basics, then they build. Do not build it for them.
+> **A variable warm-up, then finish the lab.** Part B (score and collisions) went in yesterday. Today opens
+> with a variable-manipulation practice problem to lock in how `set` and `change` really work, then the rest of
+> the period is theirs to finish the game.
 
 ## Objective
 
-Students can use an on-sprite-overlap event to change the score and destroy the caught sprite, and can use a
-random number to spawn the next one in a different spot.
+Students can trace a short program that reassigns and changes variables and predict the result, and use the
+remaining time to finish their Arcade game (through Part C: a way to win and lose).
 
 ## Materials
 
-Arcade open, projector, the Day 06 slides plus the random-spawn slide (`slides/week-2-slides.md`), a
-half-built demo game from Part A to add to live.
+Arcade open, projector, the Day 07 bell ringer on the board, students' in-progress games.
 
-## Bell Ringer (5 min)
+## Bell Ringer (8 min): Walk It Line by Line
 
-**Bell Ringer 3** (how many times does an event run) from `handouts/bell-ringers-week-2.md`. It sets up today:
-the code inside an event runs *every time* the event happens, which is exactly how scoring works.
+**Bell Ringer 6** from `handouts/bell-ringers-week-2.md`, the "why didn't they swap?" one:
 
-## Short Demo (10 min): The Three Blocks
+```
+set a to 5
+set b to 10
+set a to b
+set b to a
+```
 
-Live, on your Part A demo. Keep it to the blocks, not a finished game.
+Both end at 10. Do not ask for the answer cold, that is what made yesterday's feel like a trick. Put `a` and
+`b` in a little table on the board and **update them line by line, out loud, together.** Then, if there is
+time, **Bell Ringer 7** (`set` vs `change`) to nail the difference: `set` overwrites, `change by` adds.
 
-1. **on sprite overlap** (player and the item): "when these two touch, do this." Put a `change score by 1`
-   inside it and watch it fire when they collide.
-2. **destroy** the item sprite inside the overlap, so one catch is one point, not twenty. Show the bug first
-   (score leaps by 20 without destroy), then fix it.
-3. **pick random**: spawn the next item at `pick random` x, so it does not always fall in the same place.
-   Show `pick random 10 to 150` for a position, and mention you can pick random for anything, a speed, a
-   color, which item appears.
+The point today: the computer does the lines in order, and each line uses whatever is in the box *right now*.
 
-Say plainly: this is the toolkit, not your game. Your job is to put these into *your* catch-or-dodge game.
+## Mini-Demo (5 min, only if the room needs it)
 
-## Work Time (25 min): Part B
+If groups are ready for the losing condition, a two-minute demo: start `lives` at 3, lose one on a miss, and
+`if lives <= 0: game over`. Keep it short; most of today is work time.
 
-Students add to their own game:
+## Work Time (30 min): Finish the Lab
 
-- A **score** variable set to 0 at the start
-- An **on-overlap** event that changes the score
-- **Destroy** the caught sprite and spawn a new one
-- Use **pick random** so the new one appears somewhere different
+The rest of the period is theirs. Finish the game:
 
-Fast finishers: random speed too, or a second kind of item worth more points, or start on losing a life when
-you miss (that is where Part C goes next).
+- Part C: **lives or a timer**, and a **conditional** that wins or ends the game.
+- The **debug log**: one real bug, what changed, what happened.
+- The **explanations**: what your score variable does, what your conditional does.
+- Then the checklist in `assignments/week-2-assignment.md`.
+
+Fast finishers: a second level, a title screen, random speed, or a high-score display. Same skills, more depth.
 
 ## Closure / Exit Ticket (5 min)
 
-**Exit ticket:** *Where in your game does the score change, and what did you use pick-random for?*
+**Exit ticket:** *One thing your game does now that it did not do on Monday.*
 
 ## Handouts / Slides
 
-- `handouts/bell-ringers-week-2.md` (Bell Ringer 3)
-- `slides/week-2-slides.md` (Day 06 score/collisions + random spawn)
-- `assignments/week-2-assignment.md` (Part B)
+- `handouts/bell-ringers-week-2.md` (Bell Ringers 6 and 7)
+- `assignments/week-2-assignment.md` (Part C, finish)
+- `slides/week-2-slides.md` (Day 07, if you demo the losing condition)
 
 ## Assignment Given / Due
 
-- In progress: Build a Real Arcade Game, due Day 08 (Friday)
+- In progress: Build a Real Arcade Game, due tomorrow (Day 08)
+- Tomorrow: Checkpoint 1 and the game showcase
 
 ## Teacher Notes
 
-- Keep the demo to the three blocks and under ten minutes. The moment it becomes "here is my finished game,"
-  they copy instead of build.
-- The destroy bug (score leaping without destroy) is worth showing on purpose. It is the clearest "the computer
-  did exactly what you said" moment of the week.
-- pick-random is the depth this project has over last week's card: it makes the game different every run. Sell
-  that.
-- Fast finishers move into lives and game over (Part C) on their own; that is the next demo if the room is
-  ready, but do not force it today.
+- The swap bell ringer is the fix for yesterday's "trick question" feeling. The trick is only a trick if you
+  read it all at once; line by line it is obvious. Model that reading habit, it is the whole skill.
+- Most of today is finishing the lab. Protect the work time; keep the demo to two minutes and only if needed.
+- Anyone who cannot explain their own variable or conditional gets a redo tomorrow, framed as a redo. Catch it
+  today while there is still time to fix it.
+- Checkpoint 1 is tomorrow; remind them it comes from the word list and can be redone.
