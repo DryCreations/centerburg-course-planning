@@ -109,6 +109,9 @@ function buildPretest() {
       .setCollectEmail(CONFIG.COLLECT_EMAIL)
       .setShuffleQuestions(CONFIG.SHUFFLE_QUESTIONS);  // safe now: each scenario is baked into its own question
 
+  Logger.log('Adding %s questions at %s point(s) each (a quiz answer key needs points > 0).',
+             rows.length, Math.max(1, Number(CONFIG.POINTS_PER_QUESTION) || 0));
+
   var built = 0, skipped = [], key = [];
   rows.forEach(function (r, i) {
     try {
@@ -119,6 +122,11 @@ function buildPretest() {
       skipped.push('Row ' + (i + 2) + ': ' + e.message);
     }
   });
+
+  if (built === 0) {
+    throw new Error('No questions were added. First error: ' + (skipped[0] || 'unknown') +
+      '. A common cause is POINTS_PER_QUESTION set to 0 (a Google Forms quiz answer key requires points > 0).');
+  }
 
   // Remember this form and save the answer key so analyzeResults() can score per standard.
   var props = PropertiesService.getDocumentProperties();
@@ -216,7 +224,12 @@ function addQuestion_(form, r) {
   }
 
   var choices = texts.map(function (t) { return item.createChoice(t, t === correctText); });
-  item.setChoices(choices);
+  try {
+    item.setChoices(choices);            // applies options AND the correct-answer key
+  } catch (e) {
+    form.deleteItem(item);               // don't leave a half-built, answerless question behind
+    throw e;
+  }
   return { item: item, correctText: correctText };
 }
 
