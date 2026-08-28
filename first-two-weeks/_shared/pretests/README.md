@@ -79,23 +79,33 @@ Environment 4, 7.4 Aerodynamics 3, 7.9 Small UAS 3.
 
 ---
 
-## Building the Form quiz (Apps Script)
+## Building the Form quiz (recommended: one spreadsheet, reuse your own Forms)
 
-1. **New Google Sheet.** `File > Import`, upload the course CSV, choose **Replace current sheet**, and keep the
-   header row.
-2. **`Extensions > Apps Script`.** Delete the starter code, paste in `apps-script/Code.gs`. Then open the
-   manifest (`Project Settings > gear > "Show appsscript.json"`, or the editor's `appsscript.json`) and replace
-   it with `apps-script/appsscript.json`. That file turns on the Classroom advanced service and the right
-   scopes.
-3. **Edit the `CONFIG` block** at the top of `Code.gs`: set `FORM_TITLE`, and the toggles
-   (`SHUFFLE_OPTIONS`, `POINTS_PER_QUESTION`, `SHOW_STANDARD_IN_HELP`, etc.).
-4. **Run `buildPretest`.** Approve the permission prompt the first time (it is your own account). When it
-   finishes, open `View > Logs` for the **form edit link**.
-5. Repeat for each course (new Sheet each time, or a tab per course and set `SHEET_NAME`).
+The workflow is designed so you keep **one spreadsheet** with a tab per course and just **paste in a form ID**
+each time. The full step list is also at the top of `apps-script/Code.gs`.
+
+1. **One Google Sheet, one tab per course.** For each course, add a tab, rename it (e.g. `aviation`), and
+   `File > Import` the course CSV **into that tab** (import location "Insert new sheet(s)", separator "Detect
+   automatically", and leave "Convert text to numbers/dates" **off**). Keep the header row. The script matches
+   columns **by name**, so column order does not matter.
+2. **Make or reuse a Google Form** for that course and copy its **form ID** — the long chunk in the edit URL
+   `https://docs.google.com/forms/d/`**`FORM_ID`**`/edit`. (Reusing a form keeps the same Classroom link every
+   time you rebuild.)
+3. **`Extensions > Apps Script`.** Paste in `apps-script/Code.gs`, and paste `apps-script/appsscript.json` into
+   the manifest (`Project Settings > "Show appsscript.json"`). That manifest turns on the Classroom service and
+   the scopes.
+4. **In `CONFIG`, set `SHEET_NAME`** (the tab) and **`TARGET_FORM_ID`** (paste the form ID or the whole form
+   URL — both work). Adjust the toggles if you like. **Run `buildPretest`,** approve the prompt, and read
+   `View > Logs` for the form link. The script wipes that form's old questions and loads the tab's questions as
+   a shuffled quiz.
+5. **Repeat per course:** change `SHEET_NAME` + `TARGET_FORM_ID`, run again. Each course's answer key is saved
+   to its own hidden `Key <tab>` sheet, so the courses never collide in the one spreadsheet.
+
+Leave `TARGET_FORM_ID` blank to have the script **create a brand-new form** instead of filling one you made.
 
 Each item is a multiple-choice quiz question with the correct choice marked. **The standard is NOT shown to
-students** (`SHOW_STANDARD_IN_HELP` defaults to `false`). Instead, the standard/outcome for every question is
-saved to a hidden **`Key`** tab in the same Sheet, which is what powers the per-standard analysis below.
+students** (`SHOW_STANDARD_IN_HELP` defaults to `false`). Instead, the standard/outcome/DOK for every question
+is saved to the hidden `Key <tab>` sheet, which powers the per-standard analysis below.
 
 ## Reviewing results per standard / outcome
 
@@ -104,8 +114,9 @@ The whole reason the standard lives in the CSV is to get strand-by-strand data, 
 1. Build the form (above). It saves the answer key to the hidden `Key` tab and remembers the form.
 2. Assign/collect responses (Classroom or the share link). `COLLECT_EMAIL` stays on so results can be
    attributed per student.
-3. Back in the Apps Script editor, run **`analyzeResults`**. It scores every response against the `Key` and
-   writes three tabs into the Sheet:
+3. Back in the Apps Script editor, set `SHEET_NAME` to the same course and run **`analyzeResults`**. It scores
+   every response against that course's `Key <tab>` and writes tabs into the Sheet (prefixed with the course
+   tab name, e.g. `aviation - By Outcome`, so courses stay separate):
    - **`By Standard`** — asked / correct / % correct for each competency standard (e.g. `7.4.5`).
    - **`By Outcome`** — the same, grouped by outcome/strand (e.g. `7.4 Graphics`). This is your baseline map:
      the low outcomes are where to aim instruction.

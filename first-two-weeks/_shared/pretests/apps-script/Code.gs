@@ -1,29 +1,70 @@
 /**
  * Centerburg CTE Pretest Builder
- * -------------------------------------------------------------------------
- * Turns a sheet of multiple-choice questions into a Google Form quiz and
- * (optionally) attaches it to a Google Classroom class as a DRAFT assignment.
+ * =========================================================================
+ * Fills a Google Form quiz from a tab of questions, then (optionally) attaches
+ * it to a Google Classroom class. Also scores responses per standard/outcome.
  *
- * HOW TO USE (full steps are in README.md):
- *   1. Open a new Google Sheet. File > Import the course CSV (e.g.
- *      aviation-uas-pretest.csv). Import as "Replace current sheet".
- *   2. Extensions > Apps Script. Paste this file in, and paste appsscript.json
- *      into the manifest (View > Show manifest / "appsscript.json").
- *   3. Edit the CONFIG block below (title, course id, options).
- *   4. Run buildPretest(). Approve the permissions prompt the first time.
- *   5. Check the log for the Form link. If ATTACH_TO_CLASSROOM is true, the
- *      assignment lands in that class as a DRAFT for you to review and post.
+ * RECOMMENDED SETUP (one spreadsheet, reuse your own Forms) --------------------
  *
- * The sheet's first row must be the header from the CSV:
- *   standard, outcome, question, option_a, option_b, option_c, option_d, answer
- * "answer" is the letter (A-D) of the correct option. In the CSVs the correct
- * answer is always A; if you reorder options while editing, update "answer".
+ * STEP 1 - One spreadsheet, one tab per course.
+ *   - Make ONE Google Sheet (e.g. "CTE Pretests").
+ *   - For each course, add a tab and import its CSV INTO THAT TAB:
+ *       Right-click the tab > Rename it (e.g. "aviation").
+ *       File > Import > Upload the CSV (e.g. aviation-uas-pretest.csv) >
+ *       Import location = "Insert new sheet(s)" OR "Replace current sheet",
+ *       Separator = "Detect automatically", and LEAVE
+ *       "Convert text to numbers/dates" OFF so nothing gets mangled.
+ *   - Keep the header row. The script matches columns BY NAME, so column order
+ *     does not matter and extra columns are ignored.
+ *
+ * STEP 2 - Make (or reuse) a Google Form for that course, and copy its ID.
+ *   - Create a blank Form (forms.google.com) or reuse an existing one.
+ *   - Open the form's EDIT url. It looks like:
+ *       https://docs.google.com/forms/d/FORM_ID_HERE/edit
+ *     The long chunk between /d/ and /edit is the FORM ID. Copy it.
+ *   - (Reusing a form keeps the same link in Classroom each time you rebuild.)
+ *
+ * STEP 3 - Install this script.
+ *   - In the spreadsheet: Extensions > Apps Script.
+ *   - Paste this file into Code.gs, and paste appsscript.json into the manifest
+ *     (Project Settings > check "Show appsscript.json", then edit it).
+ *
+ * STEP 4 - Fill in CONFIG below, then Run > buildPretest.
+ *   - SHEET_NAME   = the tab to read, e.g. 'aviation'
+ *   - TARGET_FORM_ID = the FORM ID (or full form URL) from Step 2
+ *   - Approve the permission prompt the first time (it is your own account).
+ *   - The script clears that form's old questions and loads the tab's questions
+ *     as a shuffled quiz. Check View > Logs for the form link.
+ *   - Repeat per course: change SHEET_NAME + TARGET_FORM_ID, run again.
+ *
+ * STEP 5 - Attach to Classroom (optional).
+ *   - Set ATTACH_TO_CLASSROOM = true.
+ *   - Run listMyCourses once, read the log, and paste the class id into
+ *     CLASSROOM_COURSE_ID. Run buildPretest again: it adds a DRAFT assignment
+ *     linking the form, for you to review and post.
+ *   - Or skip the API and attach the form by hand in Classroom
+ *     (Create > Quiz assignment > insert the Form).
+ *
+ * STEP 6 - After students respond, Run > analyzeResults.
+ *   - Writes tabs: "By Standard", "By Outcome", "By DOK", "By Student".
+ *   - It scores against the hidden "Key <tab>" sheet written during the build.
+ *
+ * Leave TARGET_FORM_ID blank to CREATE a brand-new form instead of reusing one.
+ * The header row the script needs (any order):
+ *   standard, outcome, dok, scenario_id, scenario, question,
+ *   option_a, option_b, option_c, option_d, answer
+ * "answer" is the letter of the correct option (A in every shipped row).
  */
 
 // ============================ CONFIG ============================
+// The two things you will change most often are SHEET_NAME and TARGET_FORM_ID.
 var CONFIG = {
-  SHEET_NAME: '',              // '' = the first/active tab; or name a tab e.g. 'aviation'
-  FORM_TITLE: 'Aviation UAS — Diagnostic Pretest',
+  SHEET_NAME: 'aviation',      // <-- the tab to read (e.g. 'aviation', 'design', 'video')
+  TARGET_FORM_ID: '',          // <-- PASTE THE FORM ID (or full form URL) here to fill an existing form.
+                               //     Leave '' to create a brand-new form.
+  CLEAR_EXISTING_ITEMS: true,  // when reusing a form, wipe its old questions first so rebuilds don't stack up
+
+  FORM_TITLE: 'Aviation UAS — Diagnostic Pretest',  // used for a new form, and as the Classroom title default
   FORM_DESCRIPTION:
       'This is a practice diagnostic, not a grade. It is modeled on the WebXam ' +
       'end-of-course test. Most of this has not been taught yet, so a low score ' +
@@ -31,14 +72,13 @@ var CONFIG = {
 
   POINTS_PER_QUESTION: 0,      // 0 keeps it ungraded-feeling; the quiz still marks correct answers
   SHUFFLE_OPTIONS: true,       // scramble A-D so the correct answer is not always first
-  SHUFFLE_QUESTIONS: false,    // set true to also randomize question order
+  SHUFFLE_QUESTIONS: false,    // randomize question order (auto-disabled when scenarios are present)
   SHOW_STANDARD_IN_HELP: false,// students never see the standard. The standard->question mapping is saved to
                                // the "Key" sheet instead, so results can be analyzed per standard/outcome.
   COLLECT_EMAIL: true,         // require sign-in / capture responder email (needed for per-student analysis)
 
-  WRITE_KEY_SHEET: true,       // write a hidden "Key" tab mapping each question to its standard/outcome/answer
-  KEY_SHEET_NAME: 'Key',       // used by analyzeResults() to score responses per standard
-  FORM_ID_OVERRIDE: '',        // leave '' to analyze the last form built; or paste a form id to analyze it
+  WRITE_KEY_SHEET: true,       // write a hidden "Key <tab>" sheet mapping each question to standard/outcome/answer
+  FORM_ID_OVERRIDE: '',        // analyzeResults: leave '' to use the last form built; or paste a form id/url
 
   ATTACH_TO_CLASSROOM: false,  // set true to create a DRAFT assignment in Classroom
   CLASSROOM_COURSE_ID: '',     // required if attaching; run listMyCourses() to find it
@@ -59,7 +99,17 @@ function buildPretest() {
     Logger.log('Scenarios present, so SHUFFLE_QUESTIONS was forced off to keep scenario groups together.');
   }
 
-  var form = FormApp.create(CONFIG.FORM_TITLE);
+  var form;
+  if (CONFIG.TARGET_FORM_ID) {
+    form = FormApp.openById(toId_(CONFIG.TARGET_FORM_ID));   // reuse an existing form
+    if (CONFIG.CLEAR_EXISTING_ITEMS) {
+      form.getItems().forEach(function (it) { form.deleteItem(it); });
+    }
+    Logger.log('Filling existing form: ' + form.getTitle());
+  } else {
+    form = FormApp.create(CONFIG.FORM_TITLE);                // create a new form
+    Logger.log('Created new form: ' + CONFIG.FORM_TITLE);
+  }
   form.setDescription(CONFIG.FORM_DESCRIPTION)
       .setIsQuiz(true)
       .setCollectEmail(CONFIG.COLLECT_EMAIL)
@@ -83,8 +133,11 @@ function buildPretest() {
   });
 
   // Remember this form and save the answer key so analyzeResults() can score per standard.
-  PropertiesService.getDocumentProperties().setProperty('PRETEST_FORM_ID', form.getId());
-  if (CONFIG.WRITE_KEY_SHEET) writeKeySheet_(key);
+  var props = PropertiesService.getDocumentProperties();
+  props.setProperty('PRETEST_FORM_ID', form.getId());
+  var keyName = keySheetName_();
+  props.setProperty('KEYSHEET_' + form.getId(), keyName);
+  if (CONFIG.WRITE_KEY_SHEET) writeKeySheet_(keyName, key);
 
   var editUrl = form.getEditUrl();
   var pubUrl = form.getPublishedUrl();
@@ -92,8 +145,7 @@ function buildPretest() {
   if (skipped.length) Logger.log('Skipped:\n' + skipped.join('\n'));
   Logger.log('EDIT the form here:  ' + editUrl);
   Logger.log('SHARE/answer here:   ' + pubUrl);
-  Logger.log('Answer key saved to the "%s" tab. After students respond, run analyzeResults().',
-             CONFIG.KEY_SHEET_NAME);
+  Logger.log('Answer key saved to the hidden "%s" tab. After students respond, run analyzeResults().', keyName);
 
   if (CONFIG.ATTACH_TO_CLASSROOM) {
     if (!CONFIG.CLASSROOM_COURSE_ID) {
@@ -184,11 +236,13 @@ function addQuestion_(form, r) {
  * (or set CONFIG.FORM_ID_OVERRIDE).
  */
 function analyzeResults() {
-  var formId = (CONFIG.FORM_ID_OVERRIDE ||
-                PropertiesService.getDocumentProperties().getProperty('PRETEST_FORM_ID'));
+  var props = PropertiesService.getDocumentProperties();
+  var formId = CONFIG.FORM_ID_OVERRIDE ? toId_(CONFIG.FORM_ID_OVERRIDE)
+                                       : props.getProperty('PRETEST_FORM_ID');
   if (!formId) throw new Error('No form id found. Run buildPretest first, or set CONFIG.FORM_ID_OVERRIDE.');
 
-  var key = readKeySheet_();            // itemId -> {question, standard, outcome, correct}
+  var keyName = props.getProperty('KEYSHEET_' + formId) || keySheetName_();
+  var key = readKeySheet_(keyName);     // itemId -> {question, standard, outcome, dok, correct}
   var form = FormApp.openById(formId);
   var responses = form.getResponses();
   if (!responses.length) { Logger.log('No responses yet.'); return; }
@@ -218,27 +272,39 @@ function analyzeResults() {
     students.push({ email: email, perOut: perOut });
   });
 
-  writeSummarySheet_('By Standard', ['Standard', 'Asked', 'Correct', '% Correct'], byStd);
-  writeSummarySheet_('By Outcome',  ['Outcome',  'Asked', 'Correct', '% Correct'], byOut);
-  writeSummarySheet_('By DOK',      ['DOK (recall=low / reasoning=high)', 'Asked', 'Correct', '% Correct'], byDok);
-  writeStudentSheet_(students, byOut);
-  Logger.log('Wrote "By Standard", "By Outcome", "By DOK", and "By Student". Responses scored: %s',
-             responses.length);
+  var p = (CONFIG.SHEET_NAME ? CONFIG.SHEET_NAME + ' - ' : ''); // prefix keeps courses separate in one file
+  writeSummarySheet_(p + 'By Standard', ['Standard', 'Asked', 'Correct', '% Correct'], byStd);
+  writeSummarySheet_(p + 'By Outcome',  ['Outcome',  'Asked', 'Correct', '% Correct'], byOut);
+  writeSummarySheet_(p + 'By DOK',      ['DOK (recall=low / reasoning=high)', 'Asked', 'Correct', '% Correct'], byDok);
+  writeStudentSheet_(p + 'By Student', students, byOut);
+  Logger.log('Wrote "%sBy Standard/Outcome/DOK/Student". Responses scored: %s', p, responses.length);
 }
 
-function writeKeySheet_(key) {
+/** Name of the hidden answer-key tab for the current course tab. */
+function keySheetName_() {
+  return 'Key ' + (CONFIG.SHEET_NAME || 'Sheet1');
+}
+
+/** Accept either a raw id or a full Forms/Docs URL and return the id. */
+function toId_(idOrUrl) {
+  var s = String(idOrUrl).trim();
+  var m = s.match(/\/d\/([a-zA-Z0-9_-]+)/) || s.match(/[?&]id=([a-zA-Z0-9_-]+)/);
+  return m ? m[1] : s;
+}
+
+function writeKeySheet_(name, key) {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var sh = ss.getSheetByName(CONFIG.KEY_SHEET_NAME) || ss.insertSheet(CONFIG.KEY_SHEET_NAME);
+  var sh = ss.getSheetByName(name) || ss.insertSheet(name);
   sh.clear();
   sh.appendRow(['item_id', 'question', 'standard', 'outcome', 'dok', 'correct']);
   if (key.length) sh.getRange(2, 1, key.length, 6).setValues(key);
   sh.hideSheet();
 }
 
-function readKeySheet_() {
+function readKeySheet_(name) {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var sh = ss.getSheetByName(CONFIG.KEY_SHEET_NAME);
-  if (!sh) throw new Error('No "' + CONFIG.KEY_SHEET_NAME + '" tab. Rebuild the form so the key is saved.');
+  var sh = ss.getSheetByName(name);
+  if (!sh) throw new Error('No "' + name + '" tab. Rebuild the form (with this SHEET_NAME) so the key is saved.');
   var v = sh.getDataRange().getValues();
   var map = {};
   for (var i = 1; i < v.length; i++) {
@@ -261,9 +327,9 @@ function writeSummarySheet_(name, header, map) {
   sh.autoResizeColumns(1, header.length);
 }
 
-function writeStudentSheet_(students, byOut) {
+function writeStudentSheet_(name, students, byOut) {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
-  var sh = ss.getSheetByName('By Student') || ss.insertSheet('By Student');
+  var sh = ss.getSheetByName(name) || ss.insertSheet(name);
   sh.clear();
   var outcomes = Object.keys(byOut).sort();
   sh.appendRow(['Student'].concat(outcomes).concat(['Overall %']));
