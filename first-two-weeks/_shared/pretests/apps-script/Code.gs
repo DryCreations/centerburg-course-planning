@@ -70,9 +70,10 @@ var CONFIG = {
       'end-of-course test. Most of this has not been taught yet, so a low score ' +
       'is expected and useful. Answer your best and do not guess wildly.',
 
-  POINTS_PER_QUESTION: 0,      // 0 keeps it ungraded-feeling; the quiz still marks correct answers
+  POINTS_PER_QUESTION: 1,      // must be >= 1 or Forms rejects the answer key ("invalid data"). Keep it 1;
+                               // "not for a grade" is handled by the Classroom assignment being ungraded.
   SHUFFLE_OPTIONS: true,       // scramble A-D so the correct answer is not always first
-  SHUFFLE_QUESTIONS: false,    // randomize question order (auto-disabled when scenarios are present)
+  SHUFFLE_QUESTIONS: false,    // randomize question order (safe: each scenario is baked into its question)
   SHOW_STANDARD_IN_HELP: false,// students never see the standard. The standard->question mapping is saved to
                                // the "Key" sheet instead, so results can be analyzed per standard/outcome.
   COLLECT_EMAIL: true,         // require sign-in / capture responder email (needed for per-student analysis)
@@ -92,13 +93,6 @@ function buildPretest() {
   var rows = readRows_();
   if (!rows.length) throw new Error('No question rows found. Check the sheet and header.');
 
-  var hasScenarios = rows.some(function (r) { return r.scenarioId; });
-  var shuffleQ = CONFIG.SHUFFLE_QUESTIONS;
-  if (hasScenarios && shuffleQ) {
-    shuffleQ = false; // scenario groups rely on order; never shuffle across a shared scenario
-    Logger.log('Scenarios present, so SHUFFLE_QUESTIONS was forced off to keep scenario groups together.');
-  }
-
   var form;
   if (CONFIG.TARGET_FORM_ID) {
     form = FormApp.openById(toId_(CONFIG.TARGET_FORM_ID));   // reuse an existing form
@@ -113,17 +107,11 @@ function buildPretest() {
   form.setDescription(CONFIG.FORM_DESCRIPTION)
       .setIsQuiz(true)
       .setCollectEmail(CONFIG.COLLECT_EMAIL)
-      .setShuffleQuestions(shuffleQ);
+      .setShuffleQuestions(CONFIG.SHUFFLE_QUESTIONS);  // safe now: each scenario is baked into its own question
 
-  var built = 0, skipped = [], key = [], lastScenario = null;
+  var built = 0, skipped = [], key = [];
   rows.forEach(function (r, i) {
     try {
-      // When a new scenario begins, print the shared context once as a section header.
-      if (r.scenarioId && r.scenarioId !== lastScenario) {
-        form.addSectionHeaderItem().setTitle('Read the scenario').setHelpText(r.scenario);
-      }
-      lastScenario = r.scenarioId || null;
-
       var res = addQuestion_(form, r);            // {item, correctText}
       key.push([res.item.getId(), r.question, r.standard, r.outcome, r.dok, res.correctText]);
       built++;
@@ -211,10 +199,16 @@ function addQuestion_(form, r) {
 
   if (CONFIG.SHUFFLE_OPTIONS) texts = shuffle_(texts);
 
+  // Scenario (if any) is concatenated into the question so each item stands alone and can be shuffled.
+  var title = r.scenario ? (r.scenario + '\n\n' + r.question) : r.question;
+
+  // A quiz answer key requires points > 0. If POINTS_PER_QUESTION is 0, Forms rejects the marked
+  // correct answer with "invalid data" and the item lands with no answer key. So use at least 1 here;
+  // "not for a grade" is handled by making the Classroom assignment ungraded, not by 0-point items.
+  var points = Math.max(1, Number(CONFIG.POINTS_PER_QUESTION) || 0);
+
   var item = form.addMultipleChoiceItem();
-  item.setTitle(r.question)
-      .setPoints(CONFIG.POINTS_PER_QUESTION)
-      .setRequired(false);
+  item.setTitle(title).setPoints(points).setRequired(false);
 
   if (CONFIG.SHOW_STANDARD_IN_HELP && (r.standard || r.outcome)) {
     var tag = [r.outcome, r.standard ? 'Standard ' + r.standard : ''].filter(String).join(' · ');

@@ -42,11 +42,10 @@ did on recall vs. reasoning.
 ### Scenario sets (reused prompts)
 
 Some items share a scenario, like the WebXam: a few sentences of context, then several questions that each ask
-a different thing in the final sentence. Rows in a set share a `scenario_id` and the same `scenario` text, and
-sit next to each other. The Apps Script prints the scenario once as a section header, then the group's
-questions. Each course has two sets (e.g. `DT-S1` a coffee-shop brand project, `DT-S2` a dim-gym photo shoot).
-Because the group relies on order, the script automatically turns off question shuffling when scenarios are
-present (option shuffling within each item still happens).
+a different thing in the final sentence. Rows in a set share a `scenario_id` and the same `scenario` text. The
+Apps Script **concatenates the scenario onto each question** (scenario text, a blank line, then the question),
+so every item stands alone and reads in full — which means question shuffling is fine and stays on if you set
+it. Each course has two sets (e.g. `DT-S1` a coffee-shop brand project, `DT-S2` a dim-gym photo shoot).
 
 **To edit:** change any text you like. To reorder options while editing, move the text and then set `answer`
 to the letter that now holds the correct choice. To add a question, add a row and keep the columns. To drop
@@ -143,8 +142,10 @@ If you would rather not use the API, just open the Form from the log link and at
 
 ## Notes
 
-- **Points:** `POINTS_PER_QUESTION` defaults to 0 so nothing reads as a grade, while the Form still records
-  which answers were correct for the strand baseline. Set it to 1 if you want a raw score to look at privately.
+- **Points:** `POINTS_PER_QUESTION` defaults to 1 and must stay **at least 1** — a Google Forms quiz answer
+  key requires points, and a 0-point item makes the whole build fail with "invalid data" (every question loads
+  with no correct answer marked). It is still not a grade: keep the Classroom assignment ungraded, and the
+  built-in quiz score is just for the private strand baseline.
 - **Regenerating:** the CSVs are the source of truth — edit them directly. (They were generated once from a
   script; there is intentionally no auto-generator here so your edits are never overwritten.)
 - **Coverage check:** every blueprint outcome appears at least once; counts are in the alignment section above.
