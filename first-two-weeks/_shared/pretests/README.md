@@ -74,8 +74,28 @@ Environment 4, 7.4 Aerodynamics 3, 7.9 Small UAS 3.
    finishes, open `View > Logs` for the **form edit link**.
 5. Repeat for each course (new Sheet each time, or a tab per course and set `SHEET_NAME`).
 
-Each item is a multiple-choice quiz question with the correct choice marked and the standard printed under the
-question (turn that off with `SHOW_STANDARD_IN_HELP: false` for a clean student version).
+Each item is a multiple-choice quiz question with the correct choice marked. **The standard is NOT shown to
+students** (`SHOW_STANDARD_IN_HELP` defaults to `false`). Instead, the standard/outcome for every question is
+saved to a hidden **`Key`** tab in the same Sheet, which is what powers the per-standard analysis below.
+
+## Reviewing results per standard / outcome
+
+The whole reason the standard lives in the CSV is to get strand-by-strand data, the way the WebXam reports it.
+
+1. Build the form (above). It saves the answer key to the hidden `Key` tab and remembers the form.
+2. Assign/collect responses (Classroom or the share link). `COLLECT_EMAIL` stays on so results can be
+   attributed per student.
+3. Back in the Apps Script editor, run **`analyzeResults`**. It scores every response against the `Key` and
+   writes three tabs into the Sheet:
+   - **`By Standard`** — asked / correct / % correct for each competency standard (e.g. `7.4.5`).
+   - **`By Outcome`** — the same, grouped by outcome/strand (e.g. `7.4 Graphics`). This is your baseline map:
+     the low outcomes are where to aim instruction.
+   - **`By Student`** — each responder's % correct per outcome, plus an overall %.
+4. Re-run `analyzeResults` any time to refresh as more responses come in. To analyze an older form, paste its
+   id into `CONFIG.FORM_ID_OVERRIDE`.
+
+Because each question is tagged to a single standard/outcome in the CSV, adding or editing questions
+automatically flows through to this analysis, no extra bookkeeping.
 
 ## Attaching it to Google Classroom
 
