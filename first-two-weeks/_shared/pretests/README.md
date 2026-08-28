@@ -24,10 +24,29 @@ One question per row. Columns:
 |--------|---------|
 | `standard` | The competency code the item targets, e.g. `7.4.5`. |
 | `outcome` | The outcome/strand name, e.g. `7.4 Graphics`. Used for the strand baseline. |
-| `question` | The stem. |
+| `dok` | Depth of knowledge: `low` = recall/DOK1-2, `high` = reasoning/application. Used to hold the ~60/40 mix. |
+| `scenario_id` | Blank for a standalone item. A tag (e.g. `DT-S1`) links questions that share one scenario. |
+| `scenario` | The shared scenario text. Same text on every row of a group; the builder shows it once. |
+| `question` | The stem (for a scenario item, the last sentence that asks the actual question). |
 | `option_a` | **The correct answer.** By convention the correct choice is always A in the file, so it is easy to review. |
 | `option_b`, `option_c`, `option_d` | Distractors. |
 | `answer` | The letter of the correct option (`A` in every row as shipped). |
+
+### DOK mix (recall vs. reasoning)
+
+Following the WebXam pattern, each test is about **60% lower-DOK recall** and **40% higher-DOK** reasoning /
+"connect-multiple-ideas" items. Current split: DT 24/16, Video & Sound 23/17, Aviation 24/16 (low/high). Edit
+the `dok` column if you re-balance; `analyzeResults` reports a **By DOK** breakdown so you can see how students
+did on recall vs. reasoning.
+
+### Scenario sets (reused prompts)
+
+Some items share a scenario, like the WebXam: a few sentences of context, then several questions that each ask
+a different thing in the final sentence. Rows in a set share a `scenario_id` and the same `scenario` text, and
+sit next to each other. The Apps Script prints the scenario once as a section header, then the group's
+questions. Each course has two sets (e.g. `DT-S1` a coffee-shop brand project, `DT-S2` a dim-gym photo shoot).
+Because the group relies on order, the script automatically turns off question shuffling when scenarios are
+present (option shuffling within each item still happens).
 
 **To edit:** change any text you like. To reorder options while editing, move the text and then set `answer`
 to the letter that now holds the correct choice. To add a question, add a row and keep the columns. To drop
@@ -90,6 +109,7 @@ The whole reason the standard lives in the CSV is to get strand-by-strand data, 
    - **`By Standard`** — asked / correct / % correct for each competency standard (e.g. `7.4.5`).
    - **`By Outcome`** — the same, grouped by outcome/strand (e.g. `7.4 Graphics`). This is your baseline map:
      the low outcomes are where to aim instruction.
+   - **`By DOK`** — % correct on recall (`low`) vs. reasoning (`high`) items.
    - **`By Student`** — each responder's % correct per outcome, plus an overall %.
 4. Re-run `analyzeResults` any time to refresh as more responses come in. To analyze an older form, paste its
    id into `CONFIG.FORM_ID_OVERRIDE`.

@@ -52,17 +52,30 @@ function buildPretest() {
   var rows = readRows_();
   if (!rows.length) throw new Error('No question rows found. Check the sheet and header.');
 
+  var hasScenarios = rows.some(function (r) { return r.scenarioId; });
+  var shuffleQ = CONFIG.SHUFFLE_QUESTIONS;
+  if (hasScenarios && shuffleQ) {
+    shuffleQ = false; // scenario groups rely on order; never shuffle across a shared scenario
+    Logger.log('Scenarios present, so SHUFFLE_QUESTIONS was forced off to keep scenario groups together.');
+  }
+
   var form = FormApp.create(CONFIG.FORM_TITLE);
   form.setDescription(CONFIG.FORM_DESCRIPTION)
       .setIsQuiz(true)
       .setCollectEmail(CONFIG.COLLECT_EMAIL)
-      .setShuffleQuestions(CONFIG.SHUFFLE_QUESTIONS);
+      .setShuffleQuestions(shuffleQ);
 
-  var built = 0, skipped = [], key = [];
+  var built = 0, skipped = [], key = [], lastScenario = null;
   rows.forEach(function (r, i) {
     try {
+      // When a new scenario begins, print the shared context once as a section header.
+      if (r.scenarioId && r.scenarioId !== lastScenario) {
+        form.addSectionHeaderItem().setTitle('Read the scenario').setHelpText(r.scenario);
+      }
+      lastScenario = r.scenarioId || null;
+
       var res = addQuestion_(form, r);            // {item, correctText}
-      key.push([res.item.getId(), r.question, r.standard, r.outcome, res.correctText]);
+      key.push([res.item.getId(), r.question, r.standard, r.outcome, r.dok, res.correctText]);
       built++;
     } catch (e) {
       skipped.push('Row ' + (i + 2) + ': ' + e.message);
@@ -103,7 +116,8 @@ function readRows_() {
   if (values.length < 2) return [];
   var header = values[0].map(function (h) { return String(h).trim().toLowerCase(); });
   var idx = {};
-  ['standard','outcome','question','option_a','option_b','option_c','option_d','answer']
+  ['standard','outcome','dok','scenario_id','scenario','question',
+   'option_a','option_b','option_c','option_d','answer']
       .forEach(function (k) { idx[k] = header.indexOf(k); });
 
   ['question','option_a','option_b','option_c','option_d','answer'].forEach(function (k) {
@@ -116,8 +130,11 @@ function readRows_() {
     var q = String(row[idx.question] || '').trim();
     if (!q) continue; // skip blank lines
     out.push({
-      standard: idx.standard >= 0 ? String(row[idx.standard] || '').trim() : '',
-      outcome:  idx.outcome  >= 0 ? String(row[idx.outcome]  || '').trim() : '',
+      standard: idx.standard    >= 0 ? String(row[idx.standard] || '').trim() : '',
+      outcome:  idx.outcome     >= 0 ? String(row[idx.outcome]  || '').trim() : '',
+      dok:      idx.dok         >= 0 ? String(row[idx.dok] || '').trim().toLowerCase() : '',
+      scenarioId: idx.scenario_id >= 0 ? String(row[idx.scenario_id] || '').trim() : '',
+      scenario: idx.scenario    >= 0 ? String(row[idx.scenario] || '').trim() : '',
       question: q,
       options: {
         A: String(row[idx.option_a] || '').trim(),
@@ -177,8 +194,9 @@ function analyzeResults() {
   if (!responses.length) { Logger.log('No responses yet.'); return; }
 
   // tallies
-  var byStd = {}, byOut = {}, students = [];
+  var byStd = {}, byOut = {}, byDok = {}, students = [];
   function bump(map, k, correct) {
+    if (k === '' || k == null) return;
     if (!map[k]) map[k] = { asked: 0, correct: 0 };
     map[k].asked++; if (correct) map[k].correct++;
   }
@@ -193,6 +211,7 @@ function analyzeResults() {
       var correct = (String(picked).trim() === String(meta.correct).trim());
       bump(byStd, meta.standard || meta.outcome, correct);
       bump(byOut, meta.outcome || meta.standard, correct);
+      bump(byDok, meta.dok, correct);
       if (!perOut[meta.outcome]) perOut[meta.outcome] = { asked: 0, correct: 0 };
       perOut[meta.outcome].asked++; if (correct) perOut[meta.outcome].correct++;
     });
@@ -201,16 +220,18 @@ function analyzeResults() {
 
   writeSummarySheet_('By Standard', ['Standard', 'Asked', 'Correct', '% Correct'], byStd);
   writeSummarySheet_('By Outcome',  ['Outcome',  'Asked', 'Correct', '% Correct'], byOut);
+  writeSummarySheet_('By DOK',      ['DOK (recall=low / reasoning=high)', 'Asked', 'Correct', '% Correct'], byDok);
   writeStudentSheet_(students, byOut);
-  Logger.log('Wrote "By Standard", "By Outcome", and "By Student". Responses scored: %s', responses.length);
+  Logger.log('Wrote "By Standard", "By Outcome", "By DOK", and "By Student". Responses scored: %s',
+             responses.length);
 }
 
 function writeKeySheet_(key) {
   var ss = SpreadsheetApp.getActiveSpreadsheet();
   var sh = ss.getSheetByName(CONFIG.KEY_SHEET_NAME) || ss.insertSheet(CONFIG.KEY_SHEET_NAME);
   sh.clear();
-  sh.appendRow(['item_id', 'question', 'standard', 'outcome', 'correct']);
-  if (key.length) sh.getRange(2, 1, key.length, 5).setValues(key);
+  sh.appendRow(['item_id', 'question', 'standard', 'outcome', 'dok', 'correct']);
+  if (key.length) sh.getRange(2, 1, key.length, 6).setValues(key);
   sh.hideSheet();
 }
 
@@ -221,7 +242,9 @@ function readKeySheet_() {
   var v = sh.getDataRange().getValues();
   var map = {};
   for (var i = 1; i < v.length; i++) {
-    map[String(v[i][0])] = { question: v[i][1], standard: v[i][2], outcome: v[i][3], correct: v[i][4] };
+    map[String(v[i][0])] = {
+      question: v[i][1], standard: v[i][2], outcome: v[i][3], dok: v[i][4], correct: v[i][5]
+    };
   }
   return map;
 }
