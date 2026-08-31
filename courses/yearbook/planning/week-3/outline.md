@@ -38,10 +38,10 @@ by season), camera modes, and weekend camera sign-outs.
 | Tue Sep 1 | Build the frame layout: dominant + supporting photo boxes, headline, caption boxes |
 | Wed Sep 2 | Columns, alignment, gutter safety; place any photos you already have |
 | Thu Sep 3 | Reviewer on every page: check layout, captions, gutter; refine |
-| Fri Sep 4 | **Weekly status** + deadline check (no quiz); optional **Gimkit review game** for fun |
+| Fri Sep 4 | **Submit your spread as a PDF** (graded check-in) + weekly status; optional **Gimkit review game** for fun (no quiz) |
 
 ### What You'll Get This Week
 
-- **The Frames-First Spread Layout assignment** — requirements + extension.
+- **The Frames-First Spread Layout assignment** — with a **graded Friday PDF check-in** (submit a full spread or two pages).
 - **An optional Friday Gimkit review game** on yearbook terms (no quiz in Yearbook).
 

@@ -11,14 +11,16 @@ the assignment is `project.md`. **No quiz in Yearbook.**
 | Tue | Build the frame layout. Push a **clear dominant photo** (one box noticeably bigger) and a sensible number of supporting boxes. Add the headline box and caption boxes. | Reuse the ladder assignments; this is real page work. |
 | Wed | Columns and alignment: frames snap to a column grid; nothing crosses the gutter carelessly; leave caption room. Students with photos on hand drop them into frames. | Placeholder frames = the majority; photos are a bonus this week. |
 | Thu | **Reviewer on every page** (the standing habit): a partner checks the layout reads clearly, captions have room, and no face sits in the gutter. Refine. | Being reviewed is normal, not a judgment. |
-| Fri | **Weekly status** (finished / stuck / due next) + deadline check. Time permitting, a fun **Gimkit review game** on yearbook terms (`gimkit-review.csv`, see `program/gimkit-review-howto.md`). | Yearbook's Friday routine, in place of a quiz; the Gimkit game keeps the vocabulary sharp. |
+| Fri | **Graded PDF check-in:** every student submits a PDF of their spread (full spread or two pages) per `project.md` — finished/edited, from-scratch frames, a recreated old-book page, or a template layout **plus** a written plan + photo wishlist. Then weekly status + deadline check, and a fun **Gimkit review game** on yearbook terms (`gimkit-review.csv`, see `program/gimkit-review-howto.md`) if time allows. | This is the week's gradable deliverable, in place of a quiz. Empty photo boxes are fine — the plan + wishlist earns full credit. |
 
 ## Assessment Notes
 
-- **No quiz.** Graded rhythm is production/deadlines, coverage, craft, and staff contribution (the weekly
-  status counts).
+- **No quiz.** The gradable deliverable is the **Friday PDF check-in** (100-pt completion/production rubric in
+  `project.md`): submitted PDF (40), real layout (25), plan + photo wishlist or captions (20), partner review (15).
+- Deliberately lighter and completion-leaning — the goal is a real spread turned in every week, not a polished
+  final. A frames-and-plan submission with empty photo boxes still earns full marks.
 - Spread evidence: a spread claimed on the ladder with a **frame layout** — one dominant photo box, supporting
-  boxes, headline, captions, aligned to columns, gutter respected — ready for photos.
+  boxes, headline, captions, aligned to columns, gutter respected — plus the plan/wishlist for unfilled frames.
 
 ## Open items feeding this week
 
