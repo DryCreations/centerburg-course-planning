@@ -3,6 +3,13 @@
 Grades **7 and 8 combined**, one section, year-long elective. Non-CTE, not part of the Interactive Media
 pathway, no WebXam. Meets daily, full period, in Room 173 alongside the high school courses.
 
+> **Reconciled Aug 31 — read this first.** Weeks 1–2 ran **MakeCode Arcade first**: variables, sprites, events,
+> position/velocity, on-overlap/destroy/pick-random, a first conditional, and a finished catch/dodge game with
+> daily code-reading bell ringers (Checkpoint 1 given). **Week 3 is planned in [`week-3/`](week-3/)** — `if`
+> statements and the Decision Game, a Gimkit review Friday, first quiz next week. Day-by-day record:
+> `first-two-weeks/middle-school-cs/`; cross-course summary: `program/first-two-weeks-consolidation.md`. Any
+> idealized unit/pacing tables below are a reference draft pending remap.
+
 ## Confirmed
 
 - Aligned to the **Ohio K–12 Computer Science Standards, grades 6–8** — see [standards.md](../standards.md)

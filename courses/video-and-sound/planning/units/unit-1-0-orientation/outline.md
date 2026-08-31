@@ -3,6 +3,16 @@
 **Course:** Video & Sound Production (145110)
 **Quarter:** Q1 | **Weeks:** 1–2 | **Duration:** 2 weeks
 
+> **Reconciled Aug 31 — read this first.** This unit was drafted before the year started; the first two weeks
+> ran differently. **What actually ran:** camera-first work off Auto — the exposure triangle, Av/Tv/M, ISO/Manual,
+> motion and a little composition — plus the Google Sites portfolio and the WebXam pretest as a **40-item
+> diagnostic** administered late Week 2 (in `first-two-weeks/_shared/pretests/`). **Audio is deferred** until
+> editing software is installed. SMART-goals/careers framing below is a reference draft, not what we did.
+> Day-by-day record: `first-two-weeks/video-and-sound/`. Cross-course summary:
+> `program/first-two-weeks-consolidation.md`. **Week 3 onward is planned in
+> [`../../week-3/`](../../week-3/)** (RAW + white balance + Lightroom edit). Units 1.1+ are a content bank
+> pending remap.
+
 ---
 
 ## Student Overview

@@ -3,6 +3,16 @@
 **Course:** Design Techniques (145095)
 **Quarter:** Q1 | **Weeks:** 1–2 | **Duration:** ~8 days (3-day Wk 1 + 5-day Wk 2)
 
+> **Reconciled Aug 31 — read this first.** This unit was drafted before the year started and the first two
+> weeks ran richer than the draft below. **What actually ran:** Adobe Express deep-dive (raster/vector,
+> RGB/CMYK, layers, transparent-PNG export), a brand kit with color theory, a monogram placed as favicon/logo
+> with a legibility test, the Google Sites portfolio, **typography** (typeface families + pairing), and
+> **photography basics** (exposure triangle); the WebXam pretest was built as a **40-item diagnostic** (in
+> `first-two-weeks/_shared/pretests/`). Day-by-day record: `first-two-weeks/design-techniques/`. Cross-course
+> summary: `program/first-two-weeks-consolidation.md`. **Week 3 onward is planned in
+> [`../../week-3/`](../../week-3/)** (then `week-4/`, …). The idealized pacing below is a reference draft;
+> Units 1.1+ are a content bank pending remap.
+
 ---
 
 ## Student Overview

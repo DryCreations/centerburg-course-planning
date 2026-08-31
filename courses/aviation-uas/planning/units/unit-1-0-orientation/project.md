@@ -5,6 +5,15 @@
 **Duration:** Week 1 (Days 1–2 and 5)
 **Tools:** Google Drive, Google Docs, Felt (classroom account)
 
+> **Reconciled Aug 31 — read this first.** This unit was drafted before the year started; the first two weeks
+> ran richer and off-book. **What actually ran:** FAA **TRUST** certificate, controller/transmitter basics,
+> a supervised **first flight**, intro to the **ODOT** drone curriculum, and the WebXam pretest as a **40-item
+> diagnostic** (in `first-two-weeks/_shared/pretests/`). The idealized toolchain-setup below is a reference draft.
+> Day-by-day record: `first-two-weeks/aviation-uas/`. Cross-course summary:
+> `program/first-two-weeks-consolidation.md`. **Week 3 onward is planned in
+> [`../../week-3/`](../../week-3/)** (vocab review + ODOT Module 1 homework + Friday school-flyover flight; quiz
+> moved to next week). Units 1.1+ are a content bank pending remap.
+
 ---
 
 ## Overview
