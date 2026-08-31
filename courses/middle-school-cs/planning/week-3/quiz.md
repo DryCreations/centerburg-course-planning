@@ -1,6 +1,9 @@
-# Week 3 Quiz — If Statements (short)
+# Short Quiz — If Statements (prepared; first quiz is NEXT week)
 
-**Course:** Middle School CS | **Fri Sep 4** | **Category:** Checkpoints | 8 questions
+> Moved out of Week 3 — this week ends in a Gimkit review game instead, and the first quiz comes next week.
+> Prepared and ready to give then.
+
+**Course:** Middle School CS | **Category:** Checkpoints | 8 questions
 
 Short quiz on `if` statements plus cumulative Arcade basics. Not a trap — you can redo it. Correct answer
 listed first (A); **shuffle options before posting.** Delete the key first.

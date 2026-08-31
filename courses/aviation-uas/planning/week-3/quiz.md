@@ -1,6 +1,9 @@
-# Week 3 Quiz — Cumulative (Weeks 1–3)
+# Cumulative Quiz — Weeks 1–3 (prepared; administered NEXT week)
 
-**Course:** Aviation UAS | **Thu Sep 3** (Friday is the flight) | **Category:** Assessments | 12 questions
+> Moved out of Week 3 to make room for the flight and the ODOT course. Prepared and ready; give it early next
+> week. This week's review is the Gimkit game (`gimkit-review.csv`).
+
+**Course:** Aviation UAS | **Category:** Assessments | 12 questions
 
 Covers aerodynamics, airspace, weather, sUAS rules, preflight, controls, and safety from Weeks 1–3. Correct
 answer listed first (A); **shuffle options before posting.** Delete the key first.

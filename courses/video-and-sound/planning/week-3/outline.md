@@ -36,7 +36,7 @@ week builds straight on that — same exposure control, now captured in RAW and 
 | Mon Aug 31 | **Vocab posted** + **group review of last week's camera lab**; open camera sign-outs; RAW + white balance intro; set cameras to RAW | — |
 | Tue Sep 1 | Shoot a small RAW set with deliberate white-balance and exposure variety | RAW files offloaded |
 | Wed Sep 2 | Import to Lightroom Classic; edit one photo (WB, exposure, crop, tone) | Edit in progress |
-| Thu Sep 3 | Finish the edit; export before/after; quiz review | Before/after |
+| Thu Sep 3 | Finish the edit; export before/after; **Gimkit review game** | Before/after |
 | Fri Sep 4 | **Cumulative quiz** + submit the edited photo | Quiz + edit |
 
 ### Documents in This Week
@@ -65,7 +65,7 @@ week builds straight on that — same exposure control, now captured in RAW and 
 | Mon | Post `vocab.md`. **Review last week's camera lab as a group** — put a few student frames on the screen and read the settings together (what worked, what to fix). Open **camera sign-outs** using the **shared room sign-out sheet** (same spreadsheet Yearbook uses). Demo **RAW vs. JPEG** and **white balance**; set every camera to shoot **RAW**. | Camera sign-outs are shared across the room — one sheet, one column per course. |
 | Tue | Shoot a small RAW set: the same subject under different light (window vs. fluorescent), and one deliberately wrong white balance to fix later. | RAW files are bigger — remind them to offload, and that the card isn't storage. |
 | Wed | Import to **Lightroom Classic** (catalog import). Edit one photo: correct **white balance**, set **exposure**, **crop**, and a little contrast/tone. Stress **non-destructive** editing (the original is untouched). | If Lightroom import is unfamiliar, demo the import + Develop module once for the room. |
-| Thu | Finish the edit. Export a **before/after** (original JPG + edited JPG). Quiz-review game from `vocab.md`. | Before/after makes the edit legible and gradeable. |
+| Thu | Finish the edit. Export a **before/after** (original JPG + edited JPG). **Gimkit review game** (`gimkit-review.csv`, see `program/gimkit-review-howto.md`) before tomorrow's quiz. | Before/after makes the edit legible and gradeable. |
 | Fri | **Cumulative quiz** (`quiz.md`), then submit the edited photo. | Short, formative. |
 
 ### Assessment Notes

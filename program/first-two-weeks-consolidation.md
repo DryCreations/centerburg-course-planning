@@ -39,14 +39,16 @@ where they are; they are referenced from each CTE course's Week-3 plan for the r
 Each course now has `courses/<course>/planning/week-3/` with an `outline.md`, a weeklong `project.md`, and
 (where there's a quiz) `vocab.md` + `quiz.md`:
 
-| Course | Week-3 focus & deliverable | Quiz |
-|--------|----------------------------|------|
-| Design Techniques | **Visual/type hierarchy → a poster** (event / club / approved topic), strict hierarchy rubric. Photos from last year's yearbook or emailed in. | Fri, cumulative (hierarchy-weighted) |
-| Video and Sound | **Shoot RAW + white balance + first edit in Lightroom Classic** (cameras only; sign-outs opened on the shared sheet). Review last week's lab as a group. | Fri, cumulative (camera + RAW/WB) |
-| Aviation UAS | Review + **ODOT Module 1 (homework, due next week)**; prep Mon–Wed, **fly Friday to capture a front-of-school video** + pull footage. | **Thu** (Friday is the flight) |
-| Middle School CS | **`if` statements → a new Decision Game** lab. | Fri, short |
-| Yearbook | **Frames-first spread layout** in eDesign (design with placeholder frames; photos optional). | **No quiz** — weekly status |
+| Course | Week-3 focus & deliverable | Quiz this week | Gimkit review |
+|--------|----------------------------|----------------|---------------|
+| Design Techniques | **Visual/type hierarchy → a poster** (event / club / approved topic), strict hierarchy rubric. Photos from last year's yearbook or emailed in. Mon: log in + start pulling photos. | **Fri** (cumulative, hierarchy-weighted) | Thu (before quiz) |
+| Video and Sound | **Shoot RAW + white balance + first edit in Lightroom Classic** (cameras only; sign-outs opened on the shared sheet). Review last week's lab as a group. | **Fri** (cumulative) | Thu (before quiz) |
+| Aviation UAS | Review + **ODOT Module 1 (homework, due next week)**; prep Mon–Wed, **fly Friday to capture a front-of-school video** + pull footage. | **No — moved to next week** | Thu (ground review) |
+| Middle School CS | **`if` statements → a new Decision Game** lab. | **No — first quiz next week** | Fri (in place of quiz) |
+| Yearbook | **Frames-first spread layout** in eDesign (design with placeholder frames; photos optional). | **No quiz** — weekly status | Fri (optional, fun) |
 
-CTE courses **introduce the week's vocabulary Monday** and **quiz over everything so far** (Aviation on
-Thursday because it flies Friday). Each course's `project.md` is a weeklong assignment with clear requirements
-and an extension.
+Only **Design Techniques and Video & Sound** have a quiz this week (Friday, cumulative, vocab introduced
+Monday). Aviation and MS CS quizzes moved to next week to make room; prepared versions sit in their `quiz.md`.
+Every class has a **Gimkit review** — a `week-3/gimkit-review.csv` ready to import (see
+`program/gimkit-review-howto.md`), played Thursday before a quiz or Friday as a fun review. Each course's
+`project.md` is a weeklong assignment with clear requirements and an extension.

@@ -4,8 +4,8 @@
 **Quarter:** Q1 | **Week:** 3 | **Dates:** Mon Aug 31 – Fri Sep 4 | **Duration:** 5 days
 
 > **This week is all about decisions: `if` statements.** We keep the daily code-reading bell ringers and build a
-> **new week-long game** where the code has to *decide* what happens. A shorter **quiz Friday** (there's more
-> practice and review this week, so it can be quick).
+> **new week-long game** where the code has to *decide* what happens. **No quiz this week** — Friday is a
+> **Gimkit review game** instead, and the first quiz comes next week.
 
 ---
 
@@ -37,14 +37,15 @@ conditional, and a finished catch/dodge game. Daily bell ringers. Checkpoint 1 g
 | Tue Sep 1 | Bell ringer + good vs. bad items decided with `if` | Decision working |
 | Wed Sep 2 | Bell ringer + win/lose conditions (score/lives) with `if` | Win + lose work |
 | Thu Sep 3 | Bell ringer + polish, playtest, debug log | Game plays start-to-finish |
-| Fri Sep 4 | **Quiz (short)** + game showcase | Quiz |
+| Fri Sep 4 | **Gimkit review game** + game showcase (no quiz) | — |
 
 ### Documents in This Week
 
 | File | What It Is |
 |------|-----------|
 | `project.md` | The Decision Game lab — requirements + extension |
-| `quiz.md` | Friday quiz (short) — `if` statements + cumulative Arcade basics |
+| `gimkit-review.csv` | Friday Gimkit review game |
+| `quiz.md` | Prepared short quiz — **first quiz is next week**, not this week |
 
 ---
 
@@ -58,7 +59,7 @@ conditional, and a finished catch/dodge game. Daily bell ringers. Checkpoint 1 g
 | Tue | Bell ringer. Students spawn items that are randomly **good or bad**, and use an `if` on overlap to decide: good → score up; bad → lose a life. | This is the core `if` skill; the pick-random from last week feeds it. |
 | Wed | Bell ringer. Add **win and lose** conditions with `if`: reach a score → you win; lives hit 0 → game over. | Reinforces comparisons (≥, ≤). |
 | Thu | Bell ringer. Polish, playtest with a partner, keep the debug log. | Debug log is the real evidence of the build. |
-| Fri | **Short quiz** (`quiz.md`), then showcase. | Redo policy applies. |
+| Fri | **Gimkit review game** (`gimkit-review.csv`, see `program/gimkit-review-howto.md`), then game showcase. No quiz — the first quiz is next week. | Fun, low-stakes review of `if` statements and the Arcade basics. |
 
 ### Bell-ringer bank
 
@@ -68,8 +69,8 @@ it line by line.
 
 ### Assessment Notes
 
-- The Friday quiz is **shorter than Checkpoint 1** and focuses on `if` statements plus cumulative basics
-  (variables, events, overlap, pick-random). Formative; redo allowed.
+- **No quiz this week** (first quiz next week; a prepared short version is in `quiz.md`). Friday's Gimkit game
+  is the review, focused on `if` statements plus cumulative basics (variables, events, overlap, pick-random).
 - Build evidence: a game that decides good vs. bad with an `if`, has a win **and** a lose condition, and a
   debug log with at least one real bug.
 

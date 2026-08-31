@@ -38,13 +38,14 @@ by season), camera modes, and weekend camera sign-outs.
 | Tue Sep 1 | Build the frame layout: dominant + supporting photo boxes, headline, caption boxes |
 | Wed Sep 2 | Columns, alignment, gutter safety; place any photos you already have |
 | Thu Sep 3 | Reviewer on every page: check layout, captions, gutter; refine |
-| Fri Sep 4 | **Weekly status** + deadline check (no quiz) |
+| Fri Sep 4 | **Weekly status** + deadline check (no quiz); optional **Gimkit review game** for fun |
 
 ### Documents in This Week
 
 | File | What It Is |
 |------|-----------|
 | `project.md` | Frames-first spread layout — requirements + extension |
+| `gimkit-review.csv` | Optional Friday Gimkit review game (yearbook terms) |
 
 ---
 
@@ -58,7 +59,7 @@ by season), camera modes, and weekend camera sign-outs.
 | Tue | Build the frame layout. Push a **clear dominant photo** (one box noticeably bigger) and a sensible number of supporting boxes. Add the headline box and caption boxes. | Reuse the ladder assignments; this is real page work. |
 | Wed | Columns and alignment: frames snap to a column grid; nothing crosses the gutter carelessly; leave caption room. Students with photos on hand drop them into frames. | Placeholder frames = the majority; photos are a bonus this week. |
 | Thu | **Reviewer on every page** (the standing habit): a partner checks the layout reads clearly, captions have room, and no face sits in the gutter. Refine. | Being reviewed is normal, not a judgment. |
-| Fri | **Weekly status** (finished / stuck / due next) + deadline check. | Yearbook's Friday routine, in place of a quiz. |
+| Fri | **Weekly status** (finished / stuck / due next) + deadline check. Time permitting, a fun **Gimkit review game** on yearbook terms (`gimkit-review.csv`, see `program/gimkit-review-howto.md`). | Yearbook's Friday routine, in place of a quiz; the Gimkit game keeps the vocabulary sharp. |
 
 ### Assessment Notes
 
