@@ -1,5 +1,9 @@
 # First Two Weeks (Temporary Prep Workspace)
 
+> **Now the archive of record for Days 01–08.** Planning has moved to the course folders starting Week 3 (see
+> `program/first-two-weeks-consolidation.md`). This folder stays as the day-by-day record of what actually ran;
+> the CTE pretests under `_shared/pretests/` also stay here.
+
 Wed **Aug 19** to Fri **Aug 21**, then Mon **Aug 24** to Fri **Aug 28**. Eight teaching days. All five courses
 meet daily, full period, in Room 173. Under 18 students per section, 24 machines.
 
