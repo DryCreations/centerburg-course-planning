@@ -1,60 +1,58 @@
-# Week 3 — Camera Mastery & Composition: Outline
+# Week 3 — Shoot RAW & Edit in Lightroom: Outline
 
 **Course:** Video and Sound (145110)
 **Quarter:** Q1 | **Week:** 3 | **Dates:** Mon Aug 31 – Fri Sep 4 | **Duration:** 5 days
 
-> **Consolidate the camera before we add anything.** New vocabulary Monday, finish the exposure work, add
-> composition and shot types (still in a photo context), and a **cumulative quiz Friday.** Audio and editing
-> come after the camera is second nature.
+> **Cameras and the first edit.** Video and audio editing software still isn't installed, so we stay on the
+> camera — but we add the **RAW** workflow, **white balance**, and a first **photo edit in Lightroom Classic**
+> (which we do have). New vocabulary Monday, **cumulative quiz Friday.**
 
 ---
 
-## Weeks 1–2 recap (what actually ran)
+## What this week covers (present this today)
 
-The camera came off Auto in a **photo context**: the exposure triangle (aperture, shutter, ISO), the mode dial
-(Auto/P/Av/Tv/M), motion (freeze vs. pan), ISO and Manual matched-exposure, and a little composition, plus the
-Google Sites portfolio and three SMART goals. The class ran a bit behind, so some groups were finishing the
-Camera Modes Shoot and just starting Manual at the end of Week 2. **Audio, the video five-shot sequence, and
-Premiere editing were deferred** to a later week.
+Shooting in **RAW** (all the sensor data, editable later), controlling **white balance** (making the light look
+the right color), and making a first **non-destructive edit in Lightroom Classic** — fix the white balance and
+exposure, crop, and basic tone. We also open **camera sign-outs** so you can shoot outside class.
+
+## Weeks 1–2 recap
+
+The camera came off Auto: the exposure triangle, Av/Tv/M, motion, ISO/Manual, and a little composition. This
+week builds straight on that — same exposure control, now captured in RAW and finished in Lightroom.
 
 ## Student Overview
 
-### What Is This Week About?
-
-You can control the camera's exposure. This week you get fluent with it and add **composition and shot types** —
-the choices that make a frame look intentional. Everything is still shot as stills (photos), because the camera
-comes first; we start moving to video and audio once this is solid.
-
 ### What You'll Be Able to Do
 
-- Set exposure confidently in Av, Tv, and Manual
-- Frame wide, medium, and close-up shots on purpose
-- Use composition (rule of thirds, headroom, leading space) to strengthen a frame
-- Tell a short story with a planned set of stills
+- Set the camera to shoot **RAW** and explain why RAW gives more editing room than JPEG
+- Set or correct **white balance** so whites look white
+- Import photos into **Lightroom Classic** and edit non-destructively
+- Deliver a clean **before/after** edit of one photo
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Mon Aug 31 | **Vocabulary posted** + exposure review; finish any Camera Modes frames | — |
-| Tue Sep 1 | Shot sizes (wide / medium / close-up / over-the-shoulder) and framing | Shot-size set |
-| Wed Sep 2 | Composition (rule of thirds, headroom, leading space) + a 5-frame photo story | Photo story |
-| Thu Sep 3 | Portfolio update, peer review, quiz-review game | Portfolio updated |
-| Fri Sep 4 | **Cumulative quiz** + wrap | Quiz |
+| Mon Aug 31 | **Vocab posted** + **group review of last week's camera lab**; open camera sign-outs; RAW + white balance intro; set cameras to RAW | — |
+| Tue Sep 1 | Shoot a small RAW set with deliberate white-balance and exposure variety | RAW files offloaded |
+| Wed Sep 2 | Import to Lightroom Classic; edit one photo (WB, exposure, crop, tone) | Edit in progress |
+| Thu Sep 3 | Finish the edit; export before/after; quiz review | Before/after |
+| Fri Sep 4 | **Cumulative quiz** + submit the edited photo | Quiz + edit |
 
 ### Documents in This Week
 
 | File | What It Is |
 |------|-----------|
-| `vocab.md` | The week's terms, posted Monday; cumulative camera + production vocabulary |
-| `quiz.md` | Friday cumulative quiz (camera controls, composition, production phases) — no audio yet |
+| `project.md` | RAW Capture & First Edit — requirements, before/after, extension |
+| `vocab.md` | The week's terms (RAW, white balance, Lightroom) + cumulative camera terms |
+| `quiz.md` | Friday cumulative quiz (camera control + RAW/white balance/editing) |
 
 ### Standards Covered (cumulative, assessed Friday)
 
-- **7.7.1 / 7.7.4** equipment and shooting; recording choices
-- **7.9-style camera control** exposure triangle and modes (via 7.7.4)
-- **7.3.1** media elements / production phases (introductory)
-- **2.10** equipment: checkout, offload, care
+- **7.7.4** shooting: recording format (RAW), exposure control
+- **7.3.5 / 7.3.7-style editing** applied to photos (correct, crop, tone)
+- **7.4.1** color: white balance / color temperature
+- **2.10** equipment: sign-out, offload, care
 
 ---
 
@@ -64,20 +62,20 @@ comes first; we start moving to video and audio once this is solid.
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Mon | Post `vocab.md`. Fast exposure review (bell-ringer style: "freeze motion → which setting, which way?"). Groups still mid-shoot finish the Camera Modes frames. | Monday review = the quiz intro. |
-| Tue | Shot sizes: demo wide/medium/close-up/over-the-shoulder, then students shoot one clean set of the same subject in all four. | This is the vocabulary of framing; it carries straight into video later. |
-| Wed | Composition mini (rule of thirds, headroom, leading space). Students shoot a **5-frame photo story** of a simple action (arrive, do, react, detail, wide). | The photo story is the still-photo version of a shot sequence — sets up video without editing yet. |
-| Thu | Offload, name, and post to the portfolio. Peer review one story. Quiz-review game from `vocab.md`. | Reinforce the checkout/offload/care habit. |
-| Fri | **Cumulative quiz** (`quiz.md`), then wrap and preview. | Short, formative. |
+| Mon | Post `vocab.md`. **Review last week's camera lab as a group** — put a few student frames on the screen and read the settings together (what worked, what to fix). Open **camera sign-outs** using the **shared room sign-out sheet** (same spreadsheet Yearbook uses). Demo **RAW vs. JPEG** and **white balance**; set every camera to shoot **RAW**. | Camera sign-outs are shared across the room — one sheet, one column per course. |
+| Tue | Shoot a small RAW set: the same subject under different light (window vs. fluorescent), and one deliberately wrong white balance to fix later. | RAW files are bigger — remind them to offload, and that the card isn't storage. |
+| Wed | Import to **Lightroom Classic** (catalog import). Edit one photo: correct **white balance**, set **exposure**, **crop**, and a little contrast/tone. Stress **non-destructive** editing (the original is untouched). | If Lightroom import is unfamiliar, demo the import + Develop module once for the room. |
+| Thu | Finish the edit. Export a **before/after** (original JPG + edited JPG). Quiz-review game from `vocab.md`. | Before/after makes the edit legible and gradeable. |
+| Fri | **Cumulative quiz** (`quiz.md`), then submit the edited photo. | Short, formative. |
 
 ### Assessment Notes
 
-- Quiz is cumulative over Weeks 1–3 and covers camera controls, composition, production phases, and equipment
-  procedure. **No audio** (not taught yet).
-- Photo-story evidence: five deliberate frames with varied shot sizes and at least one strong composition
-  choice, offloaded and named correctly.
+- Edit evidence: a RAW capture, a corrected white balance, a sensible crop and exposure, and a clear
+  before/after pair. Graded on control and intent, not heavy stylizing.
+- Quiz is cumulative over Weeks 1–3 (camera control + this week's RAW/white-balance/editing). Still **no
+  audio** — parked until software is installed.
 
-### Notes
+### Notes / open items
 
-- Keep the "close mic, headphones" audio material parked; do not introduce it this week.
-- If a group never finished Manual, Wednesday's story can be shot in Av — the priority is composition fluency.
+- **Software:** video/audio editing not installed yet; that's why the edit is a **photo** in Lightroom. When
+  editing software lands, we start video (question logged in `program/open-questions.md`).

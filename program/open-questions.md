@@ -3,6 +3,23 @@
 Questions raised while consolidating Weeks 1–2 into the course folders and planning Week 3. None of these block
 Week 3 — each was resolved with a judgment call, noted here so it can be revisited.
 
+## Resolved during Week-3 refinement (Aug 31)
+
+- **DT** → hierarchy-focused **poster** (event / club / approved other), strict hierarchy rubric. Photos from
+  last year's yearbook (download in class) or emailed in from home. Brand-sampler idea dropped.
+- **V&S** → cameras only (no editing software yet), so **shoot RAW + white balance + edit one photo in
+  Lightroom Classic**; camera sign-outs opened on the shared sheet; review last week's lab as a group.
+- **Aviation** → review + **ODOT Module 1 as homework (due next week)**; prep Mon–Wed, **fly Friday for a
+  front-of-school video** + pull footage. Quiz moved to **Thursday**.
+- **MS CS** → focus **`if` statements**; a new week-long **Decision Game** lab; **shorter** Friday quiz.
+- **Yearbook** → **frames-first spread layout** (design with placeholder frames; photos optional).
+- **Active next big task:** the user does want to **fix the old speculative `unit-1-*` mappings and define what
+  the units actually are.** For now we refined Week 3 to be ready to publish; the unit remap is the next focus.
+
+---
+
+### Still open
+
 ## Structural / consolidation
 
 1. **Reconcile the old `unit-1-*` drafts to reality.** The pre-year unit drafts (e.g. DT `unit-1-1-industry-marketing`,

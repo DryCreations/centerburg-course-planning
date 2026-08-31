@@ -1,45 +1,38 @@
-# Checkpoint 2 — Cumulative (Weeks 1–3)
+# Week 3 Quiz — If Statements (short)
 
-**Course:** Middle School CS | **Fri Sep 4** | **Category:** Checkpoints | 10 questions
+**Course:** Middle School CS | **Fri Sep 4** | **Category:** Checkpoints | 8 questions
 
-Covers Arcade concepts from Day 1 through this week: variables, events, velocity, overlap, conditionals,
-pick-random, and lists. Not a trap — you can redo it. Correct answer listed first (A); **shuffle options before
-posting.** Delete the key first.
+Short quiz on `if` statements plus cumulative Arcade basics. Not a trap — you can redo it. Correct answer
+listed first (A); **shuffle options before posting.** Delete the key first.
 
 ---
 
-1. A variable is:
-   A. A named box that holds a value · B. A picture in the game · C. Code that repeats · D. Something that broke
+1. An `if` statement is code that:
+   A. Decides (does something only when a condition is true) · B. Always repeats forever · C. Draws a sprite · D. Names a file
 
-2. Setting a sprite's velocity makes it:
-   A. Keep moving on its own · B. Change color · C. Disappear · D. Pause the game
+2. "if / else" means:
+   A. Do one thing if true, another if false · B. Repeat until you stop it · C. Add two numbers · D. End the game
 
-3. Which one **decides**, rather than repeats?
-   A. A conditional · B. A loop · C. A sprite · D. An event
+3. `set x to 7`, then `if x > 5: change score by 1 else: change score by -1`. What happens to `score`?
+   A. It goes up by 1 · B. It goes down by 1 · C. Nothing · D. It resets to 0
 
-4. `set score to 0`, then `change score by 3`, then `change score by 2`. What is `score`?
-   A. 5 · B. 0 · C. 6 · D. 23
+4. Which symbol means "greater than or equal to"?
+   A. ≥ · B. ≤ · C. = · D. ≠
 
-5. `set a to 5`, `set b to 8`, `set a to b`, `set b to a`. What are a and b?
-   A. Both 8 · B. a=5, b=8 · C. a=8, b=5 · D. Both 5
+5. To end the game only when lives reach 0, you use:
+   A. An `if` (if lives ≤ 0, game over) · B. A forever loop · C. A faster velocity · D. A new sprite
 
-6. The best place to add a point when the player catches a coin is:
-   A. Inside the on-overlap event · B. Inside a forever loop · C. On start · D. In a comment
+6. In a game, deciding "good item → score up, bad item → lose a life" is best done with:
+   A. An if/else on overlap · B. A comment · C. A pause block · D. The pick-random block alone
 
-7. To make a new item appear in a different spot each time, you use:
-   A. Pick random · B. A comment · C. A fixed number · D. The pause block
+7. A variable is:
+   A. A named box that holds a value · B. A picture in the game · C. A kind of loop · D. Something that broke
 
-8. To end the game when lives reach 0, you use:
-   A. A conditional (if lives ≤ 0, game over) · B. A faster velocity · C. A new sprite · D. A longer loop
-
-9. A **list** is best described as:
-   A. A container that holds many values · B. A single number · C. A type of sprite · D. A kind of bug
-
-10. `set nums to [2, 4, 6]`, then `for each n in nums: change total by n`. If `total` started at 0, it is now:
-    A. 12 · B. 6 · C. 3 · D. 246
+8. `set coins to 0`, `change coins by 5`, `change coins by -2`. What is `coins`?
+   A. 3 · B. 5 · C. 7 · D. 0
 
 ---
 
 ## Answer Key (delete before posting)
 
-1-A, 2-A, 3-A, 4-A, 5-A, 6-A, 7-A, 8-A, 9-A, 10-A
+1-A, 2-A, 3-A, 4-A, 5-A, 6-A, 7-A, 8-A

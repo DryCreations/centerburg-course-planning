@@ -36,14 +36,17 @@ where they are; they are referenced from each CTE course's Week-3 plan for the r
 
 ## Where Week 3 lives
 
-Each course now has `courses/<course>/planning/week-3/`:
+Each course now has `courses/<course>/planning/week-3/` with an `outline.md`, a weeklong `project.md`, and
+(where there's a quiz) `vocab.md` + `quiz.md`:
 
-| Course | Files | Friday |
-|--------|-------|--------|
-| Design Techniques | `outline.md`, `vocab.md`, `quiz.md` | Cumulative quiz |
-| Video and Sound | `outline.md`, `vocab.md`, `quiz.md` | Cumulative quiz |
-| Aviation UAS | `outline.md`, `vocab.md`, `quiz.md` | Cumulative quiz |
-| Middle School CS | `outline.md`, `quiz.md` | Checkpoint 2 |
-| Yearbook | `outline.md` | **No quiz** — weekly status + deadline check |
+| Course | Week-3 focus & deliverable | Quiz |
+|--------|----------------------------|------|
+| Design Techniques | **Visual/type hierarchy → a poster** (event / club / approved topic), strict hierarchy rubric. Photos from last year's yearbook or emailed in. | Fri, cumulative (hierarchy-weighted) |
+| Video and Sound | **Shoot RAW + white balance + first edit in Lightroom Classic** (cameras only; sign-outs opened on the shared sheet). Review last week's lab as a group. | Fri, cumulative (camera + RAW/WB) |
+| Aviation UAS | Review + **ODOT Module 1 (homework, due next week)**; prep Mon–Wed, **fly Friday to capture a front-of-school video** + pull footage. | **Thu** (Friday is the flight) |
+| Middle School CS | **`if` statements → a new Decision Game** lab. | Fri, short |
+| Yearbook | **Frames-first spread layout** in eDesign (design with placeholder frames; photos optional). | **No quiz** — weekly status |
 
-CTE courses **introduce the week's vocabulary Monday** and **quiz Friday, cumulative over everything so far**.
+CTE courses **introduce the week's vocabulary Monday** and **quiz over everything so far** (Aviation on
+Thursday because it flies Friday). Each course's `project.md` is a weeklong assignment with clear requirements
+and an extension.

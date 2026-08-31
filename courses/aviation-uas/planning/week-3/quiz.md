@@ -1,6 +1,6 @@
 # Week 3 Quiz — Cumulative (Weeks 1–3)
 
-**Course:** Aviation UAS | **Fri Sep 4** | **Category:** Assessments | 12 questions
+**Course:** Aviation UAS | **Thu Sep 3** (Friday is the flight) | **Category:** Assessments | 12 questions
 
 Covers aerodynamics, airspace, weather, sUAS rules, preflight, controls, and safety from Weeks 1–3. Correct
 answer listed first (A); **shuffle options before posting.** Delete the key first.

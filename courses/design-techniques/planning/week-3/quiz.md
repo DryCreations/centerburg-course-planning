@@ -1,48 +1,47 @@
-# Week 3 Quiz — Cumulative (Weeks 1–3)
+# Week 3 Quiz — Cumulative, Hierarchy Focus (Weeks 1–3)
 
 **Course:** Design Techniques | **Fri Sep 4** | **Category:** Assessments | 12 questions
 
-Covers everything so far: graphics, color, type, photography, portfolio. Formative and low-stakes. The correct
-answer is listed first (A) for review; **shuffle options before posting.** Answer key at the bottom — delete
-before posting.
+Weighted toward this week's hierarchy and type, with graphics/color review from Weeks 1–2. Correct answer
+listed first (A); **shuffle options before posting.** Delete the key first.
 
 ---
 
-1. Which image type stays sharp at any size because it is defined by math?
-   A. Vector · B. Raster · C. JPEG photo · D. Bitmap
+1. Visual hierarchy is:
+   A. Arranging elements so the eye moves in a planned order · B. Using only one font · C. Making every element the same size · D. Exporting in CMYK
 
-2. Which color mode is used for images intended for print?
-   A. CMYK · B. RGB · C. HSL · D. ISO
+2. The one element a viewer sees first is the:
+   A. Focal point · B. Whitespace · C. Footer · D. Margin
 
-3. A logo must sit on a colored web header with no white box behind it. Best export?
-   A. Transparent PNG · B. Flattened JPEG · C. Print CMYK TIFF · D. White-filled BMP
+3. Which set of tools most directly creates hierarchy?
+   A. Size, contrast, and position · B. File name and date · C. Zoom and pan · D. Save and export
 
-4. Colors directly opposite each other on the color wheel are:
-   A. Complementary · B. Analogous · C. Monochromatic · D. Neutral
+4. "Visual weight" means how much an element:
+   A. Pulls the eye · B. Costs to print · C. Weighs in megabytes · D. Shifts the margins
 
-5. Colors next to each other on the wheel, which look harmonious, are:
-   A. Analogous · B. Complementary · C. Primary · D. Grayscale
+5. Lining elements up to shared edges is called:
+   A. Alignment · B. Contrast · C. Proximity · D. Kerning
 
-6. A typeface with small "feet" on the ends of the strokes is a:
+6. Grouping related items close together so they read as one unit is:
+   A. Proximity · B. Contrast · C. Whitespace · D. Bleed
+
+7. Intentional empty space that keeps a layout readable is:
+   A. Whitespace · B. A focal point · C. A gradient · D. A watermark
+
+8. A good guideline when pairing type on a poster is to:
+   A. Use two contrasting families (heading + body) · B. Use as many fonts as possible · C. Use one font at one size · D. Use only one ink color
+
+9. A typeface with small "feet" on the strokes is a:
    A. Serif · B. Sans serif · C. Monospace · D. Script
 
-7. A good guideline when pairing type in one project is to:
-   A. Use two contrasting families (heading + body) · B. Use as many fonts as possible · C. Use one font at one size for everything · D. Use only one ink color
+10. Which image type stays sharp at any size?
+    A. Vector · B. Raster · C. JPEG photo · D. Bitmap
 
-8. In a layout, the element you want seen first should have the most:
-   A. Size and contrast · B. File size · C. Layers · D. Metadata
+11. Which color mode is used for images intended for print?
+    A. CMYK · B. RGB · C. HSL · D. ISO
 
-9. The small brand icon on a browser tab is called a:
-   A. Favicon · B. Monogram · C. Thumbnail · D. Watermark
-
-10. The three settings of the exposure triangle are:
-    A. Aperture, shutter speed, ISO · B. Hue, saturation, value · C. RGB, CMYK, Pantone · D. Serif, sans, script
-
-11. To blur the background of a portrait so the subject stands out, use:
-    A. A low f-number (wide aperture) · B. A high f-number (narrow aperture) · C. A fast shutter only · D. The lowest ISO only
-
-12. Placing your subject off-center for a stronger photo applies the:
-    A. Rule of thirds · B. Rule of exposure · C. CMYK model · D. Inverse-square law
+12. For a logo on a colored poster background with no white box, export a:
+    A. Transparent PNG · B. Flattened JPEG · C. Print CMYK TIFF · D. White-filled BMP
 
 ---
 

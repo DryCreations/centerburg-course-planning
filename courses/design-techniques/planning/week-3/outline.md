@@ -1,61 +1,61 @@
-# Week 3 — Brand Identity Sampler & Consolidation: Outline
+# Week 3 — Visual Hierarchy & the Poster: Outline
 
 **Course:** Design Techniques (145095)
 **Quarter:** Q1 | **Week:** 3 | **Dates:** Mon Aug 31 – Fri Sep 4 | **Duration:** 5 days
 
-> **This week pulls the first two weeks together.** New vocabulary goes up Monday, we consolidate everything so
-> far into one finished **brand identity sampler** for the portfolio, and there is a **cumulative quiz Friday**.
+> **This week's big idea: HIERARCHY.** Using size, weight, contrast, alignment, spacing, and color to control
+> what a viewer sees first, second, and third. The week ends in a **poster** that proves it. New vocabulary
+> Monday, **cumulative quiz Friday.**
 
 ---
 
-## Weeks 1–2 recap (what actually ran)
+## What this week covers (present this today)
 
-Adobe Express deep-dive (raster vs. vector, RGB vs. CMYK, layers, background removal, transparent-PNG export),
-a **brand kit** with color theory (complementary/analogous), **hierarchy** (size/contrast/position),
-**typography** (typeface families and pairing), a **monogram** placed on the Google Site as favicon + logo with
-a small-size legibility test, the Google Sites **portfolio**, and **photography basics** (the exposure
-triangle) from the week-1 photos. A 40-item WebXam-style diagnostic pretest was built
-(`first-two-weeks/_shared/pretests/`).
+**Visual and type hierarchy** — the single most useful design skill. Everything else (color, type, graphics)
+you already have; this week is about **arranging** it so the message reads in the right order. We introduce
+hierarchy with the strictest guidelines of the year and apply it to a real **poster** for an event, a club, or
+an approved topic of your own.
+
+## Weeks 1–2 recap
+
+Adobe Express (raster/vector, RGB/CMYK, layers, transparent-PNG export), a brand kit with color theory, a
+monogram + favicon/legibility, the Google Sites portfolio, and photography basics. This week those tools serve
+one goal: a well-ordered poster.
 
 ## Student Overview
 
-### What Is This Week About?
-
-You have learned a lot of separate pieces: color, type, graphics, exports, a monogram, a portfolio, and camera
-basics. This week you put them together into one clean **brand identity sampler** — a single page that shows
-your brand's colors, fonts, monogram, and a photo used on-brand. Friday there is a quiz on everything so far.
-
 ### What You'll Be Able to Do
 
-- Combine your brand kit (color + type + monogram) into one consistent layout
-- Use hierarchy to control what a viewer sees first
-- Export the right file format for the job (PNG, JPG, PDF; RGB vs. CMYK)
-- Explain your color and type choices with design reasons
+- Explain visual hierarchy and name the tools that create it (size, weight, contrast, alignment, spacing, color)
+- Organize a message into a clear first / second / third reading order
+- Pair type with a strong heading-to-body contrast
+- Design and export a finished poster that a stranger can read from across a room
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Mon Aug 31 | **Vocabulary posted** + everything-so-far review; start the brand identity sampler | — |
-| Tue Sep 1 | Assemble the sampler: brand colors, type pairing, monogram, applied hierarchy | Sampler draft |
-| Wed Sep 2 | Add one **on-brand photo** (composition + correct export) to the sampler | Photo placed |
-| Thu Sep 3 | Finalize, place on the portfolio site, peer review + quiz review game | Sampler published |
-| Fri Sep 4 | **Cumulative quiz** + wrap | Quiz |
+| Mon Aug 31 | **Vocab posted** + hierarchy intro; assign the poster; **get your photos** (last year's yearbook download today, or email photos to yourself outside school) | Topic chosen |
+| Tue Sep 1 | Hierarchy lesson + **paper sketch** (three levels of information) | Sketch + content list |
+| Wed Sep 2 | Build the poster in Express | Draft poster |
+| Thu Sep 3 | Refine against the hierarchy checklist + peer review + quiz review | Reviewed draft |
+| Fri Sep 4 | **Cumulative quiz** + finalize, export, and post to portfolio | Quiz + poster |
 
 ### Documents in This Week
 
 | File | What It Is |
 |------|-----------|
-| `vocab.md` | The week's terms, posted Monday; cumulative review of Weeks 1–3 |
-| `quiz.md` | Friday cumulative quiz (graphics, color, type, photo, portfolio) |
+| `project.md` | The poster assignment: topic options, **clear requirements**, hierarchy rubric, extension |
+| `vocab.md` | The week's terms (hierarchy + type), posted Monday; cumulative for the quiz |
+| `quiz.md` | Friday cumulative quiz, weighted toward hierarchy and typography |
 
 ### Standards Covered (cumulative, assessed Friday)
 
-- **7.4.1 / 7.4.5 / 7.4.7** graphics: color profiles, raster vs. vector, export
-- **7.5.2 / 7.5.4** typography: typefaces and pairing
-- **7.2.7** color theory (complementary/analogous)
-- **7.9.4 / 7.9.5** photography: composition and the exposure triangle
-- **1.1.5** portfolio development
+- **7.5.2 / 7.5.4** typography: mixing families, appropriate typefaces
+- **7.4.2** graphics: color, shape, size (visual weight)
+- **7.4.7** export for intended use
+- **7.2.10** design elements appropriate to the audience/use
+- **2.9 / 1.10** proposal + marketing framing of a promotional piece
 
 ---
 
@@ -65,25 +65,20 @@ your brand's colors, fonts, monogram, and a photo used on-brand. Friday there is
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Mon | Post `vocab.md` on the wall + Classroom. 10-min whole-class review of Weeks 1–2 (call-and-response on terms). Assign the brand identity sampler (one Express page: color swatches with hex, the two fonts labeled, the monogram, a tagline). | The review is the Monday "intro vocab" for the quiz. |
-| Tue | Build the sampler. Push **hierarchy**: the monogram or brand name should read first. Circulate on type pairing and contrast. | Reuse the Week-2 brand kit; this is assembly, not restart. |
-| Wed | Add one photo, used on-brand (composition + a caption or overlay). Re-teach the export rule while they export: PNG (transparent), JPG (photo), PDF (print); RGB screen vs. CMYK print. | Ties the photo thread to the brand work. |
-| Thu | Finalize and place the sampler on the Google Site. Peer review (one thing that works, one to fix). Then a quiz-review game from `vocab.md`. | Peer review models the "reviewer on every page" habit. |
-| Fri | **Cumulative quiz** (`quiz.md`), then wrap and preview next week. | Short; formative. |
+| Mon | Post `vocab.md`. Intro hierarchy with 2–3 real posters (which one reads fastest, and why). Assign the poster (`project.md`), students pick a topic. **Photo sourcing today:** open last year's yearbook (digital) and let students download usable images; anyone who wants a personal photo emails it to themselves from home (school accounts can't receive outside email reliably — do it outside school). | Photo access is the time-sensitive bit — handle it Day 1 so nobody is blocked Wednesday. |
+| Tue | Hierarchy lesson: size, weight, contrast, alignment, proximity, whitespace. Students **sketch on paper** first — three clear levels of info (headline / key details / fine print). No computer until the sketch has a clear #1. | The sketch is the guardrail against "everything the same size." |
+| Wed | Build in Express from the sketch. Enforce the strict rules (see `project.md` rubric): one dominant element, a real size jump between levels, aligned edges, generous whitespace. | Circulate on "what do I see first?" |
+| Thu | Refine against the hierarchy checklist; peer review (each person says the reading order out loud from someone else's poster). Quiz-review game from `vocab.md`. | If a partner can't tell the reading order, the hierarchy isn't done. |
+| Fri | **Cumulative quiz** (`quiz.md`), then finalize, export (PNG/PDF, correct color mode), and add to the portfolio site. | Poster is a Q1 portfolio piece. |
 
 ### Assessment Notes
 
-- The quiz is cumulative and low-stakes (Assessments category). It covers vocabulary and applied concepts from
-  Weeks 1–3, not new material.
-- Sampler evidence: consistent brand colors (with hex), a labeled heading/body font pair, the monogram legible
-  at small size, one on-brand photo, and a correctly exported file placed on the live site.
-
-### Portfolio Thread
-
-The brand identity sampler is the **Q1 "brand identity sampler" portfolio addition** named in
-`../course-plan.md`. Lock it as the first polished Q1 piece.
+- Poster graded on the **hierarchy rubric** in `project.md` (this is the strict-guidelines skill of the week),
+  plus type pairing and clean export. Quiz is cumulative and formative.
 
 ### Differentiation
 
-- **Finished early:** export the sampler three ways and compare file sizes; or start a second color variation.
-- **Needs support:** provide a sampler template with placeholder boxes; they drop their assets in.
+- **Finished early (extension):** a **second version** of the same poster with a different hierarchy strategy
+  (e.g., lead with the image vs. lead with the headline), then a one-sentence compare.
+- **Needs support:** provide a poster template with three labeled zones (headline / details / fine print) to
+  drop content into.

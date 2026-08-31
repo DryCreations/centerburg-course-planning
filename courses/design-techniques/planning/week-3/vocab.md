@@ -1,43 +1,43 @@
-# Week 3 Vocabulary: Graphics, Color, Type & Photo (cumulative)
+# Week 3 Vocabulary: Hierarchy & Type (cumulative)
 
-Posted Monday on the wall and in Classroom. These are the terms Friday's quiz draws from — everything covered
-in Weeks 1–3. Most are review; a few tighten up definitions.
+Posted Monday. Friday's quiz draws from these — this week's hierarchy terms plus the graphics/color/type terms
+from Weeks 1–2.
 
-## Terms
+## This week's terms — Hierarchy
 
 | Term | Definition |
 |------|------------|
-| **Raster image** | An image made of pixels (e.g., a photo). Loses quality when enlarged. |
-| **Vector image** | An image defined by math, so it stays sharp at any size. Logos should be vector. |
-| **RGB** | Red-Green-Blue color mode for screens. |
-| **CMYK** | Cyan-Magenta-Yellow-Black color mode for print. |
-| **Resolution** | The amount of detail in an image, often in pixels or DPI. |
-| **Transparent PNG** | An export format that keeps areas see-through (no white box) — good for logos. |
-| **Layer** | A stackable level in a design that can be moved, locked, or grouped independently. |
-| **Brand kit** | A saved, reusable set of a brand's colors, fonts, and logo. |
-| **Complementary colors** | Colors opposite each other on the color wheel; high contrast. |
-| **Analogous colors** | Colors next to each other on the wheel; harmonious. |
-| **Typeface (font family)** | A set of related type designs (e.g., serif, sans serif, slab, script, display). |
-| **Type pairing** | Using two complementary typefaces, usually one for headings and one for body. |
-| **Hierarchy** | Arranging elements by size, contrast, and position to control what is seen first. |
-| **Monogram** | A mark made from a person's or brand's initials. |
-| **Favicon** | The small brand icon shown on a browser tab. |
-| **Composition** | How elements are arranged in a frame (e.g., the rule of thirds). |
-| **Exposure triangle** | Aperture, shutter speed, and ISO — the three settings that control exposure. |
+| **Visual hierarchy** | Arranging elements so the eye moves through them in a planned order (first, second, third). |
+| **Focal point** | The one element a viewer sees first; the dominant element. |
+| **Visual weight** | How much an element pulls the eye, driven by size, color, and contrast. |
+| **Contrast** | Strong differences (big/small, dark/light, bold/thin) that separate levels of information. |
+| **Alignment** | Lining elements up to shared edges or a center line so the layout feels ordered. |
+| **Proximity** | Grouping related items close together so they read as one unit. |
+| **Whitespace** | Intentional empty space that keeps a design uncrowded and readable. |
+| **Reading order** | The sequence a viewer actually takes in (headline → details → fine print). |
+
+## Carried from Weeks 1–2 (still on the quiz)
+
+| Term | Definition |
+|------|------------|
+| **Typeface (font family)** | A set of related type designs: serif, sans serif, slab, script, display. |
+| **Type pairing** | Two contrasting families, usually one for headings and one for body. |
+| **Raster / vector** | Pixels (photos) vs. math (logos, stay sharp at any size). |
+| **RGB / CMYK** | Screen color vs. print color. |
+| **Transparent PNG** | An export that keeps a see-through background. |
 
 ## Key Distinctions
 
 | Term 1 | Term 2 | Difference |
 |--------|--------|------------|
-| Raster | Vector | Raster = pixels (photos), blurs when enlarged; vector = math (logos), stays sharp |
-| RGB | CMYK | RGB = screen light; CMYK = print ink |
-| Complementary | Analogous | Complementary = opposite/high contrast; analogous = neighboring/harmonious |
-| JPG | Transparent PNG | JPG = photos, no transparency; PNG = supports a see-through background |
+| Focal point | Whitespace | Focal point = what you see first; whitespace = the empty room that makes it stand out |
+| Contrast | Alignment | Contrast separates levels; alignment orders them into a system |
+| Size | Proximity | Size shows importance; proximity shows what belongs together |
 
 ## Review Questions
 
-1. Why would a logo be built as a vector and a photograph saved as a raster?
-2. You are sending a file to a print shop. Which color mode and which format, and why?
-3. Name your two brand fonts and say why they pair well.
-4. How do size, contrast, and position work together to build hierarchy?
-5. Which setting in the exposure triangle would you change to freeze motion, and which way?
+1. Name three tools that create hierarchy and give a one-line example of each.
+2. On your poster, what should a viewer see first, and how did you make that happen?
+3. Why does whitespace make a design easier to read, not emptier?
+4. How is alignment different from contrast? Why do you need both?
+5. What is a good heading-and-body type pairing, and why does contrast matter there?

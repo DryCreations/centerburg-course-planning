@@ -1,49 +1,50 @@
-# Week 3 — Levels, Lists & Polish: Outline
+# Week 3 — If Statements & the Decision Game: Outline
 
 **Course:** Middle School CS (grades 7–8)
 **Quarter:** Q1 | **Week:** 3 | **Dates:** Mon Aug 31 – Fri Sep 4 | **Duration:** 5 days
 
-> **Grow the game.** We keep the daily code-reading bell ringers, add a new idea (**lists** and **levels**),
-> polish everyone's Arcade game, and take **Checkpoint 2 on Friday** over everything so far.
+> **This week is all about decisions: `if` statements.** We keep the daily code-reading bell ringers and build a
+> **new week-long game** where the code has to *decide* what happens. A shorter **quiz Friday** (there's more
+> practice and review this week, so it can be quick).
 
 ---
 
-## Weeks 1–2 recap (what actually ran)
+## What this week covers (present this today)
 
-MakeCode Arcade first: variables, sprites, events, **position and velocity**, the **on-overlap** event with
-**destroy** and **pick random**, a **conditional** win/lose, and a finished catch-or-dodge game. Daily
-code-reading bell ringers (predict the output / trace variables). Checkpoint 1 given.
+**Conditionals — `if` and `if / else`.** How a program **decides**: if something is true, do this; otherwise,
+do that. We use it to build a **decision game** where catching a *good* thing helps you and touching a *bad*
+thing hurts you, and the game decides who won.
+
+## Weeks 1–2 recap
+
+MakeCode Arcade: variables, sprites, events, position/velocity, on-overlap + destroy + pick-random, a first
+conditional, and a finished catch/dodge game. Daily bell ringers. Checkpoint 1 given.
 
 ## Student Overview
 
-### What Is This Week About?
-
-Your game works — now make it bigger and smarter. You will learn about **lists** (a way to hold many things at
-once) and add **levels or difficulty** so the game gets harder as you play. Friday there is a checkpoint that
-covers everything since Day 1.
-
 ### What You'll Be Able to Do
 
-- Use a list to keep track of several sprites or values
-- Make the game get harder over time (speed up, spawn more, add a level)
-- Read a short piece of code and predict what it does
-- Explain how your variables, conditionals, and lists work
+- Read and write an **`if`** and an **`if / else`** statement
+- Use a **comparison** (=, >, <, ≥, ≤) to make a decision
+- Build a game where the code decides good vs. bad, win vs. lose
+- Explain, in your own words, what your conditions check and what they do
 
 ### Weekly Snapshot
 
 | Day | Bell ringer + focus | Turn in |
 |-----|---------------------|---------|
-| Mon Aug 31 | Bell ringer + short **lists** demo; plan your upgrade | — |
-| Tue Sep 1 | Bell ringer + use a list for multiple items/enemies | List working |
-| Wed Sep 2 | Bell ringer + add **levels / difficulty** (speed up or spawn more) | Level working |
-| Thu Sep 3 | Bell ringer + polish, playtest, debug log | Game playable start-to-finish |
-| Fri Sep 4 | **Checkpoint 2** + game showcase | Checkpoint |
+| Mon Aug 31 | Bell ringer + **`if` / `if-else` demo**; start the Decision Game | — |
+| Tue Sep 1 | Bell ringer + good vs. bad items decided with `if` | Decision working |
+| Wed Sep 2 | Bell ringer + win/lose conditions (score/lives) with `if` | Win + lose work |
+| Thu Sep 3 | Bell ringer + polish, playtest, debug log | Game plays start-to-finish |
+| Fri Sep 4 | **Quiz (short)** + game showcase | Quiz |
 
 ### Documents in This Week
 
 | File | What It Is |
 |------|-----------|
-| `quiz.md` | Checkpoint 2 — cumulative Arcade concepts (variables, events, velocity, overlap, conditionals, lists) |
+| `project.md` | The Decision Game lab — requirements + extension |
+| `quiz.md` | Friday quiz (short) — `if` statements + cumulative Arcade basics |
 
 ---
 
@@ -53,26 +54,26 @@ covers everything since Day 1.
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Mon | Bell ringer (variable trace). **Short demo of a list**: make a list, add items, use `for each`. Show how one list can hold several sprites. Keep it under 10 min, then work time. | Same "show the block, don't build their game" rule as Week 2. |
-| Tue | Bell ringer. Students use a list to manage multiple falling items or enemies. | Fast finishers: random item types from a list. |
-| Wed | Bell ringer. Add **difficulty**: increase speed over time, or a score threshold that starts a harder level. | Ties back to variables + conditionals. |
-| Thu | Bell ringer. Polish, playtest with a partner, keep the debug log. | Debug log is the real assessment of the build. |
-| Fri | **Checkpoint 2** (`quiz.md`), then showcase. | Redo policy applies. |
+| Mon | Bell ringer (a decision trace). **Short demo:** `if score > 10 then …`, then add an `else`. Say the shape out loud: *if this is true, do that; otherwise, do the other thing.* Assign the Decision Game. | Keep the demo under 10 min; the week is mostly build + review. |
+| Tue | Bell ringer. Students spawn items that are randomly **good or bad**, and use an `if` on overlap to decide: good → score up; bad → lose a life. | This is the core `if` skill; the pick-random from last week feeds it. |
+| Wed | Bell ringer. Add **win and lose** conditions with `if`: reach a score → you win; lives hit 0 → game over. | Reinforces comparisons (≥, ≤). |
+| Thu | Bell ringer. Polish, playtest with a partner, keep the debug log. | Debug log is the real evidence of the build. |
+| Fri | **Short quiz** (`quiz.md`), then showcase. | Redo policy applies. |
 
-### Bell-ringer bank (reuse `first-two-weeks/middle-school-cs/handouts/bell-ringers-week-2.md`)
+### Bell-ringer bank
 
-Keep using the swap/`set`-vs-`change` traces and add a list one, e.g.:
-`set nums to [2, 4, 6]` then `for each n in nums: change total by n` → "What is `total`?" (12). Walk it line by
-line, as before.
+Keep using `first-two-weeks/middle-school-cs/handouts/bell-ringers-week-2.md`, and add decision traces, e.g.:
+`set x to 7` then `if x > 5: change score by 1 else: change score by -1` → "What happens to `score`?" (+1). Walk
+it line by line.
 
 ### Assessment Notes
 
-- Checkpoint 2 is cumulative and low-stakes (Checkpoints category), covering variables, events, velocity,
-  overlap/destroy, conditionals, pick-random, and lists. Redo allowed.
-- Build evidence: a game that runs start-to-finish with a working list and a difficulty/level change, plus a
+- The Friday quiz is **shorter than Checkpoint 1** and focuses on `if` statements plus cumulative basics
+  (variables, events, overlap, pick-random). Formative; redo allowed.
+- Build evidence: a game that decides good vs. bad with an `if`, has a win **and** a lose condition, and a
   debug log with at least one real bug.
 
 ### Vocabulary (light — post in Classroom, not a formal quiz list)
 
-**List (array)** — a container that holds many values or sprites. **For each** — repeat an action for every
-item in a list. **Level / difficulty** — making the game harder as it goes.
+**Conditional / `if` statement** — code that decides. **`if / else`** — do one thing if true, another if not.
+**Comparison** — checking =, >, <, ≥, ≤. **Condition** — the true/false test an `if` checks.
