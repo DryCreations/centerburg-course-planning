@@ -8,6 +8,11 @@ so the page is designed and ready before your photos come in. Some of you have a
 will design with empty frames. **By Friday you turn in a PDF** of what you built (see "What you submit" below).
 The layout keeps going after this week; Friday is a graded snapshot of where it is.
 
+> **Submit whatever you're actually working on.** Some of you are further along on the **old (current) yearbook**
+> than on a brand-new spread — that's fine. **Old-book progress counts fully.** If your real work this week is a
+> spread or page in the old book, turn *that* in. You do **not** have to start a new spread just to have
+> something to submit. Pick the option below that matches what you're building.
+
 ---
 
 ## Requirements (all required)
@@ -29,18 +34,23 @@ The layout keeps going after this week; Friday is a graded snapshot of where it 
 ## What you submit (choose one)
 
 By Friday, export a **PDF** and turn it in on Classroom. Your PDF can be **a full two-page spread OR two
-different pages.** Pick whichever fits where you are:
+different pages**, and it can be from the **old (current) book OR the new book** — whichever you're actually
+working on. Pick whichever fits where you are:
 
-1. **A finished / edited spread** — a real spread with photos placed, captions written, headline set. Could be
-   for the new book or a redone page from an old book.
-2. **A from-scratch layout** — a spread you designed with **frames/templates** for the new *or* old yearbook,
+1. **A finished / edited spread** — a real spread with photos placed, captions written, headline set. **Old book
+   or new book.** If you finalized or edited a spread in the current yearbook this week, that's exactly this.
+2. **A from-scratch layout** — a spread you designed with **frames/templates** for the **old *or* new** yearbook,
    even if the photo boxes are still empty.
-3. **A recreated finished page from an old yearbook** — rebuild an existing page as practice, fully laid out.
-4. **A template layout + a plan** — a page you laid out with templates **plus a short written description**:
-   what the page/spread will be, and **what photos you're looking for** (your photo wishlist).
+3. **A recreated or in-progress page from the old yearbook** — a real page you're building or rebuilding in the
+   current book, fully laid out.
+4. **A template layout + a plan** — a page you laid out with templates (old or new book) **plus a short written
+   description**: what the page/spread will be, and **what photos you're looking for** (your photo wishlist).
 
-> **If your photo boxes are still empty, option 4 is the move:** the layout plus the description and photo
-> wishlist is a complete, gradable submission. You do **not** need finished photos to get full credit.
+> **Two things that make this flexible:**
+> - **Old-book work counts fully.** If your real progress this week is in the current yearbook, submit that — you
+>   don't need to start a new spread to have something to turn in.
+> - **If your photo boxes are still empty, option 4 is the move:** the layout plus the description and photo
+>   wishlist is a complete, gradable submission. You do **not** need finished photos to get full credit.
 
 ---
 

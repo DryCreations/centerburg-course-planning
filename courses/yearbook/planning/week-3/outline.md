@@ -42,6 +42,6 @@ by season), camera modes, and weekend camera sign-outs.
 
 ### What You'll Get This Week
 
-- **The Frames-First Spread Layout assignment** — with a **graded Friday PDF check-in** (submit a full spread or two pages).
+- **The Frames-First Spread Layout assignment** — with a **graded Friday PDF check-in** (submit a full spread or two pages, from the **old or new book** — whatever you're actually working on).
 - **An optional Friday Gimkit review game** on yearbook terms (no quiz in Yearbook).
 
