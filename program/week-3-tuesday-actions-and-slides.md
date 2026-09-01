@@ -124,10 +124,11 @@ build placeholders.
 
 - **Slide 1 — Entry:** "Open your spread in eDesign. Paste the **Page Checklist** into a text box off to the side (it won't print). We'll check it off as we build."
 - **Slide 2 — Placeholders (the big idea):** "A placeholder is a box you build NOW and fill in LATER. Empty photo frame = placeholder for a photo. Dummy text = placeholder for real words. You are NOT typing real names yet."
-- **Slide 3 — The text types:** "HERO photo · CAPTION (who + what's happening) · HEADLINE (the title) · BYLINE (by Name) · BODY copy · QUOTE / pull-quote · FOLIO (page # + section)."
-- **Slide 4 — Every box gets a style:** "Don't just type in a plain box. Select the box → set its text style/font (caption looks like a caption, headline like a headline). Styled box = a template you can reuse."
+- **Slide 3 — The text types:** "HERO photo · CAPTION (who + what's happening) · PHOTO CREDIT on candids (Photo by Name) · HEADLINE (the title) · BYLINE (Story by Name) · BODY copy · QUOTE / pull-quote · DESIGN CREDIT (Spread design by YOU) · FOLIO (page # + section)."
+- **Slide 4 — Use the presets:** "Don't just type in a plain box. Select the box → open the **preset dropdown in the TOP-LEFT** → pick **caption** or **byline**. Use the caption preset for photo credits and your design credit too. Preset box = a template you can reuse."
+- **Slide 4b — Sign your page:** "Add a small **'Spread design by [your name]'** using the caption preset. It's your page — take ownership of it."
 - **Slide 5 — Fill, don't leave blank:** "Put filler text in EVERY box (Xxxx Xxxx…) and make it big enough for a real name/caption. Empty boxes = not done."
-- **Slide 6 — Today's win:** "One hero + supporting boxes, a caption by every photo, headline, byline, body, and a quote — all styled placeholders, aligned to columns, nothing across the gutter. Check off the module."
+- **Slide 6 — Today's win:** "One hero + supporting boxes, a caption by every photo, photo credits on candids, headline, story byline, body, a quote, and your 'design by' credit — all preset-styled placeholders, aligned to columns, nothing across the gutter. Check off the module."
 
 ---
 

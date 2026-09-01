@@ -45,7 +45,9 @@ Running record of what actually happened each day and the plan for the current d
 ### Yearbook — eDesign walk-through + Page Checklist module
 - Hand out the **Page Checklist module** (`courses/yearbook/planning/week-3/handouts/page-checklist-module.md`);
   students paste it into a side text box on **every** spread.
-- Go through eDesign **live**: make one box of each text type (hero, caption, byline, headline, body, quote,
-  folio) and show how to **set the text style/font** on each. Drive home **placeholders/templates** — build and
-  style boxes now, fill in later; put filler text in every box, sized for real names/captions.
+- Go through eDesign **live**: make one box of each text type (hero, caption, photo credit, byline, headline,
+  body, quote, design credit, folio) and show the **preset dropdown in the top-left** (pick byline/caption
+  preset). Drive home **placeholders/templates** — build and style boxes now, fill in later; put filler text in
+  every box, sized for real names/captions. Include a **"Spread design by [name]"** ownership credit and
+  **"Photo by ___"** credits on candids.
 - Students continue the spread/page they chose Monday (old or new book); Friday is the graded PDF check-in.
