@@ -42,6 +42,10 @@ Running record of what actually happened each day and the plan for the current d
   plus the worked **`if`-on-overlap** example (good → score up, bad → lose a life) and the win/lose checks.
 - Then break out to the **Decision Game** lab; today's target is the overlap decision.
 
-### Yearbook — keep building (no new assignment)
-- Students continue the spread/page they chose Monday (old or new book). Friday is the graded PDF check-in.
-- Circulate: confirm each student has a claimed spread and is placing frames / making real progress.
+### Yearbook — eDesign walk-through + Page Checklist module
+- Hand out the **Page Checklist module** (`courses/yearbook/planning/week-3/handouts/page-checklist-module.md`);
+  students paste it into a side text box on **every** spread.
+- Go through eDesign **live**: make one box of each text type (hero, caption, byline, headline, body, quote,
+  folio) and show how to **set the text style/font** on each. Drive home **placeholders/templates** — build and
+  style boxes now, fill in later; put filler text in every box, sized for real names/captions.
+- Students continue the spread/page they chose Monday (old or new book); Friday is the graded PDF check-in.

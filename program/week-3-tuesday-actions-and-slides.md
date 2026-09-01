@@ -110,17 +110,24 @@ worksheet. Coach the over-scoped group to trim; help the no-subject group pick f
 
 ---
 
-## 5. Yearbook 🟢 — Keep building (no new assignment)
+## 5. Yearbook 🟡 — eDesign walk-through + the Page Checklist module
 
-**Today's document:** none new — students keep the spread/page they chose Monday.
-**Post/update:** nothing. (Friday = graded PDF check-in, already posted.)
-**Go over:** a 1-minute reminder, then work time. Circulate.
+**Today's document:** `courses/yearbook/planning/week-3/handouts/page-checklist-module.md`
+**Post/update:** hand out the Page Checklist module; students **paste it into a text box off to the side of
+every spread.** (Friday = graded PDF check-in, already posted — no change.)
+**Go over (live in eDesign):** create one box of each text type — **hero, caption, byline, headline, body,
+quote, folio** — and show how to **select the text style/font** for each. Hammer the placeholder/template idea:
+build and style the boxes now, fill in later. Then students paste the module and check off each item as they
+build placeholders.
 
 ### Slides — paste one block per slide
 
-- **Slide 1 — Entry:** "Open your claimed spread in eDesign. Keep building the FRAME layout — dominant photo box, supporting boxes, headline, captions."
-- **Slide 2 — Reminder:** "Friday you turn in a **PDF** of your spread or two pages — old book or new book, whatever you're actually working on. Empty photo boxes are fine if you include your plan + photo wishlist."
-- **Slide 3 — Today:** "Get a clear dominant frame and your supporting boxes aligned to the columns. Ask a partner to check it before you leave."
+- **Slide 1 — Entry:** "Open your spread in eDesign. Paste the **Page Checklist** into a text box off to the side (it won't print). We'll check it off as we build."
+- **Slide 2 — Placeholders (the big idea):** "A placeholder is a box you build NOW and fill in LATER. Empty photo frame = placeholder for a photo. Dummy text = placeholder for real words. You are NOT typing real names yet."
+- **Slide 3 — The text types:** "HERO photo · CAPTION (who + what's happening) · HEADLINE (the title) · BYLINE (by Name) · BODY copy · QUOTE / pull-quote · FOLIO (page # + section)."
+- **Slide 4 — Every box gets a style:** "Don't just type in a plain box. Select the box → set its text style/font (caption looks like a caption, headline like a headline). Styled box = a template you can reuse."
+- **Slide 5 — Fill, don't leave blank:** "Put filler text in EVERY box (Xxxx Xxxx…) and make it big enough for a real name/caption. Empty boxes = not done."
+- **Slide 6 — Today's win:** "One hero + supporting boxes, a caption by every photo, headline, byline, body, and a quote — all styled placeholders, aligned to columns, nothing across the gutter. Check off the module."
 
 ---
 
@@ -132,4 +139,4 @@ worksheet. Coach the over-scoped group to trim; help the no-subject group pick f
 | Video & Sound | nothing new | why WB changes; today's 3 shots | 🟡 5 short slides |
 | Aviation UAS | Mission Plan Worksheet | 2 groups, one-shot scope rule, roles | 🟡 5 short slides |
 | Middle School CS | (optional) bell-ringer handout | bell ringer + `if` example | 🔴 yes (7 slides above) |
-| Yearbook | nothing new | keep building; Friday PDF reminder | 🟢 3 slides |
+| Yearbook | Page Checklist module | eDesign text types + placeholders/templates | 🟡 6 slides |
