@@ -1,9 +1,9 @@
 # Week 3 Project — RAW Capture & First Edit
 
 **Course:** Video and Sound | **Assigned:** Mon Aug 31 | **Due:** Fri Sep 4
-**Category:** Labs/Projects | **Tools:** DSLR (RAW) + Lightroom Classic | **Late:** accepted, ask to reopen
+**Category:** Labs/Projects | **Tools:** DSLR (RAW) + Adobe Camera Raw (through Photoshop) | **Late:** accepted, ask to reopen
 
-Shoot in **RAW**, then make a controlled **first edit** in Lightroom Classic. The goal is control, not heavy
+Shoot in **RAW**, then make a controlled **first edit** in Adobe Camera Raw. The goal is control, not heavy
 effects: get the white balance right, the exposure right, and a clean crop.
 
 ---
@@ -21,9 +21,10 @@ Set the camera to **RAW** (or RAW+JPEG). Shoot a small set of the same subject:
 
 Offload all RAW files to Drive, named `lastname-raw-01` … `-04`.
 
-## Part B — Edit one photo in Lightroom Classic (Wed–Thu)
+## Part B — Edit one photo in Adobe Camera Raw (Wed–Thu)
 
-Pick your best frame and edit it **non-destructively**:
+Open your best RAW frame in **Adobe Camera Raw** (it opens through Photoshop when you open a RAW file) and edit
+it **non-destructively**:
 
 | # | Requirement |
 |---|-------------|

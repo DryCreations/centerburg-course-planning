@@ -16,7 +16,7 @@ Correct answer listed first (A); **shuffle options before posting.** Delete the 
 3. Color temperature is measured in:
    A. Kelvin · B. Megapixels · C. Decibels · D. F-stops
 
-4. "Non-destructive editing" in Lightroom means:
+4. "Non-destructive editing" in a RAW editor means:
    A. The original file is never changed · B. You must overwrite the original · C. You can't undo · D. It deletes the RAW
 
 5. A histogram shows a photo's:

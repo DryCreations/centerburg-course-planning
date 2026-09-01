@@ -11,7 +11,7 @@ from Weeks 1–2.
 | **JPEG** | A compressed file the camera processes and "bakes in"; smaller, but far less editing room than RAW. |
 | **White balance** | Telling the camera the color of the light so whites look white, not orange or blue. |
 | **Color temperature** | How warm (orange) or cool (blue) light is, measured in Kelvin. |
-| **Lightroom Classic** | Adobe's photo-editing and organizing program; edits are non-destructive. |
+| **Adobe Camera Raw** | The RAW editor that opens through Photoshop when you open a RAW file; edits are non-destructive. |
 | **Non-destructive editing** | Editing that never changes the original file; adjustments can always be undone. |
 | **Histogram** | A graph of the tones in a photo, from shadows (left) to highlights (right). |
 | **Exposure (edit)** | Brightening or darkening the whole image in editing. |
