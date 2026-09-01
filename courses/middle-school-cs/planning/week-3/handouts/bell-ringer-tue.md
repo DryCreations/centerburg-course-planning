@@ -1,11 +1,11 @@
-# Bell Ringer + Example — Tuesday Sep 1 (`if` statements)
+# Bell Ringer + Example: Tuesday Sep 1 (`if` statements)
 
 Middle School CS · Week 3 · Day 2. Run the bell ringer (~5 min), then walk the worked example (~5 min) before
 students break out to the Decision Game lab.
 
 ---
 
-## Bell ringer — trace the code
+## Bell ringer: trace the code
 
 Put this on the board. Students write down what `score` and `lives` end up as.
 
@@ -23,7 +23,7 @@ else:
 
 **Answer:** `score` is 0, and 0 > 5 is **false** → the `else` runs → `lives` becomes **2**. `score` stays **0**.
 
-**Follow-up (say it out loud):** "The `if` only runs the *true* side OR the *else* side — never both."
+**Follow-up (say it out loud):** "The `if` only runs the *true* side OR the *else* side, never both."
 
 ### Quick second trace (if they got it fast)
 
@@ -37,7 +37,7 @@ if coins >= 8:
 
 ---
 
-## Worked example — the move they need for the lab
+## Worked example: the move they need for the lab
 
 Show this live in MakeCode Arcade. This is exactly the decision the Decision Game needs on **overlap**.
 
@@ -64,7 +64,7 @@ if lives <= 0:
     game over LOSE
 ```
 
-**Point to make:** the game "decides who won" with these two `if` statements — one checks the win number, one
+**Point to make:** the game "decides who won" with these two `if` statements, one checks the win number, one
 checks that lives hit zero.
 
 ---

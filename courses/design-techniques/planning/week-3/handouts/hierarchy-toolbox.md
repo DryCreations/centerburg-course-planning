@@ -1,9 +1,9 @@
-# Hierarchy Toolbox — the moves that control what a viewer sees first
+# Hierarchy Toolbox: the moves that control what a viewer sees first
 
 **Design Techniques · Week 3 · Tuesday Sep 1**
 
 Hierarchy = deciding the **order** someone reads your poster: what they see **1st**, **2nd**, and **3rd**. You
-already have the tools — this is how to *use* them on purpose. Keep this open while you sketch and build.
+already have the tools, this is how to *use* them on purpose. Keep this open while you sketch and build.
 
 ## The six tools
 
@@ -20,16 +20,16 @@ already have the tools — this is how to *use* them on purpose. Keep this open 
 
 **Three levels, and a real jump between them.**
 
-1. **Level 1 — the headline / focal point:** what or who. The single biggest, boldest thing.
-2. **Level 2 — the key details:** date, time, place. Clearly smaller than the headline.
-3. **Level 3 — the fine print:** cost, contact, small notes. Smallest.
+1. **Level 1, the headline / focal point:** what or who. The single biggest, boldest thing.
+2. **Level 2, the key details:** date, time, place. Clearly smaller than the headline.
+3. **Level 3, the fine print:** cost, contact, small notes. Smallest.
 
 If levels 1, 2, and 3 look almost the same size, you don't have hierarchy yet.
 
 ## The squint test
 
 Squint at your poster (or look at the thumbnail). **The first thing you can still read is your focal point.**
-If two things fight to be first, make one bigger, bolder, or a stronger color — and shrink the other.
+If two things fight to be first, make one bigger, bolder, or a stronger color, and shrink the other.
 
 ## Type pairing (quick version)
 
@@ -40,7 +40,7 @@ more reads messy.
 ## Today's move
 
 1. Pick your **topic** (event, club, or approved idea).
-2. On paper, block out the **three levels** — draw the headline biggest, details medium, fine print smallest.
+2. On paper, block out the **three levels:** draw the headline biggest, details medium, fine print smallest.
 3. Mark your **one focal point** with a star. That is what a stranger should see first.
 4. Note which **tools** you'll use to make it win (size? a bold weight? an accent color?).
 

@@ -1,4 +1,4 @@
-# Mission Plan Worksheet — Friday's Video Flight
+# Mission Plan Worksheet: Friday's Video Flight
 
 **Aviation UAS · Week 3 · fill this out with your group (Tue–Wed)**
 
@@ -27,7 +27,7 @@ person who wasn't in your group could read it and know exactly what happens.
 ## 3. Airspace & authorization
 
 - **Airspace class at the site:** __________ (how did you check? __________)
-- **Authorization needed (LAANC)?**  Yes / No — if yes, who requests it: __________
+- **Authorization needed (LAANC)?**  Yes / No, if yes, who requests it: __________
 
 ## 4. Flight area (draw or describe)
 
@@ -63,12 +63,12 @@ If your group doesn't have a shot yet, pick from these and make it yours:
 - A **flyover of the track or fields** following the lane lines or the 50-yard line.
 - An **orbit** around the flagpole, a sign, or a landmark on campus.
 - A **follow shot** of someone walking or biking across a safe open area.
-- A **"establishing shot"** — high and wide — that shows the whole campus at once.
+- A **"establishing shot":** high and wide, that shows the whole campus at once.
 
 ## Scope too big? Trim it down
 
 If your plan has lots of shots or a complicated path, cut it to **one** clip you're confident you can land:
 
 - Keep the single best idea; move the rest to a **stretch list** for *after* the primary clip.
-- Shorten the flight path — closer, fewer moves, one clean pass.
+- Shorten the flight path, closer, fewer moves, one clean pass.
 - Ask: "If we only got **one** 30-second clip on Friday, which one do we want?" That's your primary shot.
