@@ -131,7 +131,8 @@ and check off what applies.
 - **Slide 5 — Required vs. optional:** "REQUIRED: focal point, photos, a caption near each photo, headline, folio, a 'design by' credit, cohesion, aligned to columns. OPTIONAL (if it fits): photo credit, a story + byline, a quote, a subhead."
 - **Slide 6 — Stories are optional (and new):** "We didn't do stories last year. NOT every page has one. Add body copy + a byline only if your page has a story. Not sure? Ask."
 - **Slide 7 — Presets + ask:** "Give each text box a PRESET from the dropdown in the TOP-LEFT. Caption = describes a photo · Byline = who WROTE a story · Photo credit = who TOOK a photo. Unsure which preset? ASK."
-- **Slide 8 — Sign your page + fill boxes:** "Add a small **'Page/Spread design by [your name]'** — take ownership. And put filler text in every box (Xxxx Xxxx…), big enough for a real name. Empty boxes = not done."
+- **Slide 8 — About shapes:** "Photos and frames = rectangles by default. Only use a circle/oval/star if it truly ADDS something — random shapes look jarring and crop faces in weird ways. If you can't say WHY, keep it rectangular."
+- **Slide 9 — Sign your page + fill boxes:** "Add a small **'Page/Spread design by [your name]'** — take ownership. And put filler text in every box (Xxxx Xxxx…), big enough for a real name. Empty boxes = not done."
 
 ---
 
@@ -143,4 +144,4 @@ and check off what applies.
 | Video & Sound | nothing new | why WB changes; today's 3 shots | 🟡 5 short slides |
 | Aviation UAS | Mission Plan Worksheet | 2 groups, one-shot scope rule, roles | 🟡 5 short slides |
 | Middle School CS | (optional) bell-ringer handout | bell ringer + `if` example | 🔴 yes (7 slides above) |
-| Yearbook | Page Checklist module | page vs spread + cohesion; presets (ask if unsure); required vs optional | 🟡 8 slides |
+| Yearbook | Page Checklist module | page vs spread + cohesion; presets (ask if unsure); required vs optional; shapes with a reason | 🟡 9 slides |

@@ -40,12 +40,18 @@ OPTIONAL - use if it fits your page
 AS YOU BUILD
 [ ] Placeholder text in every box (don't leave boxes empty)
 [ ] Each text box set to a fitting PRESET - ask if you're unsure which
+[ ] Shapes/photo frames are square or rectangular UNLESS a shape adds something
 -------------------------------------------
 ```
 
 > **Not every page looks the same.** Some sports pages have one big action shot; others lead with a **team photo
 > that runs edge-to-edge**; some are more up to you. There's no single right layout — make deliberate choices and
 > keep the page cohesive.
+
+> **A note on shapes.** Fun shapes are tempting, but **only use a shape (circle, oval, star, etc.) if it actually
+> adds something** to the design. Most of the time a random shape looks jarring, breaks the clean column grid, or
+> forces a photo to crop in a weird way (heads and edges cut off in a circle). **Default to rectangles for photos
+> and frames** — reach for another shape only when you can say *why* it makes the page better.
 
 > **Stories are optional (and new).** We didn't write stories last year, so **not every page has one.** If your
 > page has a story, add a body-copy box and a byline; if it doesn't, skip them. Ask if you're not sure whether
