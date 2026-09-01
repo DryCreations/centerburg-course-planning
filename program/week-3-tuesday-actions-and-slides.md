@@ -115,20 +115,23 @@ worksheet. Coach the over-scoped group to trim; help the no-subject group pick f
 **Today's document:** `courses/yearbook/planning/week-3/handouts/page-checklist-module.md`
 **Post/update:** hand out the Page Checklist module; students **paste it into a text box off to the side of
 every spread.** (Friday = graded PDF check-in, already posted — no change.)
-**Go over (live in eDesign):** create one box of each text type — **hero, caption, byline, headline, body,
-quote, folio** — and show how to **select the text style/font** for each. Hammer the placeholder/template idea:
-build and style the boxes now, fill in later. Then students paste the module and check off each item as they
-build placeholders.
+**Go over (live in eDesign):** show the **preset dropdown in the top-left** and the difference between a
+**caption, byline, and photo credit** so they know which preset to reach for (tell them: **ask if unsure**).
+Frame it as **choices, not a formula** — page vs. spread + cohesion; the focal point isn't always a big hero
+(team photo edge-to-edge is fine); **stories are optional and new** (body + byline only where there's a story);
+everyone signs a **"design by"** credit. Hammer the placeholder/template idea. Then students paste the module
+and check off what applies.
 
 ### Slides — paste one block per slide
 
-- **Slide 1 — Entry:** "Open your spread in eDesign. Paste the **Page Checklist** into a text box off to the side (it won't print). We'll check it off as we build."
-- **Slide 2 — Placeholders (the big idea):** "A placeholder is a box you build NOW and fill in LATER. Empty photo frame = placeholder for a photo. Dummy text = placeholder for real words. You are NOT typing real names yet."
-- **Slide 3 — The text types:** "HERO photo · CAPTION (who + what's happening) · PHOTO CREDIT on candids (Photo by Name) · HEADLINE (the title) · BYLINE (Story by Name) · BODY copy · QUOTE / pull-quote · DESIGN CREDIT (Spread design by YOU) · FOLIO (page # + section)."
-- **Slide 4 — Use the presets:** "Don't just type in a plain box. Select the box → open the **preset dropdown in the TOP-LEFT** → pick **caption** or **byline**. Use the caption preset for photo credits and your design credit too. Preset box = a template you can reuse."
-- **Slide 4b — Sign your page:** "Add a small **'Spread design by [your name]'** using the caption preset. It's your page — take ownership of it."
-- **Slide 5 — Fill, don't leave blank:** "Put filler text in EVERY box (Xxxx Xxxx…) and make it big enough for a real name/caption. Empty boxes = not done."
-- **Slide 6 — Today's win:** "One hero + supporting boxes, a caption by every photo, photo credits on candids, headline, story byline, body, a quote, and your 'design by' credit — all preset-styled placeholders, aligned to columns, nothing across the gutter. Check off the module."
+- **Slide 1 — Entry:** "Open your page in eDesign. Paste the **Page Checklist** into a text box off to the side (it won't print). We'll check off what applies as we build."
+- **Slide 2 — Page or spread?** "A PAGE is one side; a SPREAD is two facing pages that read as one. Either way, aim for COHESION — it all looks like it belongs together. A split spread still reads as one design."
+- **Slide 3 — Placeholders (the big idea):** "A placeholder is a box you build NOW and fill in LATER. Empty photo frame = placeholder for a photo. Dummy text = placeholder for real words. You are NOT typing real names yet."
+- **Slide 4 — There's no one right layout:** "Your FOCAL POINT is what the eye hits first — often a big photo, sometimes a TEAM PHOTO edge-to-edge, sometimes your call. Make deliberate choices; keep it cohesive."
+- **Slide 5 — Required vs. optional:** "REQUIRED: focal point, photos, a caption near each photo, headline, folio, a 'design by' credit, cohesion, aligned to columns. OPTIONAL (if it fits): photo credit, a story + byline, a quote, a subhead."
+- **Slide 6 — Stories are optional (and new):** "We didn't do stories last year. NOT every page has one. Add body copy + a byline only if your page has a story. Not sure? Ask."
+- **Slide 7 — Presets + ask:** "Give each text box a PRESET from the dropdown in the TOP-LEFT. Caption = describes a photo · Byline = who WROTE a story · Photo credit = who TOOK a photo. Unsure which preset? ASK."
+- **Slide 8 — Sign your page + fill boxes:** "Add a small **'Page/Spread design by [your name]'** — take ownership. And put filler text in every box (Xxxx Xxxx…), big enough for a real name. Empty boxes = not done."
 
 ---
 
@@ -140,4 +143,4 @@ build placeholders.
 | Video & Sound | nothing new | why WB changes; today's 3 shots | 🟡 5 short slides |
 | Aviation UAS | Mission Plan Worksheet | 2 groups, one-shot scope rule, roles | 🟡 5 short slides |
 | Middle School CS | (optional) bell-ringer handout | bell ringer + `if` example | 🔴 yes (7 slides above) |
-| Yearbook | Page Checklist module | eDesign text types + placeholders/templates | 🟡 6 slides |
+| Yearbook | Page Checklist module | page vs spread + cohesion; presets (ask if unsure); required vs optional | 🟡 8 slides |
