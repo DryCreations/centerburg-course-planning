@@ -14,9 +14,14 @@ Legend: 🟢 light (work time) · 🟡 some content · 🔴 heavy content (slide
 **Post:** the build checklist (keep the Hierarchy Toolbox available too).
 **Go over:** quick recap of Tuesday's terms (font weight, alignment, centering), then students **build their
 sketch in Express.** Circulate on "what do I see first?"
-**Do Now + standards slides (one prompt per slide):** `program/week-3-wednesday-do-now-and-standards.md` has a
-bell-ringer Do Now (answer key to post on Classroom) and a standards Do Now slide (full standard text + what to
-demonstrate). Run those two first, then the build slides below.
+**Do Now + standards slides:** run these two first (details + prompts in
+`program/week-3-wednesday-do-now-and-standards.md`):
+1. **Do Now, "Read the Hierarchy":** show an AI-generated mockup poster and have students finish
+   **fill-in-the-blank sentence starters** in Classroom (image prompt + starters in
+   `courses/design-techniques/planning/week-3/handouts/wed-hierarchy-bellringer.md`). This models portfolio
+   writing.
+2. **Standards Do Now:** full standard text + what to demonstrate.
+Then the build slides below.
 
 ### Slides, paste one block per slide
 

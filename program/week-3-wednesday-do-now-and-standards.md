@@ -9,17 +9,24 @@ generate that single slide. Standard text is from each course's `standards.md`.
 
 ## Design Techniques
 
-### Slide 1 prompt (Do Now / bell ringer, review yesterday)
+### Slide 1: Do Now, read the hierarchy in a poster (image + sentence starters)
 
-> Create one "Do Now" bell-ringer slide for a high school graphic design class. Big title: "Do Now: Yesterday's
-> Terms." Body is a short numbered list students answer on paper: 1) Name three tools that create visual
-> hierarchy. 2) What does aligning elements to shared edges do for a layout? 3) What is the difference between a
-> typeface and font weight (bold)? 4) In your poster, what is the one thing a viewer should see first? Add a
-> small footer line: "Answer key is posted on Google Classroom." Clean, minimal, large readable text, one slide.
+Full plan and the copy-paste sentence starters: `courses/design-techniques/planning/week-3/handouts/wed-hierarchy-bellringer.md`.
+It has (a) an **AI image prompt** to generate a mockup poster with obvious hierarchy, and (b) **fill-in-the-blank
+sentence starters** to post in Classroom (modeled as how they'll write about their own portfolio work).
 
-*(Post this answer key on Classroom: 1) size, weight, contrast, color, alignment, spacing, any three. 2) It
-makes the layout feel organized and guides the eye. 3) A typeface is the font family; weight is how bold or thin
-that font is. 4) Their headline or hero image, the focal point.)*
+**Slide prompt (the Do Now slide itself):**
+
+> Create one "Do Now" slide for a high school graphic design class titled "Do Now: Read the Hierarchy." Leave a
+> large empty image placeholder on the left for a poster I will paste in. On the right, instructions: "Look at
+> the poster. Finish these sentences on Google Classroom to explain how it uses hierarchy (use yesterday's
+> words: size, weight, contrast, color, alignment, spacing)." Then list three starter lines: "The first thing I
+> see is ______ because ______." / "This design uses size: the headline ______ is biggest, so I read it first."
+> / "This design uses color: the ______ color against the ______ background pulls my eye to ______." Footer:
+> "Full sentence starters are posted on Google Classroom." Clean, large readable text, one slide.
+
+*(Paste your generated poster into the image placeholder. Post the full set of sentence starters from the handout
+in Classroom as the Do Now.)*
 
 ### Slide 2 prompt (Do Now: standards + what to demonstrate)
 
