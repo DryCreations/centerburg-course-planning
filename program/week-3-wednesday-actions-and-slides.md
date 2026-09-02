@@ -14,6 +14,9 @@ Legend: 🟢 light (work time) · 🟡 some content · 🔴 heavy content (slide
 **Post:** the build checklist (keep the Hierarchy Toolbox available too).
 **Go over:** quick recap of Tuesday's terms (font weight, alignment, centering), then students **build their
 sketch in Express.** Circulate on "what do I see first?"
+**Do Now + standards slides (one prompt per slide):** `program/week-3-wednesday-do-now-and-standards.md` has a
+bell-ringer Do Now (answer key to post on Classroom) and a standards Do Now slide (full standard text + what to
+demonstrate). Run those two first, then the build slides below.
 
 ### Slides, paste one block per slide
 
@@ -31,6 +34,9 @@ sketch in Express.** Circulate on "what do I see first?"
 **Post:** the editing + submitting handout.
 **Go over (this is the important one):** the edit workflow in **Adobe Camera Raw**, then, explicitly, **renaming
 files** and **submitting photos directly** to Classroom. A lot of them are unfamiliar with both, so demo it live.
+**Per-slide generation prompts (start with a standards slide + a Do Now):**
+`program/week-3-wednesday-do-now-and-standards.md` has one Google Slides AI prompt per slide (standards with full
+text first, then a bell-ringer Do Now with answer key for Classroom, then the 7 edit/submit slides).
 
 ### Slides, paste one block per slide
 
@@ -58,9 +64,12 @@ files** and **submitting photos directly** to Classroom. A lot of them are unfam
 
 ## 3. Aviation UAS 🟡: Preflight, controller refresh, finalize the plan
 
-**Today's document:** `courses/aviation-uas/planning/week-3/handouts/wed-preflight-controller-refresh.md`
-**Post:** the preflight + controller refresh handout (groups also finish the Mission Plan Worksheet).
-**Go over:** the controller sticks, a full preflight walk-through, then groups lock in Friday's plan.
+**Today's documents:** `courses/aviation-uas/planning/week-3/handouts/wed-preflight-controller-refresh.md` and
+`courses/aviation-uas/planning/week-3/handouts/wed-controller-practice.md` (read-the-path stick problems).
+**Post:** both handouts (groups also finish the Mission Plan Worksheet).
+**Go over:** the controller sticks, then **project the flight paths and work the practice problems** (for each:
+sticks? heading? pointing? how to recreate?), a full preflight walk-through, then groups lock in Friday's plan.
+Hammer that **heading (where it travels) and pointing (where the camera faces) are often different.**
 
 ### Slides, paste one block per slide
 
