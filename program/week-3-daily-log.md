@@ -52,3 +52,44 @@ Running record of what actually happened each day and the plan for the current d
   few real stories since I want some in the book), and everyone signs a **"design by"** credit. Drive home
   **placeholders/templates**; put filler text in every box.
 - Students continue the spread/page they chose Monday (old or new book); Friday is the graded PDF check-in.
+
+---
+
+## Tuesday Sep 1: what actually ran
+
+Everything ran as planned in all five classes.
+
+| Class | How it went |
+|-------|-------------|
+| **Design Techniques** | Covered font weight terms + alignment/centering; students working toward the poster. |
+| **Video & Sound** | Didn't get outside in every section, but got good photos to work from in editing. |
+| **Aviation UAS** | Groups started planning their shot; reviewed terms and preflight. |
+| **Middle School CS** | Went well; bell ringer + `if`-on-overlap, then lab. |
+| **Yearbook** | Continued their assigned spreads. |
+
+## Wednesday Sep 2: today's plan
+
+Full per-class actions + slides: `program/week-3-wednesday-actions-and-slides.md`.
+
+### Design Techniques: build the poster in Express
+- Recap Tuesday's terms (font weight, alignment, centering), then students **build their sketch in Express**.
+- Handout: `courses/design-techniques/planning/week-3/handouts/wed-express-build-checklist.md`.
+
+### Video & Sound: editing basics + how to submit
+- Demo the **Adobe Camera Raw** edit workflow, then explicitly cover **renaming files** and **submitting photos
+  directly** to Classroom (lots of them are unfamiliar with both).
+- Handout: `courses/video-and-sound/planning/week-3/handouts/wed-editing-basics-and-submitting.md`.
+
+### Aviation UAS: preflight, controller refresh, finalize the plan
+- Controller sticks + a full preflight walk-through, then groups lock in Friday's mission plan.
+- Handout: `courses/aviation-uas/planning/week-3/handouts/wed-preflight-controller-refresh.md`.
+
+### Middle School CS: trace bell ringers + a "level up" if
+- Two trace bell ringers (variables that change before the `if`), then the **level-up** `if` as a practical
+  example. Handout has **copy-paste MakeCode JavaScript** to drop into the JS editor and convert to Blocks.
+- Then break out: add win/lose to the Decision Game.
+- Handout: `courses/middle-school-cs/planning/week-3/handouts/bell-ringer-wed.md`.
+
+### Yearbook: keep building
+- No new assignment. Keep working with the Page Checklist module; circulate on presets and cohesion. Friday PDF
+  check-in stands.
