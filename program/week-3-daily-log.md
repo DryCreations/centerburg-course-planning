@@ -93,3 +93,16 @@ Full per-class actions + slides: `program/week-3-wednesday-actions-and-slides.md
 ### Yearbook: keep building
 - No new assignment. Keep working with the Page Checklist module; circulate on presets and cohesion. Friday PDF
   check-in stands.
+
+## Thursday Sep 3: today's plan
+
+Every class has a per-slide deck (`courses/<course>/planning/week-3/thursday-slides.md`), each starting with an
+"As You Come In" slide, then Standard/Summary, content, a "Do Now" before breakout.
+
+- **Design Techniques:** refine the poster against the hierarchy checklist + peer review, then **Gimkit** before
+  Friday's quiz.
+- **Video & Sound:** finish the edit, export + submit a before/after, then **Gimkit** before Friday's quiz.
+- **Aviation UAS:** final flight briefing + weather look-ahead + **Gimkit ground review**. Fly Friday, no quiz.
+- **Middle School CS:** polish, playtest, and keep the debug log so the Decision Game plays start to finish.
+  Friday is Gimkit + showcase, no quiz.
+- **Yearbook:** reviewer on every page, then refine for tomorrow's PDF check-in. No quiz.
