@@ -1,45 +1,47 @@
 # Thursday Sep 3: Slides (one prompt per slide)
 
-**Middle School CS · Week 3 · Day 4.** Thursday = polish, playtest, and keep the debug log so the Decision Game
-plays start to finish. (Friday is a Gimkit review + showcase, no quiz.) Each block is one prompt to paste into
-Google Slides AI. Deck order: As You Come In, Standard/Summary, Bell Ringer, Content, Do Now, Exit.
+**Middle School CS · Week 3 · Day 4.** Thursday = interesting new ways to use `if` (AND, OR, "every Nth"), one
+cool live example, and group practice, then work time on their game. No debug log. Full code + problems:
+`courses/middle-school-cs/planning/week-3/handouts/bell-ringer-thu.md`. One prompt per slide for Google Slides
+AI. Order: As You Come In, Standard/Summary, Bell Ringer, Content, Do Now, Exit.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a middle school computer science class. Big title: "As You Come In."
-> Body: "Open your Decision Game in MakeCode Arcade and press Start. Get it running so you can test it today."
-> Large, clean, minimal. One slide.
+> Body: "Open your game in MakeCode Arcade and press Start. Have it running. Today we learn some cool new ways to
+> use if statements." Large, clean, minimal. One slide.
 
 ### Slide 2: Standard + Today
 
-> Create one standards and agenda slide titled "Today: Make It Play Start to Finish." Text: Today's skill is
-> CONDITIONALS: using if and if/else to make the game decide (good vs. bad, win vs. lose). Agenda: 1) Quick bell
-> ringer, 2) Polish your game, 3) Playtest with a partner, 4) Keep your debug log. Goal: your game plays from
-> start to a win or a game over. Large readable text, one slide.
+> Create one standards and agenda slide titled "Today: New Ways to Use If." Text: Today's skill is CONDITIONALS,
+> going beyond basic if: AND (&&), OR (||), and "every Nth" with modulo (%). Agenda: 1) Bell ringer traces, 2) A
+> cool live example (the background reacts to your score), 3) Group practice, 4) Work time on your game. Large
+> readable text, one slide.
 
-### Slide 3: Bell Ringer (trace it)
+### Slide 3: Bell Ringer (AND / OR)
 
-> Create one bell-ringer slide titled "Bell Ringer: What Happens?" Show this code in a monospace box: let lives =
-> 3; if (lives <= 0) { game over } else { keep playing }. Ask: "Is lives <= 0 true or false right now? So does
-> the game keep playing or end?" One slide, large readable text.
+> Create one bell-ringer slide titled "Bell Ringer: True or False?" Show two code snippets in monospace boxes.
+> Box 1: let a = 7; if (a > 5 && a < 10) { splash YES }. Box 2: let key = 3; if (key == 1 || key == 3) { door
+> opens }. Ask: "For each one, does it happen? Why?" One slide, large readable text.
 
-*(Answer to say aloud: lives is 3, and 3 <= 0 is false, so the else runs and the game keeps playing. The lose
-condition only fires when lives reaches 0.)*
+*(Answers to say aloud: Box 1 YES, both sides true (7 > 5 and 7 < 10). Box 2 the door opens, because key == 3
+is true and OR only needs one side.)*
 
-### Slide 4: Polish checklist
+### Slide 4: Cool example (show live)
 
-> Create one slide titled "Polish Your Game." Checklist: an if on overlap decides good (score up) vs. bad (lose a
-> life); a WIN condition (if score reaches your number); a LOSE condition (if lives hit 0); at least one debug
-> log entry (a bug you found and what you changed). One slide, large text.
+> Create one slide titled "The Background Reacts to Your Score." Show this code in a monospace box: game.onUpdate
+> every half second: score goes up; if (score % 10 == 0) confetti; if (score < 20) background blue; else if
+> (score < 40) background yellow; else background red. Caption: "One if picks the color, top to bottom, only one
+> branch runs. The % 10 throws confetti every 10 points." One slide, large readable text.
 
-### Slide 5: Do Now (breakout to work)
+### Slide 5: Do Now (group practice, then build)
 
-> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Finish and Test."
-> Body: "Work on this now: make your game play from start to finish. Add the one thing you are missing (a win, a
-> lose, or a bug fix), then playtest it with a partner and write what you changed in your debug log." Large,
-> clean. One slide.
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Practice Then Build."
+> Body: "As a group, answer: 1) score is 25, which background color? 2) score is exactly 20, which color? 3) how
+> do we make confetti every 5 instead of 10? Then work time: add ONE new if idea to your own game (an && rule,
+> an every-Nth bonus with %, or a color change)." Large, clean. One slide.
 
 ### Slide 6: Before You Leave
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Your game should play start to finish. Tomorrow: a
-> Gimkit review game and a showcase of your game. No quiz." One slide, large text.
+> Create one "Exit" slide titled "Before You Leave." Body: "You used a new kind of if today. Tomorrow: a Gimkit
+> review game and a showcase of your game. No quiz." One slide, large text.

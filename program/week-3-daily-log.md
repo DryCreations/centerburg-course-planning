@@ -99,10 +99,17 @@ Full per-class actions + slides: `program/week-3-wednesday-actions-and-slides.md
 Every class has a per-slide deck (`courses/<course>/planning/week-3/thursday-slides.md`), each starting with an
 "As You Come In" slide, then Standard/Summary, content, a "Do Now" before breakout.
 
-- **Design Techniques:** refine the poster against the hierarchy checklist + peer review, then **Gimkit** before
-  Friday's quiz.
-- **Video & Sound:** finish the edit, export + submit a before/after, then **Gimkit** before Friday's quiz.
-- **Aviation UAS:** final flight briefing + weather look-ahead + **Gimkit ground review**. Fly Friday, no quiz.
-- **Middle School CS:** polish, playtest, and keep the debug log so the Decision Game plays start to finish.
-  Friday is Gimkit + showcase, no quiz.
-- **Yearbook:** reviewer on every page, then refine for tomorrow's PDF check-in. No quiz.
+- **Design Techniques:** fresh-eyes peer review + squint test on the poster, quick lesson on exporting (PDF to
+  submit, image to embed on the portfolio), then **Gimkit where students write their own questions** first, then
+  play. Quiz Friday.
+- **Video & Sound:** review correct submission (fix any missing), then **Gimkit with student-written questions**,
+  then play. Quiz Friday.
+- **Aviation UAS:** the **last briefing**: drone settings to change, final mission briefing, and **charge a
+  battery overnight** so tomorrow we grab it, load the case, and walk out. **Gimkit ground review.** Fly Friday,
+  no quiz.
+- **Middle School CS:** interesting new ways to use `if` (&&, ||, "every Nth" with %), a cool live example
+  (background reacts to score), and group practice, then work time. **Debug log scrapped.** Friday is Gimkit +
+  showcase, no quiz. Code + problems in `handouts/bell-ringer-thu.md`.
+- **Yearbook:** build to the posted assignment's criteria, use the **preset styles** (top-left dropdown) for
+  consistency, leave room for **photo credits and captions**, and try design beyond photo frames (banners,
+  colored boxes, accents) using existing colors. No quiz; PDF check-in is Friday.
