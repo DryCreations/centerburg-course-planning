@@ -10,7 +10,11 @@ actually get wrong. Every item has one objective, non-debatable answer.
 | `video-and-sound-quiz.csv` | Video and Sound | 30 | 6 / 24 |
 | `middle-school-cs-quiz.csv` | Middle School CS | 30 | 3 / 27 |
 
-Aviation UAS has no quiz this week; that class flies on Friday and its quiz moves to next week.
+> **Middle School CS does NOT quiz on Friday.** Friday is a Gimkit review only. This CSV is prepared for their
+> **first quiz next week**, so it is ready when you need it.
+
+Aviation UAS has no quiz this week; that class flies on Friday and its quiz moves to next week. If Aviation is
+rained out, use `courses/aviation-uas/planning/week-3/gimkit-rainout-backup.csv` as a ground review instead.
 
 ## Format
 

@@ -122,9 +122,10 @@ Quiz CSVs (30 questions each, cut to 20): `program/quizzes/week-3-friday/`.
 - **Design Techniques:** **quiz.** Two slides: as-you-come-in (open Classroom, wait, silent, stay on the quiz
   tab, not open note) and a Do Now to take it. Finish early: submit everything for this class, then other work.
 - **Video & Sound:** **quiz.** Same two slides.
-- **Middle School CS:** **quiz** (change from the earlier Gimkit and showcase plan). Same two slides; Gimkit and
-  the showcase are the fallback if time remains.
+- **Middle School CS:** **Gimkit review only, no quiz.** Import `gimkit-review.csv`; screenshot questions can be
+  built from `handouts/makecode-screenshot-blocks.md`. Their first quiz is next week (CSV already prepared).
 - **Aviation UAS:** **flight day.** Live weather go/no-go, preflight, fly the one primary shot, offload and log.
-  No quiz; it moves to next week.
+  No quiz; it moves to next week. **Rained out?** Run `gimkit-rainout-backup.csv` (60 questions on Week 1 and the
+  Part 107 course introduction).
 - **Yearbook:** **one slide.** Look at the exemplar posted in Classroom, compare color, layout, and text, adjust,
   and submit whatever you have as the weekly check-in.

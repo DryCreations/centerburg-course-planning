@@ -2,3 +2,6 @@
 .DS_Store
 Thumbs.db
 LOCAL-NOTES.md
+
+# Keep published download bundles
+!downloads/*.zip

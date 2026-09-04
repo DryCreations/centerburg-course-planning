@@ -29,3 +29,24 @@ prompt per slide for Google Slides AI.
 > Create one "Exit" slide titled "Before You Leave." Body: "Footage offloaded and named, flight logged,
 > batteries at a safe charge, gear back in the case. Keep working ODOT Part 107 Module 1, due next week. Your
 > cumulative quiz is next week." One slide, large text.
+
+---
+
+## Rain-out backup (if we cannot fly)
+
+If the go/no-go call is a NO, run a **Gimkit review** instead. Bank to import:
+`courses/aviation-uas/planning/week-3/gimkit-rainout-backup.csv` (60 questions on Week 1 material and the
+Part 107 course introduction: certificate basics, the four forces, airspace, weather, preflight, and controls).
+
+### Backup Slide A: Weather no-go
+
+> Create one slide for a high school drone class titled "No-Go Today." Body: "The weather does not meet our
+> go/no-go limits, so we are not flying. That decision is the job, not a setback: a good pilot scrubs the flight
+> when the numbers say scrub. We will fly the same mission at the next opportunity." One slide, large text.
+
+### Backup Slide B: Do Now (review game)
+
+> Create one "Do Now" slide for a high school drone class titled "Do Now: Ground Review." Body: "Join the Gimkit
+> review with this code: [paste your join code here]. We are reviewing Week 1 and the Part 107 course
+> introduction: the four forces, airspace classes, weather reports, preflight, and the controls." Big join-code
+> space in the middle. One slide.
