@@ -52,6 +52,6 @@
 "Game over usually comes from a conditional such as:","Lives reaching 0","The score being even","A sprite changing color","The timer starting"
 "A win condition is usually written as:","if score reaches a target number","if the game just started","if a sprite exists","if the screen is blue"
 "A lose condition is usually written as:","if lives reach 0","if score is above 100","if a sprite is created","if the music stops"
-"The programming tool we use is:","MakeCode Arcade","Adobe Express","eDesign","DaVinci Resolve"
-"Blocks and JavaScript in MakeCode are:","Two views of the same program","Two separate programs","Different languages that cannot mix","Only for different games"
+"An event-driven program runs a block of code when:","A specific event occurs, such as a button press or a collision","The file is saved","The program is printed","A variable is renamed"
+"Writing the same algorithm in blocks or in text:","Does not change what the algorithm does","Produces a different result each time","Makes the algorithm run backwards","Removes the need for variables"
 "If lives = 3, does 'if lives <= 0' end the game?","No, the condition is false","Yes, the condition is true","Only if score is 0","Only in blocks mode"
