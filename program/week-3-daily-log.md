@@ -113,3 +113,18 @@ Every class has a per-slide deck (`courses/<course>/planning/week-3/thursday-sli
 - **Yearbook:** build to the posted assignment's criteria, use the **preset styles** (top-left dropdown) for
   consistency, leave room for **photo credits and captions**, and try design beyond photo frames (banners,
   colored boxes, accents) using existing colors. No quiz; PDF check-in is Friday.
+
+## Friday Sep 4: today's plan
+
+Per-class slide prompts: `courses/<course>/planning/week-3/friday-slides.md`.
+Quiz CSVs (30 questions each, cut to 20): `program/quizzes/week-3-friday/`.
+
+- **Design Techniques:** **quiz.** Two slides: as-you-come-in (open Classroom, wait, silent, stay on the quiz
+  tab, not open note) and a Do Now to take it. Finish early: submit everything for this class, then other work.
+- **Video & Sound:** **quiz.** Same two slides.
+- **Middle School CS:** **quiz** (change from the earlier Gimkit and showcase plan). Same two slides; Gimkit and
+  the showcase are the fallback if time remains.
+- **Aviation UAS:** **flight day.** Live weather go/no-go, preflight, fly the one primary shot, offload and log.
+  No quiz; it moves to next week.
+- **Yearbook:** **one slide.** Look at the exemplar posted in Classroom, compare color, layout, and text, adjust,
+  and submit whatever you have as the weekly check-in.
