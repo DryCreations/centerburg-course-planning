@@ -88,7 +88,21 @@ standard with the model paragraph, then name the real parts of a website. **UX/U
 > paragraph underneath it, naming at least three design decisions. 5) Screenshot your navigation menu and label
 > each part with its real name." Large, clean. One slide.
 
-### Slide 9: Before You Leave
+### Slide 9: Turn and Talk
+
+> Create one "Turn and Talk" slide for a high school design class. Big title: "Turn and Talk: Test Each
+> Other's Site." Body: "Swap with the person next to you and open each other's portfolio. Your partner gets 2
+> minutes to find your poster WITHOUT you helping or pointing. If they cannot find it, your navigation needs
+> work. Then tell each other one specific thing to fix." One slide, large text.
+
+### Slide 10: If You Finish Early
+
+> Create one slide for a high school design class titled "Finished the Checklist?" Present as a numbered list
+> of what to do next: 1) Write descriptions for your OTHER posted work, not just the poster. 2) Build the
+> dropdowns for classes you have not posted to yet, so they are ready. 3) Start a list of pages your portfolio
+> still needs, you will use that list tomorrow. One slide, large text.
+
+### Slide 11: Before You Leave
 
 > Create one "Exit" slide titled "Before You Leave." Body: "Your poster is posted and described, and your menu
 > is restructured. Tomorrow we start a new unit: UX/UI and wireframing. Friday is work time, and anyone who
@@ -147,7 +161,21 @@ brainstorming.
 > you? 2) Then start a brainstorm list of your own short video ideas, 30 to 90 seconds each. Aim for at least
 > three ideas before you pick one tomorrow." Large, clean. One slide.
 
-### Slide 7: Before You Leave
+### Slide 7: Turn and Talk
+
+> Create one "Turn and Talk" slide for a high school video class. Big title: "Turn and Talk: Pitch an Idea."
+> Body: "Share one idea from your brainstorm with a partner. Your partner asks you two questions: (1) What would
+> we actually SEE in the very first shot? (2) Where and when would you film it? Then switch. If you cannot
+> answer those two questions, the idea is not specific enough yet." One slide, large text.
+
+### Slide 8: If You Finish Early
+
+> Create one slide for a high school video class titled "Finished Brainstorming?" Present as a numbered list:
+> 1) Push your brainstorm list to at least five ideas. 2) Pick your current favorite and write the first three
+> shots you would need for it. 3) Note what equipment each of those three shots would require. One slide,
+> large text.
+
+### Slide 9: Before You Leave
 
 > Create one "Exit" slide titled "Before You Leave." Body: "You should have your reaction written and at least
 > three video ideas on your brainstorm list. Tomorrow you pick one and write the shot list. Friday is work time,
@@ -203,7 +231,21 @@ brainstorming.
 > notes: what worked, what you are changing. 3) Pick NEW roles for Thursday: pilot, visual observer, logger. 4)
 > Note any changes to your flight area or go/no-go numbers." Large, clean. One slide.
 
-### Slide 7: Before You Leave
+### Slide 7: Turn and Talk
+
+> Create one "Turn and Talk" slide for a high school drone class. Big title: "Trade Plans With Another
+> Group." Body: "Swap your revised mission plan with another group. Read theirs and answer: Could you fly this
+> mission using only their notes? What is missing or unclear? Give them one specific fix. Then get your own
+> plan back and apply the fix you were given." One slide, large text.
+
+### Slide 8: If You Finish Early
+
+> Create one slide for a high school drone class titled "Finished Your Plan?" Present as a numbered list: 1)
+> Pull a SECOND METAR, from a different airport or a different hour, and make a second go/no-go call. 2) Compare
+> the two: what changed, and would it change your decision? 3) Review your flight log from last week and check
+> that every field is filled in. One slide, large text.
+
+### Slide 9: Before You Leave
 
 > Create one "Exit" slide titled "Before You Leave." Body: "Your group should have a weather worksheet done,
 > footage notes written, and new roles assigned. Tomorrow we finalize the plan and refresh preflight. THURSDAY
@@ -253,7 +295,21 @@ and does not cover loops.**
 > 3 TIMES loop that changes the score by 2 each time. Before you run it, predict: what will the score be when it
 > finishes?" Add the answer upside down or in small text: "Answer: 6." Large, clean. One slide.
 
-### Slide 6: Before You Leave
+### Slide 6: Turn and Talk
+
+> Create one "Turn and Talk" slide for a middle school computer science class. Big title: "Turn and Talk:
+> Predict It." Body: "Show your partner your forever loop. BEFORE they run it, they have to predict out loud
+> what it will do. Then run it. Were they right? Switch and do the same with their project." One slide, large
+> readable text.
+
+### Slide 7: If You Finish Early
+
+> Create one slide for a middle school computer science class titled "Done Already? Try These." Present as a
+> numbered list: 1) Make your sprite change color every time the loop runs. 2) Try a repeat 10 times loop that
+> changes score by 2, what is the score at the end? 3) Try putting a loop INSIDE another loop and see what
+> happens. One slide, large readable text.
+
+### Slide 8: Before You Leave
 
 > Create one "Exit" slide titled "Before You Leave." Body: "You should have a forever loop and a repeat loop
 > working. Tomorrow we put an IF statement inside a loop, which is where it gets powerful. Remember: Friday's
@@ -302,7 +358,21 @@ time. **No PDF check-in this week; check-ins are now every other week.**
 > number. Both need to be sharp on the face. If you are not shooting yet: keep building your spread, and go when
 > called. The aperture pair is due Friday." Large, clean. One slide.
 
-### Slide 6: Before You Leave
+### Slide 6: Turn and Talk
+
+> Create one "Turn and Talk" slide for a high school yearbook class. Big title: "While You Wait for a
+> Camera." Body: "Show a partner your spread. They name one thing that is working, and one thing that still
+> needs a caption, a photo credit, or a fix. Write down what they said before you go back to work." One slide,
+> large text.
+
+### Slide 7: If You Finish Early
+
+> Create one slide for a high school yearbook class titled "Shot Your Pair? Do This." Present as a numbered
+> list: 1) Offload and name your two shots now, do not wait. 2) Draft captions for any photos already placed on
+> your spread. 3) Run your page against the Page Checklist from last week and fix anything unchecked. One slide,
+> large text.
+
+### Slide 8: Before You Leave
 
 > Create one "Exit" slide titled "Before You Leave." Body: "Offload and name any shots you took today. Your
 > aperture pair is due Friday, with one sentence on which shot works better for a yearbook portrait and why.
@@ -314,8 +384,8 @@ time. **No PDF check-in this week; check-ins are now every other week.**
 
 | Class | Today | Slides | This week's key note |
 |-------|-------|-------:|----------------------|
-| Design Techniques | Portfolio checklist, menu restructure, post + describe poster | 9 | UX/UI unit starts tomorrow; Friday retake replaces original score |
-| Video & Sound | Read a real BPA prompt, react, intro pre-production | 7 | Brainstorming starts today; Friday retake replaces original score |
-| Aviation UAS | Footage review, real METAR, new roles picked | 7 | **Flight is Thursday** |
-| Middle School CS | Loops intro (new content) | 6 | **Quiz is Friday**, covers if statements only |
-| Yearbook | Aperture explainer + quick shoot, then work time | 6 | **No check-in this week**, next is Week 6 |
+| Design Techniques | Portfolio checklist, menu restructure, post + describe poster | 11 | UX/UI unit starts tomorrow; Friday retake replaces original score |
+| Video & Sound | Read a real BPA prompt, react, intro pre-production | 9 | Brainstorming starts today; Friday retake replaces original score |
+| Aviation UAS | Footage review, real METAR, new roles picked | 9 | **Flight is Thursday** |
+| Middle School CS | Loops intro (new content) | 8 | **Quiz is Friday**, covers if statements only |
+| Yearbook | Aperture explainer + quick shoot, then work time | 8 | **No check-in this week**, next is Week 6 |

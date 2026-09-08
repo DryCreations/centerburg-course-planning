@@ -7,7 +7,9 @@ Running record of the plan for the current day. Week 4 is a four-day week: Tue S
 
 ## Tuesday Sep 8: today's plan
 
-Per-class slide prompts: `program/week-4-tuesday-slides.md`. Revised after a review pass: DT and V&S needed to
+Per-class slide prompts, all four days: `program/week-4-tuesday-slides.md`, `-wednesday-`, `-thursday-`,
+`-friday-`. Every deck follows the same skeleton and includes a Turn and Talk and an If You Finish Early slide
+so nobody has broad downtime. Revised after a review pass: DT and V&S needed to
 move to genuinely new standards instead of revisiting last week's content; Aviation's flight moved to Thursday;
 MS CS quiz moved to Friday; Yearbook check-ins reduced to every other week.
 
@@ -27,3 +29,15 @@ MS CS quiz moved to Friday; Yearbook check-ins reduced to every other week.
   only, not loops.
 - **Yearbook:** aperture explainer + a quick in-class practice shoot, then page work time. **No PDF check-in
   this week**; check-ins are now every other week, next one Week 6.
+
+
+## Rest of the week at a glance
+
+| Day | DT | V&S | Aviation | MS CS | Yearbook |
+|-----|----|-----|----------|-------|----------|
+| **Wed Sep 9** | UX vs UI, map the user journey | Pick one idea, write the shot list | Finalize plan, preflight refresh, weather look-ahead | An if inside a loop; assign Loop It | Work time, camera rotation continues |
+| **Thu Sep 10** | Wireframe every page | Storyboard every shot | **FLIGHT DAY** | Build Loop It | Work time, last camera rotation |
+| **Fri Sep 11** | Finish wireframes + **optional retake** | Finish and turn in the plan + **optional retake** | Footage review and debrief | **QUIZ** (if statements only), then work time | Aperture pair due, work time |
+
+Retake policy for DT and V&S: optional, independent, taken during work time, and the **retake score replaces
+the original**. One time only, because it was the first quiz of the year.
