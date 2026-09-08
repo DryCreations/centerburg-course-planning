@@ -6,38 +6,44 @@ Thursday; MS CS quiz moved to Friday; Yearbook check-ins move to every other wee
 
 ---
 
-## 1. Design Techniques: UX/UI intro
+## 1. Design Techniques: Portfolio update day
 
-**Today's documents:** `courses/design-techniques/planning/week-4/outline.md`, `vocab.md`, `project.md`
-**Post:** vocab, the Portfolio Wireframe project.
-**Go over:** UX vs UI, the design process, user journey mapping. Students list their portfolio's pages and map
-the journey. **This is new content, not a repeat of color or hierarchy.**
+**Today's documents:** `courses/design-techniques/planning/week-4/outline.md`, `vocab.md`, `project.md`,
+`handouts/tue-portfolio-update.md`
+**Post:** the portfolio update handout.
+**Go over:** add last week's poster to the portfolio (Unit 1.1), write about it using last week's sentence
+starters, and learn the real names for website parts (nav, header, page, footer). **UX/UI content starts
+tomorrow, not today.**
 
 ### Slides
 
-- **Slide 1, As You Come In:** "Open the Week 4 vocab in Classroom. Think about the last app or website that confused you. What made it hard to use?"
-- **Slide 2, Standards + Today:** "Today's standards: 2.15.1 the UX/UI design process, 7.1.1 to 7.1.3 interactive media. Agenda: UX vs UI, user journey mapping, list your portfolio's pages."
-- **Slide 3, UX vs UI:** "UX (user experience): how it FEELS to use something, is it clear and easy. UI (user interface): the actual screens, buttons, and visuals."
-- **Slide 4, User journey:** "A user journey is the path someone takes to get what they need. What pages does a visitor to YOUR portfolio need, and in what order?"
-- **Slide 5, Do Now:** "List every page your portfolio needs. Then write the order a visitor would move through them. Tomorrow you wireframe each page."
-- **Slide 6, Friday note:** "Reminder for later this week: Friday is work time, AND anyone who wants a better score on last week's hierarchy and typography quiz can retake it independently."
+- **Slide 1, As You Come In:** "Open your portfolio site and your poster export (the PNG or JPG) from last week. Today we get your site caught up."
+- **Slide 2, Standards + Today:** "Today's standard: 7.1.2 describe the components of interactive media. Agenda: add your poster to Unit 1.1, write about it, learn the real names for site parts."
+- **Slide 3, Add your poster:** "Go to your Unit 1.1 section. Add your poster image (the exported PNG or JPG, not the project file)."
+- **Slide 4, Write about it:** "Use last week's sentence starters, now pointed at YOUR poster: name your focal point, your size jump, your color choice, your alignment. Turn 2 to 4 sentences into a short paragraph and post it next to the poster."
+- **Slide 5, Real names for site parts:** "The bar at the top = NAVIGATION MENU. The big section at the top of a page = HEADER or HERO. One entry in the menu = a TAB or NAVIGATION LINK. The stuff at the bottom = FOOTER."
+- **Slide 6, Do Now:** "Screenshot your site's navigation menu. Label each link with its real name and what page it goes to."
+- **Slide 7, Looking ahead:** "Tomorrow: a new unit, UX/UI and wireframing. Friday is work time, AND anyone who wants a better score on last week's quiz can retake it independently, the retake score replaces the original."
 
 ---
 
-## 2. Video & Sound: Pre-production and BPA
+## 2. Video & Sound: Read a real BPA prompt, then pre-production
 
-**Today's documents:** `courses/video-and-sound/planning/week-4/outline.md`, `vocab.md`, `project.md`
-**Post:** vocab, the Storyboard & Shot Plan project.
-**Go over:** what pre-production is, introduce the BPA Video Production Team event. Students pick a video idea.
+**Today's documents:** `courses/video-and-sound/planning/week-4/outline.md`, `vocab.md`, `project.md`,
+`handouts/tue-bpa-prompt-read.md`
+**Bring:** a real, past BPA Video Production Team (#430) prompt to hand out or display.
+**Go over:** first half, read and react to the real prompt. Second half, intro pre-production. Students start
+brainstorming video ideas.
 
 ### Slides
 
-- **Slide 1, As You Come In:** "Open the Week 4 vocab in Classroom. Think of one short video idea (30 to 90 seconds) you could plan this week."
-- **Slide 2, Standards + Today:** "Today's standards: 7.7.1 production needs, 7.7.2 script and storyboard to develop a production schedule. Agenda: what pre-production is, intro BPA Video Production, pick your idea."
-- **Slide 3, Pre-production:** "Before ANY real production films, they plan: idea, script or shot list, storyboard, schedule. That planning is this week's project."
-- **Slide 4, BPA Video Production:** "BPA has a real competition event, Video Production Team, that asks for exactly this kind of planning and production. This week's project can lead there."
-- **Slide 5, Do Now:** "Pick your video idea. Write one sentence describing it and one sentence on why it would make a good short video."
-- **Slide 6, Friday note:** "Reminder for later this week: Friday is work time, AND anyone who wants a better score on last week's RAW and editing quiz can retake it independently."
+- **Slide 1, As You Come In:** "Open the reaction handout in Classroom. Get ready to read a real BPA Video Production Team competition prompt."
+- **Slide 2, Standards + Today:** "Today's standards: 7.7.1 production needs, 7.7.2 script and storyboard to develop a production schedule. Agenda: read a real prompt and react, then intro pre-production and start brainstorming."
+- **Slide 3, Read the prompt:** "Read it once all the way through. Read it again and mark: what is it asking for, any limits, anything unclear."
+- **Slide 4, Discuss:** "In your group: what is this prompt asking a team to make? What would be the hardest part? Does this kind of competition sound fun to you?"
+- **Slide 5, Pre-production:** "Before ANY real production films, they plan: idea, script or shot list, storyboard, schedule. That planning is this week's project."
+- **Slide 6, Do Now:** "Write your reaction to the prompt (2 to 3 sentences). Then start brainstorming your own short video ideas for this week's project."
+- **Slide 7, Looking ahead:** "Friday is work time, AND anyone who wants a better score on last week's RAW and editing quiz can retake it independently, the retake score replaces the original."
 
 ---
 
@@ -97,8 +103,8 @@ time. **No PDF check-in this week; check-ins are now every other week.**
 
 | Class | Today | This week's key change |
 |-------|-------|--------------------------|
-| Design Techniques | UX/UI intro, list pages + journey map | New topic (not color again); Friday = work + optional quiz retake |
-| Video & Sound | Pre-production intro, pick a video idea, BPA intro | New topic; Friday = work + optional quiz retake |
+| Design Techniques | Portfolio catch-up: add poster, learn site vocab | UX/UI unit starts tomorrow; Friday retake replaces original score |
+| Video & Sound | Read a real BPA prompt, react, intro pre-production | Brainstorming starts today; Friday retake replaces original score |
 | Aviation UAS | Footage review, real METAR, new roles picked | **Flight moved to Thursday** |
 | Middle School CS | Loops intro (new content) | **Quiz moved to Friday**, does not cover loops |
 | Yearbook | Aperture explainer + quick shoot, then work time | **Check-ins now every other week**, none this week |

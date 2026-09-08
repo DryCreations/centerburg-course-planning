@@ -11,12 +11,15 @@ Per-class slide prompts: `program/week-4-tuesday-slides.md`. Revised after a rev
 move to genuinely new standards instead of revisiting last week's content; Aviation's flight moved to Thursday;
 MS CS quiz moved to Friday; Yearbook check-ins reduced to every other week.
 
-- **Design Techniques:** new topic, **UX/UI and wireframing** (2.15.1, 7.1). Vocab posted, UX vs UI, user
-  journey mapping, students list their portfolio's pages. No quiz this week; Friday is work time plus an
-  independent, optional retake of last week's quiz.
-- **Video & Sound:** new topic, **pre-production** (7.7.1, 7.7.2). Vocab posted, what pre-production is, BPA
-  Video Production Team introduced, students pick a video idea. No quiz this week; Friday is work time plus an
-  independent, optional retake of last week's quiz.
+- **Design Techniques:** **portfolio catch-up day.** Students add last week's poster to their site (Unit 1.1),
+  write about it using last week's bell-ringer sentence starters, and learn the real names for site parts (nav,
+  header, page, footer). The UX/UI and wireframing unit (2.15.1, 7.1) starts Wednesday and may run into next
+  week. Friday is work time plus an independent, optional retake of last week's quiz; **the retake score
+  replaces the original, one time only.**
+- **Video & Sound:** **read a real BPA Video Production Team prompt** and react to it as a class, then intro
+  pre-production (7.7.1, 7.7.2) for the second half of class. Students start brainstorming video ideas today.
+  Friday is work time plus an independent, optional retake of last week's quiz; **the retake score replaces the
+  original, one time only.**
 - **Aviation UAS:** **footage review + real weather.** Watch last week's flight together, decode a real current
   METAR (`handouts/metar-resources.md`), work go/no-go. Groups pick new roles and start revising their plan.
   **Mission 2 flies Thursday**, not Friday.

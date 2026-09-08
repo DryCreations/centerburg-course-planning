@@ -1,8 +1,19 @@
-# Week 4 Vocabulary: UX/UI (cumulative)
+# Week 4 Vocabulary: Website Parts & UX/UI (cumulative)
 
-Posted Tuesday.
+Tuesday's terms posted first, UX/UI terms added Wednesday.
 
-## This week's terms
+## Tuesday: the real names for what's on a website
+
+| Term | Definition |
+|------|------------|
+| **Navigation menu (nav)** | The links that let a visitor move between pages. |
+| **Header / hero section** | The first thing a visitor sees on a page; usually a name, title, or intro. |
+| **Page** | One section of a site with its own content and its own address. |
+| **Footer** | Contact info, links, or credits that repeat on every page. |
+| **Banner / hero image** | A large image that sets the tone for a page. |
+| **Navigation link / tab** | A single clickable item in the nav that goes to one page. |
+
+## Wednesday onward: UX/UI
 
 | Term | Definition |
 |------|------------|
@@ -10,8 +21,7 @@ Posted Tuesday.
 | **UI (user interface)** | The actual screens, buttons, and visuals someone interacts with. |
 | **User journey** | The path a person takes through a site or app to get what they need. |
 | **Wireframe** | A low-detail structural sketch of a screen: boxes and labels, not finished visuals. |
-| **Navigation** | The menu or links that let someone move between screens. |
-| **Prototype** | A rough, clickable or connected version used to test whether something works before building it for real. |
+| **Prototype** | A rough, connected version used to test whether something works before building it for real. |
 | **Interactive media** | Any media a user actively navigates or responds to, such as a website, app, or kiosk. |
 
 ## Carried from Weeks 1 to 3 (still relevant)
@@ -23,8 +33,7 @@ Posted Tuesday.
 
 ## Review Questions
 
-1. What is the difference between UX and UI?
-2. What is a wireframe, and why is it built before the finished visual design?
-3. Name two screens or pages a visitor to your portfolio would need, and the order they would likely visit them
-   in.
-4. What is navigation, and why does it matter for user experience?
+1. Point at your own site. What is the real name for "the bar at the top"? For "the stuff at the bottom"?
+2. What is the difference between UX and UI?
+3. What is a wireframe, and why is it built before the finished visual design?
+4. Name two pages a visitor to your portfolio would need, and the order they would likely visit them in.

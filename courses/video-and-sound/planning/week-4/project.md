@@ -8,18 +8,32 @@ storyboard. You are not filming this week; you are planning it properly.
 
 ---
 
-## Requirements (all required)
+## Part A: React and brainstorm (Tue)
+
+- Read the real BPA Video Production Team prompt handed out in class and answer the discussion questions in
+  `handouts/tue-bpa-prompt-read.md`.
+- Start brainstorming your own short video ideas, whether or not you plan to compete.
+
+## Part B: Pick an idea and write it up (Wed)
 
 | # | Requirement |
 |---|-------------|
-| 1 | Pick a real idea for a short video (a process, a moment, a story) |
+| 1 | Pick one real idea for a short video (a process, a moment, a story) |
 | 2 | Write a **shot list or short script**: every shot, in order, with a one-line description |
-| 3 | **Storyboard** each shot: a quick sketch (stick figures are fine) showing framing and what happens |
-| 4 | Note the **production needs** for each shot: equipment, people, and location |
-| 5 | Note a rough **production schedule**: what gets filmed when |
+| 3 | Note the **production needs** for each shot: equipment, people, and location |
+
+## Part C: Storyboard it (Thu to Fri)
+
+| # | Requirement |
+|---|-------------|
+| 1 | **Storyboard** each shot: a quick sketch (stick figures are fine) showing framing and what happens |
+| 2 | Note a rough **production schedule**: what gets filmed when |
+
+---
 
 ## Turn in
 
+- [ ] BPA prompt reaction notes
 - [ ] Shot list or script
 - [ ] A storyboard panel for every shot
 - [ ] Production needs and a rough schedule
@@ -27,5 +41,5 @@ storyboard. You are not filming this week; you are planning it properly.
 
 ## Extension (finished early)
 
-Research the BPA Video Production Team event requirements and write two sentences on how this planning
-document connects to what that event asks competitors to submit.
+Write two sentences on how this planning document connects to what the BPA Video Production event asks
+competitors to submit, and whether you would want to enter it.
