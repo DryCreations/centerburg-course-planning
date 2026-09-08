@@ -4,8 +4,9 @@ Prebuilt bundles for grabbing on a machine where signing in is a hassle.
 
 | File | What it is |
 |------|-----------|
-| `week-3-materials.zip` | Everything for Week 3 (Aug 31 to Sep 4): all five classes, the Friday quiz CSVs, the Gimkit banks, the daily slide prompts, and the grading reference. Open `INDEX.md` inside for the map. |
+| `week-4-materials.zip` | Week 4 (Tue Sep 8 to Fri Sep 11). Start with `SLIDE-PROMPTS-tuesday.md` inside; open `INDEX.md` for the map. |
+| `week-3-materials.zip` | Week 3 (Aug 31 to Sep 4): all five classes, the Friday quiz CSVs, the Gimkit banks, and the daily slide prompts. |
 
-To rebuild the Week 3 bundle after changes, re-zip these paths:
-`courses/<course>/planning/week-3/` for all five courses, `program/quizzes/week-3-friday/`,
-`program/week-3-*.md`, `program/gimkit-review-howto.md`, and `grading-and-categories.md`.
+To rebuild a week's bundle after changes, re-zip that week's paths:
+`courses/<course>/planning/week-N/` for all five courses, the matching `program/week-N-*` docs, and
+`grading-and-categories.md`.
