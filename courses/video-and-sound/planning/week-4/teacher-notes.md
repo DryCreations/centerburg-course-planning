@@ -1,23 +1,26 @@
 # Week 4 Teacher Notes: Video and Sound
 
 Teacher-facing pacing for Week 4. Student doc is `outline.md`; assignment is `project.md`; vocab is `vocab.md`.
-No quiz this week.
+No new quiz this week: Friday is work time plus an **independent, optional retake** of last week's Week 3 RAW
+and editing quiz for anyone who wants a better score.
 
 ## Pacing Guide
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Tue | Post `vocab.md`. Explain the five shot sequence with an example (show a real one if you have footage from Weeks 1 to 2 to reuse). Students pick an activity to shoot. | Push them toward a real activity, not a staged one; real action makes shot 5 (the unusual angle) much easier. |
-| Wed | Shoot the five shots. Circulate on exposure and white balance, not just framing. | This is graded work, not a drill; hold them to the same exposure standard as Week 3. |
-| Thu | As a group, look at a few students' sequences on the screen. Order and caption. | Ordering is the actual sequencing skill; do not let them skip straight to captions. |
-| Fri | Finish captions, export, submit. | Quiz on Weeks 1 to 4 content is planned for a future week; none this week. |
+| Tue | Post `vocab.md`. Explain pre-production: idea, script or shot list, storyboard, schedule. Introduce the **BPA Video Production Team** event (#430, `courses/video-and-sound/planning/bpa-events.md`) as a real competition this planning sets students up for. Students pick a video idea. | This is genuinely new unit content: 7.7.1 and 7.7.2, not a repeat of exposure or editing. |
+| Wed | Write shot lists or short scripts for the chosen idea. | Push for specific shots, not vague ideas; "show the hands doing the task" beats "show the process." |
+| Thu | Storyboard each shot, panel by panel. Sketches only, framing and action, not finished art. | This is where students discover a shot is missing or a transition does not make sense. |
+| Fri | Finish storyboards. Work time. **Mention this is also open for an independent retake of last week's quiz**, for students who want to improve their score. | State clearly: retaking is optional, done independently, does not require the whole class to stop. |
 
 ## Assessment Notes
 
-- Graded per the rubric in `project.md`: all five shot types present with deliberate exposure control, a clear
-  order, and useful captions.
+- Graded per the rubric in `project.md`: a complete shot list or script, a storyboard for every shot, noted
+  production needs, and a rough schedule.
+- Friday's quiz retake is self-serve. Decide and post: does the retake score replace the original, or average
+  with it. Note the decision here once set.
 
-## Notes / open items
+## Open items
 
-- If editing software has landed by this point, this sequence can be assembled as a rough cut instead of a
-  captioned image set; adjust Part B accordingly and note the change in `program/week-4-daily-log.md`.
+- When editing software lands, this storyboard becomes the plan for an actual shoot; note that connection when
+  filming starts.

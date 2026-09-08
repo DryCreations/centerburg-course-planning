@@ -1,19 +1,19 @@
-# Week 4: Telling a Story in Five Shots: Outline
+# Week 4: Pre-Production: Script, Storyboard & BPA Video: Outline
 
 **Course:** Video and Sound (145110)
 **Quarter:** Q1 | **Week:** 4 | **Dates:** Tue Sep 8, Wed Sep 9, Thu Sep 10, Fri Sep 11 (Labor Day Monday off)
 
-> **From single shots to a sequence.** You can already control exposure and edit a photo. This week you shoot a
-> **five shot sequence** of a real activity and put the shots in an order that tells a story, the way any video
-> or photo story is actually built.
+> **Before you shoot, you plan.** Every real video starts with pre-production: a script or shot list, a
+> storyboard, and a production schedule. This week you plan a short video the same way a real production team
+> would, and we introduce the **BPA Video Production event** as a path this planning can lead to.
 
 ---
 
 ## What This Week Covers
 
-The **five shot sequence** (close up of the hands, close up of the face, a wide shot, an over the shoulder shot,
-and one unusual angle) shot around one activity, then arranged in order with captions so the sequence reads as
-a story from first shot to last.
+**Pre-production.** Turning an idea into a script or shot list, then a **storyboard** (a panel-by-panel sketch
+of what each shot looks like), and a production schedule. We also introduce the **BPA Video Production Team**
+event, a real competition this planning sets you up for.
 
 ## Weeks 1 to 3 recap
 
@@ -23,27 +23,29 @@ The exposure triangle, camera modes, RAW capture, white balance, and a first edi
 
 ### What You'll Be Able to Do
 
-- Shoot a deliberate five shot sequence of one activity
-- Explain what each shot type contributes to telling the story
-- Arrange a sequence of images in an order that reads clearly, with captions
-- Apply exposure and white balance control across a full shoot, not just one photo
+- Explain what pre-production is and why it happens before any filming
+- Write a short shot list or script for a real short video idea
+- Storyboard a sequence, sketching what each shot shows
+- Describe what the BPA Video Production Team event asks competitors to produce
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Tue Sep 8 | Vocab posted; the five shot sequence explained; pick an activity to shoot | Activity chosen |
-| Wed Sep 9 | Shoot the five shot sequence | Five shots captured |
-| Thu Sep 10 | Review the shots as a group; order them, write captions | Sequence ordered |
-| Fri Sep 11 | Finish captions, export, submit the sequence | Finished sequence |
+| Tue Sep 8 | Vocab posted; what pre-production is; intro BPA Video Production; pick a video idea | Idea chosen |
+| Wed Sep 9 | Write a shot list or short script for your idea | Shot list / script drafted |
+| Thu Sep 10 | Storyboard the sequence, panel by panel | Storyboard drafted |
+| Fri Sep 11 | Finish the storyboard. Work time. **Retake last week's quiz if you want a better score.** | Storyboard finished |
 
 ### What You'll Get This Week
 
-- **The Five Shot Sequence project:** shoot, order, and caption a real sequence.
-- **This week's vocabulary:** sequencing terms.
+- **The Storyboard & Shot Plan project:** plan a short video before you ever pick up a camera for it.
+- **This week's vocabulary:** pre-production terms.
+- **Friday:** work time, plus an independent, optional retake of last week's RAW and editing quiz for anyone
+  who wants a better score.
 
 ### Standards Covered
 
-- **7.7.1 / 7.7.2** production needs and planning a shoot
-- **7.3.1 / 7.3.2** selecting media elements, generating supporting text (captions)
-- **7.7.4** shooting: recording format, exposure control (carried forward)
+- **7.7.1** identify equipment and production needs
+- **7.7.2** analyze the script and storyboard to develop a production schedule
+- **2.9** project concept proposal (carried forward)

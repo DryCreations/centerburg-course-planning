@@ -1,10 +1,10 @@
-# Week 4 Project: Brand Application Set
+# Week 4 Project: Portfolio Wireframe Plan
 
 **Course:** Design Techniques | **Assigned:** Tue Sep 8 | **Due:** Fri Sep 11
-**Category:** Projects | **Tool:** Adobe Express | **Late:** accepted, ask to reopen
+**Category:** Projects | **Tool:** paper, then Adobe Express or Google Slides | **Late:** accepted, ask to reopen
 
-Design **two pieces** that share one deliberate color palette, so they clearly belong to the same brand or
-event. This is the first time this year you carry one design decision across more than one piece.
+Before you add anything else to your portfolio, plan its **structure**. Map the user journey, then wireframe
+each page.
 
 ---
 
@@ -12,20 +12,19 @@ event. This is the first time this year you carry one design decision across mor
 
 | # | Requirement |
 |---|-------------|
-| 1 | Pick a **topic** (an event, club, or personal brand you already have from an earlier project, or a new one) |
-| 2 | Choose a **color scheme on purpose**: complementary, analogous, or monochromatic, and name which one you picked |
-| 3 | **Piece 1:** an announcement or social post using your hierarchy and type pairing skills |
-| 4 | **Piece 2:** a business card, flyer, or similar second piece using the **same palette and fonts** |
-| 5 | Both pieces should be recognizable as the same brand at a glance |
-| 6 | Export both pieces and post them to your portfolio |
+| 1 | List every page your portfolio needs (for example: Home, About, Projects, Contact) |
+| 2 | A simple **user journey map**: the order a visitor would move through those pages to find what they need |
+| 3 | A **wireframe for each page**: boxes and labels only, no finished visuals, showing where the navigation, headline, and content go |
+| 4 | Navigation shown consistently across every wireframe |
+| 5 | A partner reviews your wireframes and can explain, on paper, how they would move through your site |
 
 ## Turn in
 
-- [ ] One sentence naming your color scheme and why you picked it
-- [ ] Piece 1 and Piece 2, exported
-- [ ] Both posted to the portfolio site
+- [ ] Page list and journey map
+- [ ] A wireframe for every page you listed
+- [ ] Reviewer name and one sentence on what they changed after the review
 
 ## Extension (finished early)
 
-Design a third piece (a banner, a sticker, or a title card) in the same palette, or write two sentences
-comparing how a different scheme (say, swapping to complementary) would change the feel.
+Turn one wireframe into a rough digital layout in Express, keeping it intentionally plain, structure only, no
+final colors or images yet.

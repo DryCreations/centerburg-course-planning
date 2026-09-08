@@ -1,4 +1,4 @@
-# Week 4 Vocabulary: Sequencing (cumulative)
+# Week 4 Vocabulary: Pre-Production (cumulative)
 
 Posted Tuesday.
 
@@ -6,25 +6,23 @@ Posted Tuesday.
 
 | Term | Definition |
 |------|------------|
-| **Sequence** | A set of shots arranged in an order that tells a story. |
-| **Shot size** | How much of the subject is in the frame: wide, medium, close up. |
-| **Cutaway** | A shot of something other than the main action, used to bridge two shots. |
-| **Over the shoulder** | A shot taken from behind one person, looking at another. |
-| **Establishing shot** | A wide shot that shows where the action is happening. |
-| **Continuity** | Keeping details consistent from shot to shot (light, position, action). |
-| **Coverage** | Having enough different shots of an action to edit it together cleanly. |
+| **Pre-production** | Everything planned before filming: idea, script, storyboard, schedule. |
+| **Script** | The written words and action for a video, scene by scene. |
+| **Shot list** | A list of every shot needed, in order, with a short description of each. |
+| **Storyboard** | A panel-by-panel sketch showing what each shot looks like before you film it. |
+| **Production schedule** | The plan for when and where each shot gets filmed. |
+| **Production needs** | The equipment, people, and locations a shoot requires. |
 
 ## Carried from Weeks 1 to 3 (still relevant)
 
 | Term | Definition |
 |------|------------|
+| **Shot size** | How much of the subject is in the frame. |
 | **Exposure triangle** | Aperture, shutter speed, and ISO. |
-| **White balance** | Correcting for the color of the light. |
-| **Depth of field** | How much of the shot is in focus front to back. |
 
 ## Review Questions
 
-1. Name the five shots in the five shot sequence and what each one contributes.
-2. Why does a story usually need more than one shot size?
-3. What is continuity, and why does it matter across a sequence?
-4. What is the difference between an establishing shot and a cutaway?
+1. What is the difference between a shot list and a storyboard?
+2. Why does a real production plan a shoot before filming instead of shooting first and figuring it out later?
+3. What goes into a production schedule?
+4. Name one thing the BPA Video Production Team event asks competitors to submit.

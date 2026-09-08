@@ -1,10 +1,11 @@
-# Week 4: Quiz, then Loops: Outline
+# Week 4: Loops, then the Quiz Friday: Outline
 
 **Course:** Middle School CS (grades 7 to 8)
 **Quarter:** Q1 | **Week:** 4 | **Dates:** Tue Sep 8, Wed Sep 9, Thu Sep 10, Fri Sep 11 (Labor Day Monday off)
 
-> **First real quiz, then a new tool: loops.** Tuesday is your first quiz, on if statements and everything
-> before it. Then we add **loops**, code that repeats, and combine loops with if statements you already know.
+> **A new tool: loops.** Today we add loops, code that repeats, and combine loops with the if statements you
+> already know. **Your first real quiz is Friday**, and it only covers if statements and everything before,
+> not loops.
 
 ---
 
@@ -30,15 +31,16 @@ Variables, sprites, events, overlap, pick random, and if statements including AN
 
 | Day | Bell ringer + focus | Turn in |
 |-----|---------------------|---------|
-| Tue Sep 8 | **Quiz** (if statements, Weeks 1 to 3) | Quiz |
-| Wed Sep 9 | Bell ringer + intro loops (repeat, forever) | Loop demo working |
-| Thu Sep 10 | Bell ringer + combining a loop with an if inside it | Combined example working |
-| Fri Sep 11 | Bell ringer + build a small project using a loop | Project started/finished |
+| Tue Sep 8 | Bell ringer + intro loops (repeat, forever) | Loop demo working |
+| Wed Sep 9 | Bell ringer + combining a loop with an if inside it; assign Loop It | Combined example working |
+| Thu Sep 10 | Bell ringer + build the Loop It project | Project in progress |
+| Fri Sep 11 | **Quiz** (if statements, Weeks 1 to 3, not loops), then work time on Loop It | Quiz + project progress |
 
 ### What You'll Get This Week
 
-- **A quiz** on if statements, Tuesday.
-- **The Loop project:** a small build using a loop, later this week.
+- **New content:** loops, starting today.
+- **The Loop It project:** a small build using a loop plus an if statement.
+- **Friday:** the first real quiz, covering if statements and everything before, not this week's loops.
 
 ### Standards Covered
 

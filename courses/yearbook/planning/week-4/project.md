@@ -1,10 +1,10 @@
-# Week 4 Assignment: Av Mode Practice Set
+# Week 4 Assignment: Aperture Practice Set
 
 **Course:** Yearbook | **Assigned:** Tue Sep 8 | **Due:** Fri Sep 11
 **Tool:** Camera (Av mode) | **Category:** Craft
 
-Shoot **two portraits or candids of the same subject**, one with a low f number and one with a high f number,
-so you can see and explain the difference depth of field makes.
+A quick, in-class assignment: shoot **two portraits or candids of the same subject**, one with a low f number
+and one with a high f number, so you can see and explain what aperture does to a shot.
 
 ---
 
@@ -30,5 +30,5 @@ both.
 
 ## Extension (ahead of the pack)
 
-Shoot the same pair on a different subject in different light, and compare which lighting made the depth of
-field effect more obvious.
+Shoot the same pair on a different subject in different light, and compare which lighting made the aperture
+effect more obvious.

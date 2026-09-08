@@ -1,21 +1,25 @@
 # Week 4 Teacher Notes: Aviation UAS
 
 Teacher-facing pacing for Week 4. Student doc is `outline.md`; assignment is `project.md`; vocab is `vocab.md`.
-No quiz this week.
+No quiz this week. **Flight moved to Thursday** this week so groups have Tuesday and Wednesday to review and
+replan.
 
 ## Pacing Guide
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Tue | Post `vocab.md`. Pull a real current METAR and read it together, line by line. Work the go/no-go practice problems as a class. | Use an actual current METAR if you can access one; it lands better than a made up example. |
-| Wed | Brief the new maneuver: orbit (roll plus yaw together, subject stays centered) or survey pass (a level, repeated line). Groups start Mission 2 plans. | Orbit is harder to fly than a straight approach; expect it to take practice. Survey pass is the easier fallback for a group still shaky on controls. |
-| Thu | Finalize Mission 2 plans. Preflight refresh. Weather look-ahead for Friday. | Same preflight discipline as Week 3: no preflight, no flight. |
-| Fri | Real weather go/no-go, fly Mission 2, offload, log. | If weather is a no-go, fall back to the Week 3 rain-out Gimkit bank or extend the weather worksheet with more METAR practice. |
+| Tue | Post `vocab.md`. Watch last week's footage together as a class. Discuss honestly: what worked, what to change. Pull a real current METAR from aviationweather.gov (`handouts/metar-resources.md`) and decode it together; work the go/no-go call. Groups pick new roles for Thursday and start revising their plan. | Keep the footage critique constructive; the goal is a specific, actionable change, not just "it was fine." |
+| Wed | Groups finalize the revised mission plan. Preflight refresh. Weather look-ahead for Thursday. | Same preflight discipline as before: no preflight, no flight. |
+| Thu | **Fly.** Real weather go/no-go first. Fly the adjusted shot with the new roles. Offload and log. | This is the flight day this week, not Friday. |
+| Fri | Review Thursday's footage. Debrief: did the change work? Log any remaining notes. | Lighter day; use remaining time for the weather worksheet extension if footage review runs short. |
 
 ## Assessment Notes
 
 - Graded per the rubric in `project.md`.
+- Use `handouts/metar-resources.md` for real weather sources; aviationweather.gov is the standard reference
+  pilots actually use.
 
 ## Open items
 
-- Confirm whether groups keep the same roles from Mission 1 or rotate, and update this note once decided.
+- If Thursday is also a weather no-go, fall back to the Week 3 rain-out Gimkit bank
+  (`courses/aviation-uas/planning/week-3/gimkit-rainout-backup.csv`) and push the flight to the following week.

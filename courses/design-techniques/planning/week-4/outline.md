@@ -1,51 +1,51 @@
-# Week 4: Color Theory & Brand Application: Outline
+# Week 4: UX/UI Basics & Wireframing: Outline
 
 **Course:** Design Techniques (145095)
 **Quarter:** Q1 | **Week:** 4 | **Dates:** Tue Sep 8, Wed Sep 9, Thu Sep 10, Fri Sep 11 (Labor Day Monday off)
 
-> **This week's big idea: a consistent palette.** You already control hierarchy and type. This week you add
-> color theory on purpose, then apply hierarchy, type, and color together across more than one piece so they
-> look like they belong to the same brand.
+> **A new skill: designing for a user, not just a page.** So far you've designed single pieces. This week you
+> step back and plan how someone actually **moves through** a site or app before you make it look good: what
+> screens exist, what order they come in, and what a person needs at each step.
 
 ---
 
 ## What This Week Covers
 
-Color theory (the wheel, schemes, warm/cool, color psychology) and applying it, together with hierarchy and
-type, across a small set of pieces that share one palette.
+**UX/UI basics.** The UX/UI design process (understanding the user, mapping their journey, and wireframing) and
+how it applies to a small, real project: planning the structure of your own portfolio site before you polish it
+further.
 
 ## Weeks 1 to 3 recap
 
-Adobe Express fundamentals, a brand kit, a monogram, the portfolio site, typography, and last week's hierarchy
-poster. This week the same tools serve a bigger goal: consistency across more than one piece.
+Adobe Express fundamentals, brand kit, typography, hierarchy, and last week's poster applying color and type
+together.
 
 ## Student Overview
 
 ### What You'll Be Able to Do
 
-- Identify complementary, analogous, and monochromatic color schemes
-- Explain how warm and cool colors affect a design's feel
-- Choose colors on purpose, connecting a color choice to the message it sends
-- Apply one consistent palette, plus hierarchy and type pairing, across two or more pieces
+- Explain what UX (user experience) and UI (user interface) each mean
+- Map a simple user journey: what someone needs to find, and in what order
+- Build a **wireframe**, a low-detail structural sketch of a screen, before adding visual design
+- Plan the page structure of your own portfolio site as a small real UX project
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Tue Sep 8 | Vocab posted; color theory intro (wheel, schemes, warm/cool, psychology) | Palette started |
-| Wed Sep 9 | Build piece 1 applying palette + hierarchy | Draft piece 1 |
-| Thu Sep 10 | Build piece 2; peer review for consistency across both pieces | Draft piece 2 |
-| Fri Sep 11 | Finish, export, and post both pieces to the portfolio | Finished set |
+| Tue Sep 8 | Vocab posted; UX vs UI, the design process, user journey mapping | Journey map started |
+| Wed Sep 9 | Wireframing basics; sketch wireframes for your portfolio's pages | Wireframes drafted |
+| Thu Sep 10 | Refine wireframes; peer review: can a partner navigate your plan on paper? | Wireframes reviewed |
+| Fri Sep 11 | Finish wireframes. Work time. **Retake last week's quiz if you want a better score.** | Wireframe set |
 
 ### What You'll Get This Week
 
-- **The Brand Application project:** a two-piece set (an announcement or social post, plus a business card or
-  similar) sharing one palette.
-- **This week's vocabulary:** color theory terms.
+- **The Portfolio Wireframe project:** plan your site's structure before you build it further.
+- **This week's vocabulary:** UX/UI terms.
+- **Friday:** work time, plus an independent, optional retake of last week's hierarchy and typography quiz for
+  anyone who wants a better score.
 
 ### Standards Covered
 
-- **7.4.1** select and manipulate color profiles
-- **7.4.2** select color, shape, size, and texture of objects
-- **7.2.10** design elements appropriate for the intended audience and use
-- **7.5.2 / 7.5.4** type pairing, appropriate typefaces (carried forward)
+- **2.15.1** the UX/UI design process: vision, journey mapping, wireframing, prototyping
+- **7.1.1 to 7.1.3** interactive media environments, components, and major characteristics

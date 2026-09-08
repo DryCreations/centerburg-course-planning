@@ -1,23 +1,27 @@
 # Week 4 Teacher Notes: Design Techniques
 
 Teacher-facing pacing for Week 4. Student doc is `outline.md`; assignment is `project.md`; vocab is `vocab.md`.
-No quiz this week; quiz on color theory and this project comes next week.
+No new quiz this week: Friday is work time plus an **independent, optional retake** of last week's Week 3
+hierarchy and typography quiz for anyone who wants a better score.
 
 ## Pacing Guide
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Tue | Post `vocab.md`. Intro color theory: the wheel, the three schemes, warm/cool, and color psychology (tie to the Gimkit questions from last week, which already touched this). Students pick a topic and a scheme. | Keep the intro to about 15 minutes; most of the period is picking a topic and starting the palette. |
-| Wed | Build Piece 1 in Express, applying the palette plus hierarchy and type pairing from Weeks 3 to 4. | Circulate on "does this color choice send the right message." |
-| Thu | Build Piece 2 in the same palette. Peer review: can a partner tell both pieces are the same brand? | The consistency check is the actual skill being assessed. |
-| Fri | Finish, export both, post to portfolio. | Quiz on color theory + hierarchy + type pairing is planned for next week. |
+| Tue | Post `vocab.md`. Explain UX versus UI with a quick example (a confusing app versus a clear one). Introduce user journey mapping. Students list their portfolio's pages and map the journey. | This is genuinely new content, standard 2.15.1, not a repeat of hierarchy or color. |
+| Wed | Wireframing basics: boxes and labels, not finished visuals. Students sketch wireframes for each page on paper. | Keep it deliberately low-fidelity; the point is structure before decoration. |
+| Thu | Refine wireframes. Peer review: a partner walks through the wireframes on paper and says whether they can find what they need. | This is the actual UX test, whether a stranger can navigate the plan. |
+| Fri | Work time to finish wireframes. **Mention this is also open for an independent retake of last week's quiz**, for students who want to improve their score. | State clearly: retaking is optional, done independently, does not require the whole class to stop. |
 
 ## Assessment Notes
 
-- Graded on: a named, deliberate scheme; consistent palette and fonts across both pieces; hierarchy still
-  applied correctly (carried from last week).
+- Graded per the rubric in `project.md`: complete page list and journey map, a wireframe per page, consistent
+  navigation, and evidence of a real peer review.
+- Friday's quiz retake is self-serve. Decide and post: does the retake score replace the original, or average
+  with it. Note the decision here once set.
 
 ## Differentiation
 
-- **Finished early:** the extension (third piece or written comparison).
-- **Needs support:** provide a pre-picked three-color palette to design from, so the color decision is scaffolded.
+- **Finished early:** the extension (a rough digital layout of one wireframe).
+- **Needs support:** provide a pre-made page list (Home, About, Projects, Contact) so the wireframing itself is
+  the focus.

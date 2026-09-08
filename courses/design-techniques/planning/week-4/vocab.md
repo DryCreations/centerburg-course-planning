@@ -1,4 +1,4 @@
-# Week 4 Vocabulary: Color Theory (cumulative)
+# Week 4 Vocabulary: UX/UI (cumulative)
 
 Posted Tuesday.
 
@@ -6,29 +6,25 @@ Posted Tuesday.
 
 | Term | Definition |
 |------|------------|
-| **Color wheel** | The circular map of hues used to build color schemes. |
-| **Complementary colors** | Colors opposite each other on the wheel; strong contrast. |
-| **Analogous colors** | Colors next to each other on the wheel; a calm, unified feel. |
-| **Monochromatic** | One hue in different tints and shades. |
-| **Tint** | A hue with white added; lighter. |
-| **Shade** | A hue with black added; darker. |
-| **Saturation** | How intense or dull a color is. |
-| **Value** | How light or dark a color is. |
-| **Warm colors** | Reds, oranges, yellows; tend to advance, feel energetic. |
-| **Cool colors** | Blues, greens, purples; tend to recede, feel calm. |
-| **Color psychology** | The conventional associations a color carries (for example, red with urgency, blue with trust). |
+| **UX (user experience)** | How it feels to use something: is it clear, is it easy, does it make sense. |
+| **UI (user interface)** | The actual screens, buttons, and visuals someone interacts with. |
+| **User journey** | The path a person takes through a site or app to get what they need. |
+| **Wireframe** | A low-detail structural sketch of a screen: boxes and labels, not finished visuals. |
+| **Navigation** | The menu or links that let someone move between screens. |
+| **Prototype** | A rough, clickable or connected version used to test whether something works before building it for real. |
+| **Interactive media** | Any media a user actively navigates or responds to, such as a website, app, or kiosk. |
 
 ## Carried from Weeks 1 to 3 (still relevant)
 
 | Term | Definition |
 |------|------------|
 | **Hierarchy** | The order a viewer notices elements in. |
-| **Type pairing** | One heading font and one body font that contrast. |
-| **RGB / CMYK** | Screen color versus print color. |
+| **Alignment** | Edges lining up on purpose. |
 
 ## Review Questions
 
-1. Name a complementary pair and an analogous pair.
-2. Why might a wellness brand lean toward greens, while a clearance sale leans toward red?
-3. What is the difference between a tint and a shade?
-4. Pick one color and explain what it conventionally communicates.
+1. What is the difference between UX and UI?
+2. What is a wireframe, and why is it built before the finished visual design?
+3. Name two screens or pages a visitor to your portfolio would need, and the order they would likely visit them
+   in.
+4. What is navigation, and why does it matter for user experience?
