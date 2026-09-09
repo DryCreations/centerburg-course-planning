@@ -1,119 +1,145 @@
 # FRIDAY (Sep 11): Slide Prompts (all classes)
 
-Every block is **one prompt, for one slide.** Paste into Google Slides AI.
+**Three day week:** Wed, Thu, Fri. Every block is **one prompt, for one slide.**
 
 > **Two quizzes today, different kinds.** Design Techniques and Video & Sound run an **optional independent
 > retake** of last week's quiz during work time (the retake score **replaces** the original). Middle School CS
 > takes its **first real quiz**, whole class, silent.
 
+> **Design Techniques and Video & Sound START their next step today.** Wireframes and storyboards continue
+> into next week; do not rush them to finish in one period.
+
 ---
 
-## 1. Design Techniques: Finish wireframes + optional retake
+## 1. Design Techniques: Start wireframing + optional retake
 
-**Today's documents:** `courses/design-techniques/planning/week-4/project.md`
-**Go over:** brief framing, then work time. Open the retake quietly for anyone who wants it.
+**Today's documents:** `courses/design-techniques/planning/week-4/project.md` (Part B)
+**Go over:** what a wireframe is, then sketch one per page from yesterday's journey map. Open the retake
+quietly for anyone who wants it.
+**Retake:** optional, independent, taken during work time. The **retake score replaces the original.** One
+time only, because it was the first quiz of the year.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Get out
-> your wireframes and open your portfolio site. Today is a work day: finish your wireframes and catch up
-> anything unchecked on your Portfolio Check." Large, clean. One slide.
+> your page list and user journey from yesterday, plus a blank sheet of paper. No computers to start. Today we
+> sketch." Large, clean. One slide.
 
-### Slide 2: Today + The Retake
+### Slide 2: Standards + Today
 
-> Create one agenda slide for a high school design class titled "Today: Work Time and an Optional Retake."
-> Text: Agenda: 1) Finish your wireframes, all pages, navigation consistent, 2) Catch up anything on the
-> Portfolio Check, 3) Optional: retake last week's quiz. Then a boxed note: "The retake is OPTIONAL and
-> INDEPENDENT. You take it on your own while everyone else works. Your retake score REPLACES your original
-> score. This is a one time offer because it was our first quiz." Large readable text. One slide.
+> Create one standards and agenda slide for a high school design class titled "Today: Wireframing." List this
+> standard with its full text: 2.15.1 Understand the UX/UI design process (vision, journey mapping,
+> wireframing, prototyping) for the targeted platform. Then a short agenda: 1) What a wireframe is and is not,
+> 2) Sketch a wireframe for every page on your list, 3) Partner test. Large readable text. One slide.
 
-### Slide 3: What "finished" means
+### Slide 3: What a wireframe is
 
-> Create one slide for a high school design class titled "Finished Means." Checklist: a wireframe for every page
-> on your list; navigation drawn in the same place on every page; every box labeled; a partner has walked
-> through it and could navigate; your poster is posted and described on your live site; your menu is
-> restructured into one dropdown per class. One slide, large legible text.
+> Create one slide for a high school design class titled "A Wireframe Is Boxes and Labels." Body: "A wireframe
+> is a low-detail sketch of a screen's STRUCTURE. Boxes for where things go, labels saying what they are. No
+> final colors, no real images, no font choices. If you are picking a color, you are doing the wrong step." One
+> slide, large text.
 
-### Slide 4: Do Now
+### Slide 4: What goes in one
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now." Body: "Pick your lane and
-> start: (A) Finish your wireframes to the checklist on the last slide. (B) Catch up your Portfolio Check. (C)
-> Take the retake, quietly and on your own, then go back to A or B. No downtime today, there is plenty to
-> finish." Large, clean. One slide.
+> Create one slide for a high school design class titled "What Every Wireframe Needs." Checklist: the
+> navigation, drawn in the same place on every page; a header area with a label; content blocks as labeled boxes
+> (for example "project image", "project description"); a footer. Add: "Label every box. An unlabeled box is a
+> mystery, not a plan." One slide, large legible text.
 
-### Slide 5: If You Finish Early
+### Slide 5: Do Now
 
-> Create one slide for a high school design class titled "All Caught Up?" Numbered list: 1) Build one wireframe
-> as a rough digital layout, structure only. 2) Wireframe a mobile version of your Home page. 3) Write
-> descriptions for other work already on your site. 4) Find a portfolio you admire and note two structural
-> choices it makes. One slide.
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Sketch Every Page." Body: "On
+> paper, sketch one wireframe per page from your list. Boxes and labels only. Draw the navigation in the SAME
+> place on every single page. When you have them all, lay them out in your journey order and look at them as a
+> set." Large, clean. One slide.
 
-### Slide 6: Partner Check
+### Slide 6: Turn and Talk
 
-> Create one "Partner Check" slide for a high school design class. Big title: "Partner Check Before You
-> Submit." Body: "Before you call your wireframes done, hand them to someone who has not seen them. They try to
-> navigate from Home to a project to your contact info, using only the sketches. If they hesitate anywhere, fix
-> that page. Two minutes each, then swap." One slide, large text.
+> Create one "Turn and Talk" slide for a high school design class. Big title: "Turn and Talk: Navigate on
+> Paper." Body: "Give your wireframes to a partner in journey order. They point at where they would click to
+> get from Home to one of your projects, then to your contact info. If they hesitate or pick wrong, your
+> navigation needs fixing. Swap and repeat." One slide, large text.
 
-### Slide 7: Before You Leave
+### Slide 7: If You Finish Early
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Wireframes should be done or close. This unit
-> continues next week, so bring them back. Anything unchecked on your Portfolio Check is homework." One slide.
+> Create one slide for a high school design class titled "All Pages Wireframed?" Numbered list: 1) Rebuild your
+> Home page wireframe as a rough digital layout, structure only, no final colors or images. 2) Wireframe a
+> mobile version, same content, one narrow column. 3) Mark on each wireframe which element is the focal point.
+> One slide.
+
+### Slide 8: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "You should have wireframes started, with navigation
+> in a consistent spot. This unit CONTINUES NEXT WEEK, so do it right, not fast. If you wanted the quiz retake
+> and did not get to it, see me." One slide, large text.
 
 ---
 
-## 2. Video & Sound: Finish storyboards + optional retake
+---
 
-**Today's documents:** `courses/video-and-sound/planning/week-4/project.md`
-**Go over:** brief framing, then work time. Open the retake quietly for anyone who wants it.
+## 2. Video & Sound: Start storyboarding + optional retake
+
+**Today's documents:** `courses/video-and-sound/planning/week-4/project.md` (Part C)
+**Go over:** what a storyboard panel contains, then draw one per shot. Open the retake quietly for anyone who
+wants it.
+**Retake:** optional, independent, taken during work time. The **retake score replaces the original.** One
+time only, because it was the first quiz of the year.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get out
-> your storyboard and shot list. Today is a work day: finish your panels, your production needs, and your
-> schedule, and turn the whole plan in." Large, clean. One slide.
+> your shot list from yesterday and a blank sheet of paper. Fold or draw it into boxes, one box per shot. Stick
+> figures are completely fine today." Large, clean. One slide.
 
-### Slide 2: Today + The Retake
+### Slide 2: Standards + Today
 
-> Create one agenda slide for a high school video class titled "Today: Work Time and an Optional Retake." Text:
-> Agenda: 1) Finish your storyboard, a panel per shot, 2) Finish production needs and schedule, 3) Turn in the
-> full plan, 4) Optional: retake last week's quiz. Then a boxed note: "The retake is OPTIONAL and INDEPENDENT.
-> You take it on your own while everyone else works. Your retake score REPLACES your original score. One time
-> offer, because it was our first quiz." Large readable text. One slide.
+> Create one standards and agenda slide for a high school video class titled "Today: Storyboard It." List this
+> standard with full text: 7.7.2 Analyze the script and storyboard to develop a production schedule. Then a
+> short agenda: 1) What goes in a storyboard panel, 2) Draw one panel per shot, 3) Partner reads it back. Large
+> readable text. One slide.
 
-### Slide 3: What you are turning in
+### Slide 3: What goes in a panel
 
-> Create one slide for a high school video class titled "The Full Plan." Checklist: your BPA prompt reaction
-> notes; a numbered shot list with descriptions and shot types; a storyboard panel for every shot; production
-> needs, equipment, people, location; a rough production schedule; one sentence on which shot will be hardest
-> and why. One slide, large legible text.
+> Create one slide for a high school video class titled "One Panel, One Shot." Body: "Each panel has: a SKETCH
+> of what is in frame (stick figures are fine), the SHOT TYPE written underneath (wide, close up, over the
+> shoulder), and a one-line note on any MOVEMENT (camera pans left, subject walks in). That is it. Art skill is
+> not being graded." One slide, large text.
 
-### Slide 4: Do Now
+### Slide 4: Why storyboards catch problems
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now." Body: "Pick your lane and
-> start: (A) Finish your storyboard panels. (B) Fill in production needs and your schedule. (C) Take the retake,
-> quietly and on your own, then go back to A or B. Everything on the checklist gets turned in by the end of the
-> period." Large, clean. One slide.
+> Create one slide for a high school video class titled "This Is Where You Find the Holes." Body: "When you
+> draw your shots in order, you notice things a list hides: two shots in a row that look identical, a jump that
+> makes no sense, a moment you never actually showed. Better to find that now on paper than with a camera in
+> your hand." One slide, large text.
 
-### Slide 5: If You Finish Early
+### Slide 5: Do Now
 
-> Create one slide for a high school video class titled "Plan Turned In?" Numbered list: 1) Write two sentences
-> on how this plan connects to what the BPA Video Production event asks for, and whether you would enter it. 2)
-> Storyboard an alternate opening shot. 3) Scout and photograph your filming location on your phone. 4) Start a
-> second video idea while it is fresh. One slide.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Draw Every Shot." Body: "Draw
+> one panel for every shot on your list, in order. Under each panel write the shot type and any camera or
+> subject movement. When all panels are done, look at them in sequence: does it read as a story from first to
+> last?" Large, clean. One slide.
 
-### Slide 6: Partner Check
+### Slide 6: Turn and Talk
 
-> Create one "Partner Check" slide for a high school video class. Big title: "Partner Check Before You
-> Submit." Body: "Before you turn in your plan, hand your storyboard to someone who has not seen it. They tell
-> you the story using only your panels, no explaining from you. Anything they miss is a gap in your plan. Fix
-> it, then swap." One slide, large text.
+> Create one "Turn and Talk" slide for a high school video class. Big title: "Turn and Talk: Read the
+> Storyboard." Body: "Hand your storyboard to a partner with no explanation. They tell you the story just from
+> the panels. Where they get confused is where your storyboard has a gap. Write down what they missed, then
+> switch." One slide, large text.
 
-### Slide 7: Before You Leave
+### Slide 7: If You Finish Early
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Full plan turned in: reaction notes, shot list,
-> storyboard, production needs, schedule. When editing software lands, this becomes the plan for an actual
-> shoot." One slide, large text.
+> Create one slide for a high school video class titled "Storyboard Done?" Numbered list: 1) Write your
+> production schedule: what gets filmed when and where. 2) List the equipment each shot needs. 3) Mark the one
+> shot you think is hardest and write a backup plan for it. 4) Add a title card or ending shot if your video
+> needs one. One slide.
+
+### Slide 8: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "You should have storyboard panels started, with
+> shot types noted. This CONTINUES NEXT WEEK, so keep your shot list and panels together. If you wanted the
+> quiz retake and did not get to it, see me." One slide, large text.
+
+---
 
 ---
 
@@ -167,12 +193,16 @@ Every block is **one prompt, for one slide.** Paste into Google Slides AI.
 
 ---
 
-## 4. Middle School CS: QUIZ, then work time
+---
+
+## 4. Middle School CS: QUIZ, then maze work time
 
 **Today's documents:** `courses/middle-school-cs/planning/week-4/quiz-bank.csv` (cut to 20 before posting)
-**Go over:** nothing new. Quiz first, then Loop It work time. **Covers if statements only, not loops.**
-*No partner/turn-and-talk slide here on purpose: the room is silent for the quiz, and finishers go straight to
-independent build time.*
+**Go over:** nothing new. Quiz first, then maze work time. **Covers if statements and everything before, NOT
+tile maps or collision.**
+
+*No partner or turn-and-talk slide here on purpose: the room is silent for the quiz, and finishers go straight
+to independent build time.*
 
 ### Slide 1: As You Come In
 
@@ -184,28 +214,28 @@ independent build time.*
 ### Slide 2: What's On It
 
 > Create one slide for a middle school computer science class titled "What the Quiz Covers." Body: "IF
-> STATEMENTS and everything before them: if and if/else, comparisons like greater than and greater than or equal
-> to, AND and OR, every-Nth with modulo, variables, sprites, events, and overlap. NOT on this quiz: this week's
-> loops." One slide, large readable text.
+> STATEMENTS and everything before them: if and if/else, comparisons like greater than and greater than or
+> equal to, AND and OR, every-Nth with modulo, variables, sprites, events, and overlap. NOT on this quiz: tile
+> maps, walls, or collision. Those were only introduced this week." One slide, large readable text.
 
 ### Slide 3: Do Now
 
 > Create one "Do Now" slide for a middle school computer science class taking a quiz. Big title: "Do Now: Take
 > the Quiz." Body: "Take the quiz now. Stay silent until I say everyone is done. Stay on the quiz tab. If you
-> finish early: do NOT talk. Go straight to your Loop It project and keep building quietly." Large, clean. One
+> finish early: do NOT talk. Go straight to your maze project and keep building quietly." Large, clean. One
 > slide.
 
 ### Slide 4: After the Quiz
 
-> Create one slide for a middle school computer science class titled "After the Quiz: Loop It." Body: "Back to
-> your project. It needs a forever loop that keeps something happening, an if inside it that decides something
-> each time, and you able to explain both. Finished that? Add a third item type, a win condition, or make it
-> speed up as the score climbs." One slide, large readable text.
+> Create one slide for a middle school computer science class titled "After the Quiz: Back to the Maze." Body:
+> "Your maze needs: a map you drew, walls that stop the player, items placed, a counter variable, and an if that
+> ends the game when you collect them all. Already done? Try an extension: harder maze, new tile art, an enemy,
+> a second level, or a timer." One slide, large readable text.
 
 ### Slide 5: Before You Leave
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Share your Loop It project link before you go. Next
-> week we keep building with loops." One slide, large text.
+> Create one "Exit" slide titled "Before You Leave." Body: "Share your maze project link before you go. The
+> Maze Collector lab continues next week, so your project should be saved and shared." One slide, large text.
 
 ---
 
@@ -256,3 +286,21 @@ independent build time.*
 
 > Create one "Exit" slide titled "Before You Leave." Body: "Weekly status: what did you finish, what are you
 > stuck on, what is due next? Check your page back in before you go." One slide, large text.
+
+---
+
+## One-line action list
+
+| Class | Today | Note |
+|-------|-------|------|
+| Design Techniques | Start wireframing + optional retake | Continues next week |
+| Video & Sound | Start storyboarding + optional retake | Continues next week |
+| Aviation UAS | Footage review and debrief | Close out flight logs |
+| Middle School CS | **QUIZ** (if statements only), then maze work | Maze lab continues next week |
+| Yearbook | Aperture pair due, work time | No PDF check-in this week |
+
+## Bleeding into next week
+
+- **DT:** wireframes (Portfolio Wireframe Plan, Part B)
+- **V&S:** storyboards (Storyboard & Shot Plan, Part C)
+- **MS CS:** the Maze Collector lab

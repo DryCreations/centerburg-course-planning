@@ -1,6 +1,6 @@
 # Reading a Real BPA Video Production Prompt
 
-**Video & Sound · Week 4 · Tuesday Sep 8**
+**Video & Sound · Week 4 · Wednesday Sep 9**
 
 **Teacher note:** paste or hand out an actual past BPA Video Production Team (#430) prompt from your WSAP
 guidelines or event archive here before class. This handout only has the discussion structure; it does not

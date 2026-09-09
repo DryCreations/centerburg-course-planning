@@ -1,6 +1,6 @@
 # Week 4 Project: Footage Review & Mission Retry
 
-**Course:** Aviation UAS | **Assigned:** Tue Sep 8 | **Flight:** Thu Sep 10
+**Course:** Aviation UAS | **Assigned:** Wed Sep 9 | **Flight:** Thu Sep 10
 **Category:** Labs/Projects | **Late:** flight reschedules on weather, no penalty
 
 Review last week's flight as a group, then your group revises its plan and flies again Thursday with **new
@@ -8,7 +8,7 @@ roles**.
 
 ---
 
-## Part A: Weather (Tue)
+## Part A: Weather (Wed)
 
 Using a real, current METAR from `handouts/metar-resources.md`, answer:
 
@@ -19,7 +19,7 @@ Using a real, current METAR from `handouts/metar-resources.md`, answer:
 | 3 | What is the ceiling (if any layer is broken or overcast)? |
 | 4 | Based on Part 107 limits, is this a go or a no-go, and why? |
 
-## Part B: Footage review & replan (Tue to Wed)
+## Part B: Footage review & replan (Wed)
 
 As a class, watch last week's footage. As a group, discuss and write down:
 

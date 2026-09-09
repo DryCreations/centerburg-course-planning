@@ -1,24 +1,26 @@
 # Week 4 Teacher Notes: Middle School CS
 
-Teacher-facing pacing for Week 4. Student doc is `outline.md`; the lab is `project.md`; the quiz (30-question
-bank, cut to 20) is `quiz.md` and `quiz-bank.csv`. **Quiz is Friday, not Tuesday**, and covers if statements and
-everything before, not this week's loops.
+Teacher-facing pacing for Week 4. **Three day week** (Labor Day Monday, PD Tuesday): Wed, Thu, Fri.
+Student doc is `outline.md`; the lab is `project.md`; the tile map guide is
+`handouts/tilemap-maze-guide.md`; the quiz is `quiz.md` with `quiz-bank.csv`.
+
+**Loops are dropped this week.** Tile maps replace them. Loops move to a later week.
 
 ## Pacing Guide
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Tue | Bell ringer. Intro loops: a `repeat 4 times` loop and a `forever` loop side by side. Show a forever loop moving a sprite back and forth. | Genuinely new content today; contrast loops with if statements explicitly: a loop repeats, a conditional decides. |
-| Wed | Bell ringer. Put an if statement inside a forever loop (for example, spawn an item every loop, then use pick random plus an if to decide good or bad). Assign the Loop It lab. | This is the target skill: loop plus if together. |
-| Thu | Bell ringer. Work time building Loop It. | Redo is allowed anytime per the course's grading model. |
-| Fri | **Quiz** (if statements, Weeks 1 to 3). Same silent, quiz-tab-only rules as the other classes: as-you-come-in slide, then a Do Now to take it. After the quiz, work time on Loop It. | The quiz does not cover loops; make that explicit to students so they study the right material. |
+| Wed | **Tile maps.** Show where the tile map editor lives (Scene category, `set tilemap to`, click the map box). Students draw a maze, mark walls, add a player, and get `controller.moveSprite` plus `scene.cameraFollowSprite` working. **Goal for today: the map is made and the player moves with real wall collision.** Hand out `project.md` so they can see the whole lab and experiment with items and variables if they finish early. | The single most common failure: tiles that look like walls but were never marked with the wall tool. Check this first when a student says collision is broken. |
+| Thu | **Variables.** Explicitly walk through counting collected items: a variable starting at zero, `on overlap` destroying the item and adding one, and an `if` that ends the game when the count matches. Students who experimented Wednesday now get the real explanation. | This is the day the variable and if content actually gets taught, so do not skip the walkthrough even if some students already got it working. |
+| Fri | **Quiz** (if statements, Weeks 1 to 3). Same silent, quiz-tab-only rules as the other classes. After the quiz, work time on the maze. | The quiz does **not** cover tile maps or collision, which were only introduced Wed and Thu. Say that out loud so students study the right material. |
 
 ## Assessment Notes
 
-- Quiz is summative under Checkpoints (25% of the grade per `grading-and-categories.md`).
-- Lab is graded on the class project rubric: works, can explain it, kept going, turned in right.
+- Quiz is summative under Checkpoints (25% per `grading-and-categories.md`). Bank is unchanged: cut
+  `quiz-bank.csv` from 30 questions to your best 20.
+- The Maze Collector lab runs into next week; it is graded on the class project rubric.
 
-## Bell ringer bank
+## Extensions
 
-Loop-trace bell ringers this week, for example: `repeat 3 times: change score by 2` -> what is score? (+6 from
-0). Walk it line by line, same pattern as the if-statement bell ringers from Week 3.
+Listed in `project.md` in difficulty order: harder maze, swap tile art, add an enemy, add a second level, add
+a timer. Point fast finishers at these rather than letting them idle.

@@ -1,15 +1,15 @@
 # Week 4 Project: Portfolio Update, then Wireframe Plan
 
-**Course:** Design Techniques | **Assigned:** Tue Sep 8 | **Due:** Fri Sep 11 (may continue into next week)
+**Course:** Design Techniques | **Assigned:** Wed Sep 9 | **Due:** continues into next week
 **Category:** Projects | **Tool:** portfolio site, then paper, then Adobe Express or Google Slides
 **Late:** accepted, ask to reopen
 
-Two parts this week. Part A (Tuesday) is quick: catch up your portfolio. Part B (Wednesday on) is the real
-project: plan your portfolio's structure before you build it further.
+Two parts. Part A (Wednesday) is quick: catch up your portfolio. Part B (Thursday on) is the real project:
+plan your portfolio's structure before you build it further. Part B continues into next week.
 
 ---
 
-## Part A: Portfolio Update (Tue)
+## Part A: Portfolio Update (Wed)
 
 | # | Requirement |
 |---|-------------|
@@ -17,7 +17,7 @@ project: plan your portfolio's structure before you build it further.
 | 2 | Write a short description underneath it, using the sentence starters in `handouts/tue-portfolio-update.md`, naming at least three design decisions (hierarchy, color, type) |
 | 3 | Screenshot your site's navigation menu and label each link with its real name (nav, header, page, footer) |
 
-## Part B: Portfolio Wireframe Plan (Wed on)
+## Part B: Portfolio Wireframe Plan (Thu on, continues next week)
 
 | # | Requirement |
 |---|-------------|

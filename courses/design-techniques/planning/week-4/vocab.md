@@ -1,8 +1,8 @@
 # Week 4 Vocabulary: Website Parts & UX/UI (cumulative)
 
-Tuesday's terms posted first, UX/UI terms added Wednesday.
+Wednesday's terms posted first, UX/UI terms added Thursday.
 
-## Tuesday: the real names for what's on a website
+## Wednesday: the real names for what's on a website
 
 | Term | Definition |
 |------|------------|
@@ -13,7 +13,7 @@ Tuesday's terms posted first, UX/UI terms added Wednesday.
 | **Banner / hero image** | A large image that sets the tone for a page. |
 | **Navigation link / tab** | A single clickable item in the nav that goes to one page. |
 
-## Wednesday onward: UX/UI
+## Thursday onward: UX/UI
 
 | Term | Definition |
 |------|------------|

@@ -1,18 +1,20 @@
-# Week 4: Loops, then the Quiz Friday: Outline
+# Week 4: Tile Maps & the Maze Collector: Outline
 
 **Course:** Middle School CS (grades 7 to 8)
-**Quarter:** Q1 | **Week:** 4 | **Dates:** Tue Sep 8, Wed Sep 9, Thu Sep 10, Fri Sep 11 (Labor Day Monday off)
+**Quarter:** Q1 | **Week:** 4 | **Dates:** Wed Sep 9, Thu Sep 10, Fri Sep 11
+**Three day week:** Labor Day Monday, professional development Tuesday.
 
-> **A new tool: loops.** Today we add loops, code that repeats, and combine loops with the if statements you
-> already know. **Your first real quiz is Friday**, and it only covers if statements and everything before,
-> not loops.
+> **New tool: tile maps.** Today you learn where tile maps live and draw your own **maze**. You will move a
+> player through it with real wall collision, then collect items scattered around the maze. **Your first quiz
+> is Friday**, and it covers if statements and everything before, not this week's tile map work.
 
 ---
 
 ## What This Week Covers
 
-**Loops.** Code that repeats a set of steps, instead of you writing the same block over and over. We use loops
-together with the if statements from last week to build something that keeps happening automatically.
+**Tile maps**, the grid-based maps that most 2D games are built on. You draw a maze, mark which tiles are
+walls, move a player through it with **collision**, and use a **variable** plus an **if statement** to track
+how many items you have collected and decide when the player wins.
 
 ## Weeks 1 to 3 recap
 
@@ -22,26 +24,27 @@ Variables, sprites, events, overlap, pick random, and if statements including AN
 
 ### What You'll Be Able to Do
 
-- Use a repeat loop to run the same steps a set number of times
-- Use a forever loop for something that should keep happening
-- Explain the difference between a loop (repeats) and a conditional (decides)
-- Combine a loop with an if statement inside it
+- Find the tile map editor and draw your own map
+- Mark tiles as **walls** so the player cannot walk through them
+- Move a player around a tile map with the controller
+- Use a **variable** to count items collected, and an **if** to decide when the maze is beaten
 
 ### Weekly Snapshot
 
-| Day | Bell ringer + focus | Turn in |
-|-----|---------------------|---------|
-| Tue Sep 8 | Bell ringer + intro loops (repeat, forever) | Loop demo working |
-| Wed Sep 9 | Bell ringer + combining a loop with an if inside it; assign Loop It | Combined example working |
-| Thu Sep 10 | Bell ringer + build the Loop It project | Project in progress |
-| Fri Sep 11 | **Quiz** (if statements, Weeks 1 to 3, not loops), then work time on Loop It | Quiz + project progress |
+| Day | Focus | Turn in |
+|-----|-------|---------|
+| Wed Sep 9 | Tile maps: draw your maze, get the player moving with wall collision | Maze drawn, player moves |
+| Thu Sep 10 | Variables: count what you collect, and an if to win | Collection counter working |
+| Fri Sep 11 | **Quiz** (if statements, Weeks 1 to 3), then work time on the maze | Quiz + project progress |
 
 ### What You'll Get This Week
 
-- **New content:** loops, starting today.
-- **The Loop It project:** a small build using a loop plus an if statement.
-- **Friday:** the first real quiz, covering if statements and everything before, not this week's loops.
+- **The Maze Collector lab:** draw a maze, move through it, collect items to win.
+- **A guide** to the tile map editor and the code you need.
+- **Friday:** your first real quiz, on if statements and everything before. **Not tile maps.**
 
 ### Standards Covered
 
-- **ATP Control Structures:** loops and conditionals (Ohio K-12 CS Standards, grades 6-8)
+- **ATP Control Structures:** conditionals used to decide a win state
+- **ATP Variables and Data Representation:** using a variable to track a count
+- **ATP Program Development:** building and testing a working program

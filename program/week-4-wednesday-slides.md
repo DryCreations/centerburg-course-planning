@@ -1,298 +1,417 @@
 # WEDNESDAY (Sep 9): Slide Prompts (all classes)
 
+**Three day week:** Labor Day Monday, professional development Tuesday. Wed, Thu, Fri only.
+
 Every block is **one prompt, for one slide.** Paste into Google Slides AI. Same skeleton everywhere: As You
 Come In, Standards + Today, content, Do Now, Turn and Talk, If You Finish Early, Before You Leave.
 
+**One focus per class per day.** Content that does not finish this week continues next week rather than being
+rushed.
+
 ---
 
-## 1. Design Techniques: UX/UI and the user journey
+## 1. Design Techniques: Portfolio review and update
 
-**Today's documents:** `courses/design-techniques/planning/week-4/vocab.md`, `project.md`
-**Post:** the UX/UI half of the vocab.
-**Go over:** UX vs UI, then map the user journey through their own portfolio. **New unit starts today.**
+**Today's documents:** `courses/design-techniques/planning/week-4/handouts/tue-portfolio-update.md` (the
+checklist), plus `outline.md`, `vocab.md`, `project.md`
+**Post:** the portfolio update handout.
+**Go over:** run the portfolio checklist, restructure navigation for the whole year, re-teach the write-up
+standard with the model paragraph, then name the real parts of a website. **UX/UI content starts tomorrow.**
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> the Week 4 vocab in Google Classroom and get a blank sheet of paper. Warm-up question to think about: what is
-> the last app or website that confused you, and what specifically made it hard to use?" Large, clean. One slide.
+> Create one "As You Come In" slide for a high school graphic design class. Big title: "As You Come In." Body:
+> "Open two things: (1) your portfolio site, and (2) your poster export from last week (the PNG or JPG). Open
+> the Portfolio Check handout in Google Classroom. We are getting your site caught up today." Large, clean,
+> minimal, readable from the back of the room. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one standards and agenda slide for a high school design class titled "Today: UX and UI." List this
-> standard with its full text: 2.15.1 Understand the UX/UI design process (vision, journey mapping,
-> wireframing, prototyping) for the targeted platform. Then a short agenda: 1) UX vs UI, 2) What a user journey
-> is, 3) Map the journey through your own portfolio. Large readable text. One slide.
+> Create one standards and agenda slide for a high school graphic design class titled "Today: Portfolio Review."
+> List this standard with its full text: 7.1.2 Describe the components of interactive media. Then a short
+> agenda: 1) Run the portfolio checklist, 2) Restructure your navigation for the whole year, 3) Post your poster
+> and write about it properly, 4) Learn the real names for the parts of a website. Large readable text. One slide.
 
-### Slide 3: UX vs UI
+### Slide 3: The portfolio checklist
 
-> Create one slide for a high school design class titled "UX vs UI." Two large definitions side by side. Left:
-> "UX, user experience: how it FEELS to use something. Is it clear? Can I find what I need?" Right: "UI, user
-> interface: the actual screens, buttons, menus, and visuals you interact with." Underneath: "Good UI with bad
-> UX is a beautiful site nobody can navigate." One slide.
+> Create one slide titled "Portfolio Check" for a high school design class. Present this as a checklist with
+> checkboxes: site is live and shareable; Home page says who you are; About page exists; your monogram is on the
+> site; your brand kit colors and fonts are actually used; Week 3 poster is posted as an exported image; the
+> poster has a written description; every image loads; every navigation link goes somewhere real; no page is
+> left Untitled or empty. Footer line: "Anything unchecked is your work for today." One slide, large legible text.
 
-### Slide 4: The user journey
+### Slide 4: Structure your navigation for the whole year
 
-> Create one slide for a high school design class titled "The User Journey." Body: "A user journey is the PATH
-> someone takes to get what they need. Example for a portfolio: a visitor lands on Home, wants to see if you do
-> the kind of work they need, clicks Design Techniques, opens a project, then looks for how to contact you.
-> Every step they cannot find is a place they leave." One slide, large text.
+> Create one slide for a high school design class titled "Set Up Your Menu for the Whole Year." Body: "You will
+> be posting work from other classes too, so build the structure now instead of rebuilding later. Use one
+> DROPDOWN per class, with a SUBMENU per unit inside it." Then show this menu structure as an indented list:
+> Home; About; Design Techniques (dropdown) containing Unit 1.1 and Unit 1.2; Video and Sound (dropdown)
+> containing Unit 1.1; Yearbook (dropdown); Contact. Add a note: "In more than one of my classes? Build those
+> dropdowns now and start adding work early." One slide.
 
-### Slide 5: Do Now
+### Slide 5: Write about your poster, the standard
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Map Your Journey." Body: "On
-> paper: 1) List every page your portfolio needs. 2) Number them in the order a visitor would actually move
-> through them. 3) For each page, write one line: what does the visitor need from this page? Tomorrow you turn
-> this into wireframes." Large, clean. One slide.
+> Create one slide for a high school design class titled "Write About Your Poster." Left side: the sentence
+> starters, "The first thing you see is ______ because I made it stand out by ______", "This design uses size:
+> the headline ______ is biggest, so the reading order is ______", "This design uses color: the ______ color
+> against the ______ background pulls the eye to ______", "This design uses alignment: elements line up along
+> ______". Right side, a box titled "Turn 2 to 4 into a paragraph. Do not just list them." One slide, clear two
+> column layout.
 
-### Slide 6: Turn and Talk
+### Slide 6: What a finished write-up looks like
 
-> Create one "Turn and Talk" slide for a high school design class. Big title: "Turn and Talk: Walk the
-> Journey." Body: "Trade journey maps with a partner. Read theirs out loud as if you were a visitor: 'I land
-> here, then I want X, so I go here.' Where does it break down or get confusing? Tell them one page they are
-> missing." One slide, large text.
+> Create one slide for a high school design class titled "This Is the Standard." Show this example paragraph in
+> a quote box: "The first thing you see on this poster is the headline FALL TALENT SHOW, because I made it by
+> far the largest element and set it in a heavy display font. The date and location sit underneath at about half
+> that size, so the reading order is headline, then details, then the ticket fine print. I used one orange
+> accent against a dark navy background so the headline separates instantly, and I lined every element up to the
+> same left edge." Underneath, in smaller text: "Four sentences. Names FIVE decisions: size, weight, reading
+> order, color contrast, alignment. 'I made a poster and I think it looks good' is not this." One slide.
 
-### Slide 7: If You Finish Early
+### Slide 7: The real names for site parts
 
-> Create one slide for a high school design class titled "Finished Your Map?" Numbered list: 1) Sketch a rough
-> box-and-label layout for your Home page, you will refine it tomorrow. 2) Find a real portfolio site online and
-> map ITS user journey in three steps. 3) Write down one thing that site does better than yours. One slide.
+> Create one slide for a high school design class titled "Call Them by Their Real Names." Present as a two
+> column list: "The bar at the top" equals NAVIGATION MENU; "the big section at the top of a page" equals HEADER
+> or HERO; "one entry in the menu" equals a TAB or NAVIGATION LINK; "the stuff at the bottom" equals FOOTER;
+> "the menu that opens on hover" equals a DROPDOWN or SUBMENU. One slide, large legible text.
 
-### Slide 8: Before You Leave
+### Slide 8: Do Now
 
-> Create one "Exit" slide titled "Before You Leave." Body: "You should have a page list and a numbered user
-> journey. Tomorrow: wireframing, turning that map into actual page sketches. Friday is work time plus the
-> optional quiz retake." One slide, large text.
+> Create one "Do Now" slide for a high school graphic design class. Big title: "Do Now: Update Your Portfolio."
+> Body: "Work through this in order: 1) Run the Portfolio Check and fix anything unchecked. 2) Restructure your
+> menu into one dropdown per class. 3) Post your poster under Design Techniques, Unit 1.1. 4) Write your
+> paragraph underneath it, naming at least three design decisions. 5) Screenshot your navigation menu and label
+> each part with its real name." Large, clean. One slide.
+
+### Slide 9: Turn and Talk
+
+> Create one "Turn and Talk" slide for a high school design class. Big title: "Turn and Talk: Test Each
+> Other's Site." Body: "Swap with the person next to you and open each other's portfolio. Your partner gets 2
+> minutes to find your poster WITHOUT you helping or pointing. If they cannot find it, your navigation needs
+> work. Then tell each other one specific thing to fix." One slide, large text.
+
+### Slide 10: If You Finish Early
+
+> Create one slide for a high school design class titled "Finished the Checklist?" Present as a numbered list
+> of what to do next: 1) Write descriptions for your OTHER posted work, not just the poster. 2) Build the
+> dropdowns for classes you have not posted to yet, so they are ready. 3) Start a list of pages your portfolio
+> still needs, you will use that list tomorrow. One slide, large text.
+
+### Slide 11: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "Your poster is posted and described, and your menu
+> is restructured. Tomorrow we start a new unit: UX/UI and wireframing. Friday is work time, and anyone who
+> wants a better score on last week's quiz can retake it independently. The retake score replaces the original."
+> One slide, large text.
 
 ---
 
-## 2. Video & Sound: Pick an idea, write the shot list
+---
 
-**Today's documents:** `courses/video-and-sound/planning/week-4/project.md` (Part B)
-**Go over:** narrowing from brainstorm to one idea, then writing a shot list or short script.
+## 2. Video & Sound: Read a real BPA prompt, then pre-production
+
+**Today's documents:** `courses/video-and-sound/planning/week-4/handouts/tue-bpa-prompt-read.md`, plus
+`outline.md`, `vocab.md`, `project.md`
+**Bring:** an actual past BPA Video Production Team (#430) prompt to hand out or display. The handout has the
+discussion structure only, not a prompt text.
+**Go over:** first half, read and react to the real prompt. Second half, intro pre-production and start
+brainstorming.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Open
-> your brainstorm list from yesterday. Circle the ONE idea you actually want to plan. If you only have one idea,
-> add two more before you circle." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school video production class. Big title: "As You Come In."
+> Body: "Open the reaction handout in Google Classroom and get something to write with. Today you are reading a
+> real BPA competition prompt, the same thing competitors get handed." Large, clean, minimal. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one standards and agenda slide for a high school video class titled "Today: The Shot List." List this
-> standard with full text: 7.7.2 Analyze the script and storyboard to develop a production schedule. Then a
-> short agenda: 1) How to narrow to one idea, 2) What a shot list actually looks like, 3) Write yours. Large
-> readable text. One slide.
+> Create one standards and agenda slide for a high school video class titled "Today: A Real Prompt, Then
+> Planning." List these standards with full text: 7.7.1 Identify equipment and other production needs; 7.7.2
+> Analyze the script and storyboard to develop a production schedule. Then a short agenda: 1) Read a real BPA
+> Video Production prompt, 2) React and discuss, 3) What pre-production is, 4) Start brainstorming your own
+> short video. Large readable text. One slide.
 
-### Slide 3: How to narrow
+### Slide 3: How to read the prompt
 
-> Create one slide for a high school video class titled "Pick the One." Body: "Ask three questions about each
-> idea: (1) Can I actually film this at school, this month? (2) Do I know what the FIRST shot looks like? (3)
-> Is there something visually interesting happening, or is it just people talking? The idea that survives all
-> three is your idea." One slide, large text.
+> Create one slide for a high school video class titled "How to Read It." Body: "Read it once all the way
+> through. Then read it again and mark three things: (1) what the video is REQUIRED to do or show, (2) any
+> LIMITS, such as time length or format, (3) anything UNCLEAR you would want to ask about." One slide, large text.
 
-### Slide 4: What a shot list looks like
+### Slide 4: Discuss
 
-> Create one slide for a high school video class titled "A Shot List." Show a short example table with three
-> columns, Shot number, Description, and Type: row 1, "Hands opening the locker", close up; row 2, "Student
-> walking down the hallway", wide; row 3, "Over the shoulder as they read the note", over the shoulder. Caption
-> underneath: "Every shot gets a number, a description, and a type. Specific beats clever." One slide.
+> Create one discussion slide for a high school video class titled "Talk It Through." Numbered questions: 1)
+> What is this prompt actually asking a team to make? 2) What would be the hardest part to pull off well? 3)
+> What is one idea you would try if this were your prompt? 4) Does this kind of competition sound like
+> something you would want to try? Add a small note: "There is no wrong answer on number 4." One slide.
 
-### Slide 5: Do Now
+### Slide 5: What pre-production is
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Write Your Shot List." Body:
-> "Write every shot your video needs, in order. Each one gets a number, a one-line description of what we
-> actually SEE, and the shot type. Aim for 6 to 12 shots for a 30 to 90 second video. Also note what equipment
-> and what location each shot needs." Large, clean. One slide.
+> Create one slide for a high school video class titled "Pre-Production." Body: "Before ANY real production
+> films a single shot, they plan. Pre-production is: the IDEA, then a SCRIPT or SHOT LIST, then a STORYBOARD,
+> then a PRODUCTION SCHEDULE. That planning is this week's project. You are not filming this week, you are
+> planning properly." One slide, large text.
 
-### Slide 6: Turn and Talk
+### Slide 6: Do Now
 
-> Create one "Turn and Talk" slide for a high school video class. Big title: "Turn and Talk: Read It Back."
-> Body: "Hand your shot list to a partner. They read it back to you in order, describing what they picture. If
-> what they picture is not what you meant, your description is not specific enough. Fix those lines." One slide.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: React, Then Brainstorm." Body:
+> "1) Write your reaction to the prompt in 2 to 3 sentences: what did you notice, and does this event interest
+> you? 2) Then start a brainstorm list of your own short video ideas, 30 to 90 seconds each. Aim for at least
+> three ideas before you pick one tomorrow." Large, clean. One slide.
 
-### Slide 7: If You Finish Early
+### Slide 7: Turn and Talk
 
-> Create one slide for a high school video class titled "Shot List Done?" Numbered list: 1) Start thumbnail
-> sketches for your first three shots, you will storyboard properly tomorrow. 2) Write your rough production
-> schedule: what gets filmed on what day. 3) Note the one shot you think will be hardest and why. One slide.
+> Create one "Turn and Talk" slide for a high school video class. Big title: "Turn and Talk: Pitch an Idea."
+> Body: "Share one idea from your brainstorm with a partner. Your partner asks you two questions: (1) What would
+> we actually SEE in the very first shot? (2) Where and when would you film it? Then switch. If you cannot
+> answer those two questions, the idea is not specific enough yet." One slide, large text.
 
-### Slide 8: Before You Leave
+### Slide 8: If You Finish Early
 
-> Create one "Exit" slide titled "Before You Leave." Body: "You should have one idea picked and a numbered shot
-> list written. Tomorrow: storyboarding, sketching what each shot actually looks like. Friday is work time plus
-> the optional quiz retake." One slide, large text.
+> Create one slide for a high school video class titled "Finished Brainstorming?" Present as a numbered list:
+> 1) Push your brainstorm list to at least five ideas. 2) Pick your current favorite and write the first three
+> shots you would need for it. 3) Note what equipment each of those three shots would require. One slide,
+> large text.
+
+### Slide 9: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "You should have your reaction written and at least
+> three video ideas on your brainstorm list. Tomorrow you pick one and write the shot list. Friday is work time,
+> and anyone who wants a better score on last week's RAW and editing quiz can retake it independently. The
+> retake score replaces the original." One slide, large text.
 
 ---
 
-## 3. Aviation UAS: Finalize the plan and preflight refresh
+---
 
-**Today's documents:** `courses/aviation-uas/planning/week-4/project.md` (Part B), Week 3
-`handouts/wed-preflight-controller-refresh.md`
-**Go over:** lock the revised mission plan, refresh preflight, check tomorrow's weather. **We fly tomorrow.**
+## 3. Aviation UAS: Full prep day (review, weather, replan, preflight)
+
+**Today's documents:** `courses/aviation-uas/planning/week-4/handouts/metar-resources.md`, plus `outline.md`,
+`vocab.md`, `project.md`
+**Post:** vocab, the Footage Review & Mission Retry project, the METAR resources handout.
+**Bring up:** a real current METAR from aviationweather.gov, and last week's flight footage.
+**Go over:** watch last week's footage together, decode a real METAR, work go/no-go. Groups pick new roles.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Sit with
-> your flight group and open your revised mission plan. We fly TOMORROW, so today everything gets locked in."
-> Large, clean. One slide.
+> your flight group. Open the Week 4 vocab and the METAR Resources handout in Google Classroom. We are watching
+> last week's footage first, so have something to take notes with." Large, clean, minimal. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one standards and agenda slide for a high school drone class titled "Today: Lock It In." List these
-> focus areas: 7.11 Preflight, 7.6 Weather, 7.13 Flight Environment. Then a short agenda: 1) Finalize the
-> revised mission plan, 2) Preflight walk-through, 3) Weather look-ahead for tomorrow. Add a note: "We fly
-> TOMORROW." Large readable text. One slide.
+> Create one standards and agenda slide for a high school drone class titled "Today: Review, Then Replan." List
+> these focus areas: 7.6 Weather, 7.11 Preflight, 7.13 Flight Environment. Then a short agenda: 1) Watch last
+> week's footage as a class, 2) Decode a real current METAR, 3) Make the go/no-go call, 4) Pick new roles and
+> revise your plan. Add a note: "We fly again THURSDAY." Large readable text. One slide.
 
-### Slide 3: Preflight refresh
+### Slide 3: Footage review
 
-> Create one slide for a high school drone class titled "Preflight, Out Loud." Checklist: batteries charged,
-> aircraft and controller; props on tight, no cracks or chips; storage card in and cleared; aircraft connects to
-> the controller; home point set at launch; area clear, spectator line set; weather checked. Footer: "No
-> preflight, no flight." One slide, large legible text.
+> Create one slide for a high school drone class titled "Watch and Critique." Body: "As we watch each group's
+> footage, write down: What WORKED in this shot? What would you CHANGE about the move, the framing, or the
+> timing? Be specific. 'It was fine' is not a critique." One slide, large text.
 
-### Slide 4: Weather look-ahead
+### Slide 4: Reading a real METAR
 
-> Create one slide for a high school drone class titled "Tomorrow's Weather." Body: "Pull the forecast for our
-> flight window tomorrow. Write down: expected wind and gusts, visibility, any precipitation. Then state your
-> group's go/no-go numbers, the limits that would scrub it. We make the real call tomorrow with live weather."
-> One slide, large text.
+> Create one slide for a high school drone class titled "Decode a Real METAR." Body: "Pulled live from
+> aviationweather.gov. WIND: a three digit direction plus speed, like 27008G15KT, where the G is a gust.
+> VISIBILITY: in statute miles, Part 107 requires at least 3. CLOUDS: a layer plus a height, like BKN008 means
+> broken at 800 feet, which sets your ceiling." One slide, large legible text.
 
-### Slide 5: Do Now
+### Slide 5: Go or no-go
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Finish the Plan." Body: "With
-> your group, your plan is done when it has all of this: the one shot and the move, the flight area with
-> boundary and spectator lines, go/no-go numbers, and NEW roles assigned (pilot, visual observer, logger). Then
-> walk the preflight checklist together out loud." Large, clean. One slide.
+> Create one slide for a high school drone class titled "Go or No-Go?" Body: "Using today's real METAR on the
+> screen: What is the wind direction and speed? Is there a gust? What is the visibility? What is the ceiling?
+> Based on Part 107 limits, is this a go or a no-go, and why?" One slide, large text.
 
-### Slide 6: Turn and Talk
+### Slide 6: Do Now
 
-> Create one "Turn and Talk" slide for a high school drone class. Big title: "Brief Another Group." Body: "One
-> person from your group briefs another group in 60 seconds: what are you shooting, who has what role, and what
-> would scrub the flight? The listening group asks one question. If they can stump you, that is a hole in your
-> plan." One slide, large text."
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Weather, Then Replan." Body:
+> "With your group: 1) Complete the weather worksheet using today's real METAR. 2) Write your footage review
+> notes: what worked, what you are changing. 3) Pick NEW roles for Thursday: pilot, visual observer, logger. 4)
+> Note any changes to your flight area or go/no-go numbers." Large, clean. One slide.
 
-### Slide 7: If You Finish Early
+### Slide 7: Turn and Talk
 
-> Create one slide for a high school drone class titled "Plan Locked?" Numbered list: 1) Practice the stick
-> inputs for your maneuver on a controller with the aircraft powered off. 2) Pull one more METAR and make
-> another go/no-go call. 3) Pre-fill everything you can in tomorrow's flight log so you only add times and notes
-> at the field. One slide.
+> Create one "Turn and Talk" slide for a high school drone class. Big title: "Trade Plans With Another
+> Group." Body: "Swap your revised mission plan with another group. Read theirs and answer: Could you fly this
+> mission using only their notes? What is missing or unclear? Give them one specific fix. Then get your own
+> plan back and apply the fix you were given." One slide, large text.
 
-### Slide 8: Before You Leave
+### Slide 8: If You Finish Early
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Plan locked, roles assigned, preflight walked.
-> Make sure a battery is charging tonight. TOMORROW WE FLY, weather permitting." One slide, large text.
+> Create one slide for a high school drone class titled "Finished Your Plan?" Present as a numbered list: 1)
+> Pull a SECOND METAR, from a different airport or a different hour, and make a second go/no-go call. 2) Compare
+> the two: what changed, and would it change your decision? 3) Review your flight log from last week and check
+> that every field is filled in. One slide, large text.
+
+### Slide 9: Lock the plan and walk preflight
+
+> Create one slide for a high school drone class titled "Before You Leave Today: Lock It In." Body: "Your plan
+> is done when it has ALL of this: the one shot and the move; the flight area with boundary and spectator
+> lines; go/no-go numbers; and NEW roles assigned (pilot, visual observer, logger). Then walk the preflight
+> checklist out loud as a group: batteries, props, card cleared, home point, area clear." Footer: "No preflight,
+> no flight. We fly TOMORROW." One slide, large legible text.
+
+### Slide 10: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "Your group should have a weather worksheet done,
+> footage notes written, and new roles assigned. Tomorrow we finalize the plan and refresh preflight. THURSDAY
+> we fly." One slide, large text.
 
 ---
 
-## 4. Middle School CS: An if inside a loop
+---
 
-**Today's documents:** `courses/middle-school-cs/planning/week-4/project.md` (Loop It)
-**Go over:** putting an if statement inside a forever loop, then assign the lab. **Quiz is Friday, if
-statements only.**
+## 4. Middle School CS: Tile maps and your maze
+
+**Today's documents:** `courses/middle-school-cs/planning/week-4/handouts/tilemap-maze-guide.md`, plus
+`outline.md`, `project.md`
+**Post:** the tile map guide and the Maze Collector lab.
+**Go over:** where the tile map editor lives, drawing a maze, marking walls, and getting the player moving with
+real collision. **Goal today: map made, player moves, walls actually stop them.**
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a middle school computer science class. Big title: "As You Come In."
-> Body: "Open your project from yesterday with your forever loop in it. Warm-up: what is the difference between
-> a loop and an if statement? Say it in your own words." Large, clean. One slide.
+> Body: "Open MakeCode Arcade and start a BRAND NEW project. Do not open your Decision Game. Think about this:
+> what does a maze need to actually be a maze and not just a room?" Large, clean, minimal. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one agenda slide for a middle school computer science class titled "Today: Loops AND Ifs Together."
-> Text: Today's skill is combining control structures, from the Ohio CS standards for Algorithmic Thinking and
-> Programming. Agenda: 1) Put an if INSIDE a loop, 2) Why that is powerful, 3) Start the Loop It project. Add a
-> box: "Friday's quiz is on IF STATEMENTS and before, NOT loops." Large readable text. One slide.
+> Create one agenda slide for a middle school computer science class titled "Today: Tile Maps." Text: Today's
+> skill is tile maps and collision, from the Ohio CS standards for Algorithmic Thinking and Programming.
+> Agenda: 1) Find the tile map editor, 2) Draw your maze, 3) Mark your walls, 4) Get the player moving. Add a
+> box: "Friday's quiz covers IF STATEMENTS and everything before. NOT tile maps." Large readable text. One slide.
 
-### Slide 3: An if inside a loop
+### Slide 3: What a tile map is
 
-> Create one slide for a middle school computer science class titled "Put the If Inside the Loop." Show this
-> code in a monospace box: "forever: spawn an item at a random spot; if the item is the good kind: change score
-> by 1; else: change lives by -1". Caption: "The loop keeps it happening. The if decides what happens each
-> time." One slide, large readable text.
+> Create one slide for a middle school computer science class titled "What Is a Tile Map?" Body: "A tile map is
+> a game world built out of a grid of small squares called TILES. Almost every 2D game you have played uses
+> one. You paint the map yourself, tile by tile, like pixel art you can walk around in." One slide, large
+> readable text.
 
-### Slide 4: Why this is powerful
+### Slide 4: Where to find it
 
-> Create one slide for a middle school computer science class titled "Why This Matters." Body: "A loop alone
-> does the same thing over and over, which gets boring. An if alone decides once, then it is done. Put them
-> together and your game keeps making NEW decisions the whole time it runs. That is basically every game you
-> have ever played." One slide, large text.
+> Create one slide for a middle school computer science class titled "Finding the Tile Map Editor." Numbered
+> steps: 1) Go to the SCENE category in the toolbox. 2) Drag out the "set tilemap to" block into on start. 3)
+> Click the grey map box inside it. 4) The tile map editor opens. 5) Pick a size to start, around 16 by 16.
+> One slide, large legible text.
 
-### Slide 5: Do Now
+### Slide 5: Walls are the whole trick
 
-> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Start Loop It."
-> Body: "Open the Loop It assignment. Your project needs: (1) a forever loop that keeps something happening,
-> (2) an if statement INSIDE that loop that decides something each time, (3) you able to explain what the loop
-> repeats and what the if checks. Start building now." Large, clean. One slide.
+> Create one slide for a middle school computer science class titled "Walls Are the Whole Trick." Body: "Painting
+> a tile that LOOKS like a wall does not make it solid. You have to mark it as a WALL using the wall tool in the
+> tile map editor. COLLISION is what happens when the player runs into something solid. No wall marked, no
+> collision, and your player walks straight through your maze." One slide, large text.
 
-### Slide 6: Turn and Talk
+### Slide 6: Make the player move
 
-> Create one "Turn and Talk" slide for a middle school computer science class. Big title: "Turn and Talk:
-> Explain It." Body: "Point at your code and tell your partner two things: what does my loop repeat, and what
-> does my if check? If you cannot say it in one sentence each, you do not understand your own code yet. Switch."
-> One slide, large readable text.
+> Create one slide for a middle school computer science class titled "Make the Player Move." Show these two
+> blocks in a monospace box: "controller.moveSprite(mySprite)" and "scene.cameraFollowSprite(mySprite)".
+> Captions: the first one lets the arrow keys move your sprite; the second keeps the camera on the player as
+> the maze scrolls. One slide, large readable text.
 
-### Slide 7: If You Finish Early
+### Slide 7: Do Now
 
-> Create one slide for a middle school computer science class titled "Done? Level It Up." Numbered list: 1) Add
-> a THIRD kind of item with its own if. 2) Make the game get faster once the score passes a number. 3) Add a win
-> and a lose condition. 4) Help someone near you who is stuck. One slide, large readable text.
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Build Your Maze."
+> Body: "In your NEW project: 1) Open the tile map editor and draw a maze, leave open paths to walk. 2) Use the
+> wall tool to mark every solid tile. 3) Add a player sprite. 4) Add moveSprite and cameraFollowSprite. 5) TEST
+> IT: drive straight at a wall. If the player stops, you did it right." Large, clean. One slide.
 
-### Slide 8: Before You Leave
+### Slide 8: Turn and Talk
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Your project should have a loop with an if inside
-> it. Tomorrow is work time to finish Loop It. Friday: quiz on if statements, then more work time." One slide.
+> Create one "Turn and Talk" slide for a middle school computer science class. Big title: "Turn and Talk: Break
+> Each Other's Maze." Body: "Trade seats and try to escape your partner's maze. Can you walk through any wall
+> you should not be able to? If you escape, tell them which wall leaked. That is a real bug, and finding it is
+> the job." One slide, large readable text.
+
+### Slide 9: If You Finish Early
+
+> Create one slide for a middle school computer science class titled "Maze Working? Try This." Body: "Read the
+> Maze Collector assignment and try to get ahead. Place some items around your maze and see if you can figure
+> out how to count them when the player touches them. HINT: you already know on-overlap and destroy, and you
+> know variables. We will go through it properly tomorrow, so experimenting and failing today is fine." One
+> slide, large text.
+
+### Slide 10: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "You should have a maze you drew, walls that
+> actually stop the player, and a player you can move. Tomorrow: variables, counting what you collect, and
+> deciding when you win. Friday: the quiz on IF STATEMENTS, then work time." One slide, large text.
 
 ---
 
-## 5. Yearbook: Work time and page progress
+## 5. Yearbook: Aperture + work time
 
-**Today's documents:** `courses/yearbook/planning/week-4/project.md`, Week 3
-`handouts/page-checklist-module.md`
-**Go over:** brief check-in, then this is a work-time day. Cameras keep rotating for anyone who has not shot.
+**Today's documents:** `courses/yearbook/planning/week-4/outline.md`, `vocab.md`, `project.md`
+**Post:** the Aperture Practice Set assignment.
+**Go over:** a quick aperture explainer, then a fast in-class practice shoot. Most of the period is page work
+time. **No PDF check-in this week; check-ins are now every other week.**
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school yearbook class. Big title: "As You Come In." Body: "Open
-> your spread in eDesign and open your Page Checklist. If you have not shot your aperture pair yet, get on the
-> camera list on the board." Large, clean. One slide.
+> your spread in eDesign. Today starts with a quick camera lesson on aperture, then you either grab a camera or
+> keep building your page." Large, clean, minimal. One slide.
 
 ### Slide 2: Focus + Today
 
-> Create one focus and agenda slide for a high school yearbook class titled "Today: Build." Text: Today is a
-> work day. Focus areas: production and deadlines, and craft. Agenda: 1) Camera rotation continues for the
-> aperture pair, 2) Everyone else builds their spread, 3) Partner check before you leave. Add a note: "Aperture
-> pair is due Friday. No PDF check-in this week." Large readable text. One slide.
+> Create one focus and agenda slide for a high school yearbook class titled "Today: Aperture." Text: Today's
+> focus is exposure control, standard 7.7.4, and taking a photo that is sharp and framed on purpose, 7.9.4.
+> Agenda: 1) What aperture actually does, 2) A quick in-class practice shoot, 3) Page work time. Add a box: "No
+> PDF check-in this week. Check-ins are every other week now, next one is Week 6." Large readable text. One slide.
 
-### Slide 3: What "progress" looks like today
+### Slide 3: What aperture does
 
-> Create one slide for a high school yearbook class titled "What Progress Looks Like Today." Checklist: a clear
-> dominant photo frame placed; supporting frames varied in size; a caption box next to every photo frame; your
-> headline area set; every text box using a preset, not a random font; nothing important crossing the gutter.
-> One slide, large legible text.
+> Create one slide for a high school yearbook class titled "Aperture." Body: "In Av mode, YOU pick the aperture
+> (the f number) and the camera picks the shutter speed. LOW f number, like f/1.8: more light, blurry
+> background, your subject pops. HIGH f number, like f/16: less light, more of the scene in focus." One slide,
+> large legible text.
 
-### Slide 4: Do Now
+### Slide 4: Why it matters for yearbook
 
-> Create one "Do Now" slide for a high school yearbook class. Big title: "Do Now." Body: "If your name is on
-> the camera list, shoot your aperture pair when called. Everyone else: open your spread and work the checklist
-> on the previous slide, top to bottom. Pick the highest item you have NOT done and do that first." Large,
-> clean. One slide.
+> Create one slide for a high school yearbook class titled "Why This Matters for Our Book." Body: "A blurry
+> background separates a face from a messy gym or hallway. That is why portraits and candids in a yearbook
+> almost always use a low f number. A high f number is for when the background is part of the story, like a wide
+> shot of a full crowd." One slide.
 
-### Slide 5: Turn and Talk
+### Slide 5: Do Now
 
-> Create one "Turn and Talk" slide for a high school yearbook class. Big title: "Partner Check." Body: "Show
-> your spread to a partner. They answer two questions out loud: (1) Which photo is the dominant one? (2) Where
-> would a caption go for each photo? If they cannot answer question 1, your dominant photo is not dominant
-> enough." One slide, large text.
+> Create one "Do Now" slide for a high school yearbook class. Big title: "Do Now." Body: "If it is your turn
+> with a camera: set it to Av mode and shoot the same subject twice, once at a LOW f number and once at a HIGH f
+> number. Both need to be sharp on the face. If you are not shooting yet: keep building your spread, and go when
+> called. The aperture pair is due Friday." Large, clean. One slide.
 
-### Slide 6: If You Finish Early
+### Slide 6: Turn and Talk
 
-> Create one slide for a high school yearbook class titled "Page Looking Good?" Numbered list: 1) Draft captions
-> for any photos already placed, names and what is happening. 2) Add your "design by" credit. 3) Ask a beat-mate
-> if they need help with their spread. 4) Start listing what photos you still need to go shoot. One slide.
+> Create one "Turn and Talk" slide for a high school yearbook class. Big title: "While You Wait for a
+> Camera." Body: "Show a partner your spread. They name one thing that is working, and one thing that still
+> needs a caption, a photo credit, or a fix. Write down what they said before you go back to work." One slide,
+> large text.
 
-### Slide 7: Before You Leave
+### Slide 7: If You Finish Early
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Check your page back in so someone else can work on
-> it. If you shot today, offload and name your files before you go. Aperture pair is due Friday." One slide.
+> Create one slide for a high school yearbook class titled "Shot Your Pair? Do This." Present as a numbered
+> list: 1) Offload and name your two shots now, do not wait. 2) Draft captions for any photos already placed on
+> your spread. 3) Run your page against the Page Checklist from last week and fix anything unchecked. One slide,
+> large text.
+
+### Slide 8: Before You Leave
+
+> Create one "Exit" slide titled "Before You Leave." Body: "Offload and name any shots you took today. Your
+> aperture pair is due Friday, with one sentence on which shot works better for a yearbook portrait and why.
+> Keep moving on your spread." One slide, large text.
+
+---
+
+---
+
+## One-line action list
+
+| Class | Today | Slides | Note |
+|-------|-------|-------:|------|
+| Design Techniques | Portfolio checklist, menu restructure, post + describe poster | 11 | UX/UI starts Thursday |
+| Video & Sound | Read a real BPA prompt, react, intro pre-production | 9 | Bring an actual past #430 prompt |
+| Aviation UAS | Full prep: footage review, METAR, new roles, plan lock, preflight | 10 | **We fly tomorrow** |
+| Middle School CS | Tile maps: draw the maze, walls, player movement | 10 | New project; loops dropped |
+| Yearbook | Aperture explainer + quick shoot, then work time | 8 | No check-in this week |

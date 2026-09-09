@@ -1,6 +1,6 @@
 # Week 4 Project: Storyboard & Shot Plan
 
-**Course:** Video and Sound | **Assigned:** Tue Sep 8 | **Due:** Fri Sep 11
+**Course:** Video and Sound | **Assigned:** Wed Sep 9 | **Due:** continues into next week
 **Category:** Projects | **Tool:** paper or Google Slides | **Late:** accepted, ask to reopen
 
 Plan a short video (30 to 90 seconds) the way a real production does: idea, shot list or script, then a
@@ -8,13 +8,13 @@ storyboard. You are not filming this week; you are planning it properly.
 
 ---
 
-## Part A: React and brainstorm (Tue)
+## Part A: React and brainstorm (Wed)
 
 - Read the real BPA Video Production Team prompt handed out in class and answer the discussion questions in
   `handouts/tue-bpa-prompt-read.md`.
 - Start brainstorming your own short video ideas, whether or not you plan to compete.
 
-## Part B: Pick an idea and write it up (Wed)
+## Part B: Pick an idea and write it up (Thu)
 
 | # | Requirement |
 |---|-------------|
@@ -22,7 +22,7 @@ storyboard. You are not filming this week; you are planning it properly.
 | 2 | Write a **shot list or short script**: every shot, in order, with a one-line description |
 | 3 | Note the **production needs** for each shot: equipment, people, and location |
 
-## Part C: Storyboard it (Thu to Fri)
+## Part C: Storyboard it (Fri, continues next week)
 
 | # | Requirement |
 |---|-------------|

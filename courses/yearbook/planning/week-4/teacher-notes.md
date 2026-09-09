@@ -10,9 +10,8 @@ check-in this week; the next one is Week 6.
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Tue | Post `vocab.md`. Cover aperture: you pick the f number in Av mode, the camera picks the shutter speed, low f number blurs the background. Send small groups out for a quick in-class practice shoot (Shot A and Shot B). Rest of period: page work time. | Keep the aperture talk under 10 minutes and the practice shoot quick, this is a work-time week. |
-| Wed | Page work time. | Circulate on presets, cohesion, and the Page Checklist habits from Week 3. |
-| Thu | Page work time. | Same. |
+| Wed | Post `vocab.md`. Cover aperture: you pick the f number in Av mode, the camera picks the shutter speed, low f number blurs the background. Send small groups out for a quick in-class practice shoot (Shot A and Shot B). Rest of period: page work time. | Keep the aperture talk under 10 minutes and the practice shoot quick, this is a work-time week. |
+| Thu | Camera rotation continues for anyone who has not shot. Page work time. | Circulate on presets, cohesion, and the Page Checklist habits from Week 3. |
 | Fri | Aperture set due. Page work time continues. **No PDF check-in this week.** | Next check-in is Week 6. |
 
 ## Assessment Notes

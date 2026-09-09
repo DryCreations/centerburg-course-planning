@@ -1,17 +1,16 @@
 # Week 4 Teacher Notes: Aviation UAS
 
 Teacher-facing pacing for Week 4. Student doc is `outline.md`; assignment is `project.md`; vocab is `vocab.md`.
-No quiz this week. **Flight moved to Thursday** this week so groups have Tuesday and Wednesday to review and
-replan.
+No quiz this week. **Three day week** (Labor Day Monday, PD Tuesday). The flight stays on **Thursday**, which
+makes Wednesday a single full prep day.
 
 ## Pacing Guide
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Tue | Post `vocab.md`. Watch last week's footage together as a class. Discuss honestly: what worked, what to change. Pull a real current METAR from aviationweather.gov (`handouts/metar-resources.md`) and decode it together; work the go/no-go call. Groups pick new roles for Thursday and start revising their plan. | Keep the footage critique constructive; the goal is a specific, actionable change, not just "it was fine." |
-| Wed | Groups finalize the revised mission plan. Preflight refresh. Weather look-ahead for Thursday. | Same preflight discipline as before: no preflight, no flight. |
-| Thu | **Fly.** Real weather go/no-go first. Fly the adjusted shot with the new roles. Offload and log. | This is the flight day this week, not Friday. |
-| Fri | Review Thursday's footage. Debrief: did the change work? Log any remaining notes. | Lighter day; use remaining time for the weather worksheet extension if footage review runs short. |
+| Wed | **Full prep day, everything before the flight happens today.** Watch last week's footage together and critique it. Pull a real current METAR from aviationweather.gov (`handouts/metar-resources.md`) and decode it; work the go/no-go call. Groups pick new roles, revise and finalize the plan, then walk the preflight checklist. | This is dense but single-purpose: get ready to fly tomorrow. Keep the footage critique moving so the plan and preflight both get done. |
+| Thu | **Fly.** Real weather go/no-go first. Fly the adjusted shot with the new roles. Offload and log. | Same gates as always: no preflight, no flight. |
+| Fri | Review Thursday's footage. Debrief: did the change work? Close out flight logs. | If Thursday was a no-go, use the Week 3 rain-out Gimkit bank and reschedule the flight. |
 
 ## Assessment Notes
 

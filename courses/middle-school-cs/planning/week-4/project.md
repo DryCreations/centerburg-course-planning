@@ -1,34 +1,51 @@
-# Week 4 Lab: Loop It
+# Week 4 Lab: Maze Collector
 
-**Course:** Middle School CS | **Assigned:** Wed Sep 9 | **Due:** Fri Sep 11
-**Tool:** MakeCode Arcade | **Redo:** allowed anytime
+**Course:** Middle School CS | **Assigned:** Wed Sep 9 | **Due:** end of next week
+**Tool:** MakeCode Arcade, **a brand new project** | **Redo:** allowed anytime
 
-Build something small that uses a **loop**, code that repeats, combined with an **if statement** you already
-know.
+Draw a **maze** using a tile map, move a player through it, and collect items scattered around it. When you
+have collected them all, the player wins.
+
+> Start a **new project**. Do not build this on top of your Decision Game.
 
 ---
 
-## Requirements (all required)
+## Wednesday: get the maze working
 
 | # | Requirement |
 |---|-------------|
-| 1 | A **forever loop** that keeps something happening the whole game (spawning items, moving a sprite, checking a condition) |
-| 2 | An **if statement inside the loop** that decides something each time through |
-| 3 | You can **explain** what the loop repeats and what the if inside it checks |
-| 4 | The project runs without crashing or freezing |
+| 1 | A **tile map** you drew yourself, shaped like a maze (not an empty room) |
+| 2 | Tiles marked as **walls**, so the player cannot walk through them |
+| 3 | A **player sprite** you can move with the controller |
+| 4 | The player **actually collides** with the walls and cannot escape the maze |
+
+## Thursday: count what you collect
+
+| # | Requirement |
+|---|-------------|
+| 5 | **Items** placed around the maze (keys, coins, whatever fits your idea) |
+| 6 | A **variable** that counts how many you have collected |
+| 7 | Collecting an item makes it disappear and adds 1 to your variable |
+| 8 | An **if statement** that checks when you have them all, and ends the game as a win |
+
+> You can try steps 5 to 8 on Wednesday if you get the maze working early. Experiment. We will go through
+> exactly how to do it on Thursday, so it is fine if it does not work yet.
 
 ---
 
 ## Turn in
 
 - [ ] Project link shared
-- [ ] One sentence: what does your loop repeat, and what does the if inside it check?
+- [ ] One sentence: what does your variable count, and what does your if statement check?
 
 ## Grading (class project rubric)
 
-*It works, you can explain it, you kept going if something broke, finished and turned in right.*
+*It works, you can explain it, you kept going when it broke, finished and turned in right.*
 
-## Extension (finished early)
+## Extensions (finished early? try these in order)
 
-Add a **repeat N times** loop somewhere else in your project (not a forever loop), and explain the difference
-between the two.
+1. **Make it harder.** Add dead ends, a longer path, or a narrow corridor.
+2. **Swap the tile art.** Change your maze from one theme to another (dungeon, ice, forest).
+3. **Add an enemy** that moves, and use an if to lose a life when it touches you.
+4. **Add a second level.** When the player wins, load a different tile map and reset the counter.
+5. **Add a timer** and an if that ends the game if time runs out.

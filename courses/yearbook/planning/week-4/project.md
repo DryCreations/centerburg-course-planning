@@ -1,6 +1,6 @@
 # Week 4 Assignment: Aperture Practice Set
 
-**Course:** Yearbook | **Assigned:** Tue Sep 8 | **Due:** Fri Sep 11
+**Course:** Yearbook | **Assigned:** Wed Sep 9 | **Due:** Fri Sep 11
 **Tool:** Camera (Av mode) | **Category:** Craft
 
 A quick, in-class assignment: shoot **two portraits or candids of the same subject**, one with a low f number

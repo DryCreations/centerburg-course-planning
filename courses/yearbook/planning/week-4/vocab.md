@@ -1,6 +1,6 @@
 # Week 4 Vocabulary: Av Mode & Depth of Field (cumulative)
 
-Posted Tuesday.
+Posted Wednesday.
 
 ## This week's terms
 

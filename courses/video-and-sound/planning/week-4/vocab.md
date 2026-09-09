@@ -1,6 +1,6 @@
 # Week 4 Vocabulary: Pre-Production (cumulative)
 
-Posted Tuesday.
+Posted Wednesday.
 
 ## This week's terms
 

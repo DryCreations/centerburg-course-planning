@@ -1,7 +1,7 @@
 # Week 4: Read a Real BPA Prompt, then Pre-Production: Outline
 
 **Course:** Video and Sound (145110)
-**Quarter:** Q1 | **Week:** 4 | **Dates:** Tue Sep 8, Wed Sep 9, Thu Sep 10, Fri Sep 11 (Labor Day Monday off)
+**Quarter:** Q1 | **Week:** 4 | **Dates:** Wed Sep 9, Thu Sep 10, Fri Sep 11 (three day week: Labor Day Monday, PD Tuesday)
 
 > **Today: read a real competition prompt.** Before you plan anything, look at an actual past **BPA Video
 > Production Team** prompt and react to it. Then, later today, we start **pre-production**: the planning every
@@ -31,15 +31,17 @@ The exposure triangle, camera modes, RAW capture, white balance, and a first edi
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Tue Sep 8 | Read and discuss a real BPA Video Production prompt; intro pre-production concepts; start brainstorming video ideas | Reaction notes + brainstorm started |
-| Wed Sep 9 | Narrow to one idea; write a shot list or short script | Shot list / script drafted |
-| Thu Sep 10 | Storyboard the sequence, panel by panel | Storyboard drafted |
-| Fri Sep 11 | Finish the storyboard. Work time. **Retake last week's quiz if you want a better score.** | Storyboard finished |
+| Wed Sep 9 | Read and discuss a real BPA Video Production prompt; intro pre-production concepts; start brainstorming | Reaction notes + brainstorm |
+| Thu Sep 10 | Narrow to one idea; write a shot list or short script | Shot list / script |
+| Fri Sep 11 | Start storyboarding. Work time. **Retake last week's quiz if you want a better score.** | Storyboard started |
+
+> **Storyboards continue into next week.** Three day week, so Friday is where storyboarding starts.
 
 ### What You'll Get This Week
 
 - **A real BPA prompt** to read and react to.
-- **The Storyboard & Shot Plan project:** plan a short video before you ever pick up a camera for it.
+- **The Storyboard & Shot Plan project:** plan a short video before you ever pick up a camera for it. This
+  runs into next week.
 - **This week's vocabulary:** pre-production terms.
 - **Friday:** work time, plus an independent, optional retake of last week's RAW and editing quiz. **The
   retake score replaces the original.**

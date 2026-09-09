@@ -1,10 +1,10 @@
 # Week 4: Cameras: Aperture & Depth of Field: Outline
 
 **Course:** Yearbook
-**Week:** 4 | **Dates:** Tue Sep 8, Wed Sep 9, Thu Sep 10, Fri Sep 11 (Labor Day Monday off)
+**Week:** 4 | **Dates:** Wed Sep 9, Thu Sep 10, Fri Sep 11 (three day week: Labor Day Monday, PD Tuesday)
 
 > **Get comfortable with the cameras.** Most of this week is work time on your pages, but we take a real chunk
-> of Tuesday to cover **aperture** and go shoot a quick practice set, so your candids and portraits start
+> of Wednesday to cover **aperture** and go shoot a quick practice set, so your candids and portraits start
 > looking more intentional before real coverage season.
 
 ---
@@ -33,9 +33,8 @@ frames-first spreads with the Friday PDF check-in.
 
 | Day | Focus |
 |-----|-------|
-| Tue Sep 8 | Vocab posted; aperture explained; quick in-class practice shots; page work time |
-| Wed Sep 9 | Page work time |
-| Thu Sep 10 | Page work time |
+| Wed Sep 9 | Vocab posted; aperture explained; quick in-class practice shots; page work time |
+| Thu Sep 10 | Camera rotation continues; page work time |
 | Fri Sep 11 | Aperture practice set due; page work time |
 
 ### What You'll Get This Week

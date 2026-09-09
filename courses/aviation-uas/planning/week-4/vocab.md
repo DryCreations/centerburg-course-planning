@@ -1,6 +1,6 @@
 # Week 4 Vocabulary: Weather Reading (cumulative)
 
-Posted Tuesday. See `handouts/metar-resources.md` for real references to practice with.
+Posted Wednesday. See `handouts/metar-resources.md` for real references to practice with.
 
 ## This week's terms
 

@@ -1,6 +1,6 @@
 # Portfolio Review & Update
 
-**Design Techniques · Week 4 · Tuesday Sep 8**
+**Design Techniques · Week 4 · Wednesday Sep 9**
 
 Before we start anything new, get your portfolio caught up. You built a hierarchy poster last week; it belongs
 on your site, described the way a designer actually describes their own work.
