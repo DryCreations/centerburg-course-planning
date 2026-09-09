@@ -14,7 +14,7 @@ plan your portfolio's structure before you build it further. Part B continues in
 | # | Requirement |
 |---|-------------|
 | 1 | Post your **poster** (the exported PNG or JPG, not the project file) to your Unit 1.1 section |
-| 2 | Write a short description underneath it, using the sentence starters in `handouts/tue-portfolio-update.md`, naming at least three design decisions (hierarchy, color, type) |
+| 2 | Write a short description underneath it, using the sentence starters in `handouts/wed-portfolio-update.md`, naming at least three design decisions (hierarchy, color, type) |
 | 3 | Screenshot your site's navigation menu and label each link with its real name (nav, header, page, footer) |
 
 ## Part B: Portfolio Wireframe Plan (Thu on, continues next week)

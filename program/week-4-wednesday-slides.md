@@ -12,7 +12,7 @@ rushed.
 
 ## 1. Design Techniques: Portfolio review and update
 
-**Today's documents:** `courses/design-techniques/planning/week-4/handouts/tue-portfolio-update.md` (the
+**Today's documents:** `courses/design-techniques/planning/week-4/handouts/wed-portfolio-update.md` (the
 checklist), plus `outline.md`, `vocab.md`, `project.md`
 **Post:** the portfolio update handout.
 **Go over:** run the portfolio checklist, restructure navigation for the whole year, re-teach the write-up
@@ -110,7 +110,7 @@ standard with the model paragraph, then name the real parts of a website. **UX/U
 
 ## 2. Video & Sound: Read a real BPA prompt, then pre-production
 
-**Today's documents:** `courses/video-and-sound/planning/week-4/handouts/tue-bpa-prompt-read.md`, plus
+**Today's documents:** `courses/video-and-sound/planning/week-4/handouts/wed-bpa-prompt-read.md`, plus
 `outline.md`, `vocab.md`, `project.md`
 **Bring:** an actual past BPA Video Production Team (#430) prompt to hand out or display. The handout has the
 discussion structure only, not a prompt text.
@@ -183,84 +183,77 @@ brainstorming.
 
 ---
 
-## 3. Aviation UAS: Full prep day (review, weather, replan, preflight)
+## 3. Aviation UAS: METAR scavenger hunt + lock the plan
 
-**Today's documents:** `courses/aviation-uas/planning/week-4/handouts/metar-resources.md`, plus `outline.md`,
-`vocab.md`, `project.md`
-**Post:** vocab, the Footage Review & Mission Retry project, the METAR resources handout.
-**Bring up:** a real current METAR from aviationweather.gov, and last week's flight footage.
-**Go over:** watch last week's footage together, decode a real METAR, work go/no-go. Groups pick new roles.
+**Today's documents:** `courses/aviation-uas/planning/week-4/handouts/metar-scavenger-hunt.md`, plus
+`metar-resources.md`, `outline.md`, `project.md`
+**Post:** the scavenger hunt and the Mission Retry project.
+**Go over:** how to read a METAR, then turn them loose on aviationweather.gov to hunt real weather. Then
+regroup: new roles, finalize the plan, walk preflight. **We fly tomorrow. Quiz is Friday.**
+**Timing:** roughly 25 minutes on the hunt, 20 on the replan and preflight.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Sit with
-> your flight group. Open the Week 4 vocab and the METAR Resources handout in Google Classroom. We are watching
-> last week's footage first, so have something to take notes with." Large, clean, minimal. One slide.
+> your flight group, open a laptop, and go to aviationweather.gov. Open the METAR Scavenger Hunt in Google
+> Classroom. We fly TOMORROW and the first quiz is FRIDAY, so today counts twice." Large, clean. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one standards and agenda slide for a high school drone class titled "Today: Review, Then Replan." List
-> these focus areas: 7.6 Weather, 7.11 Preflight, 7.13 Flight Environment. Then a short agenda: 1) Watch last
-> week's footage as a class, 2) Decode a real current METAR, 3) Make the go/no-go call, 4) Pick new roles and
-> revise your plan. Add a note: "We fly again THURSDAY." Large readable text. One slide.
+> Create one standards and agenda slide for a high school drone class titled "Today: Real Weather." List these
+> focus areas: 7.6 Weather, 7.11 Preflight, 7.13 Flight Environment. Then a short agenda: 1) How to decode a
+> METAR, 2) Scavenger hunt on aviationweather.gov, 3) New roles and finalize the plan, 4) Preflight walk. Add a
+> box: "Fly TOMORROW. Quiz FRIDAY on Weeks 1 to 4." Large readable text. One slide.
 
-### Slide 3: Footage review
+### Slide 3: How to decode a METAR
 
-> Create one slide for a high school drone class titled "Watch and Critique." Body: "As we watch each group's
-> footage, write down: What WORKED in this shot? What would you CHANGE about the move, the framing, or the
-> timing? Be specific. 'It was fine' is not a critique." One slide, large text.
+> Create one slide for a high school drone class titled "Decoding a METAR." Show this example in monospace:
+> "KCMH 271651Z 27012G22KT 10SM FEW250 24/12 A3002". Then label the parts in a list: station identifier; date
+> and time in UTC; WIND, three digit direction plus speed, and G means gust; VISIBILITY in statute miles; cloud
+> layers and heights; temperature and dew point; altimeter. One slide, large legible text.
 
-### Slide 4: Reading a real METAR
+### Slide 4: The two numbers that scrub a flight
 
-> Create one slide for a high school drone class titled "Decode a Real METAR." Body: "Pulled live from
-> aviationweather.gov. WIND: a three digit direction plus speed, like 27008G15KT, where the G is a gust.
-> VISIBILITY: in statute miles, Part 107 requires at least 3. CLOUDS: a layer plus a height, like BKN008 means
-> broken at 800 feet, which sets your ceiling." One slide, large legible text.
+> Create one slide for a high school drone class titled "The Two Numbers That Scrub You." Body: "VISIBILITY:
+> Part 107 requires at least 3 statute miles. Anything under that is a no-go, full stop. CLOUDS: you must stay
+> 500 feet below and 2,000 feet horizontally from them, so a low ceiling like OVC007 (700 feet) boxes you in.
+> Wind and gusts matter too, but those two are the legal lines." One slide, large text.
 
-### Slide 5: Go or no-go
+### Slide 5: Do Now, the scavenger hunt
 
-> Create one slide for a high school drone class titled "Go or No-Go?" Body: "Using today's real METAR on the
-> screen: What is the wind direction and speed? Is there a gust? What is the visibility? What is the ceiling?
-> Based on Part 107 limits, is this a go or a no-go, and why?" One slide, large text.
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Go Hunting." Body: "On
+> aviationweather.gov, with your group: 1) Decode a full METAR for our home field, every group. 2) Find real
+> stations reporting gusts, visibility under 3 SM, overcast, and precipitation. 3) Make a go/no-go call for each
+> and write the number that decided it. 4) Pull a TAF and say if the forecast is improving or getting worse."
+> Large, clean. One slide.
 
-### Slide 6: Do Now
+### Slide 6: Turn and Talk
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Weather, Then Replan." Body:
-> "With your group: 1) Complete the weather worksheet using today's real METAR. 2) Write your footage review
-> notes: what worked, what you are changing. 3) Pick NEW roles for Thursday: pilot, visual observer, logger. 4)
-> Note any changes to your flight area or go/no-go numbers." Large, clean. One slide.
+> Create one "Turn and Talk" slide for a high school drone class. Big title: "Compare Your Finds." Body: "Trade
+> with another group. Show them the worst weather you found and defend your go/no-go call using the actual
+> number, not a feeling. Then ask them: what is the single number most likely to scrub a drone flight around
+> here, and do you agree?" One slide, large text.
 
-### Slide 7: Turn and Talk
-
-> Create one "Turn and Talk" slide for a high school drone class. Big title: "Trade Plans With Another
-> Group." Body: "Swap your revised mission plan with another group. Read theirs and answer: Could you fly this
-> mission using only their notes? What is missing or unclear? Give them one specific fix. Then get your own
-> plan back and apply the fix you were given." One slide, large text.
-
-### Slide 8: If You Finish Early
-
-> Create one slide for a high school drone class titled "Finished Your Plan?" Present as a numbered list: 1)
-> Pull a SECOND METAR, from a different airport or a different hour, and make a second go/no-go call. 2) Compare
-> the two: what changed, and would it change your decision? 3) Review your flight log from last week and check
-> that every field is filled in. One slide, large text.
-
-### Slide 9: Lock the plan and walk preflight
+### Slide 7: Lock the plan and walk preflight
 
 > Create one slide for a high school drone class titled "Before You Leave Today: Lock It In." Body: "Your plan
 > is done when it has ALL of this: the one shot and the move; the flight area with boundary and spectator
 > lines; go/no-go numbers; and NEW roles assigned (pilot, visual observer, logger). Then walk the preflight
 > checklist out loud as a group: batteries, props, card cleared, home point, area clear." Footer: "No preflight,
-> no flight. We fly TOMORROW." One slide, large legible text.
+> no flight." One slide, large legible text.
 
-### Slide 10: Before You Leave
+### Slide 8: If You Finish Early
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Your group should have a weather worksheet done,
-> footage notes written, and new roles assigned. Tomorrow we finalize the plan and refresh preflight. THURSDAY
-> we fly." One slide, large text.
+> Create one slide for a high school drone class titled "Hunt Finished?" Numbered list: 1) Find the strongest
+> wind anyone in the room can locate and compare across groups. 2) Find a NOTAM and explain in one sentence
+> what it warns about. 3) Look up our flight site's airspace class and whether it needs authorization. 4) Decode
+> one more METAR with the plain-language translation hidden. One slide.
 
----
+### Slide 9: Before You Leave
 
----
+> Create one "Exit" slide titled "Before You Leave." Body: "Scavenger hunt turned in. Plan locked, roles
+> assigned, preflight walked. Make sure a battery is charging tonight. TOMORROW WE FLY. Friday is our first
+> quiz, and today's weather work is most of it." One slide, large text.
 
 ## 4. Middle School CS: Tile maps and your maze
 
@@ -412,6 +405,6 @@ time. **No PDF check-in this week; check-ins are now every other week.**
 |-------|-------|-------:|------|
 | Design Techniques | Portfolio checklist, menu restructure, post + describe poster | 11 | UX/UI starts Thursday |
 | Video & Sound | Read a real BPA prompt, react, intro pre-production | 9 | Bring an actual past #430 prompt |
-| Aviation UAS | Full prep: footage review, METAR, new roles, plan lock, preflight | 10 | **We fly tomorrow** |
+| Aviation UAS | METAR scavenger hunt, new roles, plan lock, preflight | 9 | **Fly tomorrow, quiz Friday** |
 | Middle School CS | Tile maps: draw the maze, walls, player movement | 10 | New project; loops dropped |
 | Yearbook | Aperture explainer + quick shoot, then work time | 8 | No check-in this week |

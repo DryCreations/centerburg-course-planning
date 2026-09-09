@@ -1,13 +1,13 @@
 # Week 4 Teacher Notes: Video and Sound
 
 Teacher-facing pacing for Week 4. Student doc is `outline.md`; assignment is `project.md`; Wednesday's handout is
-`handouts/tue-bpa-prompt-read.md`; vocab is `vocab.md`. No new quiz this week: Friday is work time plus an
+`handouts/wed-bpa-prompt-read.md`; vocab is `vocab.md`. No new quiz this week: Friday is work time plus an
 **independent, optional retake** of last week's Week 3 RAW and editing quiz for anyone who wants a better
 score. **Decided: the retake score replaces the original, one time only, since this is the first quiz of the
 year and many students had not yet learned how to study for one.**
 
 **Bring an actual past BPA Video Production Team (#430) prompt** from your WSAP guidelines or event archive to
-hand out or display Wednesday. `handouts/tue-bpa-prompt-read.md` has the discussion structure only, not a prompt
+hand out or display Wednesday. `handouts/wed-bpa-prompt-read.md` has the discussion structure only, not a prompt
 text, since students should react to the real thing.
 
 ## Pacing Guide

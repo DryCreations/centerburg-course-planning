@@ -31,17 +31,20 @@ preflighted, and flown.
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Wed Sep 9 | Review last week's footage; real METAR reading and go/no-go; pick new roles, revise and finalize the plan; preflight refresh | Revised plan + roles |
+| Wed Sep 9 | **METAR scavenger hunt** on aviationweather.gov; then pick new roles, finalize the plan, preflight refresh | Scavenger hunt + revised plan |
 | Thu Sep 10 | **Fly** (weather permitting): the adjusted shot with new roles | Footage + flight log |
-| Fri Sep 11 | Offload and review Thursday's footage; debrief; log the flight | Debrief notes |
+| Fri Sep 11 | **Quiz** (Weeks 1 to 4), then footage review and debrief | Quiz + debrief notes |
 
-> **Wednesday is a full prep day.** Everything that has to happen before we fly happens in one period, so come
-> in ready to work.
+> **Wednesday is a full prep day.** The weather work and everything that has to happen before we fly both
+> happen in one period, so come in ready to work.
+>
+> **Friday is our first quiz.** It covers Weeks 1 to 4: weather, regulations, airspace, controls, and preflight.
 
 ### What You'll Get This Week
 
-- A group **footage review and revised mission plan**.
-- A resources handout for reading real METARs (`handouts/metar-resources.md`).
+- A **METAR scavenger hunt** using real, live weather (`handouts/metar-scavenger-hunt.md`).
+- A group **revised mission plan** with new roles.
+- **Friday: your first quiz**, covering Weeks 1 to 4.
 
 ### Standards Covered
 

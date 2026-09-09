@@ -2,9 +2,9 @@
 
 **Three day week:** Wed, Thu, Fri. Every block is **one prompt, for one slide.**
 
-> **Two quizzes today, different kinds.** Design Techniques and Video & Sound run an **optional independent
-> retake** of last week's quiz during work time (the retake score **replaces** the original). Middle School CS
-> takes its **first real quiz**, whole class, silent.
+> **Three quizzes today.** Design Techniques and Video & Sound run an **optional independent retake** of last
+> week's quiz during work time (the retake score **replaces** the original). **Middle School CS and Aviation
+> both take their first real quiz**, whole class, silent.
 
 > **Design Techniques and Video & Sound START their next step today.** Wireframes and storyboards continue
 > into next week; do not rush them to finish in one period.
@@ -143,57 +143,60 @@ time only, because it was the first quiz of the year.
 
 ---
 
-## 3. Aviation UAS: Footage review and debrief
+## 3. Aviation UAS: QUIZ, then footage debrief
 
-**Today's documents:** `courses/aviation-uas/planning/week-4/project.md`, flight logs
-**Go over:** watch yesterday's footage, debrief honestly, close out the logs.
+**Today's documents:** `courses/aviation-uas/planning/week-4/quiz-bank.csv` (40 questions, cut to 20),
+`quiz.md`, plus flight logs
+**Go over:** quiz first, then watch Thursday's footage and debrief. **First quiz of the year for this class.**
+
+*No partner slide before the quiz on purpose: the room is silent. The turn and talk comes after, during the
+debrief.*
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Sit with
-> your flight group. Get out your mission plan and your flight log from yesterday. We are watching your footage
-> today." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school drone class on a quiz day. Big title: "As You Come In."
+> Body: "Open Google Classroom and wait. I will open the quiz once everyone is ready. From that point the room
+> is SILENT until I say everyone has finished. Stay on the quiz tab. This is NOT open note. Have your flight log
+> out for after." Large, clean, readable from the back. One slide.
 
-### Slide 2: Standards + Today
+### Slide 2: What's On It
 
-> Create one standards and agenda slide for a high school drone class titled "Today: Debrief." List these focus
-> areas: 7.11 Preflight, 7.13 Flight Environment, 2.1 Safety. Then a short agenda: 1) Watch yesterday's footage,
-> 2) Compare it to the plan, 3) Close out flight logs, 4) What we change next time. Large readable text. One slide.
+> Create one slide for a high school drone class titled "What the Quiz Covers." Body: "Weeks 1 to 4. Reading a
+> METAR: wind, gusts, visibility, cloud layers, ceiling. METAR vs TAF vs NOTAM. Part 107 limits: 3 statute
+> miles, cloud clearance, 400 feet, registration. TRUST vs Part 107. RPIC and visual observer. VLOS. Airspace
+> classes and LAANC. The four forces. Mode 2 controls, heading vs pointing. Preflight and airworthiness." One
+> slide, large readable text.
 
-### Slide 3: Did it match the plan?
+### Slide 3: Do Now
 
-> Create one slide for a high school drone class titled "Footage vs Plan." Body: "As each group's clip plays,
-> answer: Did the shot match what the plan said it would be? Did the NEW roles work better than last week? What
-> is one specific thing this group did better than their first attempt?" One slide, large text.
+> Create one "Do Now" slide for a high school drone class taking a quiz. Big title: "Do Now: Take the Quiz."
+> Body: "Take the quiz now. Stay silent until I say everyone is done. Stay on the quiz tab. If you finish early:
+> do NOT talk. Start filling in your flight log from yesterday and write your debrief notes quietly." Large,
+> clean. One slide.
 
-### Slide 4: Do Now
+### Slide 4: After the Quiz, the debrief
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Close It Out." Body: "With your
-> group: 1) Confirm your footage is offloaded and named correctly. 2) Finish your flight log, aircraft, pilot,
-> duration, notes. 3) Write your debrief: what changed from attempt one to attempt two, and did it work? 4) Note
-> one thing to try on the next mission." Large, clean. One slide.
+> Create one slide for a high school drone class titled "After the Quiz: Watch the Footage." Body: "As each
+> group's clip plays, answer: Did the shot match what your plan said it would be? Did the NEW roles work better
+> than the first attempt? What is one specific thing you did better this time?" One slide, large text.
 
 ### Slide 5: Turn and Talk
 
 > Create one "Turn and Talk" slide for a high school drone class. Big title: "Turn and Talk: Two Attempts."
 > Body: "Tell another group: what did you change between your first flight and this one, and did it actually
-> improve the shot? Then listen to theirs. Steal one good idea from them for next time." One slide, large text.
+> improve the shot? Then listen to theirs and steal one good idea for next time." One slide, large text.
 
-### Slide 6: If You Finish Early
+### Slide 6: Do Now, close it out
 
-> Create one slide for a high school drone class titled "Logs Closed?" Numbered list: 1) Pull a fresh METAR and
-> make a go/no-go call for right now. 2) Review your ODOT Part 107 Module 1 progress. 3) Sketch a maneuver you
-> want to try on the next mission and what it would require. One slide.
+> Create one "Do Now" slide for a high school drone class. Big title: "Close It Out." Body: "With your group:
+> 1) Confirm your footage is offloaded and named. 2) Finish your flight log: aircraft, pilot, duration, notes.
+> 3) Write your debrief: what changed from attempt one to attempt two, and did it work? 4) Note one thing to try
+> on the next mission." Large, clean. One slide.
 
 ### Slide 7: Before You Leave
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Footage named, flight log closed, debrief written.
-> Keep working ODOT Part 107 Module 1. Your cumulative quiz is coming, and it draws on the weather and preflight
-> material we have been doing." One slide, large text.
-
----
-
----
+> Create one "Exit" slide titled "Before You Leave." Body: "Quiz submitted. Footage named, flight log closed,
+> debrief written. Keep working ODOT Part 107 Module 1." One slide, large text.
 
 ## 4. Middle School CS: QUIZ, then maze work time
 
@@ -295,7 +298,7 @@ to independent build time.*
 |-------|-------|------|
 | Design Techniques | Start wireframing + optional retake | Continues next week |
 | Video & Sound | Start storyboarding + optional retake | Continues next week |
-| Aviation UAS | Footage review and debrief | Close out flight logs |
+| Aviation UAS | **QUIZ** (Weeks 1 to 4), then footage debrief | First quiz for this class |
 | Middle School CS | **QUIZ** (if statements only), then maze work | Maze lab continues next week |
 | Yearbook | Aperture pair due, work time | No PDF check-in this week |
 

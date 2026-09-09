@@ -14,9 +14,9 @@ rather than being rushed or merged.
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Wed Sep 9** | Portfolio catch-up: post + describe the poster, restructure the menu | Read a real BPA prompt, intro pre-production, brainstorm | **Full prep day:** footage review, real METAR, new roles, lock the plan, preflight | **Tile maps:** draw the maze, mark walls, player moves with collision | Aperture explainer + quick shoot, work time |
+| **Wed Sep 9** | Portfolio catch-up: post + describe the poster, restructure the menu | Read a real BPA prompt, intro pre-production, brainstorm | **METAR scavenger hunt** on aviationweather.gov, then new roles, lock the plan, preflight | **Tile maps:** draw the maze, mark walls, player moves with collision | Aperture explainer + quick shoot, work time |
 | **Thu Sep 10** | UX vs UI, map the user journey | Pick one idea, write the shot list | **FLIGHT DAY** | **Variables:** count collected items, if decides the win | Camera rotation, work time |
-| **Fri Sep 11** | Start wireframing + optional retake | Start storyboarding + optional retake | Footage review and debrief | **QUIZ** (if statements only), then maze work | Aperture pair due, work time |
+| **Fri Sep 11** | Start wireframing + optional retake | Start storyboarding + optional retake | **QUIZ** (Weeks 1 to 4), then footage debrief | **QUIZ** (if statements only), then maze work | Aperture pair due, work time |
 
 ## Changes made this week
 
@@ -29,6 +29,15 @@ rather than being rushed or merged.
 - **MS CS quiz unchanged in scope:** if statements and everything before, from the existing 30-question bank
   cut to 20. Tile maps and collision are **not** on it.
 - **DT and V&S carry into next week.** Wireframes and storyboards start Friday and continue.
+- **Aviation gets its first quiz, Friday.** New 40-question bank (`quiz-bank.csv`), cut to 20, covering Weeks 1
+  to 4: METAR decoding, Part 107 limits, airspace, controls, preflight. Wednesday's **METAR scavenger hunt** on
+  aviationweather.gov is both the weather instruction and the quiz prep.
+
+## Friday has three assessments
+
+- **DT and V&S:** optional independent **retake** of last week's quiz, during work time.
+- **Aviation:** **first quiz**, whole class, silent (Weeks 1 to 4).
+- **MS CS:** **first quiz**, whole class, silent (if statements only, not tile maps).
 
 ## Retake policy (DT and V&S, Friday)
 

@@ -11,7 +11,7 @@ storyboard. You are not filming this week; you are planning it properly.
 ## Part A: React and brainstorm (Wed)
 
 - Read the real BPA Video Production Team prompt handed out in class and answer the discussion questions in
-  `handouts/tue-bpa-prompt-read.md`.
+  `handouts/wed-bpa-prompt-read.md`.
 - Start brainstorming your own short video ideas, whether or not you plan to compete.
 
 ## Part B: Pick an idea and write it up (Thu)

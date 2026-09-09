@@ -8,16 +8,16 @@ roles**.
 
 ---
 
-## Part A: Weather (Wed)
+## Part A: METAR Scavenger Hunt (Wed)
 
-Using a real, current METAR from `handouts/metar-resources.md`, answer:
+Complete `handouts/metar-scavenger-hunt.md` using real, live data on **aviationweather.gov**. You will:
 
-| # | Question |
-|---|----------|
-| 1 | What is the wind direction, speed, and any gust? |
-| 2 | What is the visibility? |
-| 3 | What is the ceiling (if any layer is broken or overcast)? |
-| 4 | Based on Part 107 limits, is this a go or a no-go, and why? |
+| # | Task |
+|---|------|
+| 1 | Decode a full METAR for your home field, group by group |
+| 2 | Hunt down stations reporting gusts, low visibility, overcast, and precipitation |
+| 3 | Make a Part 107 go/no-go call for each one, citing the number that decided it |
+| 4 | Pull a TAF and say whether the forecast is improving or worsening |
 
 ## Part B: Footage review & replan (Wed)
 
@@ -39,7 +39,7 @@ the flight.
 
 ## Turn in
 
-- [ ] Weather worksheet from Part A
+- [ ] Completed METAR scavenger hunt
 - [ ] Footage review notes and the revised plan with new roles
 - [ ] Footage from Thursday's flight, offloaded and named
 - [ ] Flight log entry
@@ -48,7 +48,7 @@ the flight.
 
 | Criterion | Points |
 |-----------|-------:|
-| Weather worksheet, correct reading and go/no-go call | 8 |
+| Scavenger hunt: correct decoding and defensible go/no-go calls | 8 |
 | Footage review notes, specific and honest | 6 |
 | Revised plan with new roles assigned | 6 |
 | Flew or supported the flight in the new role | 6 |
