@@ -15,8 +15,8 @@ rather than being rushed or merged.
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Wed Sep 9** | Portfolio catch-up: post + describe the poster, restructure the menu | Read a real BPA prompt, intro pre-production, brainstorm | **METAR scavenger hunt** on aviationweather.gov, then new roles, lock the plan, preflight | **Tile maps:** draw the maze, mark walls, player moves with collision | Aperture explainer + quick shoot, work time |
-| **Thu Sep 10** | UX vs UI, map the user journey | Pick one idea, write the shot list | **FLIGHT DAY** | **Variables:** count collected items, if decides the win | Camera rotation, work time |
-| **Fri Sep 11** | Start wireframing + optional retake | Start storyboarding + optional retake | **QUIZ** (Weeks 1 to 4), then footage debrief | **QUIZ** (if statements only), then maze work | Aperture pair due, work time |
+| **Thu Sep 10** | UX vs UI, **pick a broken screen and tear it down** (Figma setup last 10 min) | **Script, storyboard, shot list** terms, then pick one idea and write both | **FLIGHT DAY** | Quiz-shaped **bell ringer**, then build the counter and win **live on the board** | Work time: cameras or spreads, their choice |
+| **Fri Sep 11** | Wireframe the fix on paper, then build in Figma + optional retake | Start storyboarding + optional retake | **QUIZ** (Weeks 1 to 4), then footage debrief | **QUIZ** (if statements only), then maze work | Aperture pair due, work time |
 
 ## Changes made this week
 
@@ -28,7 +28,13 @@ rather than being rushed or merged.
   Loops move to a later week.
 - **MS CS quiz unchanged in scope:** if statements and everything before, from the existing 30-question bank
   cut to 20. Tile maps and collision are **not** on it.
-- **DT and V&S carry into next week.** Wireframes and storyboards start Friday and continue.
+- **DT pivoted off the portfolio wireframe to a real redesign project.** Google Sites is too limited to
+  carry a wireframing unit: fixed layouts, no custom CSS, preset type. A student can wireframe something and
+  then physically not be able to build it, which teaches the opposite of standard 2.15.1. Sites stays the
+  **portfolio**, not the design surface. Students now pick a real app or website screen that frustrates them,
+  tear it down in design language, and redesign one phone-sized screen in **Figma** (free Starter accounts,
+  Google sign-in, no education verification needed to start). Thursday is paper, Friday is paper then build.
+- **DT and V&S carry into next week.** The redesign and the storyboards start Friday and continue.
 - **Aviation gets its first quiz, Friday.** New 40-question bank (`quiz-bank.csv`), cut to 20, covering Weeks 1
   to 4: METAR decoding, Part 107 limits, airspace, controls, preflight. Wednesday's **METAR scavenger hunt** on
   aviationweather.gov is both the weather instruction and the quiz prep.
@@ -46,6 +52,7 @@ because it was the first quiz of the year.
 
 ## Carrying into next week
 
-- **DT:** wireframes (Portfolio Wireframe Plan, Part B)
+- **DT:** the Redesign Project (Part B): finish the Figma screen, connect a two-frame prototype, write the
+  before and after paragraph, post the pairing to the portfolio under Unit 1.1
 - **V&S:** storyboards (Storyboard & Shot Plan, Part C)
 - **MS CS:** the Maze Collector lab, plus loops still to be taught
