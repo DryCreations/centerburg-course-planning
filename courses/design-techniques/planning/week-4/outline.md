@@ -1,19 +1,19 @@
-# Week 4: Portfolio Update, then the Redesign Project: Outline
+# Week 4: Portfolio Update, then Intro to Figma: Outline
 
 **Course:** Design Techniques (145095)
 **Quarter:** Q1 | **Week:** 4 | **Dates:** Wed Sep 9, Thu Sep 10, Fri Sep 11 (three day week: Labor Day Monday, PD Tuesday)
 
-> **Today: catch your portfolio up.** Add last week's poster and write about it like a designer would. Then a
-> new project: find a screen that frustrates you, prove what is wrong with it, and redesign it. Three day
-> week, so this unit runs into next week.
+> **Today: catch your portfolio up.** Add last week's poster and write about it like a designer would. Then
+> two days learning a real design tool: Figma. Low stakes, hands on. Next week we use it for real design work.
 
 ---
 
 ## What This Week Covers
 
 **Wednesday:** updating your portfolio site (adding last week's poster and learning the real names for the
-parts of a website). **Thursday:** UX vs UI, picking your redesign target, and tearing it apart on paper.
-**Friday:** wireframing your fix and starting the build in Figma. The project continues next week.
+parts of a website). **Thursday:** UX vs UI vocabulary, then getting into Figma and building a phone screen
+from a spec. **Friday:** prototyping, making your screen actually click. Real design work in Figma starts
+next week.
 
 ## Weeks 1 to 3 recap
 
@@ -27,28 +27,29 @@ together.
 - Post finished work to your portfolio with a clear written description of the design decisions you made
 - Name the real parts of a website: navigation, header, page, footer
 - Explain what UX (user experience) and UI (user interface) each mean
-- Critique a real screen in design language instead of saying "it looks bad"
-- Map a user journey and find the exact step where it breaks
-- Build a wireframe, a low-detail structural sketch of a screen, and turn it into a real mockup in Figma
+- Explain what a wireframe and a prototype are, and why each comes before finished design work
+- Find your way around Figma: frames, shapes, text, colors, and exact sizing
+- Build a phone screen from a written spec
+- Connect two screens into a working prototype you can click through
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
 | Wed Sep 9 | Add last week's poster to your portfolio (Unit 1.1); write about it; learn website vocabulary | Poster posted + described |
-| Thu Sep 10 | UX vs UI; pick your redesign target; tear it down on paper; journey map | Annotated teardown + journey map |
+| Thu Sep 10 | UX vs UI, wireframe and prototype vocab; get into Figma; build the player screen from the spec | Frame 1 built |
 | Fri Sep 11 | Wireframe your fix on paper, then start building it in Figma. Work time. **Retake last week's quiz if you want a better score.** | Wireframe done, Figma started |
 
-> **The redesign continues into next week.** With only three days, Friday is where the build starts, not
-> where it finishes. One focus per day, no rushing. Next week: finish the mockup, connect the prototype, and
-> write the before and after.
+> **This is a low-stakes lab, graded on completion.** You are learning where the tools are, not being judged
+> on design. **Next week is the real design work:** you pick a screen that frustrates you and redesign it.
+> Start thinking about one.
 
 ### What You'll Get This Week
 
 - **Wednesday's portfolio update:** add and describe your poster, learn website vocabulary.
-- **The Redesign Project:** pick a broken screen, prove what is wrong, and fix it. Starts Thursday.
+- **The Figma Intro Lab:** a step-by-step build with everything you need to catch up if you were absent.
 - **This week's vocabulary:** website parts (Wednesday) and UX/UI terms (Thursday).
-- **A free Figma account** (sign in with your school Google account) for building the redesigned screen.
+- **A free Figma account** (sign in with your school Google account).
 - **Friday:** work time, plus an independent, optional retake of last week's hierarchy and typography quiz for
   anyone who wants a better score. **The retake score replaces the original.**
 

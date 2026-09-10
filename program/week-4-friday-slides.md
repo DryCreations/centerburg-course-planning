@@ -6,94 +6,78 @@
 > week's quiz during work time (the retake score **replaces** the original). **Middle School CS and Aviation
 > both take their first real quiz**, whole class, silent.
 
-> **Design Techniques and Video & Sound START their next step today.** Wireframes and storyboards continue
+> **Design Techniques opens its retake at the start of class.** Friday's DT work is self-paced and
+> independent, so retakers rejoin whenever they finish and nothing is time-gated. V&S storyboards continue
 > into next week; do not rush them to finish in one period.
 
 ---
 
-## 1. Design Techniques: Wireframe the fix, then build it + optional retake
+## 1. Design Techniques: Make it click + retake first thing
 
-**Today's documents:** `courses/design-techniques/planning/week-4/project.md` (Part B),
-`handouts/thu-teardown-and-setup.md`
-**Go over:** what a wireframe is, sketch the fix on paper, then build it in Figma. Open the retake quietly for
-anyone who wants it.
-**Retake:** optional, independent, taken during work time. The **retake score replaces the original.** One
-time only, because it was the first quiz of the year. Nothing today is deadline-locked, so stepping out for
-the retake costs them nothing.
+**Today's documents:** `courses/design-techniques/planning/week-4/handouts/figma-intro-build.md` (Part 4)
+**Run it as:** **retake opens the moment class starts.** Everything today is self-paced and independent, so
+retakers just join in when they finish. Nothing is time-gated and nothing is due until the end of the period.
+**Retake:** optional, independent. The **retake score replaces the original.** One time only, because it was
+the first quiz of the year.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Get
-> out your marked-up screenshot and your journey from yesterday, plus a blank sheet of paper. No computers to
-> start. Today we sketch the fix first, THEN build it." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Two
+> things. If you want the QUIZ RETAKE, open it on Google Classroom right now and take it, the quiz is open
+> from the second class starts and your retake score REPLACES your original. Everyone else: open your Figma
+> file from yesterday. Today we make your screen actually click." Large, clean. One slide.
 
-### Slide 2: Standards + Today
+### Slide 2: Today
 
-> Create one standards and agenda slide for a high school design class titled "Today: Wireframe, Then Build."
-> List this standard with its full text: 2.15.1 Understand the UX/UI design process (vision, journey mapping,
-> wireframing, prototyping) for the targeted platform. Then a short agenda: 1) What a wireframe is and is not,
-> 2) Sketch your redesigned screen on paper, 3) Build it in Figma. Add a box: "Optional quiz retake any time
-> today. Your retake score REPLACES the original." Large readable text. One slide.
+> Create one agenda slide for a high school design class titled "Today: Make It Click." Text: Today's skill
+> is PROTOTYPING, the last step of the UX/UI design process, standard 2.15.1. Agenda: 1) Copy your screen, 2)
+> Change two things on the copy, 3) Connect them so the play button works, 4) Test it in Present. Add a box:
+> "Self-paced. If you are taking the retake, do that first and jump in when you are done, you will not be
+> behind." Large readable text. One slide.
 
-### Slide 3: What a wireframe is
+### Slide 3: What a prototype is
 
-> Create one slide for a high school design class titled "A Wireframe Is Boxes and Labels." Body: "A wireframe
-> is a low-detail sketch of a screen's STRUCTURE. Boxes for where things go, labels saying what they are. No
-> final colors, no real images, no font choices. If you are picking a color, you are doing the wrong step. You
-> sketch first because paper is the cheapest place to be wrong." One slide, large text.
+> Create one slide for a high school design class titled "What You Are About To Do." Body: "A PROTOTYPE is a
+> rough, connected version of a design that you can actually click through. It exists to answer one question:
+> DOES THIS WORK? Designers build one before anybody writes a single line of code, because it is far cheaper
+> to find out something is confusing now than after it is built." Add underneath in large text: "In about
+> fifteen minutes, the thing you made yesterday is going to work." One slide.
 
-### Slide 4: Your wireframe has a job
+### Slide 4: The steps
 
-> Create one slide for a high school design class titled "Your Wireframe Has One Job." Body: "Yesterday you
-> circled the step where the screen breaks. Your wireframe has to FIX that step. Before you draw anything,
-> write at the top of the page: the one thing a person came here to do. Then make that the most obvious thing
-> on the screen. Everything else gets smaller, moves down, or gets deleted." Add underneath: "Deleting is a
-> design decision." One slide, large text.
+> Create one instructional slide for a high school design class titled "Four Steps." Large numbered list with
+> plenty of space: 1) Press V, click the frame NAME above your screen to select the whole thing, then Ctrl+C
+> and Ctrl+V. Drag the copy next to the original and rename it "Player - Paused." 2) On the COPY only, change
+> two things so they look different: make the play button gray, and make the white progress bar a different
+> width. 3) Top right, switch from Design to the PROTOTYPE tab. Click your play button, then drag the blue +
+> from its edge across to the second frame. 4) Hit PRESENT, the play triangle at the top right, and click your
+> button. Press Esc to come back. Add a box: "Then do it in reverse so you can click back and forth." One
+> slide, large and legible from the back of the room.
 
-### Slide 5: What goes in one
+### Slide 5: Do Now
 
-> Create one slide for a high school design class titled "What Every Wireframe Needs." Checklist: a labeled box
-> for every element; ONE clear primary action, bigger or bolder than everything else; a deliberate reading
-> order, number your boxes 1, 2, 3 in the order you want them read; grouping, related things close together and
-> unrelated things far apart. Add: "Label every box. An unlabeled box is a mystery, not a plan." One slide,
-> large legible text.
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Connect It." Body: "Follow
+> Part 4 in the handout. When you are done you should be able to hit Present and click back and forth between
+> two screens. Then share your file: top right, Share, set it to Anyone with the link, copy, and turn the link
+> in on Google Classroom." Add a box titled "Nothing happens when you click?": "You probably connected the
+> wrong layer. Check the layers panel on the left, make sure you selected the actual circle, and drag the +
+> again." Large, clean. One slide.
 
-### Slide 6: Do Now
+### Slide 6: If You Finish Early
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Sketch, Then Build." Numbered
-> body: "1) On paper, sketch your redesigned screen. Boxes and labels only. 2) Number your boxes in the order
-> you want them read. 3) Circle your primary action. 4) THEN open Figma and rebuild that sketch on your phone
-> frame. Follow your own wireframe, do not redesign it while you build." Large, clean. One slide.
+> Create one slide for a high school design class titled "It Clicks? Push It." Numbered list: 1) Restyle the
+> whole screen in your own colors, and keep the play button the brightest thing on it. Does the hierarchy
+> still hold? 2) Add a THIRD frame, maybe a song list, and connect it. 3) In the Prototype tab, select the
+> arrow and change Animation from Instant to "Move in" or "Smart animate," then present it again. 4) Rebuild
+> the screen from memory in a new frame, without the spec. That is the fastest way to actually learn the
+> tools. One slide.
 
-### Slide 7: Figma, just enough to build
+### Slide 7: Before You Leave
 
-> Create one slide for a high school design class titled "Four Tools, That Is All You Need Today." Present as a
-> list with the keyboard shortcut in bold: R makes a rectangle, for boxes and buttons. T makes text. V is the
-> move tool, to select and drag things. F makes a new frame, if you need a second screen. Add underneath:
-> "Hold Shift while dragging to keep things straight. Everything saves automatically." One slide, large
-> readable text.
-
-### Slide 8: Turn and Talk
-
-> Create one "Turn and Talk" slide for a high school design class. Big title: "Turn and Talk: Can They Do It?"
-> Body: "Hand your wireframe to a partner WITHOUT telling them what the screen is for. Ask them: what is this
-> screen for, and where would you tap first? If they guess wrong, your hierarchy is not doing its job yet. Fix
-> it before you build any further." One slide, large text.
-
-### Slide 9: If You Finish Early
-
-> Create one slide for a high school design class titled "Screen Built?" Numbered list: 1) Make a SECOND frame,
-> the screen your button leads to, so you can connect them next week. 2) Go back to your teardown and check
-> off each of your five problems: did you actually fix that one? 3) Start drafting your before and after
-> paragraph, four decisions and what each one fixed. 4) Try a dark version and note what had to change beyond
-> the colors. One slide.
-
-### Slide 10: Before You Leave
-
-> Create one "Exit" slide titled "Before You Leave." Body: "You should have a paper wireframe with a circled
-> primary action, and a Figma frame you have started building. This project CONTINUES NEXT WEEK, prototype and
-> write-up, so do it right, not fast. If you wanted the quiz retake and did not get to it, see me." One slide,
-> large text.
+> Create one "Exit" slide titled "Before You Leave." Body: "Your file link is turned in on Classroom, with two
+> frames connected both ways and working in Present. Graded on completion: if it clicks, you are done." Add a
+> box: "NEXT WEEK we use Figma for real. You will pick an app or website screen that genuinely frustrates you
+> and redesign it. Start thinking about one this weekend, you will need it Monday." One slide, large text.
 
 ---
 
@@ -318,7 +302,7 @@ to independent build time.*
 
 | Class | Today | Note |
 |-------|-------|------|
-| Design Techniques | Wireframe the fix on paper, then build it in Figma + optional retake | Redesign project continues next week |
+| Design Techniques | **Retake first thing**, then connect two frames into a working prototype | Lab, completion grade. Real design work starts next week |
 | Video & Sound | Start storyboarding + optional retake | Continues next week |
 | Aviation UAS | **QUIZ** (Weeks 1 to 4), then footage debrief | First quiz for this class |
 | Middle School CS | **QUIZ** (if statements only), then maze work | Maze lab continues next week |

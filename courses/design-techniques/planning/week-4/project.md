@@ -19,64 +19,50 @@ find a screen that does not work, figure out why, and redesign it. Part B contin
 
 ---
 
-## Part B: The Redesign Project (Thu on, continues next week)
+## Part B: Figma Intro Lab (Thu and Fri)
 
-Pick a real app or website screen that frustrates you. Prove what is wrong with it. Then redesign that one
-screen so it works better.
+**Category: Labs. Graded on completion.** You are learning the tool, not being judged on design.
 
-**You are redesigning ONE screen, phone sized.** Not a whole app. One screen, done well, beats five screens
-done vaguely.
+Full step-by-step instructions, including everything you need if you were absent:
+`handouts/figma-intro-build.md`
 
-### Choosing your target
+You build a music player phone screen from a written spec, then make a second version of it and connect the
+two so your play button actually clicks through.
 
-Your screen has to pass all three:
-
-1. You can **screenshot** it. If you cannot get a picture of it, you cannot mark it up.
-2. It is **school appropriate**. No logins, no personal information, nothing you would not show the class.
-3. Something about it **actually bothers you**, and you can say what in one sentence.
-
-Get your target approved before you start marking it up.
-
-**Stuck? Any of these are fair game:** a food ordering app, a school or district page, an athletics schedule,
-a streaming service's browse screen, a store checkout, a game's settings menu, an airline or ticket page, a
-library catalog, a recipe site buried in ads.
+**You are copying a spec on purpose.** There are no design decisions to make. All your effort goes into
+learning where the tools are, so that next week, when you design something of your own, the tool is not the
+thing slowing you down.
 
 ### Requirements
 
 | # | Requirement |
 |---|-------------|
-| 1 | **The screenshot**, with your **teardown** marked on it: at least five annotations naming what is wrong and why, in design language (hierarchy, contrast, alignment, proximity, whitespace, reading order) |
-| 2 | A **user journey**: what the visitor came to do, the steps they take to get it, and the exact step where it breaks down |
-| 3 | A **paper wireframe** of your redesigned screen: boxes and labels only, no color, no real images, no finished type |
-| 4 | The redesigned screen built in **Figma**, on a phone frame, following your wireframe |
-| 5 | A **clickable prototype**: at least two frames connected, so someone can tap one thing and see what happens |
-| 6 | A **before and after** paragraph naming at least four decisions you made and what each one fixed |
-| 7 | A partner reviews it and can complete the task on your redesign without you explaining anything |
+| 1 | A Figma file named `Figma Intro - Your Name` |
+| 2 | Frame 1, `Player`, built to the spec: background, header, album art, title, artist, progress bar, three buttons |
+| 3 | Frame 2, `Player - Paused`, a copy with at least two visible changes |
+| 4 | The two frames connected **both ways** in the Prototype tab |
+| 5 | It works when you hit **Present**: you can click back and forth |
+| 6 | The file link shared on Google Classroom |
 
 ### Turn in
 
-- [ ] Part A: poster posted with a written description, nav screenshot labeled
-- [ ] Annotated screenshot (the teardown)
-- [ ] User journey with the breakdown point marked
-- [ ] Paper wireframe
-- [ ] Figma screen, phone frame, matching the wireframe
-- [ ] Prototype with at least two frames connected
-- [ ] Before and after paragraph, at least four decisions named
-- [ ] Reviewer name and one sentence on what you changed after the review
+- [ ] Figma file link, shared so anyone with the link can view
+- [ ] Two frames, both built
+- [ ] Prototype connections working in both directions
 
-### What makes this good, not just done
+### If You Finish Early
 
-- Your complaints are **specific and named**. "It is ugly" is not a finding. "The primary action is the same
-  size and color as four other buttons, so nothing wins" is a finding.
-- Your redesign **fixes the thing you complained about.** If your teardown is about hierarchy and your
-  redesign has the same flat hierarchy, you did not solve it.
-- You **removed** things. Most broken screens are broken because everything is competing. Deleting is a
-  design decision.
-- The whole before and after goes on your portfolio under Unit 1.1. That pairing, a real problem and your
-  solution, is the strongest thing you can show someone.
+- Restyle it in your own colors, keeping the play button the brightest thing on screen
+- Add a third frame and connect it
+- Try a transition other than Instant in the Prototype tab
+- Rebuild it from memory in a new frame without looking at the spec
 
-### Extension (finished early)
+---
 
-- Design the **second** screen in the flow, the one your button leads to, and connect it in the prototype.
-- Do a **dark mode** version of your screen and note what had to change beyond swapping colors.
-- Redesign the same screen for a **desktop** width and note what you moved, not just what you stretched.
+## Coming next week
+
+The tool intro is these two days. **Next week is the real design work:** you pick a real app or website
+screen that frustrates you, prove exactly what is wrong with it in design language, wireframe a fix, and
+build that fix in Figma as a working prototype. That before and after pairing goes on your portfolio.
+
+Start thinking now about a screen that annoys you. You will need one Monday.
