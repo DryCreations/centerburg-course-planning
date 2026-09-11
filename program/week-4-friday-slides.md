@@ -139,6 +139,7 @@ they choose: draw quietly or take the retake.
 `quiz-bank.csv`, `handouts/quiz-screenshot-blocks.md`
 **Before class:** cut the bank to 20, run the Apps Script, **then insert the block screenshots by hand** into
 the last 10 questions. The Apps Script does not place images.
+**Out of time?** Run `quiz-bank-text-only.csv` instead: 22 text questions, no images, cut to 20 and go.
 
 ### Slide 1: As You Come In
 
@@ -177,6 +178,7 @@ the last 10 questions. The Apps Script does not place images.
 ## 4. Aviation UAS: QUIZ, pull footage, debrief
 
 **Today's documents:** `courses/aviation-uas/planning/week-4/quiz.md` (teacher-only), `quiz-bank.csv`
+**Before class:** cut the 59 question bank to 20. No images needed, so there is no manual insertion pass.
 **Shape of the period:** quiz first, whole class silent. **As each group finishes, the first one done pulls
 that group's footage and submits it to Classroom.** Nothing gets watched until it is submitted. Once
 everyone is in, watch as a group and debrief.
@@ -190,12 +192,14 @@ everyone is in, watch as a group and debrief.
 
 ### Slide 2: What is on it
 
-> Create one slide for a high school drone class titled "What Is On the Quiz." Body: "Everything from the UAS
-> introduction course modules plus what we have covered in class through last Friday: METAR and weather
-> decoding, Part 107 rules and limits, TRUST versus Part 107, RPIC and visual observer roles, visual line of
-> sight, airspace and LAANC, the four forces of flight, the Mode 2 controller layout, heading versus
-> pointing, preflight, lost link, and flight logging. Some questions give you a real METAR and ask you to make
-> a go or no-go call." One slide, large readable text.
+> Create one slide for a high school drone class titled "What Is On the Quiz." Present as four short groups
+> with headers. WEATHER: what a METAR is, METAR versus TAF, and the UNITS for each field, knots for wind,
+> statute miles for visibility, Celsius for temperature, feet above ground for clouds. FLYING: yaw, pitch, and
+> roll, the four forces, the Mode 2 stick layout, and what the drone does when you push each stick. RULES: the
+> 400 foot limit, 3 statute miles of visibility, cloud clearance, visual line of sight, and when a drone has to
+> be registered. CERTIFICATES: what Part 107 is, what TRUST is, and which one you need for what. Add at the
+> bottom: "Mostly straightforward recall. If you know what it is and what unit it is in, you are in good
+> shape." One slide, clear grouped layout.
 
 ### Slide 3: Do Now (and what happens when you finish)
 

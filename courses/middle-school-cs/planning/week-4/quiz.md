@@ -3,6 +3,9 @@
 **Teacher-only.** The first real quiz of the year, after lunch.
 
 **Bank:** `quiz-bank.csv`, 34 questions. **Cut to 20.**
+**Text only fallback:** `quiz-bank-text-only.csv`, the same 22 text questions with every screenshot row
+stripped out. If prep time disappears, run that file straight through the Apps Script and you have a
+complete, valid 20-question quiz with **no images to insert at all.**
 **Screenshots:** `handouts/quiz-screenshot-blocks.md`, 12 snippets matching `[SCREENSHOT 1]` to
 `[SCREENSHOT 12]`.
 
