@@ -136,10 +136,11 @@ they choose: draw quietly or take the retake.
 ## 3. Middle School CS: QUIZ, then maze work
 
 **Today's documents:** `courses/middle-school-cs/planning/week-4/quiz.md` (teacher-only),
-`quiz-bank.csv`, `handouts/quiz-screenshot-blocks.md`
-**Before class:** cut the bank to 20, run the Apps Script, **then insert the block screenshots by hand** into
-the last 10 questions. The Apps Script does not place images.
-**Out of time?** Run `quiz-bank-text-only.csv` instead: 22 text questions, no images, cut to 20 and go.
+`quiz-bank.csv` (30 text questions), `quiz-screenshot-questions.csv` (12),
+`handouts/quiz-screenshot-blocks.md`
+**Before class:** cut `quiz-bank.csv` to 20 and run the Apps Script. That alone is a complete quiz.
+**If you have time:** add block-reading questions from `quiz-screenshot-questions.csv`, making each image
+from the handout. The Form shuffles everything, so they mix in wherever you add them.
 
 ### Slide 1: As You Come In
 
@@ -178,7 +179,7 @@ the last 10 questions. The Apps Script does not place images.
 ## 4. Aviation UAS: QUIZ, pull footage, debrief
 
 **Today's documents:** `courses/aviation-uas/planning/week-4/quiz.md` (teacher-only), `quiz-bank.csv`
-**Before class:** cut the 59 question bank to 20. No images needed, so there is no manual insertion pass.
+**Before class:** cut the 30 question bank to 20. No images, nothing coupled, so there is no manual pass.
 **Shape of the period:** quiz first, whole class silent. **As each group finishes, the first one done pulls
 that group's footage and submits it to Classroom.** Nothing gets watched until it is submitted. Once
 everyone is in, watch as a group and debrief.

@@ -43,11 +43,15 @@ rather than being rushed or merged.
   students choose: work quietly or retake. **The room stays silent until the last retake is submitted.** Both
   classes have a slide stating that plainly, and both have a handout with every step written out so nobody
   needs to ask a question out loud.
-- **MS CS quiz rebuilt for blocks.** 34 questions: 22 text mirroring the Week 3 Gimkit review, then 12
-  block-reading questions keyed to screenshots. Cut to 20, screenshots grouped at the end so the images go in
-  in one pass. **No JavaScript appears anywhere a student sees**, since they code in blocks. Snippets to
-  paste and screenshot are in `handouts/quiz-screenshot-blocks.md`, ordered easiest to hardest so prep can be
-  cut short from the bottom.
+- **MS CS quiz rebuilt for blocks.** `quiz-bank.csv` is 30 text questions, cut to 20, covering Weeks 1 to 3:
+  if statements, comparisons, AND/OR, chains, remainder, variables and counters, sprites and events,
+  sequence, position and velocity, overlap and score, and debugging. **No JavaScript appears anywhere a
+  student sees**, since they code in blocks. Block-reading questions live separately in
+  `quiz-screenshot-questions.csv` with their images in `handouts/quiz-screenshot-blocks.md`, added to the
+  Form by hand only if there is prep time. The Form shuffles, so order does not matter.
+- **Aviation bank trimmed to 30**, awareness level, no images and nothing coupled. METAR and units, yaw,
+  pitch and roll, the Mode 2 sticks and the arc, legal limits, and Part 107 versus TRUST including why the
+  Part 107 certificate exists.
 - **Aviation Friday:** quiz first, then **the first person done in each group pulls that group's footage and
   submits it to Classroom.** Nothing gets watched until it is submitted, then debrief as a group.
 - **V&S carries into next week.** Storyboards start Friday and continue.
