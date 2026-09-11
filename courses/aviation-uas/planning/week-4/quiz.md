@@ -11,16 +11,22 @@ question stands alone, so delete any ten and what is left is still a valid quiz.
 
 ## What it assesses
 
-**Awareness, not mastery.** A first quiz over four weeks of introductory material. 20 of the 30 are straight
+**Awareness, not mastery.** A first quiz over four weeks of introductory material. 21 of the 30 are straight
 recall: does the student know what a thing is, what unit it is in, and what the legal limit is.
+
+> **No raw METAR decoding is on this quiz.** Students only started reading the actual coded text this week,
+> which is too recent to assess. Up to now they have been using the graphical weather interface, so they know
+> what a METAR is and what information it gives them. The bank tests exactly that: **what it is, what units
+> the values come in, and what the flight limits are.** Nothing asks them to decode a string like
+> `27012G22KT` or `OVC007`.
 
 | Section | Q | Covers |
 |---------|---|--------|
-| METAR and weather | 7 | What a METAR is, METAR vs TAF, and the units: knots for wind, statute miles for visibility, feet AGL for cloud height. Plus what G means and reading 2SM |
+| METAR and weather | 6 | What a METAR is, METAR vs TAF, and the units: knots for wind, statute miles for visibility, feet AGL for cloud height, Celsius for temperature |
 | Axes and controls | 8 | Yaw, pitch, roll each on their own; the Mode 2 stick layout; what happens when you push the right stick right versus the left stick right; and arcing around a subject |
 | Flight basics | 3 | Throttle, what happens when you let go of both sticks, RTH |
 | Four forces | 1 | Naming all four |
-| Legal limits | 5 | 400 ft AGL, 3 SM, 100 mph, VLOS, the 0.55 lb registration threshold |
+| Legal limits | 6 | 400 ft AGL, 3 SM visibility, 500 below and 2,000 horizontal from clouds, 100 mph, VLOS, the 0.55 lb registration threshold |
 | Part 107 and TRUST | 5 | What each is, how they differ, and two applied cases: filming a school promo video, and a 15 year old flying for fun |
 | Roles | 1 | RPIC |
 
@@ -35,7 +41,10 @@ Students mix these up constantly, so the bank asks directly:
 | Wind speed | **Knots**, not miles per hour |
 | Visibility | **Statute miles** |
 | Cloud height | **Feet above ground level** |
+| Temperature and dew point | **Celsius** |
 | Max altitude | **400 feet AGL** |
+| Min visibility | **3 statute miles** |
+| Cloud clearance | **500 ft below, 2,000 ft horizontally** |
 | Max groundspeed | **100 miles per hour** |
 
 ---
@@ -77,7 +86,9 @@ always `A`, so **let the script shuffle the options**, or shuffle by hand if bui
 ## What was cut
 
 This bank was trimmed from 92 questions. Everything cut is still in git history if you want it back,
-including a four-question `AV-S1` scenario set off one real METAR, more detailed METAR decoding, the Week 2
+including a four-question `AV-S1` scenario set off one real METAR and **all raw METAR decoding** (what G
+means in a wind group, reading `2SM`, `OVC007`, `BR`). That material is deliberately held back until they
+have had more than a week with the coded text; it belongs on the next quiz. Also cut: the Week 2
 controller day in depth (hover, home point, lost link behavior, small inputs), the four forces individually,
 NOTAMs and the FAA UAS Facility Map, preflight and battery safety, and more Part 107 module detail (night
 operations, flying over people, 24 month recurrency).
