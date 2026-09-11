@@ -16,7 +16,7 @@ rather than being rushed or merged.
 |-----|----|-----|----------|-------|----------|
 | **Wed Sep 9** | Portfolio catch-up: post + describe the poster, restructure the menu | Read a real BPA prompt, intro pre-production, brainstorm | **METAR scavenger hunt** on aviationweather.gov, then new roles, lock the plan, preflight | **Tile maps:** draw the maze, mark walls, player moves with collision | Aperture explainer + quick shoot, work time |
 | **Thu Sep 10** | UX/UI vocab, then **get into Figma** and build the player screen from a spec | **Script, storyboard, shot list** terms, then pick one idea and write both | **FLIGHT DAY** | Quiz-shaped **bell ringer**, then build the counter and win **live on the board** | Work time: cameras or spreads, their choice |
-| **Fri Sep 11** | **Retake first thing**, then connect two frames into a working prototype | Start storyboarding + optional retake | **QUIZ** (Weeks 1 to 4), then footage debrief | **QUIZ** (if statements only), then maze work | Aperture pair due, work time |
+| **Fri Sep 11** | 10 min demo, then make the prototype click, or retake. **Silent room** | Start storyboarding + optional retake | **QUIZ** (Weeks 1 to 4), then footage debrief | **QUIZ** (if statements only), then maze work | Aperture pair due; spread work; grade check-ins |
 
 ## Changes made this week
 
@@ -39,8 +39,17 @@ rather than being rushed or merged.
   goes into tool fluency, and "did I match it?" is a self-check.
 - **The redesign project moves to next week**, when the tool is no longer the obstacle. Its material is
   already written (`handouts/thu-teardown-and-setup.md`) and Thursday's bell ringer seeds it.
-- **Friday's DT retake opens at the start of class.** The prototyping work is self-paced and independent, so
-  retakers rejoin whenever they finish. Nothing is time-gated.
+- **Friday's DT and V&S retakes open at the start of class.** New content is capped at **ten minutes**, then
+  students choose: work quietly or retake. **The room stays silent until the last retake is submitted.** Both
+  classes have a slide stating that plainly, and both have a handout with every step written out so nobody
+  needs to ask a question out loud.
+- **MS CS quiz rebuilt for blocks.** 34 questions: 22 text mirroring the Week 3 Gimkit review, then 12
+  block-reading questions keyed to screenshots. Cut to 20, screenshots grouped at the end so the images go in
+  in one pass. **No JavaScript appears anywhere a student sees**, since they code in blocks. Snippets to
+  paste and screenshot are in `handouts/quiz-screenshot-blocks.md`, ordered easiest to hardest so prep can be
+  cut short from the bottom.
+- **Aviation Friday:** quiz first, then **the first person done in each group pulls that group's footage and
+  submits it to Classroom.** Nothing gets watched until it is submitted, then debrief as a group.
 - **V&S carries into next week.** Storyboards start Friday and continue.
 - **Aviation gets its first quiz, Friday.** New 40-question bank (`quiz-bank.csv`), cut to 20, covering Weeks 1
   to 4: METAR decoding, Part 107 limits, airspace, controls, preflight. Wednesday's **METAR scavenger hunt** on

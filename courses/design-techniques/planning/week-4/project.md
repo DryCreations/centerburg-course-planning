@@ -24,7 +24,8 @@ find a screen that does not work, figure out why, and redesign it. Part B contin
 **Category: Labs. Graded on completion.** You are learning the tool, not being judged on design.
 
 Full step-by-step instructions, including everything you need if you were absent:
-`handouts/figma-intro-build.md`
+`handouts/figma-intro-build.md` (Thursday, building the screen) and `handouts/friday-make-it-click.md`
+(Friday, making it click).
 
 You build a music player phone screen from a written spec, then make a second version of it and connect the
 two so your play button actually clicks through.
@@ -42,6 +43,7 @@ thing slowing you down.
 | 3 | Frame 2, `Player - Paused`, a copy with at least two visible changes |
 | 4 | The two frames connected **both ways** in the Prototype tab |
 | 5 | It works when you hit **Present**: you can click back and forth |
+| 6 | **The bar for "done":** someone can click one thing and the screen responds. Either the play button becomes a paused button, or a button takes them to a different screen. Either counts. |
 | 6 | The file link shared on Google Classroom |
 
 ### Turn in

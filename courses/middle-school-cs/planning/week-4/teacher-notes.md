@@ -24,3 +24,23 @@ Student doc is `outline.md`; the lab is `project.md`; the tile map guide is
 
 Listed in `project.md` in difficulty order: harder maze, swap tile art, add an enemy, add a second level, add
 a timer. Point fast finishers at these rather than letting them idle.
+
+## Friday quiz build (do this before lunch)
+
+The quiz is **20 questions: 10 text, then 10 block-reading with screenshots.** Full instructions in
+`quiz.md`.
+
+1. Cut `quiz-bank.csv` (34 questions) to 20, keeping the `[SCREENSHOT]` rows **last**
+2. Paste into the quiz spreadsheet tab and run the Apps Script
+3. **Then insert the block screenshots by hand.** The Apps Script does not place images.
+
+Make the images from `handouts/quiz-screenshot-blocks.md`: paste each JavaScript snippet into MakeCode's
+JavaScript tab, switch to **Blocks**, screenshot the blocks. **Clear the editor between each one** or
+leftover code lands in your screenshot.
+
+The 12 snippets are **ordered easiest to hardest**, so if prep time runs out, cut from the bottom and delete
+those questions from the Form. Keep number 10: it is the exact bug from Thursday's live build.
+
+**Every question is worded in block language.** No JavaScript appears anywhere a student sees. The handout
+ends with a translation table (`==` becomes `=`, `&&` becomes `and`, `%` becomes "remainder of"). Check any
+question you reword against it.

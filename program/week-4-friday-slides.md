@@ -2,299 +2,235 @@
 
 **Three day week:** Wed, Thu, Fri. Every block is **one prompt, for one slide.**
 
-> **Three quizzes today.** Design Techniques and Video & Sound run an **optional independent retake** of last
-> week's quiz during work time (the retake score **replaces** the original). **Middle School CS and Aviation
-> both take their first real quiz**, whole class, silent.
+> **Three assessments today.** DT and V&S run an **optional retake** of last week's quiz. **MS CS and
+> Aviation take their first real quiz**, whole class.
 
-> **Design Techniques opens its retake at the start of class.** Friday's DT work is self-paced and
-> independent, so retakers rejoin whenever they finish and nothing is time-gated. V&S storyboards continue
-> into next week; do not rush them to finish in one period.
+> **The silent room rule (DT and V&S).** New content is capped at **ten minutes** at the start of class.
+> After that, everyone chooses: work quietly, or take the retake. **The room stays silent until every person
+> taking the retake has turned it in.** No talking, no music out loud, no questions across the room. When the
+> last one submits, normal work noise resumes. This is on a slide in both classes.
+
+| Class | Slides | Shape |
+|-------|--------|-------|
+| Design Techniques | 6 | 10 min demo and vocab, then silent choice |
+| Video & Sound | 5 | 10 min storyboard demo, then silent choice |
+| Middle School CS | 4 | Quiz, then maze work |
+| Aviation UAS | 4 | Quiz, pull footage, debrief |
+| Yearbook | 1 | Work time |
 
 ---
 
-## 1. Design Techniques: Make it click + retake first thing
+## 1. Design Techniques: Make it click + retake
 
-**Today's documents:** `courses/design-techniques/planning/week-4/handouts/figma-intro-build.md` (Part 4)
-**Run it as:** **retake opens the moment class starts.** Everything today is self-paced and independent, so
-retakers just join in when they finish. Nothing is time-gated and nothing is due until the end of the period.
+**Today's documents:** `courses/design-techniques/planning/week-4/handouts/friday-make-it-click.md`
+**Run it as:** demo the interaction live on the projector in **under ten minutes**, then they choose: work
+quietly or take the retake. The handout has every step, so nobody needs to ask you anything out loud.
 **Retake:** optional, independent. The **retake score replaces the original.** One time only, because it was
 the first quiz of the year.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Two
-> things. If you want the QUIZ RETAKE, open it on Google Classroom right now and take it, the quiz is open
-> from the second class starts and your retake score REPLACES your original. Everyone else: open your Figma
-> file from yesterday. Today we make your screen actually click." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
+> your Figma file from yesterday. If you want the QUIZ RETAKE, it is open on Google Classroom right now and
+> your retake score REPLACES your original. Watch the demo first, it takes five minutes, then choose: work or
+> retake." Large, clean. One slide.
 
-### Slide 2: Today
+### Slide 2: The room is silent
 
-> Create one agenda slide for a high school design class titled "Today: Make It Click." Text: Today's skill
-> is PROTOTYPING, the last step of the UX/UI design process, standard 2.15.1. Agenda: 1) Copy your screen, 2)
-> Change two things on the copy, 3) Connect them so the play button works, 4) Test it in Present. Add a box:
-> "Self-paced. If you are taking the retake, do that first and jump in when you are done, you will not be
-> behind." Large readable text. One slide.
+> Create one classroom expectations slide titled "Silent Until Everyone Is Done." Body in large text: "Some
+> people are taking the quiz retake today. Until the LAST person taking it has turned it in: no talking, no
+> music out loud, no questions across the room. If you need me, raise your hand and I will come to you.
+> Everything you need for today's work is written in the handout on Google Classroom." Add at the bottom:
+> "When the last retake is submitted, we go back to normal." High contrast, large, unmistakable. One slide.
 
-### Slide 3: What a prototype is
+### Slide 3: Today's goal
 
-> Create one slide for a high school design class titled "What You Are About To Do." Body: "A PROTOTYPE is a
-> rough, connected version of a design that you can actually click through. It exists to answer one question:
-> DOES THIS WORK? Designers build one before anybody writes a single line of code, because it is far cheaper
-> to find out something is confusing now than after it is built." Add underneath in large text: "In about
-> fifteen minutes, the thing you made yesterday is going to work." One slide.
+> Create one slide for a high school design class titled "Today's Goal: Make It Click." Body in large text:
+> "Someone should be able to click ONE thing on your screen and have the screen respond. That is a PROTOTYPE,
+> the last step of the design process." Then two options in boxes: "Option 1: clicking the play button takes
+> you to a version where the button looks paused. Option 2: clicking a button takes you to a different screen
+> entirely." Caption underneath: "Either one counts. That is the whole bar for today." One slide.
 
-### Slide 4: The steps
+### Slide 4: The four steps
 
 > Create one instructional slide for a high school design class titled "Four Steps." Large numbered list with
-> plenty of space: 1) Press V, click the frame NAME above your screen to select the whole thing, then Ctrl+C
-> and Ctrl+V. Drag the copy next to the original and rename it "Player - Paused." 2) On the COPY only, change
-> two things so they look different: make the play button gray, and make the white progress bar a different
-> width. 3) Top right, switch from Design to the PROTOTYPE tab. Click your play button, then drag the blue +
-> from its edge across to the second frame. 4) Hit PRESENT, the play triangle at the top right, and click your
-> button. Press Esc to come back. Add a box: "Then do it in reverse so you can click back and forth." One
-> slide, large and legible from the back of the room.
+> plenty of space: 1) Press V, click the frame NAME above your screen, then Ctrl+C and Ctrl+V. Drag the copy
+> next to the original and rename it. 2) On the COPY only, change two things so the screens look different,
+> for example make the play button gray and the progress bar a different width. 3) Top right, switch from
+> Design to the PROTOTYPE tab. Click your button, then drag the blue + from its edge across to the second
+> frame. 4) Hit PRESENT, the play triangle at the top right, and click your button. Esc to come back. Add a
+> box: "Then do it in reverse so you can click back and forth." One slide, large and legible from the back.
 
 ### Slide 5: Do Now
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Connect It." Body: "Follow
-> Part 4 in the handout. When you are done you should be able to hit Present and click back and forth between
-> two screens. Then share your file: top right, Share, set it to Anyone with the link, copy, and turn the link
-> in on Google Classroom." Add a box titled "Nothing happens when you click?": "You probably connected the
-> wrong layer. Check the layers panel on the left, make sure you selected the actual circle, and drag the +
-> again." Large, clean. One slide.
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Work or Retake." Two columns.
+> Left, "Working": follow the handout on Google Classroom, build the click, then Share, set it to Anyone with
+> the link, copy, and post the link on Classroom. Right, "Retaking": open the retake on Classroom and take it
+> now, then join the work when you finish, nothing is time-gated and you will not be behind. Add a box across
+> the bottom: "Nothing happens when you click? You connected the wrong layer. Check the layers panel on the
+> left, select the actual button shape, and drag the + again." One slide, clean two column layout.
 
-### Slide 6: If You Finish Early
+### Slide 6: Before You Leave
 
-> Create one slide for a high school design class titled "It Clicks? Push It." Numbered list: 1) Restyle the
-> whole screen in your own colors, and keep the play button the brightest thing on it. Does the hierarchy
-> still hold? 2) Add a THIRD frame, maybe a song list, and connect it. 3) In the Prototype tab, select the
-> arrow and change Animation from Instant to "Move in" or "Smart animate," then present it again. 4) Rebuild
-> the screen from memory in a new frame, without the spec. That is the fastest way to actually learn the
-> tools. One slide.
-
-### Slide 7: Before You Leave
-
-> Create one "Exit" slide titled "Before You Leave." Body: "Your file link is turned in on Classroom, with two
-> frames connected both ways and working in Present. Graded on completion: if it clicks, you are done." Add a
-> box: "NEXT WEEK we use Figma for real. You will pick an app or website screen that genuinely frustrates you
-> and redesign it. Start thinking about one this weekend, you will need it Monday." One slide, large text.
+> Create one "Exit" slide titled "Before You Leave." Body: "Your file link is posted on Classroom, two frames
+> connected both ways, working in Present. Graded on completion: if it clicks, you are done." Add a box in
+> large text: "NEXT WEEK we use Figma for real. You will pick an app or website screen that genuinely
+> frustrates you and redesign it. Start thinking about one this weekend. If you catch yourself getting
+> irritated at a screen before Monday, that is your target." One slide, large text.
 
 ---
 
 ---
 
-## 2. Video & Sound: Start storyboarding + optional retake
+## 2. Video & Sound: Storyboarding + retake
 
 **Today's documents:** `courses/video-and-sound/planning/week-4/project.md` (Part C)
-**Go over:** what a storyboard panel contains, then draw one per shot. Open the retake quietly for anyone who
-wants it.
-**Retake:** optional, independent, taken during work time. The **retake score replaces the original.** One
-time only, because it was the first quiz of the year.
+**Run it as:** show them what a storyboard actually looks like on the projector, **under ten minutes**, then
+they choose: draw quietly or take the retake.
+**Retake:** optional, independent. The **retake score replaces the original.** One time only.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get out
-> your shot list from yesterday and a blank sheet of paper. Fold or draw it into boxes, one box per shot. Stick
-> figures are completely fine today." Large, clean. One slide.
+> your shot list from yesterday and a blank sheet of paper. Fold or draw it into boxes, one box per shot. If
+> you want the QUIZ RETAKE, it is open on Google Classroom and your retake score REPLACES your original. Watch
+> the demo first, then choose." Large, clean. One slide.
 
-### Slide 2: Standards + Today
+### Slide 2: The room is silent
 
-> Create one standards and agenda slide for a high school video class titled "Today: Storyboard It." List this
-> standard with full text: 7.7.2 Analyze the script and storyboard to develop a production schedule. Then a
-> short agenda: 1) What goes in a storyboard panel, 2) Draw one panel per shot, 3) Partner reads it back. Large
-> readable text. One slide.
+> Create one classroom expectations slide titled "Silent Until Everyone Is Done." Body in large text: "Some
+> people are taking the quiz retake today. Until the LAST person taking it has turned it in: no talking, no
+> music out loud, no questions across the room. If you need me, raise your hand and I will come to you."
+> Add at the bottom: "When the last retake is submitted, we go back to normal." High contrast, large,
+> unmistakable. One slide.
 
-### Slide 3: What goes in a panel
+### Slide 3: One panel, one shot
 
-> Create one slide for a high school video class titled "One Panel, One Shot." Body: "Each panel has: a SKETCH
-> of what is in frame (stick figures are fine), the SHOT TYPE written underneath (wide, close up, over the
-> shoulder), and a one-line note on any MOVEMENT (camera pans left, subject walks in). That is it. Art skill is
-> not being graded." One slide, large text.
+> Create one slide for a high school video class titled "One Panel, One Shot." Body: "Each panel has three
+> things: a SKETCH of what is in the frame, stick figures are completely fine; the SHOT TYPE written
+> underneath, wide, close up, over the shoulder; and a one-line note on any MOVEMENT, camera pans left,
+> subject walks in. That is it." Add in large text at the bottom: "Art skill is not being graded. Clarity
+> is." One slide.
 
-### Slide 4: Why storyboards catch problems
+### Slide 4: Why we do this on paper
 
 > Create one slide for a high school video class titled "This Is Where You Find the Holes." Body: "When you
-> draw your shots in order, you notice things a list hides: two shots in a row that look identical, a jump that
-> makes no sense, a moment you never actually showed. Better to find that now on paper than with a camera in
-> your hand." One slide, large text.
+> draw your shots in order, you notice things a list hides: two shots in a row that look identical, a jump
+> that makes no sense, a moment you never actually showed. Far better to find that now, on paper, than with a
+> camera in your hand and a location you only get once." One slide, large text.
 
 ### Slide 5: Do Now
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Draw Every Shot." Body: "Draw
-> one panel for every shot on your list, in order. Under each panel write the shot type and any camera or
-> subject movement. When all panels are done, look at them in sequence: does it read as a story from first to
-> last?" Large, clean. One slide.
-
-### Slide 6: Turn and Talk
-
-> Create one "Turn and Talk" slide for a high school video class. Big title: "Turn and Talk: Read the
-> Storyboard." Body: "Hand your storyboard to a partner with no explanation. They tell you the story just from
-> the panels. Where they get confused is where your storyboard has a gap. Write down what they missed, then
-> switch." One slide, large text.
-
-### Slide 7: If You Finish Early
-
-> Create one slide for a high school video class titled "Storyboard Done?" Numbered list: 1) Write your
-> production schedule: what gets filmed when and where. 2) List the equipment each shot needs. 3) Mark the one
-> shot you think is hardest and write a backup plan for it. 4) Add a title card or ending shot if your video
-> needs one. One slide.
-
-### Slide 8: Before You Leave
-
-> Create one "Exit" slide titled "Before You Leave." Body: "You should have storyboard panels started, with
-> shot types noted. This CONTINUES NEXT WEEK, so keep your shot list and panels together. If you wanted the
-> quiz retake and did not get to it, see me." One slide, large text.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Draw or Retake." Two columns.
+> Left, "Drawing": one panel for every shot on your list, in order, with the shot type and any movement noted
+> under each. When all panels are done, look at them in sequence and ask whether it reads as a story from
+> first to last. Right, "Retaking": open the retake on Classroom and take it now, then join the drawing when
+> you finish. Add a box across the bottom titled "Panels done?": write your production schedule, list the
+> equipment each shot needs, mark the hardest shot and write a backup plan for it. One slide, clean two column
+> layout.
 
 ---
 
 ---
 
-## 3. Aviation UAS: QUIZ, then footage debrief
+## 3. Middle School CS: QUIZ, then maze work
 
-**Today's documents:** `courses/aviation-uas/planning/week-4/quiz-bank.csv` (40 questions, cut to 20),
-`quiz.md`, plus flight logs
-**Go over:** quiz first, then watch Thursday's footage and debrief. **First quiz of the year for this class.**
-
-*No partner slide before the quiz on purpose: the room is silent. The turn and talk comes after, during the
-debrief.*
+**Today's documents:** `courses/middle-school-cs/planning/week-4/quiz.md` (teacher-only),
+`quiz-bank.csv`, `handouts/quiz-screenshot-blocks.md`
+**Before class:** cut the bank to 20, run the Apps Script, **then insert the block screenshots by hand** into
+the last 10 questions. The Apps Script does not place images.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school drone class on a quiz day. Big title: "As You Come In."
-> Body: "Open Google Classroom and wait. I will open the quiz once everyone is ready. From that point the room
-> is SILENT until I say everyone has finished. Stay on the quiz tab. This is NOT open note. Have your flight log
-> out for after." Large, clean, readable from the back. One slide.
+> Create one "As You Come In" slide for a middle school computer science class. Big title: "As You Come In."
+> Body: "Quiz today. Get logged in and open Google Classroom, but do NOT start yet. Close everything else,
+> including your maze project. Phones away." Large, clean, minimal. One slide.
 
-### Slide 2: What's On It
+### Slide 2: What is on it
 
-> Create one slide for a high school drone class titled "What the Quiz Covers." Body: "Weeks 1 to 4. Reading a
-> METAR: wind, gusts, visibility, cloud layers, ceiling. METAR vs TAF vs NOTAM. Part 107 limits: 3 statute
-> miles, cloud clearance, 400 feet, registration. TRUST vs Part 107. RPIC and visual observer. VLOS. Airspace
-> classes and LAANC. The four forces. Mode 2 controls, heading vs pointing. Preflight and airworthiness." One
-> slide, large readable text.
+> Create one slide for a middle school computer science class titled "What Is On the Quiz." Two columns.
+> Left, "ON IT": if and if/else; comparisons, including the difference between greater than and greater than
+> or equal to; AND and OR; the remainder block for "every Nth"; if / else if / else chains; variable traces;
+> counters; win and lose conditions. Right, "NOT ON IT": tile maps, walls, and collision. Add a box at the
+> bottom in large text: "Some questions show you a picture of BLOCKS. Read them the same way you read your own
+> code: top to bottom." One slide, clear two column layout.
 
 ### Slide 3: Do Now
 
-> Create one "Do Now" slide for a high school drone class taking a quiz. Big title: "Do Now: Take the Quiz."
-> Body: "Take the quiz now. Stay silent until I say everyone is done. Stay on the quiz tab. If you finish early:
-> do NOT talk. Start filling in your flight log from yesterday and write your debrief notes quietly." Large,
-> clean. One slide.
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Take the Quiz."
+> Body: "Open the quiz on Google Classroom. Stay on the quiz tab. Work silently, all the way to the end. This
+> is not open note. When you submit, go straight back to your maze and work quietly, people are still
+> testing." Large, clean. One slide.
 
-### Slide 4: After the Quiz, the debrief
+### Slide 4: After the quiz
 
-> Create one slide for a high school drone class titled "After the Quiz: Watch the Footage." Body: "As each
-> group's clip plays, answer: Did the shot match what your plan said it would be? Did the NEW roles work better
-> than the first attempt? What is one specific thing you did better this time?" One slide, large text.
+> Create one slide for a middle school computer science class titled "Finished? Back to Your Maze." Numbered
+> list: 1) Make sure your maze is actually winnable, items placed, counter counting, and the if number
+> matching how many items you really put in. 2) Make the maze harder with dead ends and longer paths. 3) Swap
+> your tile art to a different theme. 4) Add an enemy that costs you a life. 5) Add a second level that loads
+> a new tile map. Add a box: "Work quietly. People are still testing." One slide.
 
-### Slide 5: Turn and Talk
+---
 
-> Create one "Turn and Talk" slide for a high school drone class. Big title: "Turn and Talk: Two Attempts."
-> Body: "Tell another group: what did you change between your first flight and this one, and did it actually
-> improve the shot? Then listen to theirs and steal one good idea for next time." One slide, large text.
+---
 
-### Slide 6: Do Now, close it out
+## 4. Aviation UAS: QUIZ, pull footage, debrief
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Close It Out." Body: "With your group:
-> 1) Confirm your footage is offloaded and named. 2) Finish your flight log: aircraft, pilot, duration, notes.
-> 3) Write your debrief: what changed from attempt one to attempt two, and did it work? 4) Note one thing to try
-> on the next mission." Large, clean. One slide.
-
-### Slide 7: Before You Leave
-
-> Create one "Exit" slide titled "Before You Leave." Body: "Quiz submitted. Footage named, flight log closed,
-> debrief written. Keep working ODOT Part 107 Module 1." One slide, large text.
-
-## 4. Middle School CS: QUIZ, then maze work time
-
-**Today's documents:** `courses/middle-school-cs/planning/week-4/quiz-bank.csv` (cut to 20 before posting)
-**Go over:** nothing new. Quiz first, then maze work time. **Covers if statements and everything before, NOT
-tile maps or collision.**
-
-*No partner or turn-and-talk slide here on purpose: the room is silent for the quiz, and finishers go straight
-to independent build time.*
+**Today's documents:** `courses/aviation-uas/planning/week-4/quiz.md` (teacher-only), `quiz-bank.csv`
+**Shape of the period:** quiz first, whole class silent. **As each group finishes, the first one done pulls
+that group's footage and submits it to Classroom.** Nothing gets watched until it is submitted. Once
+everyone is in, watch as a group and debrief.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a middle school computer science class on a quiz day. Big title: "As
-> You Come In." Body: "Open Google Classroom and wait. I will open the quiz once everyone is ready. From that
-> point the room is SILENT until I say everyone has finished. Stay on the quiz tab the whole time. This is NOT
-> open note." Large, clean, readable from the back of the room. One slide.
-
-### Slide 2: What's On It
-
-> Create one slide for a middle school computer science class titled "What the Quiz Covers." Body: "IF
-> STATEMENTS and everything before them: if and if/else, comparisons like greater than and greater than or
-> equal to, AND and OR, every-Nth with modulo, variables, sprites, events, and overlap. NOT on this quiz: tile
-> maps, walls, or collision. Those were only introduced this week." One slide, large readable text.
-
-### Slide 3: Do Now
-
-> Create one "Do Now" slide for a middle school computer science class taking a quiz. Big title: "Do Now: Take
-> the Quiz." Body: "Take the quiz now. Stay silent until I say everyone is done. Stay on the quiz tab. If you
-> finish early: do NOT talk. Go straight to your maze project and keep building quietly." Large, clean. One
+> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Quiz
+> today, the first one of the year. Get logged in and open Google Classroom, but do NOT start yet. Sit with
+> your flight group. Have yesterday's flight log out where I can see it. Phones away." Large, clean. One
 > slide.
 
-### Slide 4: After the Quiz
+### Slide 2: What is on it
 
-> Create one slide for a middle school computer science class titled "After the Quiz: Back to the Maze." Body:
-> "Your maze needs: a map you drew, walls that stop the player, items placed, a counter variable, and an if that
-> ends the game when you collect them all. Already done? Try an extension: harder maze, new tile art, an enemy,
-> a second level, or a timer." One slide, large readable text.
+> Create one slide for a high school drone class titled "What Is On the Quiz." Body: "Everything from the UAS
+> introduction course modules plus what we have covered in class through last Friday: METAR and weather
+> decoding, Part 107 rules and limits, TRUST versus Part 107, RPIC and visual observer roles, visual line of
+> sight, airspace and LAANC, the four forces of flight, the Mode 2 controller layout, heading versus
+> pointing, preflight, lost link, and flight logging. Some questions give you a real METAR and ask you to make
+> a go or no-go call." One slide, large readable text.
 
-### Slide 5: Before You Leave
+### Slide 3: Do Now (and what happens when you finish)
 
-> Create one "Exit" slide titled "Before You Leave." Body: "Share your maze project link before you go. The
-> Maze Collector lab continues next week, so your project should be saved and shared." One slide, large text.
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Quiz, Then Footage." Numbered
+> body in large text: "1) Take the quiz on Google Classroom. Silent, stay on the quiz tab, not open note. 2)
+> FIRST PERSON IN YOUR GROUP TO FINISH: pull your group's footage off the card and submit it to Google
+> Classroom. Right away, do not wait for the rest of your group. 3) Everyone else, when you finish: sit
+> quietly, people are still testing." Add a box at the bottom in large text: "We cannot watch anything that
+> has not been submitted. No submission, no screen time for your group." One slide.
+
+### Slide 4: The debrief
+
+> Create one slide for a high school drone class titled "Debrief: Watch It Like a Pilot." Body: "As we watch
+> each group's footage, everyone answers these out loud: 1) Did the shot match what the mission plan said it
+> would be? 2) Where is the aircraft heading versus where is the camera pointing? 3) What would you change
+> about the flight path to get a better version of this shot? 4) What went right that we should do again next
+> time?" Add at the bottom: "Critique the flight, not the person." One slide, large text.
 
 ---
 
-## 5. Yearbook: Aperture set due + work time
+## 5. Yearbook: Work time
 
 **Today's documents:** `courses/yearbook/planning/week-4/project.md`
-**Go over:** collect the aperture pair, then work time. **No PDF check-in this week.**
+**You are:** updating grades and checking in with people one at a time. Everyone should be working on one of
+the two things on the slide.
 
-### Slide 1: As You Come In
+### Slide 1: As You Come In (the only slide, leave it up)
 
-> Create one "As You Come In" slide for a high school yearbook class. Big title: "As You Come In." Body: "Two
-> things: (1) submit your aperture pair, both shots named, with your one sentence. (2) Open your spread and
-> check it out. If your shots are not offloaded yet, do that first." Large, clean. One slide.
-
-### Slide 2: Focus + Today
-
-> Create one focus and agenda slide for a high school yearbook class titled "Today: Turn In and Build." Text:
-> Focus areas: craft (the photo grade) and production and deadlines. Agenda: 1) Aperture pair due, 2) Spread
-> work time, 3) Weekly status before you leave. Add a note: "No PDF check-in this week. Check-ins are every
-> other week now, next one is Week 6." Large readable text. One slide.
-
-### Slide 3: The aperture pair, one more time
-
-> Create one slide for a high school yearbook class titled "What You Are Turning In." Checklist: Shot A at a LOW
-> f number, blurry background; Shot B, same subject, HIGH f number, more in focus; both sharp on the face; both
-> offloaded and named; one sentence on which works better for a yearbook portrait and why. One slide, large text.
-
-### Slide 4: Do Now
-
-> Create one "Do Now" slide for a high school yearbook class. Big title: "Do Now." Body: "1) Submit your
-> aperture pair with the sentence. 2) Then straight to your spread. Target: every photo frame has a caption box,
-> every text box uses a preset, and your 'design by' credit is on the page." Large, clean. One slide.
-
-### Slide 5: If You Finish Early
-
-> Create one slide for a high school yearbook class titled "Turned In and Caught Up?" Numbered list: 1) Write
-> real captions for placed photos. 2) List the photos you still need and when you will shoot them. 3) Sign up
-> for a weekend camera checkout. 4) Help a beat-mate whose page is behind. One slide.
-
-### Slide 6: Partner Check
-
-> Create one "Partner Check" slide for a high school yearbook class. Big title: "Partner Check." Body: "Trade
-> screens with a partner. On their spread, answer out loud: Which photo is dominant? Does every photo have room
-> for a caption and a credit? Is anything important crossing the gutter? Give them the single most useful fix
-> you can see." One slide, large text.
-
-### Slide 7: Before You Leave
-
-> Create one "Exit" slide titled "Before You Leave." Body: "Weekly status: what did you finish, what are you
-> stuck on, what is due next? Check your page back in before you go." One slide, large text.
+> Create one work-time slide for a high school yearbook class. Big title: "As You Come In." Body: "Pick what
+> you are working on and get started. Either: FINISH YOUR APERTURE PAIR, offload the shots you took, pick your
+> two, name the files, and write your one sentence on which one works better for a yearbook portrait and why.
+> Or: WORK YOUR SPREAD in eDesign, new book or old book, whichever you are actually assigned to. Every photo
+> frame gets a caption box next to it, every text box uses a preset, and your design-by credit goes on there."
+> Add a box at the bottom in large text: "Aperture pair is due TODAY. I will be coming around to check in with
+> each of you and go over your grade." Large, clean, designed to stay on the board all period. One slide.
 
 ---
 
@@ -302,14 +238,8 @@ to independent build time.*
 
 | Class | Today | Note |
 |-------|-------|------|
-| Design Techniques | **Retake first thing**, then connect two frames into a working prototype | Lab, completion grade. Real design work starts next week |
-| Video & Sound | Start storyboarding + optional retake | Continues next week |
-| Aviation UAS | **QUIZ** (Weeks 1 to 4), then footage debrief | First quiz for this class |
-| Middle School CS | **QUIZ** (if statements only), then maze work | Maze lab continues next week |
-| Yearbook | Aperture pair due, work time | No PDF check-in this week |
-
-## Bleeding into next week
-
-- **DT:** wireframes (Portfolio Wireframe Plan, Part B)
-- **V&S:** storyboards (Storyboard & Shot Plan, Part C)
-- **MS CS:** the Maze Collector lab
+| Design Techniques | 10 min demo, then make the prototype click, or retake | **Silent until the last retake is in.** Handout has every step so nobody has to ask out loud |
+| Video & Sound | 10 min storyboard demo, then draw, or retake | **Silent until the last retake is in** |
+| Middle School CS | **QUIZ**, then maze work | 20 questions, last 10 are block screenshots. Insert images by hand before class |
+| Aviation UAS | **QUIZ**, then footage and debrief | First person done in each group submits the group's footage. Nothing gets watched until it is submitted |
+| Yearbook | Work time: aperture pair or spread | Aperture pair due today. Grade check-ins while they work |
