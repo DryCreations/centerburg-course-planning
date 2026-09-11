@@ -2,8 +2,8 @@
 
 **Teacher-only.** The first real quiz of the year, after lunch.
 
-**Bank:** `quiz-bank.csv`, 34 questions. **Cut to 20.**
-**Text only fallback:** `quiz-bank-text-only.csv`, the same 22 text questions with every screenshot row
+**Bank:** `quiz-bank.csv`, 60 questions. **Cut to 20.** Deliberately oversized so you can delete freely.
+**Text only fallback:** `quiz-bank-text-only.csv`, the same 48 text questions with every screenshot row
 stripped out. If prep time disappears, run that file straight through the Apps Script and you have a
 complete, valid 20-question quiz with **no images to insert at all.**
 **Screenshots:** `handouts/quiz-screenshot-blocks.md`, 12 snippets matching `[SCREENSHOT 1]` to
@@ -21,7 +21,7 @@ Suggested cut to 20:
 
 | Part | Count | From |
 |------|-------|------|
-| Text, concepts and traces | 10 | Rows 2 to 23 of the bank |
+| Text, concepts and traces | 10 | Any of the 48 text rows |
 | Block reading, with screenshots | 10 | `[SCREENSHOT]` rows, in order |
 
 The screenshot snippets are **ordered easiest to hardest**, so cutting from the bottom keeps the quiz
@@ -42,6 +42,16 @@ balanced instead of accidentally removing all the easy ones.
 ---
 
 ## Covers
+
+**Weeks 1 to 3 only.** Added coverage beyond the original if-statement focus:
+
+| Topic | Questions | From |
+|-------|-----------|------|
+| Sprites, events, sequence | 6 | Week 1 and 2, the Arcade tutorial and the game build |
+| Position and velocity | 5 | Week 2, the player you control and the sprite that moves on its own |
+| Overlap, score, lives, game over | 7 | Week 2, score and collisions, winning and losing |
+| Debugging and program development | 4 | Week 2 Thursday, plus the logic-error distinction |
+| Extra comparison and condition coverage | 4 | Week 3 |
 
 If and if/else, comparison operators including the `>` versus `≥` boundary case, AND and OR, the remainder
 block for "every Nth," if / else if / else chain order, variable traces, counters, and win and lose

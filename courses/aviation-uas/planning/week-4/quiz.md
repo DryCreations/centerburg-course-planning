@@ -2,7 +2,7 @@
 
 **Teacher-only.** The first quiz of the year for this class.
 
-**Bank:** `quiz-bank.csv`, 59 questions. **Cut to 20.**
+**Bank:** `quiz-bank.csv`, 92 questions. **Cut to 20.** Deliberately oversized so you can delete freely.
 
 ---
 
@@ -10,7 +10,7 @@
 
 **Awareness, not mastery.** This is a first quiz over four weeks of introductory material, so most of it is
 recall: does the student know what a thing is, what unit it is measured in, and what the legal limit is.
-32 of the 59 questions are low DOK by design.
+46 of the 92 questions are low DOK by design.
 
 The applied questions are limited to controller inputs, where "if you push this, the drone does that" is
 genuinely a thing they practiced, and to reading a real METAR.
@@ -23,10 +23,18 @@ genuinely a thing they practiced, and to reading a real METAR.
 | Part 107 and TRUST | 12 | What each one is, who needs which, cost, expiration, carrying proof, and telling them apart |
 | Roles, safety, airspace | 7 | RPIC, visual observer, controlled airspace, LAANC, preflight, lost link, flight logs, and honoring your own go/no-go limits |
 | METAR scenario (`AV-S1`) | 4 | One real METAR, decoded field by field, ending in a go/no-go call |
+| Controller day, Week 2 | 10 | Throttle, hover, home point, RTH, lost link behavior, center is stop, small inputs, Mode 2 |
+| Four forces, in detail | 5 | Lift, thrust, drag defined separately, and what the forces look like in a climb versus a hover |
+| Airspace and planning, Week 2 | 5 | Uncontrolled airspace, the FAA UAS Facility Map, ceiling values, NOTAM, METAR versus NOTAM |
+| Safety and preflight, Weeks 1 to 2 | 6 | Airworthy, a cracked propeller, battery level, lithium battery handling, the spectator line, announcing takeoff |
+| Part 107 course modules | 7 | VLOS, flying over people, night operations with anti-collision lighting, one aircraft at a time, careless operation, 24 month recurrent training, and an applied "what do I need" case |
 
 ---
 
 ## Cutting to 20
+
+**The bank is intentionally more than four times the length of the quiz.** Delete whatever does not fit what
+you actually emphasized. Nothing here depends on anything else except the `AV-S1` set.
 
 Keep the shape roughly proportional. A workable cut:
 
