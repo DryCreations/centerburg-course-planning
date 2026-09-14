@@ -4,6 +4,7 @@ Prebuilt bundles for grabbing on a machine where signing in is a hassle.
 
 | File | What it is |
 |------|-----------|
+| `week-5-materials.zip` | **Week 5 (Mon Sep 14 to Fri Sep 18), the whole week.** Full five day week. Slide prompts for all five days in `SLIDE-PROMPTS/`, plus every class's materials and both Friday quiz banks. Open `INDEX.md` inside for the map and the prep list. |
 | `week-4-materials.zip` | **Week 4 (Wed Sep 9 to Fri Sep 11), the whole week.** Three day week: Labor Day Monday, PD Tuesday. Slide prompts for all three days in `SLIDE-PROMPTS/`, plus every class's materials and both Friday quiz banks. Open `INDEX.md` inside for the map. |
 | `week-3-materials.zip` | Week 3 (Aug 31 to Sep 4): all five classes, the Friday quiz CSVs, the Gimkit banks, and the daily slide prompts. |
 
