@@ -10,11 +10,39 @@ deliberately avoided.
 
 | Day | Activity | Notes |
 |-----|----------|-------|
-| Mon | METAR anatomy: station, Zulu time, wind, visibility. Decode drill 1 | Pull **live** METARs on the projector every day. Real data beats invented examples |
+| Mon | METAR anatomy, then **group decoding on the board** with turn and talk. Drill 1. **Assign ODOT Module 1** | `handouts/decode-together.md` has five rounds of board codes, easiest to hardest, with answers |
 | Tue | Sky condition, temp and dew point, altimeter, weather codes. Drill 2 | The "add two zeros" trick for cloud heights is the highest-value thirty seconds of the week |
 | Wed | Weather hazards for small UAS. Drill 3 | Connect every hazard back to the aircraft. Why does a gust matter more than steady wind |
 | Thu | TAFs, then the Personal Minimums Card | Card is due end of period, signed, with a reason next to every number |
 | Fri | **Quiz**, then live weather briefs | Briefs are ~90 seconds each on a real current METAR |
+
+## Monday: decode together before they decode alone
+
+`handouts/decode-together.md` is built for this. Five rounds:
+
+1. **One field at a time**, key allowed. `27012KT`, `OVC007`, `24/13`
+2. **Short strings**, key allowed. Ask "which single number would decide this for you?"
+3. **No key.** Take the handout away and let them work it cold
+4. **Trap questions.** Gusting versus steady, `18/17`, BKN versus SCT at the same height, a stale timestamp
+5. **Build one backwards.** Hand them a scenario and have them write the METAR for it
+
+Put one on the board, give ninety seconds with a partner, take answers, reveal. **Start with the key
+available and take it away as they warm up.** Fluency comes from repetition with the reference before it
+comes from memory.
+
+Round 5 is the best diagnostic in the set. Writing a METAR backwards proves they can read one forwards.
+
+## ODOT Module 1
+
+**Assign it Monday, due Thursday Sep 24**, the day before next Friday's quiz, and tell them plainly that
+Module 1 material is on that quiz.
+
+They have a week and a half on purpose. **Chase account problems early:** tell them to report LDAP trouble
+the first day it happens, not the day it is due. Access issues took 48 hours or more to resolve back in week
+2.
+
+> **Check the date against your intent.** If you meant Module 1 due this Friday Sep 18 instead, it is a
+> one-line change in `project.md`, `outline.md`, and Monday's slide.
 
 ## Run the drills on live data
 

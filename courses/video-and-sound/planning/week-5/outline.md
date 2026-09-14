@@ -1,50 +1,54 @@
-# Week 5: Script Writing in Screenplay Format: Outline
+# Week 5: Camera Setup, Script Lock, and First Filming: Outline
 
 **Course:** Video & Sound Production (145110)
 **Quarter:** Q1 | **Week:** 5 | **Unit:** 1.2 Pre-Production | **Dates:** Mon Sep 14 to Fri Sep 18
 
-> **Nothing gets shot without a plan.** This week you write the script: the industry-standard format, the one
-> competition asks for. Editing software is not installed yet, so we stay in pre-production, which is exactly
-> where this unit belongs anyway.
+> **Plan it, then shoot it.** This week you finish the script, learn how to set up a camera properly for
+> video, and start filming Thursday.
 
 ---
 
 ## What This Week Covers
 
-Last week you picked an idea, wrote a shot list, and started a storyboard. This week you write the actual
-**script in screenplay format**: scene headings, action, character names, dialogue.
+**Monday:** how a camera gets set up for video, which is a different checklist than for photos, plus
+screenplay format. **Tuesday:** finish the script. **Wednesday:** table read, lock it, and plan the shoot.
+**Thursday and Friday:** filming starts.
+
+> **Editing software is not installed yet.** That does not stop us. Everything shot this week gets offloaded
+> and organized, ready to cut the moment it lands.
 
 ## Student Overview
 
 ### What You'll Be Able to Do
 
-- Write in industry-standard screenplay format with correct scene headings, action lines, and dialogue
-- Explain when screenplay format is used and when a two-column A/V script is used instead
-- Write action that describes only what a camera can actually record
-- Revise a script based on a table read
+- Set up a Canon Rebel for video: manual exposure, frame rate, the 180 degree shutter rule, white balance,
+  manual focus, and audio levels
+- Name the five camera mistakes that cannot be fixed in editing
+- Write in industry-standard screenplay format
+- Run a table read and revise from what you hear
+- Offload and organize footage so it is ready to edit
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Mon Sep 14 | Screenplay format: the five building blocks, and how it differs from two-column | Format drill |
-| Tue Sep 15 | Scene breakdown: turning your idea into scenes | Scene list |
-| Wed Sep 16 | Draft day: write pages | Draft in progress |
-| Thu Sep 17 | Table read and peer review | Marked-up draft |
-| Fri Sep 18 | Revise and submit. **Vocabulary quiz.** | Script draft 1 |
+| Mon Sep 14 | Camera setup for video. Screenplay format basics | Camera checklist run |
+| Tue Sep 15 | Scene breakdown and drafting | Script draft |
+| Wed Sep 16 | Table read, lock the script, plan the shoot | Locked script + shot plan |
+| Thu Sep 17 | **Filming starts** | First footage offloaded |
+| Fri Sep 18 | **Quiz**, then filming continues | Footage + script submitted |
 
 ### What You'll Get This Week
 
-- **The screenplay format handout**, with a full formatted example page
-- **The format drill:** reformat a badly written scene correctly
-- **This week's vocabulary:** 16 pre-production terms
-- **Friday:** a short vocabulary quiz on pre-production terms
-
-> **Scripts continue into next week.** Week 5 is draft 1. Weeks 6 and 7 are storyboard panels and the full
-> production package. This is the Q1 project.
+- **Setting Up the Camera for Video:** the full checklist, plus which body shoots what
+- **The screenplay format handout** with a full example page
+- **The format drill**
+- **This week's vocabulary**
+- **Friday:** a short quiz on pre-production and camera setup
 
 ### Standards Covered
 
 - **7.7.2** analyze the script and storyboard to develop a production schedule
 - **7.3.1** apply pre-production processes
-- **2.4** and **2.6** planning and documentation standards
+- **2.10** operate equipment according to manufacturer specifications
+- **7.7** video production techniques

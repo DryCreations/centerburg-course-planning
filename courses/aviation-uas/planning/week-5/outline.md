@@ -29,7 +29,7 @@ personal minimums. **Friday:** quiz, then a live weather brief.
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Mon Sep 14 | METAR anatomy: station, time, wind, visibility | Decode drill 1 |
+| Mon Sep 14 | METAR anatomy, then group decoding practice on the board | Decode drill 1 |
 | Tue Sep 15 | Sky condition, temperature and dew point, weather codes | Decode drill 2 |
 | Wed Sep 16 | Weather hazards for small UAS: wind, gusts, precipitation, fog, thunderstorms | Hazard chart |
 | Thu Sep 17 | TAFs, and writing your personal minimums | Personal minimums card |
@@ -39,6 +39,7 @@ personal minimums. **Friday:** quiz, then a live weather brief.
 
 - **The METAR Decoder:** every field, with practice METARs and answers. Keep this one
 - **Your Personal Minimums Card:** the limits you set for yourself, signed
+- **ODOT Part 107 course, Module 1**, assigned Monday, **due Thu Sep 24** before the next quiz
 - **This week's vocabulary:** weather and decision-making terms
 - **Friday:** a quiz on METAR decoding and weather hazards
 

@@ -94,36 +94,117 @@ background is streaked. It looks fast in a way a frozen shot does not.
 
 ---
 
-## Your assignment: the Shutter Speed Pair
+## Your assignment: the Shutter Speed Set
 
-Same idea as the aperture pair. **One subject, two shots, one setting changed.**
+**Four shots.** Each one proves you can make the camera do a specific thing on purpose. This is not four
+random photos: each has a target, and you have to hit it.
 
-| Shot | Setting | Should show |
-|------|---------|-------------|
-| **A: Frozen** | Fast, `1/500` or faster | Motion stopped, sharp |
-| **B: Blurred** | Slow, `1/30` or slower | Visible motion blur |
+---
 
-**Requirements:**
+### Shot 1: Frozen
 
-- **The same subject in both.** Something actually moving: someone walking, a ball, a spinning object, hands
-  working, a skateboard, a flag
-- **Only the shutter speed meaningfully changed.** You may adjust ISO or aperture to keep the brightness
-  right, but the subject and framing stay the same
-- Note the **actual shutter speed** used for each
-- **One sentence:** which one belongs in the yearbook and why
+**Someone clearly moving, stopped dead.** Walking fast, running, jumping, a ball in the air, a spike, a
+skateboard.
 
-That last sentence is the real assignment. Both shots are correct. The question is which one tells the story
-of this moment better, and you have to defend it.
+| | |
+|---|---|
+| **Shutter** | 1/500 or faster |
+| **Should show** | Motion completely stopped. No smear on hands, feet, or the ball |
+| **Proves** | You can stop action |
+
+**The test:** could you tell the person was moving if nothing else in the frame said so? If everything is
+sharp and still, it works but it is boring. Catch them mid-stride, mid-air, mid-swing.
+
+---
+
+### Shot 2: Panning, indoors
+
+**The hard one.** Move the camera with a moving subject so **the subject is sharp and the background
+streaks.**
+
+| | |
+|---|---|
+| **Shutter** | Around 1/60. Try 1/40 and 1/80 too |
+| **Should show** | Recognizable subject, background pulled into horizontal streaks |
+| **Proves** | You can control motion, not just avoid it |
+
+**How:**
+1. Find the subject **before** they reach you
+2. Turn your **whole upper body**, not just your arms
+3. Press the shutter while you are already turning
+4. **Keep turning through the shot.** Do not stop when you hear the click
+
+**Expect most of them to fail.** Ten tries for one keeper is normal, even for people who do this for a
+living. Shoot a lot.
+
+---
+
+### Shot 3: Water frozen
+
+**Water in mid-air, caught as separate droplets** instead of a stream.
+
+| | |
+|---|---|
+| **Shutter** | 1/1000 or faster |
+| **Should show** | Individual droplets hanging in the air, edges defined |
+| **Where** | A drinking fountain, a faucet, a water bottle being poured, someone shaking off a wet jacket |
+
+**Get close and get light on it.** Water needs a lot of both. Backlight it if you can, so the droplets catch
+the light and separate from the background.
+
+**This one surprises people.** Water looks like a smooth stream to your eye. At 1/1000 it is not a stream at
+all, it is a line of separate drops, and that is a genuinely different picture of something you see every
+day.
+
+---
+
+### Shot 4: Subject blurred, background sharp
+
+**The opposite of panning.** The camera stays perfectly still while the subject moves through the frame.
+
+| | |
+|---|---|
+| **Shutter** | 1/30 or slower. Try 1/15 and 1/8 |
+| **Should show** | A sharp, clearly-in-focus background, with the moving person as a blur or a streak |
+| **Proves** | You understand that blur comes from what moves, not from bad focus |
+
+**Brace the camera.** Set it on a table, a railing, a chair back, or against a doorframe. Below 1/60 your
+hands will blur the background too, and then you just have a bad photo instead of a deliberate one.
+
+**This is the one that reads as art.** A hallway full of sharp lockers with one smeared figure moving through
+says something about that hallway that a frozen shot never will.
+
+---
+
+## The write-up
+
+For each of the four, note:
+
+- The **actual shutter speed** you used
+- The **ISO and aperture** you ended up at
+- **One sentence** on what you had to change to get it to work
+
+Then, across the whole set, **one paragraph**: which of these four would you actually put in the yearbook,
+and why that one?
+
+> **That paragraph is the real assignment.** All four are technically correct. You are arguing that one of
+> them tells a story better than the others, and the argument is what I am grading.
 
 ---
 
 ## Turn in
 
-- [ ] Shot A, frozen, with the shutter speed noted
-- [ ] Shot B, blurred, with the shutter speed noted
-- [ ] Same subject in both
-- [ ] One sentence on which belongs in the book and why
+- [ ] Shot 1: Frozen, shutter noted
+- [ ] Shot 2: Panning indoors, shutter noted
+- [ ] Shot 3: Water frozen, shutter noted
+- [ ] Shot 4: Subject blurred with sharp background, shutter noted
+- [ ] ISO and aperture noted for each
+- [ ] One sentence per shot on what you had to change
+- [ ] One paragraph on which belongs in the yearbook and why
 - [ ] Files named properly, offloaded, submitted to Classroom
+
+> **Do not have all four?** Turn in what you got with a note on which one beat you and what happened. Three
+> good shots and an honest account of the fourth beats four half-attempts.
 
 ---
 

@@ -12,6 +12,9 @@
 | **Nested loop** | A loop inside another loop. |
 | **Infinite loop** | A loop that never ends because nothing makes its condition false. It freezes the program. |
 | **Condition** | The true-or-false check a `while` loop tests before every pass. |
+| **Modulo / remainder** | What is left over after dividing. `remainder of 7 ÷ 3` is 1. |
+| **Multiple** | A number that divides evenly. `remainder of N ÷ 5 = 0` is true when N is a multiple of 5. |
+| **Trace** | Working through code by hand, one pass at a time, to see what it does. |
 
 ## Carried forward
 
@@ -31,3 +34,6 @@
 4. When would you use `while` instead of `repeat`?
 5. What makes a loop infinite, and what does that do to your game?
 6. What is a nested loop, and what did you use one for in Star Catcher?
+7. What is `remainder of 12 ÷ 5`, and why?
+8. Write the condition for "every 4th star."
+9. How many times does this run: `set x to 10`, `while x > 10: change x by -1`? Why?

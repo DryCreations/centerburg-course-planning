@@ -3,7 +3,8 @@
 **Course:** Middle School CS | **Assigned:** Mon Sep 14 | **Due:** Fri Sep 18
 **Category:** Projects | **Tool:** MakeCode Arcade
 
-A brand new game, built around loops. Full step-by-step build: `handouts/star-catcher-guide.md`
+A brand new game, built around loops. **Full step-by-step lab: `handouts/star-catcher-lab.md`.** It is
+numbered, day by day, with example problems and a bug table. Read it and follow it.
 
 ---
 
@@ -14,11 +15,12 @@ A brand new game, built around loops. Full step-by-step build: `handouts/star-ca
 | 1 | A player sprite you move left and right along the bottom | Mon |
 | 2 | Stars spawned with a **`repeat` loop**, not placed by hand | Mon |
 | 3 | A row of stars positioned using **`for index`** and its count | Tue |
+| 3b | Something that uses the **`remainder`** block to happen every Nth time | Tue |
 | 4 | A **`forever` loop** that keeps waves coming | Wed |
 | 5 | A **nested loop**: a spawning loop inside the forever loop | Wed |
 | 6 | Catching a star adds to your score, and the star is destroyed | Wed |
 | 7 | Missing a star costs something, and the star is destroyed | Wed |
-| 8 | **One of:** a `while` countdown timer, a difficulty ramp, or levels | Thu |
+| 8 | A working **`while`** loop: a countdown timer, a wait-for-condition, or a ramp | Thu |
 | 9 | The game **ends**, win or lose | Thu |
 | 10 | It is playable start to finish by someone who is not you | Fri |
 
@@ -29,6 +31,7 @@ A brand new game, built around loops. Full step-by-step build: `handouts/star-ca
 - [ ] Share your project link on Google Classroom
 - [ ] A partner played it all the way to an ending
 - [ ] Tell me which loop was hardest to get right, and what the bug was
+- [ ] Be ready to read one of your `while` loops out loud as a sentence
 
 ---
 

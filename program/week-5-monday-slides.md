@@ -4,126 +4,137 @@
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 6 | New project launch, all on paper |
-| Video & Sound | 6 | Screenplay format, taught by fixing a bad page |
-| Aviation UAS | 6 | METAR anatomy, live data on the projector |
-| Middle School CS | 5 | New project, loops introduced the tedious way first |
+| Design Techniques | 6 | Ideation. Pick the project, write the one task |
+| Video & Sound | 7 | Camera setup for video, then screenplay format |
+| Aviation UAS | 6 | METAR anatomy, then group decoding on the board |
+| Middle School CS | 7 | `while` loop lesson, then the lab |
 | Yearbook | 1 | Ten minute lesson, then work |
 
 ---
 
-## 1. Design Techniques: Pick a screen and tear it apart
+## 1. Design Techniques: Pick your project
 
-**Documents:** `courses/design-techniques/planning/week-5/handouts/teardown-sheet.md`, `project.md`,
-`vocab.md`
-**Run it as:** all paper today. Approve targets in about ninety seconds each. Assign one to anybody who
-stalls.
+**Documents:** `week-5/project.md`, `handouts/interaction-labs.md`, `handouts/teardown-sheet.md` (Option A)
+**Run it as:** ideation day. Nobody builds today except the ten minute Back lab at the end.
+**The gate:** everyone leaves with **one task written down in one sentence.**
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> the app or website you thought about over the weekend, the one that annoys you. Find the exact screen that
-> annoyed you. Get a blank sheet of paper. No Figma yet, today is a paper day." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Get a
+> blank sheet of paper. Warm-up question to think about: think of an app you use. What is the ONE thing you
+> actually open it to do? Not everything it can do. The one thing." Large, clean. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one standards and agenda slide for a high school design class titled "Today: Find Something Broken."
-> List this standard with its full text: 2.15.1 Understand the UX/UI design process (vision, journey mapping,
-> wireframing, prototyping) for the targeted platform. Then the agenda: 1) The project, 2) Pick and approve
-> your screen, 3) Tear it apart on paper. Add a box: "Due Friday. You will have all week." Large readable
-> text. One slide.
+> Create one standards and agenda slide for a high school design class titled "Today: Pick Your Project." List
+> this standard with its full text: 2.15.1 Understand the UX/UI design process (vision, journey mapping,
+> wireframing, prototyping) for the targeted platform. Then the agenda: 1) The project, 2) Pick what you are
+> making, 3) Write your ONE TASK, 4) List your screens and start sketching, 5) Ten minute lab: the back
+> button. Add a box: "Two weeks. Due Friday the 25th." Large readable text. One slide.
 
 ### Slide 3: The project
 
-> Create one slide for a high school design class titled "The Redesign Project." Body: "Last week you learned
-> Figma by copying a spec. This week there is no spec. Find a real screen that does not work, prove exactly
-> what is wrong with it, and redesign it so it works. ONE screen, phone sized." Then a small week plan: Monday
-> tear it down, Tuesday wireframe the fix, Wednesday build it, Thursday make it click, Friday write it up and
-> post it. One slide, large text.
+> Create one slide for a high school design class titled "Two Weeks, One App." Body: "You are building a small
+> working prototype: 3 to 4 screens somebody can actually click through to do ONE task. Every day you add a
+> little more, and each day starts with a ten minute lab teaching one new kind of interaction." Then in a box
+> in large text: "Scope is tiny on purpose. You are not designing all of Instagram. You are designing ONE
+> THING a person does." One slide.
 
-### Slide 4: Pick your screen
+### Slide 4: Pick one
 
-> Create one slide for a high school design class titled "Pick Your Screen." Left side, a checklist titled
-> "It has to pass all three": you can screenshot it; it is school appropriate; something about it actually
-> bothers you and you can say what in one sentence. Right side, a box titled "Stuck? Any of these": a food
-> ordering app, a school or district page, an athletics schedule, a streaming service browse screen, a store
-> checkout, a game's settings menu, a ticket or airline page, a recipe site buried in ads. Bottom: "Get it
-> approved before you mark it up." One slide, two column layout.
+> Create one slide for a high school design class titled "Pick Your Project." Two columns. Left, "OPTION A:
+> Fix something that frustrates you" with the note "an app or website you actually use where something is
+> genuinely annoying. Screenshot it, prove what is wrong, redesign it." Right, "OPTION B: Pick from the list"
+> with these ideas in a compact list: school lunch menu, club sign-up, athletics schedule, library checkout,
+> homework tracker, student ride share, water bottle refill finder, study group finder, locker swap, spirit
+> week voting. Add at the bottom: "All of these are small on purpose. Full list and details in the assignment
+> on Classroom." One slide, two column layout.
 
-### Slide 5: "It's ugly" is not a finding
+### Slide 5: Do Now
 
-> Create one slide for a high school design class titled "Say What Is Actually Wrong." Show a two column
-> table. Left header "Instead of," right header "Write." Rows: "It's cluttered" becomes "Nine things compete
-> for attention with no clear first read"; "It's ugly" becomes "Three unrelated type families with no
-> reason"; "Hard to read" becomes "Light gray text on white fails contrast at that size"; "Confusing" becomes
-> "The primary action looks identical to four secondary buttons." Caption: "Use your words: hierarchy,
-> contrast, alignment, proximity, whitespace, reading order." One slide.
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Write Your One Task."
+> Numbered body: "1) Pick your project. Ninety seconds. If you cannot decide, I will pick for you. 2) Write
+> your ONE TASK in one sentence: 'Order one coffee.' 'See what is for lunch tomorrow.' 'Find when the next
+> home game is.' 3) List the screens that task needs. Probably 3 or 4. 4) Start sketching them on paper,
+> boxes and labels only." Add a box in large text: "If a screen does not serve your one sentence, it does not
+> exist." One slide.
 
-### Slide 6: Do Now
+### Slide 6: Lab: the back button
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Tear It Down." Numbered body:
-> "1) Screenshot your screen and get it approved. 2) Write one sentence: what did somebody come to this
-> screen to DO? 3) Number the steps they take and circle where it breaks. 4) Draw arrows to at least FIVE
-> problems, using design words, not feelings. 5) Squint at it: is the first thing you see the thing they came
-> for?" Add a box: "Finished? Tear down a screen that works WELL and name why. That is the harder skill." One
-> slide.
-
----
+> Create one instructional slide for a high school design class titled "Ten Minute Lab: Back." Body: "In a
+> SCRATCH Figma file, not your project." Numbered: 1) Make two frames. Name them Home and Detail. 2) Put a
+> button on Home, connect it to Detail. 3) On Detail, put a back arrow in the TOP LEFT corner. 4) Prototype
+> tab, drag from the arrow back to Home. 5) Present, and go back and forth. Add a box: "Why top left? Because
+> people expect it there. Putting it somewhere clever costs them time on every single screen." One slide.
 
 ---
 
-## 2. Video & Sound: Screenplay format
+---
 
-**Documents:** `courses/video-and-sound/planning/week-5/handouts/screenplay-format.md`,
-`handouts/format-drill.md`
-**Run it as:** teach it by fixing a bad page. The drill is the lesson, not a worksheet after the lesson.
+## 2. Video & Sound: Camera setup for video
+
+**Documents:** `handouts/camera-video-settings.md`, `handouts/screenplay-format.md`, `handouts/format-drill.md`
+**Run it as:** cameras first while attention is fresh, then screenplay format. **Get bodies in hands.**
+**Note:** we have Rebel T3, T4i, T5, and T6. Menus differ slightly and **the T3 only shoots 720p.**
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get out
-> your idea and shot list from last week. Warm-up question to think about: in a script, what is the
-> difference between something a camera can record and something it cannot?" Large, clean. One slide.
+> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get a
+> camera from the cart and find the model name on the front, under the lens. Write down which body you have:
+> T3, T4i, T5, or T6. They are not all the same. Do not change any settings yet." Large, clean. One slide.
 
 ### Slide 2: Standards + Today
 
-> Create one standards and agenda slide for a high school video class titled "Today: Screenplay Format." List
-> this standard with full text: 7.7.2 Analyze the script and storyboard to develop a production schedule.
-> Then the agenda: 1) Why this format and not last week's, 2) The five building blocks, 3) Fix a badly
-> written scene, 4) Start your scene list. Add a box: "Script draft 1 is due Friday. 2 to 3 pages." Large
-> readable text. One slide.
+> Create one standards and agenda slide for a high school video class titled "Today: Set Up for Video." List
+> these standards with full text: 2.10 Operate equipment according to manufacturer specifications; 7.7.2
+> Analyze the script and storyboard to develop a production schedule. Then the agenda: 1) Setting a camera up
+> for video, which is NOT the same as for photos, 2) The five mistakes you cannot fix later, 3) Screenplay
+> format, 4) Fix a badly written scene. Add a box: "We start filming THURSDAY." Large readable text. One
+> slide.
 
-### Slide 3: Two formats, both real
+### Slide 3: Five things you cannot fix later
 
-> Create one slide for a high school video class titled "Two Formats. Both Real." Show a two row table.
-> Row 1, TWO COLUMN (A/V): used for documentary, news, promos, PSAs, anything narrated, because it shows
-> exactly what is heard while each thing is seen. Row 2, SCREENPLAY: used for anything with characters,
-> scenes, and dialogue, because it reads like a story and one page runs about one minute. Caption underneath:
-> "Last week was not wasted. Same thinking, different layout. This week we write screenplay format, because
-> it is the industry standard and it is what competition asks for." One slide.
+> Create one slide for a high school video class titled "Five Mistakes You Cannot Fix Later." A two column
+> table, the mistake and what it looks like: AUTOFOCUS LEFT ON, the image pulses in and out of focus. AUTO
+> EXPOSURE LEFT ON, the brightness drifts mid-shot. AUTO WHITE BALANCE, shots do not match when you cut them
+> together. SHUTTER TOO FAST, motion looks stuttery and harsh. CLIPPED AUDIO, distorted crackling voices. Add
+> a box in large text: "Every one of these is set BEFORE you press record. That is why we have a checklist."
+> One slide.
 
-### Slide 4: The five building blocks
+### Slide 4: The 180 degree rule
 
-> Create one slide for a high school video class titled "Five Building Blocks." A numbered list with a short
-> example beside each: 1) SCENE HEADING, all caps, interior or exterior, location, time: "INT. HALLWAY -
-> MORNING." 2) ACTION, present tense, only what we see and hear. 3) CHARACTER NAME, all caps, on its own line
+> Create one slide for a high school video class titled "The 180 Degree Rule." Body in large text: "Set your
+> shutter speed to about DOUBLE your frame rate." Then a small table: 24fps means 1/50; 30fps means 1/60;
+> 60fps means 1/125. Underneath: "Faster than that and motion looks stuttery. Slower and it smears. Doubling
+> gives motion blur that looks the way your eye expects." Then a box: "This means shutter speed is LOCKED in
+> video. You control brightness with aperture and ISO instead." One slide.
+
+### Slide 5: The checklist
+
+> Create one instructional slide for a high school video class titled "The Setup, In Order." A large numbered
+> checklist: 1) Movie mode on the dial. 2) Exposure set to MANUAL. 3) Resolution and frame rate, and use the
+> same one for the whole project. 4) Shutter at double the frame rate. 5) Aperture for the shot. 6) ISO as low
+> as the light allows. 7) White balance on a PRESET, never auto. 8) Lens switch to MF, focus with the
+> magnifier. 9) Audio level peaking below the red. 10) Card space and battery, bring the spare. Add a box:
+> "Then shoot ten seconds and PLAY IT BACK. That catches more problems than everything else combined." One
+> slide, legible from the back of the room.
+
+### Slide 6: Screenplay format
+
+> Create one slide for a high school video class titled "Screenplay Format: Five Blocks." A numbered list with
+> a short example beside each: 1) SCENE HEADING, all caps, interior or exterior, location, time: "INT. HALLWAY
+> - MORNING." 2) ACTION, present tense, only what we see and hear. 3) CHARACTER NAME, all caps, its own line
 > above the dialogue. 4) DIALOGUE, indented under the name. 5) PARENTHETICAL, how a line is delivered, used
-> almost never. One slide, large readable text.
+> almost never. Add a box: "Last week we did two column A/V format. Both are real. Two column is for narrated
+> work, screenplay is for anything with characters and scenes. Your shot list works with either." One slide.
 
-### Slide 5: If a camera cannot record it, cut it
+### Slide 7: Do Now
 
-> Create one slide for a high school video class titled "If a Camera Cannot Record It, Cut It." A two column
-> table. Left header "Do not write," right header "Write instead." Rows: "Maya is nervous" becomes "Maya
-> checks the clock three times"; "He remembers last summer" becomes "He stops at the photo on the wall"; "She
-> has always hated this room" becomes "She sits in the back, farthest from the door"; "It is awkward" becomes
-> "Nobody speaks. Someone coughs." Caption in large text: "This is the whole lesson." One slide.
-
-### Slide 6: Do Now
-
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Fix This Scene." Body: "Open
-> the format drill on Google Classroom. It has the same scene written badly. Find at least EIGHT things wrong
-> with it, number them in the margin, then rewrite it correctly. Two things to decide: what ACTION shows Dev
-> is nervous without saying it, and what ACTION shows he is humiliated at the end?" Add a box: "Done? Start
-> your scene list: every scene heading your video needs, in order." One slide.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Two Things." Numbered: "1) With
+> your camera, run the setup checklist all the way through. Then shoot ten seconds of anything and play it
+> back. 2) Then open the format drill on Classroom: the same scene written badly. Find at least EIGHT things
+> wrong with it and rewrite it correctly." Add a box in large text: "If a camera cannot record it, it does not
+> belong in a script. 'She is nervous' is not a shot. 'She checks the clock three times' is." One slide.
 
 ---
 
@@ -131,14 +142,15 @@ stalls.
 
 ## 3. Aviation UAS: Inside a METAR
 
-**Documents:** `courses/aviation-uas/planning/week-5/handouts/metar-decoder.md`, `project.md`, `vocab.md`
-**Run it as:** pull **live** METARs on the projector from aviationweather.gov. KCMH and KOSU are reliable.
-Real data beats invented examples every time.
+**Documents:** `handouts/metar-decoder.md`, `handouts/decode-together.md` (teacher, board codes), `project.md`
+**Run it as:** short anatomy lesson, then **group decoding on the board** with turn and talk. Five rounds of
+codes in the handout, easiest to hardest, key allowed at first and taken away as they warm up.
+**Also today: assign ODOT Module 1**, due Thu Sep 24.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Open
-> aviationweather.gov and find the METAR for our nearest field. Do not try to read it yet. Just look at it.
+> aviationweather.gov and find the METAR for our nearest field. Do not try to read it yet, just look at it.
 > Warm-up question: you have been reading weather off a map all year. Why would anyone use this instead?"
 > Large, clean. One slide.
 
@@ -146,106 +158,136 @@ Real data beats invented examples every time.
 
 > Create one standards and agenda slide for a high school drone class titled "Today: Inside a METAR." List
 > these focus areas: 7.6 interpret weather data and reports, 7.13 evaluate the flight environment. Then the
-> agenda: 1) Why the code exists, 2) Station and time, 3) Wind, 4) Visibility, 5) Decode drill. Add a box:
-> "Quiz Friday on all of this. You get four days of practice first." Large readable text. One slide.
+> agenda: 1) Why the code exists, 2) Take one apart field by field, 3) Decode together on the board, 4) Your
+> own drill. Add a box: "ODOT Module 1 assigned today, due Thursday the 24th. Quiz Friday on METARs." Large
+> readable text. One slide.
 
 ### Slide 3: The whole thing, taken apart
 
 > Create one slide for a high school drone class titled "One METAR, Field by Field." Show this string large
 > and in monospace at the top: "KCMH 141851Z 27012G22KT 10SM FEW045 SCT120 24/13 A2998." Underneath, a table
-> labeling each piece in order: KCMH is the station, Port Columbus; 141851Z is the day and time in Zulu;
-> 27012G22KT is the wind; 10SM is visibility; FEW045 and SCT120 are cloud layers; 24/13 is temperature over
-> dew point; A2998 is the altimeter. Caption: "Always left to right, always the same order. That is the whole
-> reason the format exists." One slide.
+> labeling each piece in order: KCMH is the station; 141851Z is the day and time in Zulu; 27012G22KT is the
+> wind; 10SM is visibility; FEW045 and SCT120 are cloud layers; 24/13 is temperature over dew point; A2998 is
+> the altimeter. Caption: "Always left to right, always the same order. That is the whole reason the format
+> exists." One slide.
 
-### Slide 4: The wind group
+### Slide 4: The three you will use most
 
-> Create one slide for a high school drone class titled "27012G22KT." Break it into three labeled parts in
-> large type: 270 is the direction the wind is coming FROM, in degrees, so 270 is due west; 12 is the speed
-> in knots; G22 means gusting to 22 knots, and this part only appears when there are gusts. Add a box at the
-> bottom in large text: "The gust is the number that matters to you. Your aircraft does not care about the
-> average. It gets hit by the peak." One slide.
+> Create one slide for a high school drone class titled "Three Things to Learn First." Three boxes. Box 1,
+> WIND, "27012G22KT: from 270 degrees, at 12 knots, gusting 22. The direction is where it comes FROM. The
+> GUST is the number that matters, because your aircraft gets hit by the peak, not the average." Box 2,
+> CLOUDS, "OVC007 is overcast at 700 feet. The three digits are hundreds of feet. ADD TWO ZEROS." Box 3,
+> VISIBILITY, "10SM is ten statute miles. Part 107 needs 3. Below that is an automatic no-go." One slide,
+> large readable text.
 
-### Slide 5: Zulu time
+### Slide 5: Do Now (decode together)
 
-> Create one slide for a high school drone class titled "What the Z Means." Body: "141851Z is day 14 at 1851
-> Zulu. Zulu is UTC, one clock used worldwide, so a weather report means the same thing in Ohio as it does in
-> Tokyo. Ohio right now is UTC minus 4. So 1851Z is 2:51 PM here." Add a box: "Check the time before you
-> trust the weather. A METAR is an observation, not a forecast. A three hour old report describes a sky that
-> may not exist anymore." One slide, large text.
+> Create one "Do Now" slide for a high school drone class. Big title: "Decode This With a Partner." Show one
+> METAR fragment large and in monospace in the middle of the slide, with space around it, for example
+> "18015G25KT". Underneath in smaller text: "Ninety seconds with the person next to you. What does it say, in
+> plain English? Then: which single number here would decide whether we fly?" One slide, designed so the code
+> in the middle can be swapped out each round.
 
-### Slide 6: Do Now
+*(Swap the code and reuse this slide for each round. The full set, easiest to hardest with answers, is in
+`handouts/decode-together.md`. Start with the decoder handout allowed, then take it away by round 3.)*
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Decode Drill 1." Body: "Pull
-> three live METARs from aviationweather.gov. For each one write out, in plain English: the station; the day
-> and time in Zulu AND converted to our local time; the wind direction, speed, and any gust; and the
-> visibility. Say which of the three you would rather be flying in, and name the number that decided it."
-> Add a box: "Finished? Go hunting. Find a station somewhere in the country reporting genuinely bad weather
-> and decode its wind and visibility." One slide.
+### Slide 6: Your drill, and Module 1
+
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Drill 1." Body: "Pull three
+> live METARs from aviationweather.gov. For each one write out in plain English: the station; the day and time
+> in Zulu AND converted to our local time, which is Zulu minus 4; the wind direction, speed, and any gust; and
+> the visibility. Then say which of the three you would rather be flying in, and name the number that decided
+> it." Add a box in large text: "ALSO ASSIGNED TODAY: ODOT Part 107 course, Module 1. Due Thursday the 24th,
+> before next Friday's quiz. That material IS on that quiz. If your LDAP login does not work, tell me the
+> FIRST day it happens, not the day it is due." One slide.
 
 ---
 
 ---
 
-## 4. Middle School CS: What a loop is
+## 4. Middle School CS: `while` loops
 
-**Documents:** `courses/middle-school-cs/planning/week-5/handouts/star-catcher-guide.md`, `project.md`
-**Run it as:** make one star, then start making the tenth one **by hand, slowly**, until they tell you to
-stop. Then show `repeat`. Do not skip that, it is the whole lesson.
+**Documents:** `handouts/star-catcher-lab.md`
+**Run it as:** first half is the `while` lesson with example problems and reading out loud. Second half is
+lab steps 1 to 5. **They will not need `while` until Thursday.** Teaching it cold now is deliberate.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a middle school computer science class. Big title: "As You Come In."
 > Body: "Open MakeCode Arcade and start a NEW project. Name it Star Catcher. Leave your maze alone, this is
-> something different. Quiz grades are posted." Large, clean, minimal. One slide.
+> something different. Get out paper, we are doing some problems first." Large, clean, minimal. One slide.
 
 ### Slide 2: Today
 
-> Create one agenda slide for a middle school computer science class titled "Today: Stop Copying Blocks."
-> Text: Today's skill is LOOPS, from the Ohio CS standards for Algorithmic Thinking and Programming. Agenda:
-> 1) A new game: Star Catcher, 2) Make a player that moves, 3) Make ONE star fall, 4) Make ten the hard way,
-> 5) Make ten the right way. Add a box: "No quiz this week. You just had one." Large readable text. One slide.
+> Create one agenda slide for a middle school computer science class titled "Today: while Loops." Text:
+> Today's skill is LOOPS, from the Ohio CS standards for Algorithmic Thinking and Programming. Agenda: 1) What
+> a while loop is, 2) Trace one on the board, 3) How to freeze your game with one, 4) Practice problems, 5)
+> Start building Star Catcher. Add a box: "No quiz this week. You just had one." Large readable text. One
+> slide.
 
-### Slide 3: The game
+### Slide 3: What a while loop is
 
-> Create one slide for a middle school computer science class titled "Star Catcher." Body: "Stars fall from
-> the top of the screen. You move left and right at the bottom and catch them. Miss too many and the game
-> ends." Then a small week plan: Monday make stars appear, Tuesday line them up, Wednesday waves that keep
-> coming, Thursday a timer or levels, Friday finish and play each other's. One slide, large text.
+> Create one slide for a middle school computer science class titled "while: Keep Going Until." Show in a
+> large monospace box: "set timer to 5" then "while timer > 0:" then indented "change timer by -1". Underneath
+> in large text: "Read it out loud: WHILE the timer is greater than zero, take one off the timer." Then a
+> trace table with columns Check, Is timer > 0?, and timer is now: check 1, yes, 4; check 2, yes, 3; check 3,
+> yes, 2; check 4, yes, 1; check 5, yes, 0; check 6, NO, loop stops. Caption: "Five passes. The sixth check
+> fails." One slide.
 
-### Slide 4: A loop
+### Slide 4: The one rule
 
-> Create one slide for a middle school computer science class titled "What a Loop Is." Body in large text: "A
-> loop is a block that runs the code inside it MORE THAN ONCE, so you do not have to copy and paste. You
-> already know why you want one. Last week, to get ten items in your maze, you dragged out ten sets of
-> blocks. Ten chances to make a mistake. And if you wanted twenty, you did it all again." Then, in a box:
-> "repeat 10 times: write it once, tell it how many times." One slide.
+> Create one slide for a middle school computer science class titled "How to Freeze Your Game." Show in a
+> monospace box: "set timer to 5" then "while timer > 0:" then indented "pause 100". Then in very large text:
+> "This one NEVER ends. Nothing inside changes the timer, so timer > 0 stays true forever and your game locks
+> up." Add a box: "THE RULE: something inside a while loop has to move it toward stopping." One slide.
 
-### Slide 5: Do Now
+### Slide 5: Practice problems
 
-> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Make It Rain
-> Stars." Numbered body: "1) Make a player sprite and add 'move mySprite with buttons'. 2) Set its y to 110
-> so it sits at the bottom. 3) Make ONE star sprite, set its position at the top, and set its vy to 40 so it
-> falls. 4) Now wrap those star blocks in a 'repeat 10 times'. 5) Run it." Add a box: "All ten appear at once,
-> in the same instant? Good. That is correct. We fix the timing tomorrow." One slide.
+> Create one slide for a middle school computer science class titled "How Many Times?" Four numbered code
+> boxes in monospace. 1) "set lives to 3" / "while lives > 0:" / "change lives by -1". 2) "set score to 0" /
+> "while score < 10:" / "change score by 2". 3) "set count to 0" / "while count < 5:" / "change count by -1"
+> with the question "what is wrong with this one?". 4) "set x to 10" / "while x > 10:" / "change x by -1".
+> One slide, large readable text.
+
+*(Answers: 1) three times. 2) five times. 3) never ends, count goes DOWN when it needs to go UP. 4) ZERO
+times, because a while checks BEFORE the first pass and 10 > 10 is already false.)*
+
+### Slide 6: Read it out loud
+
+> Create one "Turn and Talk" slide for a middle school computer science class. Big title: "Say It Out Loud."
+> Body: "With your partner, take turns reading a while loop out loud as an English sentence. Like this: 'While
+> the timer is greater than zero, pause one second and take one off the timer.'" Add a box in large text: "If
+> you can say it as a sentence, you understand it. If you cannot, ASK NOW, while it is on the board and not
+> buried inside your game." One slide.
+
+### Slide 7: Do Now
+
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Steps 1 to 5."
+> Body: "Open the Star Catcher lab on Classroom and follow the numbered steps. Today: 1) Make a player that
+> moves along the bottom. 2) Make ONE star fall. 3) Catch it and score a point. 4) Look at what ten stars
+> would cost you by hand. 5) Do it with a 'repeat 10 times' instead." Add a box: "You will NOT need while
+> loops today. That was for Thursday. Today is repeat." And: "All ten stars appear at once? That is correct.
+> We fix the timing Wednesday." One slide.
 
 ---
 
 ## 5. Yearbook: Shutter speed, then work
 
-**Documents:** `courses/yearbook/planning/week-5/handouts/shutter-speed.md`
-**Run it as:** ten minutes at the board, then camera list and spread work. Two things due Friday.
+**Documents:** `handouts/shutter-speed.md`
+**Run it as:** ten minutes at the board, then camera list and spread work.
 
 ### Slide 1: Today (the only slide, leave it up)
 
 > Create one work-time slide for a high school yearbook class. Big title: "Today: Shutter Speed." Top
 > section, three points in large text: 1) Bigger bottom number means MORE FROZEN. 1/1000 is much faster than
 > 1/60. 2) Faster shutter means DARKER photo. That is the trade. 3) Do not go below 1/60 handheld unless you
-> are bracing the camera or you want blur on purpose. Bottom section, two columns. Left, "On a camera": get
-> on the list, shoot your SHUTTER SPEED PAIR, same subject, one frozen at 1/500 or faster and one blurred at
-> 1/30 or slower. Right, "On your spread": keep building, captions next to every photo, presets on every text
-> box. Add a box across the bottom: "DUE FRIDAY: the shutter speed pair with one sentence on which belongs in
-> the book, AND your PDF check-in. Old book counts." One slide, clean, designed to stay on the board.
+> brace the camera or you want blur on purpose. Middle section, a compact table titled "THE SET: four shots,
+> due Friday": 1 FROZEN at 1/500+, someone moving stopped dead; 2 PANNING INDOORS at about 1/60, subject
+> sharp and background streaked; 3 WATER FROZEN at 1/1000+, separate droplets not a stream; 4 SUBJECT BLURRED
+> at 1/30 or slower, camera braced so the background stays sharp. Bottom section, two columns: left "On a
+> camera: get on the list, note the actual shutter speed for every shot"; right "Everyone else: spread work,
+> captions next to every photo, presets on every text box." Add a box: "Also due Friday: your PDF check-in.
+> Old book counts." One slide, clean, designed to stay on the board.
 
 ---
 
@@ -253,8 +295,8 @@ stop. Then show `repeat`. Do not skip that, it is the whole lesson.
 
 | Class | Today | Note |
 |-------|-------|------|
-| Design Techniques | Pick a screen, tear it down on paper | All paper. Project due Friday |
-| Video & Sound | Screenplay format, then fix the bad scene | Script draft 1 due Friday |
-| Aviation UAS | METAR anatomy: station, time, wind, visibility | Live data on the projector. Quiz Friday |
-| Middle School CS | New project, `repeat` | Make ten by hand first, let it get tedious |
-| Yearbook | Shutter speed, camera list opens | Pair AND check-in due Friday |
+| Design Techniques | Pick the project, write the ONE TASK, sketch. Lab: Back | Two week project, due Fri Sep 25 |
+| Video & Sound | Camera setup for video, then the format drill | **Filming starts Thursday** |
+| Aviation UAS | METAR anatomy, decode together on the board | **Assign ODOT Module 1**, due Thu Sep 24 |
+| Middle School CS | `while` loop lesson and problems, then lab steps 1 to 5 | They will not use `while` until Thursday |
+| Yearbook | Shutter speed, camera list opens | Four shot set + check-in due Friday |

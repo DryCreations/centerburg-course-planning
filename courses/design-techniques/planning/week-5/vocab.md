@@ -13,6 +13,12 @@
 | **Cognitive load** | How much a person has to think about to use something. Less is better. |
 | **Affordance** | A visual clue that tells you what something does. A button looks pressable. |
 | **Iteration** | A new version made in response to what you learned from the last one. |
+| **Scope** | How much a project covers. Small scope, finished well, beats large scope abandoned. |
+| **Screen flow** | The map of which screens connect to which. |
+| **State** | What a screen looks like right now. The same screen can have several states. |
+| **Overlay / modal** | Something that appears on top of a screen rather than replacing it. |
+| **Placeholder text** | The gray text in an empty field telling you what goes there. |
+| **Transition** | The animation between two screens. |
 
 ## Carried forward (still in use)
 
@@ -35,3 +41,6 @@
 3. What is a breakdown point, and where is the one in your journey?
 4. Why is deleting something a design decision?
 5. What is the difference between a wireframe and a prototype?
+6. Name three interaction types besides navigating to another screen.
+7. Why does every screen except the home screen need a way back?
+8. What is a state change, and why does one good one beat two extra screens?

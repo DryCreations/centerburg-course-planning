@@ -1,46 +1,67 @@
-# Week 5 Teacher Notes: Design Techniques
+# Weeks 5 and 6 Teacher Notes: Design Techniques
 
-Student docs: `outline.md`, `project.md`, `vocab.md`, `handouts/teardown-sheet.md`.
+Student docs: `outline.md`, `project.md`, `vocab.md`, `handouts/interaction-labs.md`,
+`handouts/teardown-sheet.md` (for students choosing Option A).
 
-Full week, Mon Sep 14 to Fri Sep 18. **The Redesign Project runs the whole week and is due Friday.**
+**Two week project, Mon Sep 14 to Fri Sep 25.** Same app throughout, a little more each day.
 
-## Pacing
+## The shape of every day
 
-| Day | Activity | Notes |
-|-----|----------|-------|
-| Mon | Pick a target, approve it, tear it down on paper. Five annotations in design language | All paper. Approve targets fast, ninety seconds each, and assign one to anybody who stalls |
-| Tue | User journey, find the breakdown point, then wireframe the fix on paper | Do not let anyone open Figma until the wireframe exists. Paper is the cheapest place to be wrong |
-| Wed | Build frame 1 in Figma from the wireframe | They know the tools from last week. Circulate rather than teach |
-| Thu | Second frame, connect both directions, partner test | The partner test is the real assessment. Watch for students explaining their design while the partner uses it, and stop them |
-| Fri | Before and after write-up, post to portfolio, submit | The write-up is where the learning gets proven |
+**Ten minute lab, then work time.** The lab teaches one interaction in a scratch file, then they go apply it
+to their own project. That rhythm keeps a two week project from going flat in the middle, which is the usual
+failure mode.
 
-## What actually gets assessed
+Labs in order: Back, Overlay, State change, Scroll (week 5), Selection, Input, Transitions, Putting it
+together (week 6).
 
-The **teardown and the write-up**, not the mockup's beauty. A plain redesign that fixes a named problem beats
-a pretty one that fixes nothing.
+## Monday is ideation, not building
 
-Grade against `project.md`: five annotations in design language, a journey with a named breakdown point, a
-wireframe whose primary action is circled, two connected frames, a partner test with a change made after it,
-and four decisions named in the write-up.
+Nobody opens Figma Monday except for the ten minute Back lab. The whole period is:
 
-## The failure mode to watch for
+1. Pick a project
+2. **Write the one task down.** This is the gate. "Order one coffee." "See tomorrow's lunch."
+3. List the screens that task needs
+4. Start sketching
 
-**Students who redesign cosmetically.** They change the colors, round the corners, and call it done, while
-the hierarchy problem they identified on Monday is untouched.
+**Scope control is the entire job Monday.** Students will try to design all of Instagram. The one-task
+sentence is your lever: if a screen does not serve that sentence, it does not exist.
 
-The fix is Thursday's partner test plus one question while circulating: *"Point at the thing you said was
-broken. Now show me what you changed about it."* If those are not the same thing, they have not started.
+Ten project options are in `project.md`, all deliberately small. Anyone who cannot choose in ninety seconds
+gets assigned one. Students who already have something that frustrates them use Option A and the teardown
+sheet.
+
+## Pacing pressure points
+
+- **Wed week 5:** screen 1 should be built. Anyone still sketching is behind.
+- **Fri week 5:** something must be clickable for the first partner test, even if it is two screens.
+- **Wed week 6:** everything connected. Thursday is for fixing, not building.
+
+## The partner test is the assessment
+
+Twice: Friday of week 5 and Thursday of week 6.
+
+Give the tester **only the task**, nothing else. Then the designer says nothing. Every time a designer wants
+to explain something, that is a finding.
+
+Watch for designers narrating. Stop them. It is the single most common thing that ruins the exercise.
+
+## What to grade hard, and what to let go
+
+**Grade hard:** does the prototype work, is the scope one task, is there a primary action per screen, is the
+back button consistent, did they change something after each test, does the write-up name reasons.
+
+**Let go:** visual polish, color choices, icon quality, pixel alignment. They are five weeks into the course.
+A plain prototype that works beats a pretty one that dead-ends.
 
 ## Differentiation
 
-- **Cannot pick a target:** the fallback list is on the slide and in the handout. Ninety seconds, then assign
-  one. Choosing is not the skill.
-- **Finishes Wednesday:** third frame, desktop version, or a teardown of a screen that works well.
-- **Struggling in Figma:** pair them. Last week's spec build means somebody at every table can do it.
-- **Absent Monday or Tuesday:** the teardown sheet is self-serve. They can catch up in one period.
+- **Cannot pick:** ninety seconds, then assign from the list.
+- **Over-scoping:** ask them to say the one task out loud. If it takes more than one sentence, it is too big.
+- **Fast:** more interaction types, more screens, or a desktop version of one screen.
+- **Struggling in Figma:** pair them. The labs are short enough to catch up on in one period.
+- **Absent:** `interaction-labs.md` is self-serve, numbered steps for all eight.
 
 ## Looking ahead
 
-This closes the UX arc. **Unit 1.4 in the course map schedules UX for weeks 8 to 9**, so the map needs
-resequencing: that slot is now free for photography (Unit 2.1) or the BPA event selection that Unit 1.4 also
-carries. Worth deciding before week 8.
+This closes the UX arc. **Unit 1.4 in the course map schedules UX for weeks 8 to 9**, so that slot is now
+free for photography (Unit 2.1) or the BPA event selection Unit 1.4 also carries. Decide before week 8.

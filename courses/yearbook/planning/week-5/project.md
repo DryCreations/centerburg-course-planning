@@ -1,38 +1,49 @@
-# Week 5: Shutter Speed Pair + Check-In
+# Week 5: Shutter Speed Set + Check-In
 
 **Course:** Yearbook | **Due:** Fri Sep 18
-**Category:** Craft (the pair), Production and Deadlines (the check-in)
+**Category:** Craft (the shot set), Production and Deadlines (the check-in)
 
 Two things due Friday.
 
 ---
 
-## 1. The Shutter Speed Pair
+## 1. The Shutter Speed Set
 
 Full instructions: `handouts/shutter-speed.md`
 
-**One subject, two shots, one setting changed.**
+**Four shots, each with a specific target.** Not four random photos. Each one proves you can make the camera
+do a particular thing on purpose.
 
-| Shot | Setting | Should show |
-|------|---------|-------------|
-| **A: Frozen** | `1/500` or faster | Motion stopped, sharp |
-| **B: Blurred** | `1/30` or slower | Visible motion blur |
+| # | Shot | Shutter | Should show |
+|---|------|---------|-------------|
+| 1 | **Frozen** | 1/500+ | Someone clearly moving, stopped dead. No smear |
+| 2 | **Panning, indoors** | ~1/60 | Subject sharp, background streaked. Move with them |
+| 3 | **Water frozen** | 1/1000+ | Individual droplets in mid-air, not a stream |
+| 4 | **Subject blurred, background sharp** | 1/30 or slower | Camera braced and still, person a streak |
 
-- The **same subject** in both, and it has to actually be moving
-- Only the shutter speed meaningfully changed. Adjust ISO or aperture if you need the brightness, but keep
-  the subject and framing the same
-- Note the **actual shutter speed** for each
-- **One sentence:** which belongs in the yearbook and why
+### For each shot, note
 
-> **Both shots are correct.** The sentence is the real assignment. You are deciding which one tells the story
-> of that moment better, and defending it.
+- The actual **shutter speed**
+- The **ISO and aperture** you ended up at
+- **One sentence** on what you had to change to get it
+
+### Then, one paragraph
+
+**Which of the four would you actually put in the yearbook, and why that one?**
+
+> All four are technically correct. You are arguing that one tells a story better than the others, and the
+> argument is what gets graded.
 
 ### Turn in
 
-- [ ] Shot A with its shutter speed noted
-- [ ] Shot B with its shutter speed noted
-- [ ] Your one sentence
+- [ ] All four shots, shutter speed noted on each
+- [ ] ISO and aperture for each
+- [ ] One sentence per shot on what you changed
+- [ ] One paragraph on which belongs in the book
 - [ ] Files named properly and submitted to Classroom
+
+> **Did not get all four?** Turn in what you have with a note on which one beat you and what happened. Three
+> good shots plus an honest account of the fourth beats four half-attempts.
 
 ---
 

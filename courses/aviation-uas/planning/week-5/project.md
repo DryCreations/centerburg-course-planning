@@ -3,7 +3,8 @@
 **Course:** Aviation UAS | **Assigned:** Mon Sep 14 | **Due:** Fri Sep 18
 **Category:** Labs | **Tool:** aviationweather.gov
 
-Two parts. Part A is decoding practice that builds all week. Part B is a live brief you deliver Friday.
+Three parts. Part A is decoding practice that builds all week. Part B is a live brief you deliver Friday.
+Part C is an online course module that runs into next week.
 
 Reference: `handouts/metar-decoder.md`
 
@@ -48,6 +49,22 @@ seconds:
 
 ---
 
+## Part C: ODOT Part 107 Course, Module 1
+
+**Assigned:** Mon Sep 14 | **Due:** Thu Sep 24, before next Friday's quiz
+**Category:** Labs
+
+Work through **Module 1** of the ODOT Part 107 online course using your LDAP account.
+
+- Go at your own pace. **You have a week and a half.** Do not leave it to the last night
+- Submit your **completion confirmation** to Google Classroom when you finish
+- Material from Module 1 **will be on the next quiz**, so finish it before you take that quiz
+
+> **Account trouble?** Tell me the first day it happens, not the day it is due. Access problems are fixable
+> with lead time and not fixable without it.
+
+---
+
 ## Also due Thursday: your Personal Minimums Card
 
 `handouts/personal-minimums.md`, filled in and signed. Every limit needs a reason written next to it.
@@ -62,6 +79,7 @@ be stricter, because you are a student flying a school aircraft near other peopl
 - [ ] Four decode drills, Monday through Thursday
 - [ ] Personal Minimums Card, filled in, reasons written, signed
 - [ ] Weather brief delivered Friday
+- [ ] **ODOT Module 1 completion, by Thu Sep 24**
 
 ## If You Finish Early
 

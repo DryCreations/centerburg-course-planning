@@ -2,76 +2,83 @@
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Build day. Mostly work time |
-| Video & Sound | 3 | Draft day. Mostly silent writing |
+| Design Techniques | 3 | Lab, then build screen 1 |
+| Video & Sound | 4 | Table read, lock the script, plan the shoot |
 | Aviation UAS | 5 | Weather hazards |
 | Middle School CS | 5 | `forever` and nested loops |
 | Yearbook | 1 | Rotation and work |
 
 ---
 
-## 1. Design Techniques: Build it
+## 1. Design Techniques: Build screen 1
 
-**Run it as:** they know the tools. Circulate, do not teach. The question to ask at every desk: *"Point at
-the thing you said was broken. Now show me what you changed about it."*
+**Run it as:** they know the tools. Circulate. Anyone still sketching is behind.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> Figma and open your wireframe. Today you build. Follow your own wireframe, do not redesign it while you
-> build. If you want to change something, change the paper first." Large, clean. One slide.
+> Figma and put your paper wireframes where you can see them. Today you build your first real screen. Follow
+> your own wireframe, do not redesign it while you build. Want to change something? Change the paper first."
+> Large, clean. One slide.
 
-### Slide 2: Four tools
+### Slide 2: Lab: State change
 
-> Create one slide for a high school design class titled "Four Tools. You Already Know Them." A list with
-> keyboard shortcuts in bold: F makes a frame, pick a Phone size. R makes a rectangle, for boxes and buttons.
-> T makes text. V is the move tool. Add underneath: "Type exact numbers into the right panel instead of
-> dragging by eye. Hold Shift while dragging to keep things straight. Ctrl+Z constantly, you cannot break
-> anything." One slide, large readable text.
+> Create one instructional slide for a high school design class titled "Ten Minute Lab: State Change." Body:
+> "The same screen, ONE thing different. A toggle flips, a heart fills, a button says Added. In a scratch
+> file." Numbered: 1) Duplicate a frame. Keep both IDENTICAL except one element. 2) On the copy, change just
+> that one thing: fill an outlined heart, flip a toggle and change its color, or change a button from Add to
+> Added and dim it. 3) Connect that element on frame 1 to frame 2. 4) Connect it back so it toggles off. 5)
+> Present and click it a few times. Add a box: "If anything else moves even slightly, the screen jumps when
+> you click. Everything except the one changing thing must stay exactly put." One slide.
 
 ### Slide 3: Do Now
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build Frame One." Body:
-> "Build your redesigned screen on a phone frame, following your wireframe box for box. Your primary action
-> is the thing you circled: make it the biggest, boldest, most obvious thing on the screen. Everything else
-> supports it or gets deleted." Add a box titled "Before you leave today": "Frame one should be built. Not
-> perfect. Built." One slide.
-
-### Slide 4: The check
-
-> Create one slide for a high school design class titled "Ask Yourself This Every Ten Minutes." Body in very
-> large text: "Point at the thing you said was broken on Monday. Now point at what you changed about it." Add
-> underneath: "If those are not the same thing, you are decorating, not redesigning. New colors and rounded
-> corners do not fix a hierarchy problem." One slide.
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build Screen One." Body:
+> "Build your first screen on a phone frame, following your wireframe box for box. Your primary action is the
+> thing you circled on paper: make it the biggest, boldest, most obvious thing on the screen. Everything else
+> supports it or gets deleted." Add a box titled "Four tools": "F frame, R rectangle, T text, V move. Type
+> exact numbers into the right panel instead of dragging by eye. Ctrl+Z constantly." And: "Before you leave:
+> screen one built. Not perfect. Built." One slide.
 
 ---
 
 ---
 
-## 2. Video & Sound: Draft day
+## 2. Video & Sound: Table read, lock it, plan the shoot
 
-**Run it as:** mostly silent. Circulate and read over shoulders. This is a writing period.
+**Run it as:** insist on out loud. Then the script locks and the conversation turns to logistics.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Open
-> your script and your scene list. Today is a writing day: quiet, heads down, pages. Table read is tomorrow,
-> so you need something on paper to read." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Have
+> your draft open or printed and find a partner. Today you read each other's scripts OUT LOUD, taking parts.
+> Then your script LOCKS, because we film tomorrow." Large, clean. One slide.
 
-### Slide 2: Rules for today
+### Slide 2: How a table read works
 
-> Create one slide for a high school video class titled "Three Rules for a Draft Day." Numbered, large text:
-> 1) Write forward. Do not go back and polish page one for the fifth time. 2) If you get stuck on dialogue,
-> write the ACTION and come back. Action is easier and it carries more than you think. 3) A bad page you can
-> fix beats a blank page you cannot. One slide.
+> Create one slide for a high school video class titled "The Table Read." Numbered: 1) Swap scripts. Each
+> person takes a character, one reads the action lines. 2) Read straight through without stopping, even when
+> something is wrong. 3) The WRITER does not explain anything and does not join in. Listen and mark. 4) Mark
+> every place the reader stumbled, paused wrong, or had to reread. 5) Then talk. Add a box in large text: "A
+> stumble is almost never the reader's fault. It is a line that is not written the way people talk." One
+> slide.
 
-### Slide 3: Do Now
+### Slide 3: Locking the script
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Write Pages." Body: "Target
-> for today: get to the end, even roughly. 2 to 3 pages total. Scene headings correct, action in present
-> tense, only what a camera can see and hear." Add a box titled "Stuck?": "Read your last line out loud. Ask
-> what physically happens next. Write that. Not what someone feels, what they DO." And a second box: "Done
-> early? Read it out loud to yourself and mark every line that made you stumble." One slide.
+> Create one slide for a high school video class titled "Lock It." Body: "After today your script stops being
+> a writing project and becomes a SHOOTING DOCUMENT. The whole crew works from it, the shot list points at it,
+> and the schedule is built on it. Changes after lock have to be small." Then a checklist: 2 to 3 pages;
+> scene headings formatted and consistently named; every action line filmable; at least three things changed
+> from the table read; scene list at the front. One slide.
+
+### Slide 4: Do Now (plan tomorrow)
+
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Read, Revise, Then Plan the
+> Shoot." Body: "1) Table read both scripts. 2) Revise at least three things you heard. 3) Lock it. 4) Then
+> plan tomorrow." Then a boxed shoot plan checklist: which shots are you getting first; which LOCATION are you
+> starting in, since you shoot by location not story order; who is holding the camera, who is the subject, who
+> is watching audio; what equipment you are pulling; what your resolution and frame rate are, the same for
+> everyone in the group. Add: "Bring the checklist tomorrow. We set up before we shoot." One slide.
 
 ---
 
@@ -82,28 +89,28 @@ the thing you said was broken. Now show me what you changed about it."*
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Pull
-> our field's METAR and decode it in your head, all the way through. Warm-up question: you can read the code
-> now. So which of those numbers would actually stop us from flying today, and why that one?" Large, clean.
-> One slide.
+> our field's METAR and decode it in your head, all the way through, no handout. Warm-up question: you can
+> read the code now. So which of those numbers would actually stop us from flying today, and why that one?"
+> Large, clean. One slide.
 
 ### Slide 2: Gusts
 
 > Create one slide for a high school drone class titled "Why a Gust Is Worse Than Wind." Body: "A steady wind
-> is something the aircraft can lean into and hold. A gust is a shove. Every shove pushes the aircraft off
-> position, and it has to fight its way back. That means: a shot that will not hold still, a battery draining
-> faster than planned, and less margin every time." Add in large text: "Your aircraft does not experience the
-> average. It experiences the peak." One slide.
+> is something the aircraft can lean into and hold. A gust is a shove. Every shove pushes it off position and
+> it has to fight back. That means a shot that will not hold still, a battery draining faster than planned,
+> and less margin every time." Add in large text: "Your aircraft does not experience the average. It
+> experiences the peak." One slide.
 
 ### Slide 3: The ones that end a flight
 
-> Create one slide for a high school drone class titled "Hazards, and Why." A table with two columns, the
-> hazard and what it does. Rows: TURBULENCE, irregular air that makes the aircraft hard to hold steady. WIND
-> SHEAR, a sudden change in wind speed or direction over a short distance. BUILDINGS, air moving around a
-> structure becomes turbulent and unpredictable. PRECIPITATION, most small drones are not weather sealed and
-> water reaches motors and electronics. FOG AND MIST, visibility drops below legal minimums fast. ICING, ice
-> adds weight and ruins the airflow that makes lift. One slide, clean table.
+> Create one slide for a high school drone class titled "Hazards, and Why." A two column table, the hazard and
+> what it does. TURBULENCE, irregular air that makes the aircraft hard to hold steady. WIND SHEAR, a sudden
+> change in wind speed or direction over a short distance. BUILDINGS, air moving around a structure becomes
+> turbulent and unpredictable. PRECIPITATION, most small drones are not weather sealed and water reaches
+> motors and electronics. FOG AND MIST, visibility drops below legal minimums fast. ICING, ice adds weight and
+> ruins the airflow that makes lift. One slide, clean table.
 
-### Slide 4: Thunderstorms and heat
+### Slide 4: Two you might underestimate
 
 > Create one slide for a high school drone class titled "Two You Might Underestimate." Two boxes. Box 1,
 > THUNDERSTORMS: "A storm ten miles away is still a no-go. Thunderstorms produce violent, shifting winds well
@@ -114,10 +121,10 @@ the thing you said was broken. Now show me what you changed about it."*
 ### Slide 5: Do Now
 
 > Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Decode Drill 3." Body: "Pull
-> THREE full live METARs and decode every field. Then for each one, answer: which single hazard in this report
-> is the one that matters, and what would it actually do to our aircraft? Finish with a go or no-go call and
-> name the deciding number." Add a box: "Tomorrow you write your own limits. Start thinking about what your
-> numbers would be." One slide.
+> THREE full live METARs and decode every field, no handout if you can manage it. Then for each: which single
+> hazard here is the one that matters, and what would it actually do to our aircraft? Finish with a go or
+> no-go call and name the deciding number." Add a box: "Tomorrow you write your own limits. Start thinking
+> about what your numbers would be." And: "ODOT Module 1, due Thursday the 24th." One slide.
 
 ---
 
@@ -135,33 +142,34 @@ the thing you said was broken. Now show me what you changed about it."*
 
 > Create one slide for a middle school computer science class titled "forever." Body: "A forever loop never
 > stops while the game is running. Anything that should keep happening for the whole game goes inside one."
-> Then show in a monospace box: "forever:" indented "make a row of stars" and "pause 2000". Caption: "Make a
-> row. Wait two seconds. Do it again. Forever." One slide, large readable text.
+> Show in a monospace box: "forever:" indented "make a row of stars" and "pause 2000". Caption: "Make a row.
+> Wait two seconds. Do it again. Forever." One slide, large readable text.
 
 ### Slide 3: A loop inside a loop
 
-> Create one slide for a middle school computer science class titled "A Loop Inside a Loop." Show this in a
+> Create one slide for a middle school computer science class titled "A Loop Inside a Loop." Show in a
 > monospace box: "forever:" then indented "for index from 0 to 4:" then indented further "set star to sprite
-> of kind Food" and "set star position to x (20 + index * 30), y 0" and "set star vy to 40" then back out one
-> level "pause 2000". Then read it from the inside out in a list: the for makes a row of 5 stars; the pause
-> waits 2 seconds; the forever does all of it again. Add a box in large text: "This is called a NESTED LOOP,
-> and it is how almost every game you have played spawns enemies." One slide.
+> of kind Food" and "set star position to x (20 + index * 30), y 0" and "set star vy to (30 + index * 10)"
+> then back out one level "pause 2000". Then read it from the inside out as a list: the for makes a row of 5
+> stars; the pause waits 2 seconds; the forever does all of it again. Add a box in large text: "This is a
+> NESTED LOOP, and it is how almost every game you have played spawns enemies." One slide.
 
 ### Slide 4: Catching and missing
 
-> Create one slide for a middle school computer science class titled "Catching and Missing." Two boxes. Box
-> 1, CATCHING, in monospace: "on overlap mySprite with Food:" indented "destroy otherSprite" and "change
-> score by 1". Box 2, MISSING, in monospace: "forever:" indented "if star y > 120 then" indented further
-> "destroy star" and "change life by -1". Caption underneath: "Destroy the star in BOTH cases. If you never
-> destroy them they pile up by the hundreds and your game slows to a crawl." One slide.
+> Create one slide for a middle school computer science class titled "Catching and Missing." Two boxes. Box 1,
+> CATCHING, in monospace: "on sprite of kind Player overlaps otherSprite of kind Food:" indented "destroy
+> otherSprite" and "change score by 1". Box 2, MISSING, in monospace: "forever:" indented "if star y > 120
+> then" indented further "destroy star" and "change life by -1". Caption: "Destroy the star in BOTH cases. If
+> you never destroy them they pile up by the hundreds and your game slows to a crawl." One slide.
 
 ### Slide 5: Do Now
 
-> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Waves." Numbered
-> body: "1) Put your 'for index' row inside a 'forever' loop. 2) Add a pause so the waves come one at a time
-> instead of all at once. 3) Add the on-overlap that destroys a star and adds to your score. 4) Add the check
-> that destroys a star that falls off the bottom and costs you a life. 5) Play it for a full minute and watch
-> whether it slows down." Add a box: "It got slow? Something is not being destroyed. Find it." One slide.
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Steps 10 to 12."
+> Numbered: "1) Put your 'for index' row inside a 'forever' loop. 2) Add a pause so waves come one at a time.
+> 3) Add the on-overlap that destroys a star and adds score. 4) Set life to 3, and destroy any star that falls
+> past the bottom, costing a life. 5) Play for a FULL MINUTE and watch whether it slows down." Add a box in
+> large text: "It got slow? Something is not being destroyed. Find it. That is today's real lesson: things you
+> create have to be cleaned up." One slide.
 
 ---
 
@@ -169,13 +177,13 @@ the thing you said was broken. Now show me what you changed about it."*
 
 ### Slide 1: Today (the only slide, leave it up)
 
-> Create one work-time slide for a high school yearbook class. Big title: "Today." Two columns. Left, "On the
-> camera list": shoot your shutter speed pair, one frozen and one blurred, same subject, and write down the
-> actual shutter speed for each. Offload and name files right away. Right, "Everyone else": spread work, and
-> start getting your PDF ready for Friday's check-in. Add a box at the bottom: "Tomorrow is the LAST rotation.
-> If you have not shot your pair, get on the list today." And a second box: "Want a challenge? Try a pan:
-> shutter around 1/60, turn your whole upper body with the subject, keep turning through the shot." One
-> slide, clean, meant to stay on the board.
+> Create one work-time slide for a high school yearbook class. Big title: "Today." Top, the four shot set due
+> Friday in a compact list: 1 FROZEN 1/500+; 2 PANNING INDOORS ~1/60; 3 WATER FROZEN 1/1000+; 4 SUBJECT
+> BLURRED 1/30 or slower, camera braced. Then two columns. Left, "On the camera list": shoot, note shutter
+> speed, ISO, and aperture for each, offload and name right away. Right, "Everyone else": spread work, get
+> your PDF ready for Friday. Add a box: "TOMORROW IS THE LAST ROTATION. If you still need shots, get on the
+> list today." And: "Water shot? The drinking fountain works. Get close, get light on it, backlight it if you
+> can so the droplets separate." One slide, clean, meant to stay on the board.
 
 ---
 
@@ -183,8 +191,8 @@ the thing you said was broken. Now show me what you changed about it."*
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | Build frame 1 in Figma from the wireframe |
-| Video & Sound | Draft day. Quiet, pages, get to the end |
+| Design Techniques | Lab: State change. Build screen 1 in Figma |
+| Video & Sound | Table read, **lock the script**, plan tomorrow's shoot |
 | Aviation UAS | Weather hazards and what each does to the aircraft. Drill 3 |
-| Middle School CS | `forever`, nested loops, catching and missing |
+| Middle School CS | `forever`, nested loops, catching and missing. Steps 10 to 12 |
 | Yearbook | Camera rotation, spread work, PDF prep |

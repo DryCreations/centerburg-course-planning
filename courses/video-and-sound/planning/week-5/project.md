@@ -24,6 +24,31 @@ Full format reference: `handouts/screenplay-format.md`
 | 7 | A **table read** completed with a partner, and at least three lines changed as a result |
 | 8 | Your **scene list**: every scene heading in order, on its own page at the front |
 
+**Script locks Wednesday.** After that it is a shooting document, not a writing project. Changes after lock
+have to be small, because the whole crew is working from it.
+
+---
+
+## Part B: Start Filming (Thu and Fri)
+
+| # | Requirement |
+|---|-------------|
+| 1 | **Run the camera checklist** before every setup: `handouts/camera-video-settings.md` |
+| 2 | **Shoot ten seconds and play it back** before shooting anything real |
+| 3 | At least **three shots from your shot list** in the can by end of Friday |
+| 4 | **Room tone** recorded at every location: 30 seconds, nobody talking |
+| 5 | Footage **offloaded and named** the same day it is shot |
+| 6 | A **shot log**: which shots are done, which still need doing |
+
+> **Editing software is not installed yet.** Offload and organize anyway. When it arrives you want to be
+> cutting, not hunting for files named MVI_4821.
+
+### Naming footage
+
+`LastName_Project_Shot03_Take2.MOV`
+
+Not `MVI_4821.MOV`. You will not remember what that was by next week.
+
 ---
 
 ## Turn in
@@ -33,6 +58,9 @@ Full format reference: `handouts/screenplay-format.md`
 - [ ] Partner's name from the table read
 - [ ] Three things you changed after hearing it read out loud
 - [ ] Submitted to Google Classroom as a PDF or a Doc link
+- [ ] At least three shots filmed, offloaded, and properly named
+- [ ] Room tone recorded at every location
+- [ ] Shot log showing what is done and what remains
 
 ---
 
@@ -51,9 +79,9 @@ Full format reference: `handouts/screenplay-format.md`
 
 ## Note on software
 
-Editing software is not installed yet. **That changes nothing about this week.** Pre-production is a real
-phase of production and it is where this unit lives regardless. By the time the software arrives you will
-have a script, a storyboard, and a shot list ready to go, which is exactly the position you want to be in.
+Editing software is not installed yet. **That changes nothing about this week.** You plan, you shoot, you
+offload and organize. When the software lands you will already have footage sitting in named folders ready to
+cut, which is exactly the position you want to be in.
 
 ---
 

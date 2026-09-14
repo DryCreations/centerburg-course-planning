@@ -9,6 +9,7 @@
 | **Freeze** | Stopping motion sharply with a fast shutter. |
 | **Camera shake** | Blur caused by the photographer's hands, not the subject. Usually below 1/60 handheld. |
 | **Panning** | Moving the camera with a moving subject so the subject is sharp and the background streaks. |
+| **Bracing** | Steadying the camera on a solid surface so slow shutter speeds do not pick up hand shake. |
 | **Exposure triangle** | Aperture, shutter speed, and ISO. Change one and another has to change to keep the brightness. |
 | **ISO** | How sensitive the sensor is. Raising it brightens the photo and adds grain. |
 | **Grain / noise** | The speckled texture from a high ISO. |
@@ -30,4 +31,7 @@
 2. You speed up the shutter and the photo gets dark. Why, and what are your two options to fix it?
 3. Why is the gym harder to shoot in than the parking lot?
 4. What is the slowest shutter speed you should use handheld, and why?
-5. Both your shots are technically correct. What makes one the better yearbook photo?
+5. What is the difference between blur caused by movement and blur caused by bad focus?
+6. In a panning shot, what is sharp and what is streaked? What makes that happen?
+7. Why does water look like a stream to your eye but like separate drops at 1/1000?
+8. All four of your shots are technically correct. What makes one the better yearbook photo?

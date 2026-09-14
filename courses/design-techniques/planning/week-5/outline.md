@@ -1,43 +1,57 @@
-# Week 5: The Redesign Project: Outline
+# Weeks 5 and 6: The App Redesign Project: Outline
 
 **Course:** Design Techniques (145095)
-**Quarter:** Q1 | **Week:** 5 | **Dates:** Mon Sep 14 to Fri Sep 18
+**Quarter:** Q1 | **Weeks:** 5 to 6 | **Dates:** Mon Sep 14 to Fri Sep 25
 
-> **You know the tool now. This week you use it for something real.** Find a screen that genuinely does not
-> work, prove exactly what is wrong with it, and redesign it.
+> **One app, two weeks, a little more each day.** You will design a small prototype for a single task a
+> person does, and by the end someone else will be able to click through it and do that task without you
+> explaining anything.
 
 ---
 
-## What This Week Covers
+## What This Covers
 
-Last week you learned Figma by copying a spec. This week there is no spec. You pick a real app or website
-screen that frustrates you, take it apart in design language, sketch a fix on paper, and build that fix as a
-working prototype.
+Last week you learned Figma by copying a spec, and you made one button go to another screen. Now you design
+something of your own, and learn seven more kinds of interaction along the way.
+
+**Scope is small on purpose.** One task, 3 to 4 screens. Not a whole app.
 
 ## Student Overview
 
 ### What You'll Be Able to Do
 
-- Critique a real interface in design language instead of saying "it looks bad"
-- Map a user journey and name the exact step where it breaks
-- Turn a critique into a wireframe, and a wireframe into a working prototype
+- Scope a design project down to one task a person actually does
+- Sketch a screen as a wireframe before building it
+- Build a multi-screen prototype in Figma
+- Use at least four kinds of interaction: back, overlay, state change, scroll, selection, input, transitions
+- Test your design on a person and change it based on what you watched
 - Explain a design decision by naming the problem it solves
 
-### Weekly Snapshot
+### Week 5
 
-| Day | Focus | Turn in |
-|-----|-------|---------|
-| Mon Sep 14 | Pick your screen, name the task, tear it down on paper | Annotated screenshot |
-| Tue Sep 15 | User journey, then wireframe your fix | Paper wireframe |
-| Wed Sep 16 | Build the redesigned screen in Figma | Frame 1 built |
-| Thu Sep 17 | Second frame, connect the prototype, partner test | Prototype clicking |
-| Fri Sep 18 | Before and after write-up, post to your portfolio | Full project |
+| Day | Focus | Lab |
+|-----|-------|-----|
+| Mon Sep 14 | Pick your project, write your one task, list your screens, start sketching | Back |
+| Tue Sep 15 | Finish paper wireframes for every screen | Overlay |
+| Wed Sep 16 | Build screen 1 in Figma | State change |
+| Thu Sep 17 | Build screens 2 and 3 | Scroll |
+| Fri Sep 18 | Connect what you have, first partner test | |
 
-### What You'll Get This Week
+### Week 6
 
-- **The teardown sheet:** how to pick a target and how to say what is wrong in real terms
-- **The Redesign Project assignment** with a full checklist
-- **This week's vocabulary:** critique and UX terms
+| Day | Focus | Lab |
+|-----|-------|-----|
+| Mon Sep 21 | Fix what the test found | Selection |
+| Tue Sep 22 | Build the last screen | Input |
+| Wed Sep 23 | Connect everything, both directions | Transitions |
+| Thu Sep 24 | Second partner test, final fixes | Putting it together |
+| Fri Sep 25 | Write-up, post to portfolio, submit | |
+
+### What You'll Get
+
+- **The project assignment** with the full requirement list and ten project ideas if you want one
+- **The Interaction Labs:** eight short labs, one per day, each teaching one thing you then use
+- **This week's vocabulary**
 
 ### Standards Covered
 
