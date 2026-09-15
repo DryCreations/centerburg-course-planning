@@ -22,6 +22,23 @@
 | **Ceiling** | The height of the lowest broken or overcast layer. |
 | **Dew point** | The temperature at which the air becomes saturated. When it is close to the temperature, expect fog or mist. |
 
+## Airspace
+
+| Term | Definition |
+|------|------------|
+| **Controlled airspace** | Airspace where air traffic control provides service. Drone flight requires authorization. |
+| **Uncontrolled airspace (Class G)** | Airspace where nobody separates traffic and the pilot is responsible. No authorization needed. |
+| **Class B** | Airspace around the busiest airports, shaped like an upside-down wedding cake. Solid blue on a chart. |
+| **Class C** | Airspace around busy towered airports with radar. Solid magenta on a chart. |
+| **Class D** | Airspace around a towered airport, usually one ring. Dashed blue on a chart. |
+| **Class E** | Controlled airspace that is not B, C, or D. Dashed magenta where it starts at the surface. |
+| **LAANC** | The system that grants automated authorization to fly in controlled airspace. |
+| **Grid ceiling** | The maximum altitude pre-approved for a square of controlled airspace: 0, 100, 200, 300, or 400 feet. |
+| **Sectional chart** | The aviation map, where airspace is shown by colored lines and symbols. |
+| **MSL / AGL** | Height above sea level, versus height above the ground directly below you. |
+| **Further coordination** | A request to fly higher than a grid ceiling allows. Takes days and is not guaranteed. |
+| **NOTAM** | A notice of temporary hazards or restrictions that will not appear on a chart. |
+
 ## Hazards
 
 | Term | Definition |
@@ -50,3 +67,7 @@
 5. What is the difference between a METAR and a TAF, and why check both?
 6. Why should your personal minimums be stricter than the Part 107 limits?
 7. Your group's limit is 15 knots of gusts and the METAR shows G18. What happens next?
+8. Which airspace classes require authorization before you fly a drone?
+9. A grid square on the Facility Map reads 200. What is your maximum altitude there?
+10. What does a dashed blue ring mean on a sectional chart?
+11. Your site is Class G. Name four rules that still apply.

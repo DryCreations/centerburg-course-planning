@@ -9,9 +9,9 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | Pick the project, write the ONE TASK, sketch. Lab: Back | **Camera setup for video**, then screenplay format | METAR anatomy, **decode together on the board**. Assign ODOT Module 1 | **`while` loop lesson** + problems, then lab steps 1 to 5 | Shutter speed lesson, camera list opens |
-| **Tue** | Lab: Overlay. Wireframe every screen | Scene list, draft | Sky condition, temp/dew point, weather codes | **`for index` and modulo**, steps 6 to 9 | Rotation, spread work |
-| **Wed** | Lab: State change. Build screen 1 | Table read, **lock the script**, plan the shoot | Weather hazards | `forever`, nested loops, steps 10 to 12 | Rotation, spread work |
-| **Thu** | Lab: Scroll. Build screens 2 and 3 | **FILMING STARTS** | TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
+| **Tue** | **UI patterns and conventions**, then label your wireframes | Settings check, **shoot blocks and the shared schedule**, peer review | **Airspace:** classes, LAANC, sectionals, then ODOT work time | **`for index` and modulo**, steps 6 to 9 | **Shutter speed lesson**, then the four shot set |
+| **Wed** | Lab: State change. Build screen 1 | **Lock the script**, finish the schedule, call sheets | Weather hazards | `forever`, nested loops, steps 10 to 12 | Rotation, spread work |
+| **Thu** | Lab: Scroll. Build screens 2 and 3 | **FILMING, IN THE CLASSROOM** | TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
 | **Fri** | Connect, first partner test | **QUIZ**, then back out to film | **QUIZ**, then live weather briefs | Finish and showcase | **Four shot set + PDF check-in due** |
 
 ---
@@ -19,16 +19,19 @@
 ## What each course is doing, and why
 
 - **DT: the App Redesign Project, a TWO WEEK build** running through Fri Sep 25. Same app throughout, a
-  little more each day. Every day opens with a **ten minute interaction lab** (Back, Overlay, State change,
-  Scroll this week; Selection, Input, Transitions next week), then work time. That rhythm is what keeps a two
-  week project from going flat in the middle. **Scope is tiny on purpose:** one task, 3 to 4 screens.
-  Students pick Option A (fix something that frustrates them) or Option B (one of ten small ideas).
-- **V&S: camera setup, script lock, and first filming.** Monday teaches setting a camera up for **video**,
-  which is a different checklist than for photos. Script locks Wednesday. **Filming starts Thursday.** No
-  editing software needed: they shoot, offload, and organize.
-- **Aviation: Unit 2.1 Meteorology.** Monday is group decoding on the board with turn and talk, key allowed
-  at first and taken away as they warm up. Daily drills on live data, then the Personal Minimums Card
-  Thursday, quiz and live briefs Friday. **ODOT Module 1 assigned Monday, due Thu Sep 24.**
+  little more each day. **Tuesday teaches UI patterns and conventions**, the named building blocks apps are
+  made of, which students then apply by labeling every element on their own wireframes. Other days open with
+  a **ten minute interaction lab** (Back, Overlay, State change, Scroll this week; Selection, Input,
+  Transitions next week), then work time. **Scope is tiny on purpose:** one task, 3 to 4 screens.
+- **V&S: camera setup, production planning, and first filming.** Tuesday builds a **shared production
+  schedule across the whole class**, because **three cameras support manual video settings** (T4i, T5, T6)
+  and three groups shoot at a time. Script locks Wednesday and every group leaves with a call sheet.
+  **Thursday is an in-room shoot day**; groups spread into the building next week. No editing software
+  needed: they shoot, offload, and organize.
+- **Aviation: weather, then airspace.** Monday is METAR decoding. Tuesday moves to **airspace classes, LAANC
+  grid ceilings, and reading a sectional**, kept tight so there is real class time for **ODOT Module 1**,
+  which is due Thu Sep 24. Wednesday is weather hazards, Thursday the Personal Minimums Card, Friday the quiz
+  and live briefs.
 - **MS CS: loops and modulo.** Monday and Tuesday are content-first days. **`while` is taught Monday even
   though they will not use it until Thursday**, deliberately: the concept gets learned cold with no game
   pressure, then sits for three days. Tuesday adds `for index` and the remainder block.
@@ -42,6 +45,8 @@
 - **Yearbook expanded from a pair to a four shot set.** Frozen, panning indoors, water frozen, and subject
   blurred against a sharp background. Each has a target so nobody coasts by shooting the same thing twice.
   The paragraph defending which belongs in the book is still the assessment.
+- **Every Tuesday slide block has a board version**, the same content reduced to what fits on a whiteboard,
+  for running a lesson without a projector.
 - **MS CS leads with `while`, not `repeat`.** Teaching it Monday with example problems, tracing, and reading
   loops out loud as sentences, three days before they need it, means it is familiar rather than new when it
   matters. Modulo joins on Tuesday as the "every Nth" tool.
@@ -62,9 +67,9 @@
 - **ODOT Module 1 due date.** Set to **Thu Sep 24**, the day before next Friday's quiz, reading "next Friday"
   as Sep 25. If Sep 18 was intended, it is a one line change in `project.md`, `outline.md`, and Monday's
   slide.
-- **Camera bodies are not uniform.** T3, T4i, T5, T6. The **T3 only shoots 720p** while the others do 1080p,
-  and none of them do 1080p60. Groups need to decide a resolution and stick to it. Worth confirming the exact
-  mix on the cart.
+- **Three shooting cameras.** The T4i, T5, and T6 support manual exposure in movie mode. The **T3 does not**,
+  so it is used for behind-the-scenes stills and second angles only. Three groups shoot at a time, which is
+  what the shared schedule is built around. None of the bodies shoot 1080p60, so slow motion means 720p.
 - **DT course map needs resequencing.** Unit 1.4 is scheduled for weeks 8 to 9 and is being taught now.
 - **MS CS year map is stale**, and digital citizenship has been skipped entirely.
 - **Aviation has no unit outlines**, only labs, quizzes, and projects.

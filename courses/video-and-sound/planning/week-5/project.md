@@ -29,13 +29,32 @@ have to be small, because the whole crew is working from it.
 
 ---
 
+## Part A2: Production Schedule (Tue and Wed)
+
+Full instructions: `handouts/production-schedule.md`
+
+| # | Requirement |
+|---|-------------|
+| 1 | **Shoot blocks:** every shot sorted by location, not story order |
+| 2 | A **time estimate** for each block, with the half-again padding applied |
+| 3 | Every shot categorized **IN ROOM**, **IN BUILDING**, **OUTSIDE**, or **PROBLEM** |
+| 4 | At least **two shots that can be filmed in this classroom**, for Thursday |
+| 5 | Every **PROBLEM** shot either rewritten or cut |
+| 6 | Your rows filled in on the **shared class schedule** |
+| 7 | A **call sheet** for Thursday's shoot |
+
+**Three cameras support manual video settings, so three groups shoot at a time.** The schedule is built
+across the whole class, not group by group.
+
+---
+
 ## Part B: Start Filming (Thu and Fri)
 
 | # | Requirement |
 |---|-------------|
 | 1 | **Run the camera checklist** before every setup: `handouts/camera-video-settings.md` |
 | 2 | **Shoot ten seconds and play it back** before shooting anything real |
-| 3 | At least **three shots from your shot list** in the can by end of Friday |
+| 3 | At least **two shots filmed in the classroom Thursday**, and three total by end of Friday |
 | 4 | **Room tone** recorded at every location: 30 seconds, nobody talking |
 | 5 | Footage **offloaded and named** the same day it is shot |
 | 6 | A **shot log**: which shots are done, which still need doing |
@@ -58,6 +77,10 @@ Not `MVI_4821.MOV`. You will not remember what that was by next week.
 - [ ] Partner's name from the table read
 - [ ] Three things you changed after hearing it read out loud
 - [ ] Submitted to Google Classroom as a PDF or a Doc link
+- [ ] Shoot blocks, estimates, and location categories
+- [ ] Rows filled in on the shared class schedule
+- [ ] Call sheet for Thursday
+- [ ] Peer review completed, with three things changed
 - [ ] At least three shots filmed, offloaded, and properly named
 - [ ] Room tone recorded at every location
 - [ ] Shot log showing what is done and what remains

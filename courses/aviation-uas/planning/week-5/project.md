@@ -17,7 +17,7 @@ Each day you decode real METARs pulled live from aviationweather.gov, field by f
 | Day | What you decode |
 |-----|-----------------|
 | Mon | Station, time in Zulu and local, wind, visibility |
-| Tue | Sky condition, temperature and dew point, altimeter, weather codes |
+| Tue | **Airspace:** classes, LAANC grid ceilings, and sectional chart symbols. Practice problems, not METARs |
 | Wed | Three full METARs, then say which hazard in each is the one that matters |
 | Thu | One METAR and its TAF together: what is happening, and what will change |
 

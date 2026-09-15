@@ -68,12 +68,13 @@
 ### Slide 3: Do Now
 
 > Create one "Do Now" slide for a high school video class. Big title: "Do Now: Finish the Quiz, Then Shoot."
-> Body: "When you submit, run the camera setup checklist and get back out to your locations. Target by end of
-> today: at least three shots from your list, in the can, offloaded and named." Then a checklist: setup
-> checklist run; ten seconds shot and played back; three or more shots done; room tone at every location;
-> everything offloaded and named LastName_Project_Shot_Take; shot log updated. Add a box: "Also submit today:
-> your locked script with the scene list, your table read partner's name, and the three things you changed."
-> One slide.
+> Body: "When you submit, run the camera setup checklist and keep working your call sheet. Target by end of
+> today: at least three shots total, offloaded and named." Then a checklist: setup checklist run; ten seconds
+> shot and played back; three or more shots done; room tone recorded; everything offloaded and named
+> LastName_Project_Shot_Take; shot log updated; your rows on next week's schedule confirmed. Add a box: "Also
+> submit today: your locked script with the scene list, your peer reviewer's name, and the three things you
+> changed." And: "Next week you spread out into the building. Confirm your locations before you leave." One
+> slide.
 
 ---
 

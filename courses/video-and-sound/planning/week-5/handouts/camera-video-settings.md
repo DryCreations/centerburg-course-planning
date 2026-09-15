@@ -1,8 +1,8 @@
 # Setting Up the Camera for Video
 
-**Video & Sound, Week 5.** Our cameras are **Canon Rebel** bodies: a mix of T3, T4i, T5, and T6. They are not
-identical, and the menus differ slightly between them, so **check your specific body** rather than assuming
-the person next to you has the same options.
+**Video & Sound, Week 5.** Our cameras are **Canon Rebel** bodies: T4i, T5, T6, and T3. They are not
+identical, and the menus differ slightly, so **check your specific body** rather than assuming the person
+next to you has the same options.
 
 **This is the checklist you run before every single shoot.** Get it wrong and no amount of editing fixes it.
 
@@ -12,21 +12,34 @@ the person next to you has the same options.
 
 The model name is printed on the front, under the lens, or on the back near the screen.
 
-| Body | Best video it shoots |
-|------|----------------------|
-| **T3** | 720p at 30fps |
-| **T4i** | 1080p at 30, 25, or 24fps. 720p at 60fps |
-| **T5** | 1080p at 30, 25, or 24fps. 720p at 60fps |
-| **T6** | 1080p at 30, 25, or 24fps. 720p at 60fps |
+| Body | Manual video exposure | Best video it shoots |
+|------|----------------------|----------------------|
+| **T4i** | **Yes** | 1080p at 30, 25, or 24fps. 720p at 60fps |
+| **T5** | **Yes** | 1080p at 30, 25, or 24fps. 720p at 60fps |
+| **T6** | **Yes** | 1080p at 30, 25, or 24fps. 720p at 60fps |
+| **T3** | **No** | 720p at 30fps, auto exposure only |
 
-> **The thing to know up front:** none of these shoot 1080p at 60fps. If you want slow motion you have to
-> drop to **720p at 60fps** and accept the lower resolution. Decide that before you shoot, not after.
+### The three manual bodies are the shooting cameras
 
-> **If your group has a T3**, it maxes out at 720p. Either shoot everything on that project at 720p so it
-> matches, or use the T3 as your B camera and keep the main coverage on a 1080p body. **Do not mix
-> resolutions inside one video without deciding to.**
+**The T3 cannot set shutter speed, aperture, or ISO in movie mode.** It decides for itself, and it will drift
+mid-shot. That means it cannot do the thing this unit is about.
 
----
+**So there are three shooting cameras**, and they get shared. Everything in this handout assumes one of the
+three.
+
+**The T3 still has jobs:**
+
+- **Behind the scenes stills** for the production package
+- **A second angle** on a shot where the exposure does not have to match
+- **Framing practice** while you wait for a shooting camera
+
+> **Do not use the T3 for footage that has to cut together with manual footage.** The exposure will not
+> match, and there is no way to make it match afterward.
+
+### None of these shoot 1080p60
+
+If you want slow motion you drop to **720p at 60fps** and accept the lower resolution. **Decide that before
+you shoot, not after**, and everyone in your group shoots the same setting.
 
 ## The setup, in order
 

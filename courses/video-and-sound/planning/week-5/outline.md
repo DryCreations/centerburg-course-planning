@@ -1,4 +1,4 @@
-# Week 5: Camera Setup, Script Lock, and First Filming: Outline
+# Week 5: Camera Setup, Production Planning, and First Filming: Outline
 
 **Course:** Video & Sound Production (145110)
 **Quarter:** Q1 | **Week:** 5 | **Unit:** 1.2 Pre-Production | **Dates:** Mon Sep 14 to Fri Sep 18
@@ -10,9 +10,10 @@
 
 ## What This Week Covers
 
-**Monday:** how a camera gets set up for video, which is a different checklist than for photos, plus
-screenplay format. **Tuesday:** finish the script. **Wednesday:** table read, lock it, and plan the shoot.
-**Thursday and Friday:** filming starts.
+**Monday:** camera handling and how a camera gets set up for video. **Tuesday:** a settings check, then
+building a real production schedule and peer reviewing scripts. **Wednesday:** lock the script, finish the
+schedule, write call sheets. **Thursday:** filming in the classroom. **Friday:** quiz, then filming
+continues.
 
 > **Editing software is not installed yet.** That does not stop us. Everything shot this week gets offloaded
 > and organized, ready to cut the moment it lands.
@@ -24,27 +25,35 @@ screenplay format. **Tuesday:** finish the script. **Wednesday:** table read, lo
 - Set up a Canon Rebel for video: manual exposure, frame rate, the 180 degree shutter rule, white balance,
   manual focus, and audio levels
 - Name the five camera mistakes that cannot be fixed in editing
-- Write in industry-standard screenplay format
-- Run a table read and revise from what you hear
+- Break a script into shoot blocks sorted by location
+- Estimate how long a shot actually takes, and pad the estimate
+- Build a shared production schedule across groups sharing equipment
+- Write a call sheet
+- Peer review a script for format, filmability, and whether it can actually be shot
 - Offload and organize footage so it is ready to edit
 
 ### Weekly Snapshot
 
 | Day | Focus | Turn in |
 |-----|-------|---------|
-| Mon Sep 14 | Camera setup for video. Screenplay format basics | Camera checklist run |
-| Tue Sep 15 | Scene breakdown and drafting | Script draft |
-| Wed Sep 16 | Table read, lock the script, plan the shoot | Locked script + shot plan |
-| Thu Sep 17 | **Filming starts** | First footage offloaded |
+| Mon Sep 14 | Camera handling and setup for video | Camera checklist run |
+| Tue Sep 15 | Settings check. Shoot blocks, time estimates, shared schedule. Script peer review | Shoot blocks + schedule rows |
+| Wed Sep 16 | Lock the script, finish the schedule, write call sheets | Locked script + call sheet |
+| Thu Sep 17 | **Filming, in the classroom** | First footage offloaded |
 | Fri Sep 18 | **Quiz**, then filming continues | Footage + script submitted |
 
 ### What You'll Get This Week
 
-- **Setting Up the Camera for Video:** the full checklist, plus which body shoots what
+- **Setting Up the Camera for Video:** the full checklist, plus which body does what
+- **Building a Production Schedule:** shoot blocks, honest time estimates, the shared schedule, and a call
+  sheet template
+- **Script Peer Review:** the five rounds
 - **The screenplay format handout** with a full example page
-- **The format drill**
 - **This week's vocabulary**
-- **Friday:** a short quiz on pre-production and camera setup
+- **Friday:** a quiz on pre-production and camera setup
+
+> **Three cameras support manual video settings.** Groups share them, which is why the schedule is built
+> across the whole class rather than group by group.
 
 ### Standards Covered
 

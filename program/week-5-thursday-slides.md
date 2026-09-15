@@ -1,11 +1,11 @@
 # THURSDAY (Sep 17): Slide Prompts (all classes)
 
-> **Video & Sound films today.** Cameras, cards, batteries, and the setup checklist.
+> **Video & Sound films in the classroom today.** Three shooting cameras, three groups, call sheets in hand.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 3 | Lab, then build screens 2 and 3 |
-| Video & Sound | 4 | **Filming starts** |
+| Video & Sound | 4 | **Filming, in the classroom** |
 | Aviation UAS | 5 | TAFs, then personal minimums |
 | Middle School CS | 4 | `while` for real |
 | Yearbook | 1 | Last rotation |
@@ -42,16 +42,18 @@
 
 ---
 
-## 2. Video & Sound: FILMING DAY
+## 2. Video & Sound: FILMING, IN THE CLASSROOM
 
 **Bring:** cameras, charged batteries and spares, cards with space, tripods, any external mics.
-**Reference:** `handouts/camera-video-settings.md`
+**Reference:** `handouts/camera-video-settings.md`, and each group's call sheet from yesterday.
+**Three shooting cameras** (T4i, T5, T6), three groups, running on the shared schedule. The T3 shoots
+behind-the-scenes stills only.
 
 ### Slide 1: As You Come In (leave this up)
 
 > Create one "As You Come In" checklist slide for a high school video class. Big title: "As You Come In: Set
-> Up First." A large numbered checklist designed to stay on the board: 1) Get your camera and check which body
-> it is. 2) Movie mode, exposure MANUAL. 3) Resolution and frame rate, the SAME for everyone in your group. 4)
+> Up First." A large numbered checklist designed to stay on the board: 1) Get your call sheet out and your
+> assigned camera: T4i, T5, or T6. 2) Movie mode, exposure MANUAL. 3) Resolution and frame rate, the SAME for everyone in your group. 4)
 > Shutter at double the frame rate: 1/50 at 24fps, 1/60 at 30fps. 5) White balance on a PRESET, not auto. 6)
 > Lens switch to MF, focus with the magnifier. 7) Audio level peaking below the red. 8) Card space and battery
 > checked, spare in the bag. Add a box in large text: "Then shoot ten seconds and PLAY IT BACK before you
@@ -67,12 +69,12 @@
 
 ### Slide 3: Do Now
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Shoot." Numbered: "1) Run the
-> setup checklist. Ten seconds, play it back. 2) Shoot by LOCATION, not story order. Get everything in one
-> place before you move. 3) Get at least THREE shots from your shot list. 4) Shoot more takes than you think
-> you need. 5) Record ROOM TONE at every location: 30 seconds, nobody talking, nobody moving." Add a box:
-> "Room tone feels pointless right now. You will need it in the edit and you cannot go back for it." One
-> slide.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Shoot In Room." Numbered: "1)
+> Run the setup checklist. Ten seconds, play it back. 2) Work your call sheet in order. 3) Get at least TWO
+> in-room shots today. 4) Shoot more takes than you think you need, it costs nothing now and everything later.
+> 5) Record ROOM TONE: 30 seconds, nobody talking, nobody moving. 6) Hand the camera off on time, another
+> group is waiting." Add a box: "Room tone feels pointless right now. You will need it in the edit and you
+> cannot go back for it." And: "Next week you spread out into the building. Today is the room." One slide.
 
 ### Slide 4: Before You Leave
 
@@ -191,7 +193,7 @@
 | Class | Today |
 |-------|-------|
 | Design Techniques | Lab: Scroll. Build screens 2 and 3 |
-| Video & Sound | **FILMING.** Checklist before every setup, room tone at every location, offload today |
+| Video & Sound | **FILMING IN ROOM.** Call sheet, checklist, two in-room shots, room tone, offload today |
 | Aviation UAS | TAFs, then write and sign the Personal Minimums Card. Quiz tomorrow |
 | Middle School CS | `while` for real: the countdown, plus a ramp or levels. Steps 13 to 14 |
 | Yearbook | Last camera rotation, then the write-up |

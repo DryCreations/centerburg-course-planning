@@ -20,6 +20,27 @@
 | **Placeholder text** | The gray text in an empty field telling you what goes there. |
 | **Transition** | The animation between two screens. |
 
+## UI patterns
+
+| Term | Definition |
+|------|------------|
+| **Pattern** | A solution used so often it became the expected answer. |
+| **Convention** | Where people already expect something to be. Back in the top left, for example. |
+| **Tab bar** | A row of 3 to 5 destinations pinned to the bottom of the screen. |
+| **Nav bar / top bar** | The strip across the top holding the title, a back arrow, and sometimes one action. |
+| **Hamburger menu** | Three stacked lines that open a hidden list of destinations. |
+| **List** | Stacked rows, each one tappable, each one a single thing. |
+| **Card** | A contained block with its own edge, holding an image, a title, and text. |
+| **Empty state** | What a screen shows when there is nothing in it yet. |
+| **Primary button** | The one thing you most want a person to do. One per screen. |
+| **Secondary button** | A real option that should not compete with the primary. |
+| **Floating action button (FAB)** | A circular button floating over content for the single most common action. |
+| **Destructive action** | Delete, remove, cancel. Usually red, usually confirmed. |
+| **Toggle** | On or off, immediately, with no confirmation. |
+| **Modal / dialog** | A box over a dimmed screen that has to be dealt with before continuing. |
+| **Toast / snackbar** | A brief message that appears and disappears on its own. |
+| **Loading state** | What a screen shows while it is waiting. |
+
 ## Carried forward (still in use)
 
 | Term | Definition |
@@ -44,3 +65,7 @@
 6. Name three interaction types besides navigating to another screen.
 7. Why does every screen except the home screen need a way back?
 8. What is a state change, and why does one good one beat two extra screens?
+9. Name the pattern: a row of 3 to 5 destinations pinned to the bottom of the screen.
+10. Why does breaking a convention cost the person using your app something?
+11. How many primary buttons should a screen have, and why?
+12. What is an empty state, and why does a blank screen read as broken?

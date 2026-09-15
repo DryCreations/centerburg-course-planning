@@ -3,7 +3,7 @@
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 3 | Lab, then build screen 1 |
-| Video & Sound | 4 | Table read, lock the script, plan the shoot |
+| Video & Sound | 4 | Lock the script, finish the schedule, call sheets |
 | Aviation UAS | 5 | Weather hazards |
 | Middle School CS | 5 | `forever` and nested loops |
 | Yearbook | 1 | Rotation and work |
@@ -44,41 +44,59 @@
 
 ---
 
-## 2. Video & Sound: Table read, lock it, plan the shoot
+## 2. Video & Sound: Lock the script, finish the schedule, write call sheets
 
-**Run it as:** insist on out loud. Then the script locks and the conversation turns to logistics.
+**Documents:** `handouts/production-schedule.md` (Part 5), `handouts/script-peer-review.md`
+**Run it as:** finish revisions from yesterday's peer review, lock, then the shared schedule gets finalized
+and every group leaves with a call sheet for tomorrow.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Have
-> your draft open or printed and find a partner. Today you read each other's scripts OUT LOUD, taking parts.
-> Then your script LOCKS, because we film tomorrow." Large, clean. One slide.
+> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get out
+> your script, your peer review findings, and your shoot blocks. Today your script LOCKS and you write the
+> call sheet you will carry tomorrow. We film in this room tomorrow." Large, clean. One slide.
 
-### Slide 2: How a table read works
-
-> Create one slide for a high school video class titled "The Table Read." Numbered: 1) Swap scripts. Each
-> person takes a character, one reads the action lines. 2) Read straight through without stopping, even when
-> something is wrong. 3) The WRITER does not explain anything and does not join in. Listen and mark. 4) Mark
-> every place the reader stumbled, paused wrong, or had to reread. 5) Then talk. Add a box in large text: "A
-> stumble is almost never the reader's fault. It is a line that is not written the way people talk." One
-> slide.
-
-### Slide 3: Locking the script
+### Slide 2: Locking the script
 
 > Create one slide for a high school video class titled "Lock It." Body: "After today your script stops being
 > a writing project and becomes a SHOOTING DOCUMENT. The whole crew works from it, the shot list points at it,
-> and the schedule is built on it. Changes after lock have to be small." Then a checklist: 2 to 3 pages;
-> scene headings formatted and consistently named; every action line filmable; at least three things changed
-> from the table read; scene list at the front. One slide.
+> and the schedule is built on it. Changes after lock have to be small." Then a checklist: 2 to 3 pages; scene
+> headings formatted and consistently named; every action line filmable; at least three things changed from
+> the peer review; scene list at the front; every PROBLEM shot rewritten or cut. One slide.
 
-### Slide 4: Do Now (plan tomorrow)
+### Slide 3: The call sheet
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Read, Revise, Then Plan the
-> Shoot." Body: "1) Table read both scripts. 2) Revise at least three things you heard. 3) Lock it. 4) Then
-> plan tomorrow." Then a boxed shoot plan checklist: which shots are you getting first; which LOCATION are you
-> starting in, since you shoot by location not story order; who is holding the camera, who is the subject, who
-> is watching audio; what equipment you are pulling; what your resolution and frame rate are, the same for
-> everyone in the group. Add: "Bring the checklist tomorrow. We set up before we shoot." One slide.
+> Create one slide for a high school video class titled "The Call Sheet." Body: "This is the document you
+> actually carry tomorrow." Then the sections as a list: WHO IS WHERE, WHEN, with times and names; SHOTS TO
+> GET, in shooting order, as a checklist; GEAR, camera, charged battery and spare, card with space, tripod,
+> mic, script and shot list; SETTINGS, resolution, frame rate, shutter at double the frame rate, and the white
+> balance preset, and everyone in the group matches; BEFORE WE LEAVE, room tone recorded, footage played back,
+> everything offloaded and named. One slide.
+
+### Slide 4: Do Now
+
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Lock, Schedule, Call Sheet."
+> Numbered: "1) Make your last revisions from the peer review, then LOCK the script. 2) Finish your rows on the
+> class schedule: who has which camera, when, and where. 3) Write your call sheet for tomorrow's in-room
+> shoot. 4) Confirm your two in-room shots. If you do not have two that work in this classroom, fix that
+> now." Add a box in large text: "Tomorrow you walk in and start setting up. If your call sheet is not done
+> today, you lose tomorrow figuring out what to shoot." One slide.
+
+### Board version (no projector)
+
+```
+LOCK THE SCRIPT           CALL SHEET (carry it tomorrow)
+ 2-3 pages                  who / where / when
+ headings consistent        shots, in shooting order
+ all action filmable        gear: cam + battery + spare
+ 3 changes from review            card, tripod, mic
+ scene list at front              script + shot list
+ PROBLEM shots fixed        settings: res / fps
+                                      shutter = 2x fps
+CONFIRM: 2 shots that                 WB preset
+can be shot IN THIS ROOM    before leaving: room tone,
+                              playback, offload, name
+```
 
 ---
 
@@ -192,7 +210,7 @@
 | Class | Today |
 |-------|-------|
 | Design Techniques | Lab: State change. Build screen 1 in Figma |
-| Video & Sound | Table read, **lock the script**, plan tomorrow's shoot |
+| Video & Sound | **Lock the script**, finish the shared schedule, write call sheets |
 | Aviation UAS | Weather hazards and what each does to the aircraft. Drill 3 |
 | Middle School CS | `forever`, nested loops, catching and missing. Steps 10 to 12 |
 | Yearbook | Camera rotation, spread work, PDF prep |

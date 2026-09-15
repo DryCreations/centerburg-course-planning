@@ -40,6 +40,17 @@
 | **Room tone** | 30 seconds of a location's ambient sound with nobody talking. Needed in the edit. |
 | **Shot log** | A record of which shots are done and which still need shooting. |
 
+## Production planning
+
+| Term | Definition |
+|------|------------|
+| **Shoot block** | Everything that can be filmed in one place, in one session, without moving. |
+| **Shooting order** | Grouping shots by location rather than by where they fall in the story. |
+| **Call sheet** | The document a crew carries: who is where, when, with what, and which shots to get. |
+| **Turnaround** | The time it takes to move a setup from one location to the next. |
+| **Padding** | Extra time added to an estimate for the things you cannot predict. |
+| **Essential versus nice to have** | Marking which shots survive if you lose a session. |
+
 ## Review Questions
 
 1. What are the three parts of a scene heading, in order?
@@ -52,3 +63,6 @@
 8. Name three camera mistakes that cannot be fixed in editing.
 9. Why do we turn autofocus off for video?
 10. Why does white balance get set to a preset instead of auto?
+11. What is a shoot block, and why is a shot list sorted by location instead of story order?
+12. You estimate a block at 20 minutes. What do you actually schedule, and why?
+13. What goes on a call sheet?
