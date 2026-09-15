@@ -11,7 +11,7 @@ deliberately avoided.
 | Day | Activity | Notes |
 |-----|----------|-------|
 | Mon | METAR anatomy, then **group decoding on the board** with turn and talk. Drill 1. **Assign ODOT Module 1** | `handouts/decode-together.md` has five rounds of board codes, easiest to hardest, with answers |
-| Tue | Sky condition, temp and dew point, altimeter, weather codes. Drill 2 | The "add two zeros" trick for cloud heights is the highest-value thirty seconds of the week |
+| Tue | **Airspace, kept short:** review the classes, the rules attached to each, LAANC and grid ceilings, and enough sectional to recognize one. Four problems, then **ODOT work time** | They have seen the classes. This is the rules and the chart basics, not a full sectional lesson. Protect the work time |
 | Wed | Weather hazards for small UAS. Drill 3 | Connect every hazard back to the aircraft. Why does a gust matter more than steady wind |
 | Thu | TAFs, then the Personal Minimums Card | Card is due end of period, signed, with a reason next to every number |
 | Fri | **Quiz**, then live weather briefs | Briefs are ~90 seconds each on a real current METAR |
@@ -43,6 +43,20 @@ the first day it happens, not the day it is due. Access issues took 48 hours or 
 
 > **Check the date against your intent.** If you meant Module 1 due this Friday Sep 18 instead, it is a
 > one-line change in `project.md`, `outline.md`, and Monday's slide.
+
+## Tuesday is mostly work time
+
+The airspace content is a review plus the rules, and it should take well under half the period. **Do not
+teach sectional navigation.** They need to recognize that blue and magenta, solid and dashed, mean something,
+and to read the stacked floor and ceiling numbers. That is it.
+
+The two things worth landing:
+
+1. **The grid ceiling can be lower than 400, and the lower number wins.** A ceiling of 0 means no flight.
+2. **Class G does not mean no rules.** Every Part 107 limit still applies.
+
+Then release them to **ODOT Module 1**. It is due Thursday the 24th and it is on the next quiz, so this is
+the class time they get for it.
 
 ## Run the drills on live data
 

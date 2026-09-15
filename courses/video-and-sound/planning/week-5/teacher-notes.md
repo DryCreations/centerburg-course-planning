@@ -10,7 +10,7 @@ Unit 1.2 Pre-Production, week 1 of 3. **No editing software is installed, and th
 | Day | Activity | Notes |
 |-----|----------|-------|
 | Mon | **Camera setup for video**, hands on, then screenplay format and the drill | Two halves. Cameras first while attention is fresh |
-| Tue | Scene breakdown and drafting | Most students discover their idea is either two scenes or fifteen. Both are useful discoveries |
+| Tue | **Camera check**, hands-on camera time, then shoot blocks and scheduling in small groups | Check understanding first, then get cameras back in hands. Anyone who did not get real time exploring yesterday needs it today |
 | Wed | **Table read, lock the script**, plan the shoot | Script locks today. After this it is a shooting document |
 | Thu | **Filming starts** | Checklist before every setup. Ten seconds and play it back |
 | Fri | **Quiz**, then filming continues, offload and organize | Quiz is short, 20 questions, then back out to shoot |
@@ -22,6 +22,19 @@ Tuesday is a real drafting day, not a warm-up.
 
 If a group is not ready Thursday, send them out anyway with whatever shots they can get. **A group that
 films badly on Thursday learns more than a group that plans for another week.**
+
+## Tuesday: check, then hands on, then plan
+
+Open with the ten question check in `handouts/camera-check.md`, **from memory**, then hand out cameras so
+they can confirm anything they guessed at. The last question, "name one thing you tried that did not work and
+what you figured out," is usually the most informative answer on the page.
+
+**Then make them run the full sequence once:** movie mode through offload through watching it on the
+computer. Any step that stops a student is a thing to fix today rather than Thursday.
+
+Scheduling happens **in small groups, not as a whole-class exercise.** With 12 and 4 students, groups are
+small enough that the schedule is a conversation, not a board activity. Groups compare plans with each other
+before the period ends and write down whatever they agree to.
 
 ## Monday: cameras first
 

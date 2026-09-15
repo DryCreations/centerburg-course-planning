@@ -2,6 +2,9 @@
 
 **Aviation UAS, Week 5.** Weather tells you whether you *can* fly. Airspace tells you whether you *may*.
 
+You have seen the airspace classes before. This page is the **rules** attached to each one, and enough about
+sectional charts to recognize what you are looking at.
+
 ---
 
 ## The two kinds
@@ -90,9 +93,12 @@ flight at all. A few miles out it may be 400.
 
 ---
 
-## Reading a sectional chart
+## What a sectional chart looks like
 
-A **sectional** is the aviation map. Everything on it is a symbol, and the colors carry meaning.
+A **sectional** is the aviation map. You are not learning to navigate with one. You are learning to recognize
+**how airspace is marked**, so that when you see one you know what you are looking at.
+
+### The colors are the whole thing
 
 | You see | It means |
 |---------|----------|
@@ -100,15 +106,15 @@ A **sectional** is the aviation map. Everything on it is a symbol, and the color
 | **Solid magenta** rings | Class C |
 | **Dashed blue** ring | Class D |
 | **Dashed magenta** ring | Class E starting at the surface |
-| **Faded magenta** band | Class E starting at 700 feet AGL |
-| **Blue or magenta numbers** in a box on a ring | The floor and ceiling of that piece, in hundreds of feet |
-| **Magenta or blue airport symbol** | Magenta means no control tower, blue means towered |
-| **Blue flag** | A visual checkpoint |
-| **Small blue circle with lines** | An obstruction, such as a tower |
+| **Faded magenta** band | Class E starting at 700 feet |
+| No ring at all | Class G |
+
+**Blue and magenta, solid and dashed.** That is the pattern. Solid means a bigger, busier airspace; dashed
+means it starts at the ground around a smaller airport.
 
 ### The stacked numbers
 
-On a Class C or B ring you will see numbers stacked like a fraction:
+On a ring you will see numbers stacked like a fraction:
 
 ```
  70
@@ -116,12 +122,15 @@ On a Class C or B ring you will see numbers stacked like a fraction:
  25
 ```
 
-**Top is the ceiling, bottom is the floor**, both in hundreds of feet MSL. So this piece of airspace runs
-from **2,500 feet up to 7,000 feet.** Below 2,500 in that spot, you are not in it.
+**Top is the ceiling, bottom is the floor**, in hundreds of feet. So that piece of airspace runs from **2,500
+up to 7,000 feet.** Below 2,500 in that spot, you are underneath it.
 
-**That is why "am I under Class B?" is a real question with a real answer.**
+> **That is why "am I under it?" is a real question with a real answer.** Controlled airspace is a shape in
+> three dimensions, not a circle on the ground.
 
----
+### Airport symbols
+
+**Magenta** airport symbol means no control tower. **Blue** means towered.
 
 ## The tools you actually use
 
@@ -139,40 +148,28 @@ from **2,500 feet up to 7,000 feet.** Below 2,500 in that spot, you are not in i
 
 ## Practice problems
 
-**1.** You are flying at a park. The FAA UAS Facility Map shows your grid square as **200**. What does that
-mean, and what is your maximum altitude?
+**1.** The FAA UAS Facility Map shows your grid square as **200**. What is your maximum altitude there?
 
 **2.** You want to fly at 350 feet in a grid marked **200**. What are your options?
 
-**3.** A sectional shows your location inside a **dashed blue ring**. What class is that, and what do you need?
+**3.** A sectional shows your location inside a **dashed blue ring**. What class, and what do you need?
 
-**4.** Your location is inside a Class C ring, and the numbers read 70 over 25. You want to fly at 300 feet
-AGL, and the ground is roughly at sea level. Are you inside that Class C shelf?
-
-**5.** Your site is **Class G**, no authorization needed. Name four rules that still apply.
-
-**6.** A grid square reads **0**. What does that mean?
+**4.** Your site is **Class G**, no authorization needed. Name four rules that still apply.
 
 <details>
 <summary>Answers</summary>
 
-**1.** 200 feet AGL is pre-approved through LAANC for that square. You request it and get near-instant
-approval. Your maximum is **200 feet**, not 400, even though 400 is the general Part 107 limit.
+**1.** **200 feet AGL**, not 400. The grid ceiling is lower than the general Part 107 limit, and the lower
+number wins.
 
-**2.** Either fly at 200 or below, or file a **further coordination** request, which takes days and is not
+**2.** Fly at 200 or below, or file a **further coordination** request, which takes days and is not
 guaranteed. You do not simply fly higher.
 
-**3.** **Class D**, an airport with a control tower. You need authorization before flying.
+**3.** **Class D**, a towered airport. You need authorization before flying.
 
-**4.** **No.** That shelf runs from 2,500 to 7,000 feet MSL. At 300 feet you are well underneath it, in
-whatever airspace is below, usually Class G or E.
-
-**5.** Any four: 400 feet AGL maximum, 3 statute miles visibility, visual line of sight at all times, daylight
+**4.** Any four: 400 feet AGL maximum, 3 statute miles visibility, visual line of sight at all times, daylight
 or civil twilight with anti-collision lighting, not over people who are not part of the operation, one
 aircraft at a time, registration if over 0.55 lb, no careless or reckless operation.
-
-**6.** **No drone flight is pre-approved there at any altitude.** Usually right off the end of a runway. It is
-not an invitation to ask, it is a no.
 
 </details>
 

@@ -7,12 +7,31 @@ Student docs: `outline.md`, `project.md`, `vocab.md`, `handouts/interaction-labs
 
 ## The shape of every day
 
-**Ten minute lab, then work time.** The lab teaches one interaction in a scratch file, then they go apply it
-to their own project. That rhythm keeps a two week project from going flat in the middle, which is the usual
-failure mode.
+**Short pattern lesson, ten minute lab, then work time.** Both the lesson and the lab are chosen for what
+students are putting on a screen that day, so nothing is taught in the abstract.
 
-Labs in order: Back, Overlay, State change, Scroll (week 5), Selection, Input, Transitions, Putting it
-together (week 6).
+| Day | Pattern lesson | Lab |
+|-----|----------------|-----|
+| Mon | | Back |
+| Tue | Navigation and focus | |
+| Wed | Content: lists, cards, empty states | State change |
+| Thu | Feedback and state | Scroll |
+| Fri | Consistency | |
+| wk 6 | Input | Selection, Input, Transitions, Putting it together |
+
+`handouts/ui-patterns.md` is organized in those sections, so students read only the part that is live.
+
+## The "looks like a real app" point
+
+Worth making explicitly on Tuesday: **not everything has to function, but the screens should look like the
+whole app exists.** A tab bar with four destinations when only one goes anywhere. A search icon that does
+nothing. A settings gear.
+
+Students default to building only what they wired up, and the result looks like a wireframe rather than a
+product. The test to give them: **would someone believe a screenshot of this was a real app?**
+
+Have them keep a running list of what they are showing but not implementing. It goes in the write-up, and it
+is the difference between "I forgot" and "I decided."
 
 ## Monday is ideation, not building
 

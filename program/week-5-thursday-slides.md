@@ -4,7 +4,7 @@
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 3 | Lab, then build screens 2 and 3 |
+| Design Techniques | 4 | Feedback and state, lab, then screens 2 and 3 |
 | Video & Sound | 4 | **Filming, in the classroom** |
 | Aviation UAS | 5 | TAFs, then personal minimums |
 | Middle School CS | 4 | `while` for real |
@@ -12,31 +12,65 @@
 
 ---
 
-## 1. Design Techniques: Build screens 2 and 3
+## 1. Design Techniques: Feedback and state, then screens 2 and 3
+
+**Documents:** `handouts/ui-patterns.md` (section 3), `handouts/interaction-labs.md` (Lab 4)
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> Figma. Screen one should be built. Today: screens two and three, same way, following your wireframes.
-> Tomorrow we connect them and somebody tests it." Large, clean. One slide.
+> Figma. Screen one should be built. Today: screens two and three, plus the pieces that tell a person
+> something happened." Large, clean. One slide.
 
-### Slide 2: Lab: Scroll
+### Slide 2: Telling the person something happened
+
+> Create one slide for a high school design class titled "Show That It Worked." Four short blocks. SELECTED
+> STATE: which option is currently picked, shown filled, colored, or check-marked. A choice with no visible
+> selection is a choice a person cannot verify. MODAL: a box over a dimmed screen that has to be dealt with
+> before continuing. Use it to confirm something destructive, not to tell people things they did not ask.
+> TOAST: a small message that appears briefly and disappears. "Saved." "Added." LOADING STATE: what shows
+> while waiting, a spinner or a gray outline of the content. Add a box in large text: "Nothing happening
+> reads as broken. Even in a mockup, showing you thought about it counts." One slide.
+
+### Slide 3: Lab: Scroll
 
 > Create one instructional slide for a high school design class titled "Ten Minute Lab: Scroll." Body: "A list
-> longer than the screen that actually scrolls. In a scratch file." Numbered: 1) Make a phone frame. 2) Inside
-> it, build a list that runs PAST the bottom of the frame, eight or ten rows. 3) Select the frame and turn ON
-> "Clip content" in the right panel. 4) Still on the frame, in the Prototype tab set Overflow scrolling to
-> Vertical scrolling. 5) Present and drag the list up and down. Add a box: "Any list of more than about five
-> things should scroll, not shrink to fit." One slide.
+> longer than the screen that actually scrolls. In a scratch file." Numbered: 1) Make a phone frame. 2) Build
+> a list that runs PAST the bottom of the frame, eight or ten rows. 3) Select the frame and turn ON "Clip
+> content" in the right panel. 4) In the Prototype tab set Overflow scrolling to Vertical scrolling. 5)
+> Present and drag the list up and down. Add a box: "Any list of more than about five things should scroll,
+> not shrink to fit." One slide.
 
-### Slide 3: Do Now
+### Slide 4: Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now: Screens Two and Three." Body:
-> "Build them from your wireframes. Two things to keep consistent across every screen: the BACK BUTTON goes in
-> the same corner every time, and anything that repeats stays in the same place. Consistency is what makes a
-> prototype feel real instead of like three unrelated pictures." Add a box: "Tomorrow: connect everything and
-> your first partner test. Something has to be clickable by the end of tomorrow, even if it is only two
-> screens." One slide.
+> "Build them from your wireframes. Two things stay consistent across every screen: the BACK BUTTON in the
+> same corner, and anything that repeats stays in the same place." Then a short list: is there a selected
+> state anywhere a person chooses something; does anything destructive ask first; does any list start empty.
+> Add a box: "Tomorrow: connect everything and your first partner test. Something has to be clickable by the
+> end of tomorrow, even if it is only two screens." One slide.
+
+### Board version (no projector)
+
+```
+SELECTED STATE  which one is picked right now?
+                filled / colored / checked
+                no visible selection = cannot verify
+
+MODAL           box over a dimmed screen,
+                deal with it before continuing
+                use: confirming destructive things
+
+TOAST           brief message, disappears by itself
+                "Saved."  "Added."
+
+LOADING         spinner / bar / gray outline
+                NOTHING HAPPENING READS AS BROKEN
+
+LAB: SCROLL
+  frame -> list past the bottom -> Clip content ON
+  -> Prototype tab -> Overflow: Vertical scrolling
+```
 
 ---
 
@@ -192,7 +226,7 @@ behind-the-scenes stills only.
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | Lab: Scroll. Build screens 2 and 3 |
+| Design Techniques | Feedback and state patterns, Lab: Scroll, build screens 2 and 3 |
 | Video & Sound | **FILMING IN ROOM.** Call sheet, checklist, two in-room shots, room tone, offload today |
 | Aviation UAS | TAFs, then write and sign the Personal Minimums Card. Quiz tomorrow |
 | Middle School CS | `while` for real: the countdown, plus a ramp or levels. Steps 13 to 14 |

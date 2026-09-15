@@ -5,7 +5,7 @@
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 3 | Connect, first partner test |
+| Design Techniques | 4 | Consistency pass, connect, first partner test |
 | Video & Sound | 3 | Quiz, then back out to film |
 | Aviation UAS | 4 | Quiz, then live weather briefs |
 | Middle School CS | 3 | Finish and showcase |
@@ -23,7 +23,17 @@
 > Figma. Today you connect what you have built and put it in front of a person for the first time. It does not
 > have to be finished. It has to be clickable." Large, clean. One slide.
 
-### Slide 2: The partner test
+### Slide 2: The consistency pass
+
+> Create one slide for a high school design class titled "Look Across, Not At." Body: "Lay all your screens
+> side by side and look ACROSS them. Anything that shifts position between screens is a bug." Then a
+> checklist: back button in the same corner on every screen; tab bar in the same position with the same items
+> in the same order; titles the same size and placement; the same kind of button looks the same everywhere;
+> the same margin from the screen edge; your primary color means one thing and is not used decoratively. Add
+> a box in large text: "Consistency is what separates a prototype that feels real from three unrelated
+> pictures." One slide.
+
+### Slide 3: The partner test
 
 > Create one slide for a high school design class titled "The Partner Test." Body: "Hand your prototype to a
 > partner and tell them ONE thing: the task. 'Order a coffee.' 'Find the game on Friday.' Then say nothing
@@ -32,7 +42,7 @@
 > you WANT to explain something, that is a design problem you just found. Write it down instead of saying
 > it." One slide.
 
-### Slide 3: Do Now
+### Slide 4: Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now: Connect, Then Test." Numbered:
 > "1) Connect the screens you have built, both directions. 2) Make sure every screen has a way BACK. 3)
@@ -171,7 +181,7 @@
 
 | Class | Today | Due |
 |-------|-------|-----|
-| Design Techniques | Connect, first partner test | Nothing. Project due Fri Sep 25 |
+| Design Techniques | Consistency pass, connect, first partner test | Nothing. Project due Fri Sep 25 |
 | Video & Sound | **QUIZ**, then back out to film | Locked script + 3 shots offloaded |
 | Aviation UAS | **QUIZ**, then live weather briefs | Drills, minimums card, brief |
 | Middle School CS | Finish and showcase | **Star Catcher** |

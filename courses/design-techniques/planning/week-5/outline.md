@@ -23,19 +23,25 @@ something of your own, and learn seven more kinds of interaction along the way.
 - Scope a design project down to one task a person actually does
 - Sketch a screen as a wireframe before building it
 - Build a multi-screen prototype in Figma
+- Name the UI patterns your screens are made of, and use the conventions people already expect
+- Design a screen that looks like a complete app, including parts you are not building
+- Draw a screen flow and check that every screen is reachable and every screen has a way back
+- Make one primary action win on each screen, using two or three of size, color, contrast, whitespace, and position
 - Use at least four kinds of interaction: back, overlay, state change, scroll, selection, input, transitions
 - Test your design on a person and change it based on what you watched
 - Explain a design decision by naming the problem it solves
 
 ### Week 5
 
-| Day | Focus | Lab |
-|-----|-------|-----|
-| Mon Sep 14 | Pick your project, write your one task, list your screens, start sketching | Back |
-| Tue Sep 15 | Finish paper wireframes for every screen | Overlay |
-| Wed Sep 16 | Build screen 1 in Figma | State change |
-| Thu Sep 17 | Build screens 2 and 3 | Scroll |
-| Fri Sep 18 | Connect what you have, first partner test | |
+| Day | Pattern lesson | Then |
+|-----|----------------|------|
+| Mon Sep 14 | | Pick your project, write your one task, list your screens |
+| Tue Sep 15 | **Navigation and focus:** tab bars, back, screen flow, the primary action | Lay out your screens |
+| Wed Sep 16 | **Content:** lists, cards, empty states, image placeholders | Build screen 1. Lab: State change |
+| Thu Sep 17 | **Feedback and state:** selected states, modals, toasts, loading | Build screens 2 and 3. Lab: Scroll |
+| Fri Sep 18 | **Consistency:** what has to match across every screen | Connect, first partner test |
+
+> **Each pattern lesson lands the day you need it**, right before you put that thing on a screen.
 
 ### Week 6
 
@@ -50,6 +56,7 @@ something of your own, and learn seven more kinds of interaction along the way.
 ### What You'll Get
 
 - **The project assignment** with the full requirement list and ten project ideas if you want one
+- **UI Patterns:** the named building blocks, in the order you need them
 - **The Interaction Labs:** eight short labs, one per day, each teaching one thing you then use
 - **This week's vocabulary**
 

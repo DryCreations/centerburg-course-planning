@@ -54,6 +54,8 @@ you already have something in mind.
 | 4 | **At least 4 different interaction types** from the list below |
 | 5 | Every screen reachable, and a way **back** from every screen |
 | 6 | Consistent **navigation**: things that repeat sit in the same place on every screen |
+| 6b | Your screens **look like a complete app**, including elements you are not building: a tab bar, icons, a settings gear. Not everything has to work |
+| 6c | A **list of what you are showing but not implementing** |
 | 7 | A **paper wireframe** for every screen, made before you built it |
 | 8 | A **partner test**: someone completes your task without you explaining anything |
 | 9 | A **write-up** naming at least four decisions and what each one solves |
@@ -120,7 +122,10 @@ different ones.**
 ## What makes this good, not just done
 
 - **The task is small and it works.** A person can do the one thing, start to finish, with no explanation.
-- **One thing wins on every screen.** If everything is the same size, nothing is the primary action.
+- **One thing wins on every screen.** If everything is the same size, nothing is the primary action. Use two
+  or three of size, color, contrast, whitespace, and position, never just one.
+- **It looks finished.** If someone saw a screenshot, they would believe it was a real app. A screen with one
+  button and nothing else would not pass that test.
 - **It is consistent.** The back button is in the same corner every time. Things that repeat do not move.
 - **You can say why.** Every decision should have a reason that is about the person using it, not about what
   looked cool.

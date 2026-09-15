@@ -5,249 +5,264 @@ reduced to what fits on a whiteboard, for running the lesson without a projector
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | UI patterns and conventions |
-| Video & Sound | 5 | Settings check, then production scheduling |
-| Aviation UAS | 6 | Airspace, LAANC, sectionals, then ODOT work time |
+| Design Techniques | 6 | Navigation and focus. What they are laying out today |
+| Video & Sound | 5 | Camera check and hands-on time, then scheduling in small groups |
+| Aviation UAS | 5 | Airspace rules, quick, then **ODOT work time** |
 | Middle School CS | 6 | `for index` and modulo |
 | Yearbook | 2 | Shutter speed lesson, then the assignment |
 
+> **Weighted toward work time.** Aviation and Video & Sound are short instruction followed by long working
+> blocks. Design Techniques teaches only what goes on a screen today.
+
 ---
 
-## 1. Design Techniques: UI patterns
+## 1. Design Techniques: Navigation and focus
 
-**Documents:** `handouts/ui-patterns.md`, `vocab.md`
-**Run it as:** name the pieces, sketch each on the board, then students label their own wireframes.
+**Documents:** `handouts/ui-patterns.md` (section 1), `vocab.md`
+**Run it as:** short. Two ideas only, both of which they need on a screen today: **how people move between
+pages**, and **what wins on each page**. Everything else in the patterns handout lands on the day it is
+needed.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Get
-> out your project idea and your sketches. Warm-up question to think about: open any app on your phone. How
-> many separate things are on that one screen, and do you know what any of them are CALLED?" Large, clean.
-> One slide.
+> out your sketches and your ONE TASK sentence. Warm-up question to think about: open any app on your phone.
+> How do you get from the first screen to the thing you actually came for, and how many taps is it?" Large,
+> clean. One slide.
 
-### Slide 2: Standards + Today
+### Slide 2: It has to LOOK like a real app
 
-> Create one standards and agenda slide for a high school design class titled "Today: The Parts Apps Are Made
-> Of." List this standard with its full text: 2.15.1 Understand the UX/UI design process (vision, journey
-> mapping, wireframing, prototyping) for the targeted platform. Then the agenda: 1) What a pattern is and why
-> it exists, 2) Navigation, content, action, input, and feedback patterns, 3) The conventions worth knowing,
-> 4) Label your own screens. Large readable text. One slide.
+> Create one slide for a high school design class titled "Not Everything Has to Work." Body: "Your prototype
+> will have four or five working interactions. A real app has hundreds. But your screens should LOOK like the
+> whole app exists." Then a short list of things to put on screen that you are NOT going to build: a tab bar
+> with four destinations when only one goes anywhere; a search icon that does nothing; a settings gear that is
+> not wired up; a profile picture in the corner. Add a box in large text: "The test: if someone saw a
+> screenshot of your screen, would they believe it was a real app? One button and nothing else? No." And:
+> "Keep a list of what you are showing but not building. That is the difference between 'I forgot' and 'I
+> decided.'" One slide.
 
-### Slide 3: Why patterns exist
+### Slide 3: Navigation
 
-> Create one slide for a high school design class titled "Why Patterns Exist." Body: "A PATTERN is a solution
-> used so many times it became the expected answer. When you use one, a person already knows how it works
-> before they look at it, so they spend their attention on your content instead of on figuring out your
-> interface." Add a box in large text: "Breaking a convention is allowed. Breaking it by accident is not. If
-> your back button is in the bottom right, every person pays a small tax on every screen." One slide.
+> Create one slide for a high school design class titled "How People Move Around." Three short blocks. TAB
+> BAR: 3 to 5 destinations pinned to the bottom, visible on every screen, the current one marked. Show all of
+> them even if only one works. NAV BAR: the strip across the top with the screen title, and a back arrow on
+> the LEFT. The title says where you are, not what the app is called. HAMBURGER: three lines hiding a list of
+> destinations, for things people use rarely. Never put your primary action in there. Add a box: "Back goes
+> top left. Same corner, every screen, every time." One slide.
 
-### Slide 4: The patterns
+### Slide 4: Your screen flow
 
-> Create one slide for a high school design class titled "Name the Pieces." Four short grouped lists with
-> headers. NAVIGATION: tab bar, 3 to 5 destinations pinned to the bottom; nav bar, the top strip with title
-> and back; hamburger menu, hidden destinations. CONTENT: list, stacked tappable rows; card, a contained
-> block with an image and text; empty state, what shows when there is nothing yet. ACTION: primary button,
-> one per screen; secondary button, does not compete; FAB, a floating circle for the one common action.
-> FEEDBACK: modal, a box over a dimmed screen; toast, a brief message that disappears; loading state, what
-> shows while waiting. One slide, compact four column or four block layout.
+> Create one slide for a high school design class titled "Draw the Flow First." Show a simple box-and-arrow
+> diagram: a HOME box at the top with arrows down to a LIST box and a SETTINGS box, and an arrow from LIST
+> down to a DETAIL box. Underneath, three questions in large text: 1) Can you reach every screen? A screen
+> nothing points at is a screen nobody sees. 2) Can you get BACK from every screen? Every arrow needs one
+> going the other way. 3) How many taps to the thing they came for? Add a box: "Two or three taps. If
+> checking tomorrow's lunch takes five screens, the design is the problem, not the person." One slide.
 
-### Slide 5: Do Now
+### Slide 5: The primary action
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Name Everything." Numbered:
-> "1) Go through your wireframes and LABEL every element with its pattern name. Card. List row. Secondary
-> button. 2) Anything you cannot name is either something you invented, which needs a reason, or a pattern you
-> do not know yet, so ask. 3) Find your primary action on each screen. Exactly one? Most prominent? 4) Is back
-> in the top left on every screen? 5) Does any list on your screens start EMPTY? What does it say?" Add a box:
-> "Then write: one pattern you are using that you did not know the name of yesterday, and one convention you
-> are breaking on purpose." One slide.
+> Create one slide for a high school design class titled "One Thing Wins." Body: "Every screen has ONE thing
+> you most want a person to do. One per screen. Two primary buttons means zero primary buttons." Then a table
+> titled "Five ways to make it win": SIZE, bigger than everything near it; COLOR, the only saturated color on
+> the screen; CONTRAST, filled and solid while everything else is outlined or gray; WHITESPACE, empty space
+> around it so nothing crowds it; POSITION, where the eye lands, bottom of a phone screen or top right. Add a
+> box in large text: "Use TWO OR THREE of these, not one. Bigger alone is not enough. Bigger AND the only
+> colored thing AND surrounded by space is impossible to miss." One slide.
+
+### Slide 6: Do Now
+
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Flow, Then Focus." Numbered:
+> "1) Draw your screen flow as boxes and arrows. Check all three questions. 2) On every screen, circle the
+> primary action. 3) Write down which two or three tools you are using to make it win. 4) Add the things that
+> make it LOOK like a real app: the tab bar, the icons, the pieces you are not building. 5) List what you are
+> showing but not implementing." Add a box: "The squint test: blur your eyes at your screen. What is still
+> visible? That should be your primary action. If it is your header image, fix it before you build." One
+> slide.
 
 ### Board version (no projector)
 
-Write these headers down the board and sketch a tiny box diagram under each as you talk:
-
 ```
-PATTERN = the expected answer.          CONVENTIONS
-Using one = they already know how.      back ............ top left
-                                        title ........... top
-NAVIGATION   tab bar / nav bar /        primary action .. bottom or top right
-             hamburger / back           nav ............. bottom tab bar
-CONTENT      list / card / empty state  add ............. plus, bottom right
-ACTION       primary / secondary /      settings ........ gear, top right
-             FAB / destructive          search .......... magnifier, top
-INPUT        text field / toggle /      destructive ..... red, confirmed
-             selector                   selected ........ filled or checked
-FEEDBACK     modal / toast / loading
-```
+IT HAS TO LOOK LIKE A REAL APP
+  not everything works. show the tab bar,
+  the search icon, the gear. LIST what you
+  show but do not build.
 
-**Then:** "Label every element on your wireframes with one of these words."
+NAVIGATION                    SCREEN FLOW
+  tab bar .... bottom, 3-5      [HOME]
+  nav bar .... top, title        /      back ....... TOP LEFT      [LIST] [SETTINGS]
+               every screen     |
+  hamburger .. rare stuff    [DETAIL]
+
+                              1. reach every screen?
+ONE THING WINS                2. back from every screen?
+  five ways:                  3. how many taps? (2-3)
+   size
+   color      <- use 2 or 3
+   contrast      of these,
+   whitespace    never just 1
+   position
+
+SQUINT TEST: blur your eyes. what is left?
+             that should be the primary action.
+```
 
 ---
 
 ---
 
-## 2. Video & Sound: Settings check, then scheduling
+## 2. Video & Sound: Camera check, then plan the shoot
 
-**Documents:** `handouts/camera-quiz.md`, `handouts/production-schedule.md`,
+**Documents:** `handouts/camera-check.md`, `handouts/production-schedule.md`,
 `handouts/script-peer-review.md`
-**Run it as:** five minute quiz, then split into **three production groups**, then the shared schedule built
-as a whole class.
-**Equipment reality:** **three cameras support manual video** (T4i, T5, T6). The T3 is auto-only and is used
-for behind-the-scenes stills and second angles.
+**Run it as:** ten question check on what they worked out yesterday, **more hands-on camera time for anyone
+who needs it**, then scheduling in small groups.
+**Equipment:** three bodies support manual video (T4i, T5, T6). The T3 is auto-only, used for
+behind-the-scenes stills and second angles.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get out
-> paper and a pencil. Quick settings check first, ten questions, five minutes, closed note. Everything on it
-> is from yesterday's camera work. Then we plan the shoot." Large, clean. One slide.
+> paper. Ten questions about what you worked out on the camera yesterday. Answer from memory first, then you
+> get a camera to go confirm anything you guessed at." Large, clean. One slide.
 
-### Slide 2: Three cameras
+### Slide 2: The check
 
-> Create one slide for a high school video class titled "Three Cameras." Body: "Only three of our bodies can
-> set shutter speed, aperture, and ISO in movie mode: the T4i, the T5, and the T6. The T3 decides for itself
-> and drifts mid-shot, so it cannot do what this unit is about." Then two short lists. "THE THREE SHOOTING
-> CAMERAS: manual exposure, 1080p, shared between groups." "THE T3: behind the scenes stills, a second angle
-> where exposure does not have to match, framing practice." Add a box in large text: "Three cameras means
-> three groups shoot at a time. That is why we build ONE schedule together instead of three separate ones."
+> Create one slide for a high school video class titled "From Memory." A numbered list in large readable
+> text: 1) Which mode records video? 2) How do you get the camera to let YOU set shutter, aperture, and ISO?
+> 3) Where do you change resolution and frame rate? 4) Where is the autofocus switch and what does it say? 5)
+> How do you check focus on something small before recording? 6) How do you know your audio is too loud? 7)
+> How do you play a clip back on the camera? 8) How do you get footage onto the computer? 9) Which three
+> bodies do manual exposure in movie mode? 10) Name one thing you tried that did not work and what you
+> figured out. One slide.
+
+### Slide 3: Go confirm it
+
+> Create one "Do Now" slide for a high school video class. Big title: "Now Go Confirm." Body: "Pick up a
+> camera and check anything you guessed at. Do not leave a question unanswered. Then run the whole sequence
+> once, start to finish." A checklist: movie mode; manual exposure; resolution and frame rate; shutter at
+> double the frame rate; ISO; white balance preset; autofocus OFF and focus set with the magnifier; record ten
+> seconds; play it back on the camera; offload to the computer; watch it on the computer. Add a box in large
+> text: "If any step stops you, that is the thing to fix TODAY. Not Thursday, when you are trying to shoot."
 > One slide.
 
-### Slide 3: Shoot blocks and honest estimates
+### Slide 4: Shoot blocks and real time
 
 > Create one slide for a high school video class titled "Shoot Blocks and Real Time." Body: "A SHOOT BLOCK is
 > everything you can film in one place, in one session, without moving. Sort every shot by LOCATION, not story
 > order." Then a table of realistic times including setup: simple static shot, 5 to 8 minutes; shot with
 > dialogue and a few takes, 10 to 15 minutes; shot with movement, 12 to 20 minutes; waiting for a location to
 > clear, add 10; moving the whole setup, 10 minutes; room tone, 2 minutes. Add a box in large text: "Then take
-> your honest estimate and add half again. A 90 second video is 8 to 12 shots, which is two to four hours of
-> shooting." One slide.
-
-### Slide 4: Where can it be shot
-
-> Create one slide for a high school video class titled "Sort Every Shot." Four rows in large text: IN ROOM,
-> can be filmed inside this classroom, shot THURSDAY. IN BUILDING, needs a hallway, gym, cafeteria, commons,
-> or stairwell, shot NEXT WEEK. OUTSIDE, needs the lot or the field, shot NEXT WEEK. PROBLEM, needs something
-> we do not have or cannot get to, REWRITE IT NOW. Add a box: "Thursday is an in-room shoot day. Every group
-> needs at least two shots that work inside this classroom. If your script has none, find the shot that could,
-> or add one." One slide.
+> your honest estimate and add half again." One slide.
 
 ### Slide 5: Do Now
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: In Your Groups." Numbered: "1)
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: In Your Group." Numbered: "1)
 > Break your script into shoot blocks, sorted by location. 2) Estimate each block, then add half again. 3)
-> Sort every shot: IN ROOM, IN BUILDING, OUTSIDE, or PROBLEM. Fix the problems now. 4) Peer review each
-> other's scripts, all five rounds, especially round 4: can we actually get there? 5) Then we fill in the
-> shared schedule on the board together." Add a box: "Bring to the board: what you need Thursday, what you
-> need next week, and what location you are asking for." One slide.
+> Sort every shot: IN ROOM, IN BUILDING, OUTSIDE, or PROBLEM. Fix the problems now, not on shoot day. 4) Fill
+> in your Thursday and next-week schedule. 5) Peer review each other's scripts, especially round 4: can we
+> actually get there?" Add a box: "Before the period ends, compare your plan with the other group. Same
+> location at the same time? Same person needed by both? Who has which camera? Write down whatever you
+> agree to." And: "Thursday is an IN-ROOM shoot day. You need at least two shots that work in this classroom."
+> One slide.
 
 ### Board version (no projector)
 
-Draw the shared schedule grid on the board and fill it in live as groups report:
-
 ```
-THURSDAY, IN ROOM            THREE CAMERAS (T4i, T5, T6)
-           G1    G2    G3     T3 = stills / second angle only
-setup      ---   ---   ---
-                                ESTIMATE PER SHOT
-                                 static ....... 5-8 min
-                                 dialogue ..... 10-15
-offload    ---   ---   ---       movement ..... 12-20
-                                 move setup ... 10
-NEXT WEEK                        room tone .... 2
-      G1    G2    G3
-Mon                             THEN ADD HALF AGAIN
-Tue
-Wed                           SORT: IN ROOM / IN BUILDING
-                                    OUTSIDE / PROBLEM
-```
+THREE CAMERAS: T4i, T5, T6 (manual)     ESTIMATE PER SHOT
+T3 = stills / second angle only           static ....... 5-8 min
+                                          dialogue ..... 10-15
+SHOOT BLOCK = one place, one session,     movement ..... 12-20
+              no moving                   move setup ... 10
+Sort shots by LOCATION, not story order   room tone .... 2
 
-**Conflicts to resolve out loud:** same location, same time. Same person needed by two groups. A location in
-use that period. Who gets a camera first Thursday and when it hands off.
+SORT EVERY SHOT                         THEN ADD HALF AGAIN
+  IN ROOM ...... Thursday
+  IN BUILDING .. next week              THURSDAY = IN-ROOM DAY
+  OUTSIDE ...... next week              every group needs 2 shots
+  PROBLEM ...... fix it NOW             that work in this room
+
+COMPARE WITH THE OTHER GROUP BEFORE YOU LEAVE:
+  same location, same time? same person? who has which camera?
+  WRITE DOWN WHAT YOU AGREE TO.
+```
 
 ---
 
 ---
 
-## 3. Aviation UAS: Airspace
+## 3. Aviation UAS: Airspace rules
 
 **Documents:** `handouts/airspace.md`
-**Run it as:** short content block, practice problems, then **work time on ODOT Module 1.** Keep the teaching
-tight so there is real class time for the course.
+**Run it as:** **short.** They have seen the classes before, so this is a review plus the rules attached to
+each one, then just enough about sectionals to recognize what one looks like. Four problems, then the rest of
+the period is **ODOT Module 1 work time.**
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Get
-> your ODOT course login ready, you will have work time today. Warm-up question to think about: the weather is
+> your ODOT course login open, most of today is work time. Warm-up question to think about: the weather is
 > perfect. Blue sky, no wind, ten miles visibility. Name one reason you still might not be allowed to fly."
 > Large, clean. One slide.
 
-### Slide 2: Standards + Today
+### Slide 2: The classes and what each one requires
 
-> Create one standards and agenda slide for a high school drone class titled "Today: Where You May Fly." List
-> these focus areas: 7.13 evaluate the flight environment, 7.9 small UAS rules and operating limitations. Then
-> the agenda: 1) Controlled versus uncontrolled, 2) The classes, 3) LAANC and grid ceilings, 4) Reading a
-> sectional, 5) Practice problems, 6) Work time on ODOT Module 1. Add a box in large text: "Weather tells you
-> whether you CAN fly. Airspace tells you whether you MAY." One slide.
-
-### Slide 3: The classes
-
-> Create one slide for a high school drone class titled "Controlled or Not." A table with columns Class,
+> Create one slide for a high school drone class titled "Where You May Fly." A table with columns Class,
 > What it is, and Drone authorization. Rows: B, the busiest airports, shaped like an upside-down wedding cake,
-> authorization REQUIRED. C, busy towered airports with radar, REQUIRED. D, a towered airport, usually one
-> ring, REQUIRED. E at the surface, controlled airspace that is not B C or D, REQUIRED. G, uncontrolled,
-> everything else near the ground, NOT required. Add a box: "Class G does not mean no rules. 400 feet, 3
-> statute miles, visual line of sight, daylight, not over people. All still apply." One slide.
+> REQUIRED. C, busy towered airports with radar, REQUIRED. D, a towered airport, usually one ring, REQUIRED. E
+> at the surface, controlled airspace that is not B C or D, REQUIRED. G, uncontrolled, everything else near
+> the ground, NOT required. Add a box in large text: "Class G does not mean no rules. 400 feet, 3 statute
+> miles, visual line of sight, daylight, not over people, one aircraft at a time. All still apply." One slide.
 
-### Slide 4: LAANC and grid ceilings
+### Slide 3: LAANC and grid ceilings
 
-> Create one slide for a high school drone class titled "LAANC." Body: "Low Altitude Authorization and
-> Notification Capability. The system that grants automated authorization to fly in controlled airspace, often
-> in seconds." Then numbered: 1) Drop a pin where you want to fly. 2) The app shows the maximum altitude
-> pre-approved for that grid square: 0, 100, 200, 300, or 400 feet. 3) Request it, and if the grid allows that
-> altitude, approval comes back in seconds. 4) Want higher? That is a further coordination request, and it
-> takes days. Add a box in large text: "A grid ceiling of 0 is real. It does not mean ask nicely. It means
-> no." One slide.
-
-### Slide 5: Reading a sectional
-
-> Create one slide for a high school drone class titled "Colors on a Sectional." A two column table, what you
-> see and what it means: solid BLUE rings, Class B; solid MAGENTA rings, Class C; dashed BLUE ring, Class D;
-> dashed MAGENTA ring, Class E starting at the surface; faded magenta band, Class E starting at 700 feet;
-> magenta airport symbol, no control tower; blue airport symbol, towered. Then, separately, show stacked
-> numbers like 70 over 25 with the caption: "Top is the ceiling, bottom is the floor, both in hundreds of feet
-> MSL. So this piece runs from 2,500 up to 7,000 feet. Below 2,500 in that spot, you are not in it." One
+> Create one slide for a high school drone class titled "LAANC." Body: "The system that grants automated
+> authorization to fly in controlled airspace, often in seconds." Then numbered: 1) Drop a pin where you want
+> to fly. 2) The app shows the maximum altitude pre-approved for that grid square: 0, 100, 200, 300, or 400
+> feet. 3) Request it, and approval comes back in seconds. 4) Want higher than the grid allows? That is a
+> further coordination request, and it takes days. Add a box in large text: "The grid ceiling can be LOWER
+> than 400. The lower number always wins. And a ceiling of 0 means no flight at all, not ask nicely." One
 > slide.
 
-### Slide 6: Do Now
+### Slide 4: What a sectional looks like
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Problems, Then ODOT." Body:
-> "First, the airspace problems on the handout. Six of them, with answers at the bottom. Do them before you
-> look." Then, in a box: "Then WORK TIME on ODOT Module 1. It is due Thursday the 24th and it is on next
-> Friday's quiz. Use this time." Add a second box titled "Before every flight, in order": where am I; what
-> class; what is my ceiling; any NOTAMs; what is the weather. One slide.
+> Create one slide for a high school drone class titled "How Airspace Is Marked." Body: "You are not learning
+> to navigate with a sectional. You are learning to recognize how airspace is marked on one." Then a compact
+> table: solid BLUE rings, Class B; solid MAGENTA rings, Class C; dashed BLUE ring, Class D; dashed MAGENTA
+> ring, Class E at the surface; faded magenta band, Class E starting at 700 feet; no ring, Class G. Caption:
+> "Blue and magenta, solid and dashed. Solid means bigger and busier. Dashed means it starts at the ground
+> around a smaller airport." Then show stacked numbers, 70 over 25, with: "Top is the ceiling, bottom is the
+> floor, in hundreds of feet. That piece runs 2,500 to 7,000. Below 2,500 you are underneath it." One slide.
+
+### Slide 5: Do Now
+
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Four Problems, Then ODOT."
+> Body: "Four problems on the handout. Do them before you look at the answers. Then the rest of the period is
+> work time on ODOT Module 1." Add a box: "Module 1 is due Thursday the 24th and it is on next Friday's quiz.
+> This is the class time you get for it." And a second box titled "Before every flight, in order": where am I;
+> what class; what is my ceiling; any NOTAMs; what is the weather. One slide.
 
 ### Board version (no projector)
 
 ```
-CONTROLLED = ATC service. Drone: AUTHORIZATION REQUIRED.
-UNCONTROLLED (G) = nobody separates traffic. No auth needed.
+  B ... busiest .......... solid BLUE ...... auth required
+  C ... busy + radar ..... solid MAGENTA ... auth required
+  D ... towered .......... dashed BLUE ..... auth required
+  E ... at surface ....... dashed MAGENTA .. auth required
+  G ... everything else .. (no ring) ....... none needed
 
-  B ... busiest airports ..... solid BLUE ...... auth
-  C ... busy + radar ......... solid MAGENTA ... auth
-  D ... towered .............. dashed BLUE ..... auth
-  E ... at surface ........... dashed MAGENTA .. auth
-  G ... everything else ...... (no ring) ....... none
+G STILL MEANS: 400 ft, 3 SM, VLOS, daylight, not over people
 
 LAANC: pin the spot -> grid shows a ceiling
-       0 / 100 / 200 / 300 / 400 ft -> approval in seconds
-       want higher? further coordination = DAYS
-       a ceiling of 0 means NO.
+       0 / 100 / 200 / 300 / 400 ft
+       the LOWER number always wins
+       0 means NO. higher than the grid = days of waiting
 
- 70     top = ceiling            BEFORE EVERY FLIGHT
-----    bottom = floor            1. where am I
- 25     hundreds of ft MSL        2. what class
-        = 2,500 to 7,000 ft       3. what ceiling
-                                  4. NOTAMs
-G still means: 400 ft, 3 SM,      5. weather
-VLOS, daylight, not over people
+ 70    top = ceiling          BEFORE EVERY FLIGHT
+----   bottom = floor          1. where am I
+ 25    hundreds of feet        2. what class
+       = 2,500 to 7,000 ft     3. what ceiling
+                               4. NOTAMs
+                               5. weather
 ```
 
 ---
@@ -388,8 +403,8 @@ GYM: 1/500, aperture wide open,  + 1 sentence each
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | UI patterns and conventions, then label your own wireframes |
-| Video & Sound | Settings check, then shoot blocks, estimates, shared schedule, peer review |
-| Aviation UAS | Airspace classes, LAANC, sectionals, problems, then **ODOT work time** |
+| Design Techniques | Navigation, screen flow, and the primary action. Then lay out screens |
+| Video & Sound | Camera check and hands-on time, then shoot blocks and scheduling in groups |
+| Aviation UAS | Airspace rules and sectional basics, quick. Then **ODOT work time** |
 | Middle School CS | `for index` and modulo. Stars in a pattern, not random. Steps 6 to 9 |
 | Yearbook | Shutter speed lesson and examples, then introduce the four shot set |

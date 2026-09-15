@@ -9,10 +9,10 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | Pick the project, write the ONE TASK, sketch. Lab: Back | **Camera setup for video**, then screenplay format | METAR anatomy, **decode together on the board**. Assign ODOT Module 1 | **`while` loop lesson** + problems, then lab steps 1 to 5 | Shutter speed lesson, camera list opens |
-| **Tue** | **UI patterns and conventions**, then label your wireframes | Settings check, **shoot blocks and the shared schedule**, peer review | **Airspace:** classes, LAANC, sectionals, then ODOT work time | **`for index` and modulo**, steps 6 to 9 | **Shutter speed lesson**, then the four shot set |
-| **Wed** | Lab: State change. Build screen 1 | **Lock the script**, finish the schedule, call sheets | Weather hazards | `forever`, nested loops, steps 10 to 12 | Rotation, spread work |
-| **Thu** | Lab: Scroll. Build screens 2 and 3 | **FILMING, IN THE CLASSROOM** | TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
-| **Fri** | Connect, first partner test | **QUIZ**, then back out to film | **QUIZ**, then live weather briefs | Finish and showcase | **Four shot set + PDF check-in due** |
+| **Tue** | **Navigation and focus**, then lay out screens | **Camera check** and hands-on time, then shoot blocks and scheduling in groups | **Airspace rules**, quick, then **ODOT work time** | **`for index` and modulo**, steps 6 to 9 | **Shutter speed lesson**, then the four shot set |
+| **Wed** | **Content patterns**, Lab: State change, build screen 1 | **Lock the script**, finish the schedule, call sheets | Weather hazards | `forever`, nested loops, steps 10 to 12 | Rotation, spread work |
+| **Thu** | **Feedback and state**, Lab: Scroll, build screens 2 and 3 | **FILMING, IN THE CLASSROOM** | TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
+| **Fri** | **Consistency pass**, connect, first partner test | **QUIZ**, then back out to film | **QUIZ**, then live weather briefs | Finish and showcase | **Four shot set + PDF check-in due** |
 
 ---
 
@@ -23,14 +23,17 @@
   made of, which students then apply by labeling every element on their own wireframes. Other days open with
   a **ten minute interaction lab** (Back, Overlay, State change, Scroll this week; Selection, Input,
   Transitions next week), then work time. **Scope is tiny on purpose:** one task, 3 to 4 screens.
-- **V&S: camera setup, production planning, and first filming.** Tuesday builds a **shared production
-  schedule across the whole class**, because **three cameras support manual video settings** (T4i, T5, T6)
-  and three groups shoot at a time. Script locks Wednesday and every group leaves with a call sheet.
+- **V&S: camera setup, production planning, and first filming.** Tuesday opens with a **camera
+  understanding check** and more hands-on time, then **shoot blocks and scheduling in small groups**, with
+  groups comparing plans before the period ends. **Three cameras support manual video settings** (T4i, T5,
+  T6), so up to three groups shoot at a time. Script locks Wednesday and every group leaves with a call
+  sheet.
   **Thursday is an in-room shoot day**; groups spread into the building next week. No editing software
   needed: they shoot, offload, and organize.
-- **Aviation: weather, then airspace.** Monday is METAR decoding. Tuesday moves to **airspace classes, LAANC
-  grid ceilings, and reading a sectional**, kept tight so there is real class time for **ODOT Module 1**,
-  which is due Thu Sep 24. Wednesday is weather hazards, Thursday the Personal Minimums Card, Friday the quiz
+- **Aviation: weather, then airspace.** Monday is METAR decoding. Tuesday is a **short airspace block**:
+  review the classes, the rules attached to each, LAANC grid ceilings, and enough sectional to recognize how
+  airspace is marked. Four problems, then the rest of the period is **ODOT Module 1 work time**. Module 1 is
+  due Thu Sep 24. Wednesday is weather hazards, Thursday the Personal Minimums Card, Friday the quiz
   and live briefs.
 - **MS CS: loops and modulo.** Monday and Tuesday are content-first days. **`while` is taught Monday even
   though they will not use it until Thursday**, deliberately: the concept gets learned cold with no game

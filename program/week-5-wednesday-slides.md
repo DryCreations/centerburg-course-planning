@@ -2,7 +2,7 @@
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 3 | Lab, then build screen 1 |
+| Design Techniques | 4 | Content patterns, lab, then build screen 1 |
 | Video & Sound | 4 | Lock the script, finish the schedule, call sheets |
 | Aviation UAS | 5 | Weather hazards |
 | Middle School CS | 5 | `forever` and nested loops |
@@ -10,35 +10,67 @@
 
 ---
 
-## 1. Design Techniques: Build screen 1
+## 1. Design Techniques: Content patterns, then build screen 1
 
-**Run it as:** they know the tools. Circulate. Anyone still sketching is behind.
+**Documents:** `handouts/ui-patterns.md` (section 2), `handouts/interaction-labs.md` (Lab 3)
+**Run it as:** five minutes on how content sits on a screen, the ten minute lab, then build.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> Figma and put your paper wireframes where you can see them. Today you build your first real screen. Follow
-> your own wireframe, do not redesign it while you build. Want to change something? Change the paper first."
-> Large, clean. One slide.
+> Figma and put your screen flow and sketches where you can see them. Today you build your first real screen.
+> Follow your own wireframe. Want to change something? Change the paper first." Large, clean. One slide.
 
-### Slide 2: Lab: State change
+### Slide 2: How content sits on a screen
+
+> Create one slide for a high school design class titled "Lists, Cards, and Empty States." Three blocks.
+> LIST: stacked rows, each one tappable, one row is one thing, rows the same height, and a list longer than
+> the screen scrolls. Use it for many similar things. CARD: a contained block with its own edge holding an
+> image, a title, and text. Use it when each item needs more than a line. If a person cannot see where one
+> card ends and the next begins, it is not working. EMPTY STATE: what a screen shows when there is nothing in
+> it yet. Say what goes here and how to add the first one. Add a box in large text: "A blank screen reads as
+> broken. Every list you build starts empty for somebody." One slide.
+
+### Slide 3: Lab: State change
 
 > Create one instructional slide for a high school design class titled "Ten Minute Lab: State Change." Body:
 > "The same screen, ONE thing different. A toggle flips, a heart fills, a button says Added. In a scratch
 > file." Numbered: 1) Duplicate a frame. Keep both IDENTICAL except one element. 2) On the copy, change just
-> that one thing: fill an outlined heart, flip a toggle and change its color, or change a button from Add to
-> Added and dim it. 3) Connect that element on frame 1 to frame 2. 4) Connect it back so it toggles off. 5)
+> that one thing. 3) Connect that element on frame 1 to frame 2. 4) Connect it back so it toggles off. 5)
 > Present and click it a few times. Add a box: "If anything else moves even slightly, the screen jumps when
-> you click. Everything except the one changing thing must stay exactly put." One slide.
+> you click. Everything except the one changing thing stays exactly put." One slide.
 
-### Slide 3: Do Now
+### Slide 4: Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build Screen One." Body:
 > "Build your first screen on a phone frame, following your wireframe box for box. Your primary action is the
-> thing you circled on paper: make it the biggest, boldest, most obvious thing on the screen. Everything else
-> supports it or gets deleted." Add a box titled "Four tools": "F frame, R rectangle, T text, V move. Type
-> exact numbers into the right panel instead of dragging by eye. Ctrl+Z constantly." And: "Before you leave:
-> screen one built. Not perfect. Built." One slide.
+> thing you circled: biggest, boldest, most obvious. Everything else supports it or gets deleted." Then a
+> checklist: navigation in place, even the parts that do not work; content in lists or cards; gray boxes where
+> photos will go, all the same proportion; your primary action winning by two or three of the five tools. Add
+> a box: "Before you leave: screen one built. Not perfect. Built." One slide.
+
+### Board version (no projector)
+
+```
+LIST    stacked rows, one row = one thing,
+        same height, scrolls if long
+
+CARD    contained block, own edge,
+        image + title + text
+        can you see where one ends?
+
+EMPTY   what shows when there is nothing yet
+STATE   say what goes here + how to add it
+        A BLANK SCREEN READS AS BROKEN
+
+IMAGE   gray box, same proportion every time
+PLACE-
+HOLDER
+
+LAB: STATE CHANGE
+  duplicate frame -> change ONE thing -> connect
+  both ways. everything else stays EXACTLY put.
+```
 
 ---
 
@@ -209,7 +241,7 @@ can be shot IN THIS ROOM    before leaving: room tone,
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | Lab: State change. Build screen 1 in Figma |
+| Design Techniques | Content patterns, Lab: State change, build screen 1 |
 | Video & Sound | **Lock the script**, finish the shared schedule, write call sheets |
 | Aviation UAS | Weather hazards and what each does to the aircraft. Drill 3 |
 | Middle School CS | `forever`, nested loops, catching and missing. Steps 10 to 12 |

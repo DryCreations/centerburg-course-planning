@@ -14,7 +14,7 @@ nobody gets anything.
 | Utility camera (T3, auto only, behind the scenes and stills) | 1 |
 | Class periods before rough footage is due | Thursday, then next week |
 
-**Three cameras means three groups shoot at a time.** Everything below exists to make that work.
+**Three cameras means up to three groups shoot at a time.** Everything below exists to make that work.
 
 ---
 
@@ -79,36 +79,40 @@ somewhere you can actually go, or cut it.
 
 ---
 
-## Part 4: The shared schedule
+## Part 4: Your schedule
 
-Your group does not schedule alone. **All three groups fill this in together**, because there are three
-cameras and one room.
+Fill this in **in your group**, then compare with the other groups before the end of the period.
 
 ### Thursday, in room
 
-| Time block | Group 1 | Group 2 | Group 3 |
-|------------|---------|---------|---------|
-| First 15 min | Setup + checklist | Setup + checklist | Setup + checklist |
+| Time | Who | Doing what | Camera |
+|------|-----|------------|--------|
+| First 15 min | everyone | Setup and checklist | |
 | | | | |
 | | | | |
-| Last 10 min | Offload + log | Offload + log | Offload + log |
+| | | | |
+| Last 10 min | everyone | Offload and log | |
 
 ### Next week
 
-| Day | Group 1 | Group 2 | Group 3 |
-|-----|---------|---------|---------|
+| Day | Where | What you are shooting | Camera needed |
+|-----|-------|----------------------|---------------|
 | Mon | | | |
 | Tue | | | |
 | Wed | | | |
 
 **Fill in the location, not just "filming."** "Hallway by 210" is a schedule. "Filming" is not.
 
-### Conflicts to solve out loud, as a class
+### Then compare with the other groups
+
+Before the period ends, check your plan against theirs and sort out:
 
 - Two groups needing the **same location** at the same time
 - Two groups needing the **same person** as a subject
-- A group needing a location that is **in use** that period
-- Who gets the camera **first** on Thursday, and when it hands off
+- A location that is **in use** that period
+- **Who has which camera**, and when it hands off
+
+**Write down whatever you agree to.** An agreement nobody wrote down is not a schedule.
 
 ---
 
