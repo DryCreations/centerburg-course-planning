@@ -86,6 +86,25 @@ on their own, then reveal.
 - **Way over length:** ask which scene could go entirely. Never trim evenly across everything.
 - **Absent:** `screenplay-format.md` has the full example page and the mistake table. Self-serve.
 
+## The non-filming work is reading, not a worksheet
+
+`handouts/review-packet.md` is built around two readings, transitions and framing, with questions that apply
+both to the student's own shot list. **Part 3 is the graded part**, and question 19, critiquing their own
+footage in the new vocabulary, is where the transfer actually happens.
+
+**Open the article links before class and confirm they load.** They were not verified from the repo. A backup
+summary covering both topics is at the end of the packet if a link fails, and students are told to note that
+they used it.
+
+**The lookup rules are worth naming out loud once.** Every section is marked GREEN (look it up freely),
+YELLOW (try from memory, check, then mark what you changed), or RED (closed note, circle what you cannot
+get). Say the line in the packet: looking something up is not cheating, pretending you knew it is. The
+marking is what turns the packet into a personal study list for Friday.
+
+**Two things to catch while circulating:** students copying the reading's wording into questions 7 and 15,
+which ask for their own take, and anyone whose shot list has a dissolve between every clip, which question 17
+is designed to surface.
+
 ## Offloading matters more than usual right now
 
 **Editing software is still not installed.** That means footage sits for a while before anyone cuts it, which

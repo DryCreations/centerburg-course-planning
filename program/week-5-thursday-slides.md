@@ -87,7 +87,7 @@ LAB: SCROLL
 > Create one "As You Come In" slide for a high school video class. Big title in very large text: "SILENT WHEN
 > A CAMERA IS ROLLING." Body: "Same as yesterday. Sound carries onto their footage and cannot be removed."
 > Then two columns. Left, "IN YOUR SLOT": set up BEFORE your slot starts, checklist run, focus set, call sheet
-> in hand. Right, "NOT IN YOUR SLOT": review packet, silently. Hand up if you need me. Add a box at the
+> in hand. Right, "NOT IN YOUR SLOT": the reading packet, silently. Pick up where you stopped yesterday. Add a box at the
 > bottom: "Last in-room day. Anything that has to be shot in this classroom gets shot today." One slide,
 > designed to stay on the board.
 
@@ -105,8 +105,8 @@ LAB: SCROLL
 > Create one "Do Now" slide for a high school video class. Big title: "Do Now: Finish the Room." Numbered: "1)
 > Watch yesterday's footage and mark retakes. 2) Set up before your slot. 3) Shoot ten seconds and play it
 > back. 4) Work your call sheet, retakes first. 5) Room tone if you did not get it. 6) Offload, name, watch,
-> log." Add a box: "Not in a slot? Review packet, silently. When you finish it, check your answers against
-> your handouts and fix what you got wrong." And in large text: "Next week you spread out into the building.
+> log." Add a box: "Not in a slot? Keep going in the reading packet from where you stopped. Part 3 applies the
+> readings to your own shot list, and that is the graded part." And in large text: "Next week you spread out into the building.
 > Confirm your locations and your schedule rows before you leave." One slide.
 
 ### Slide 4: Before You Leave

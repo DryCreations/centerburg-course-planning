@@ -51,6 +51,23 @@
 | **Padding** | Extra time added to an estimate for the things you cannot predict. |
 | **Essential versus nice to have** | Marking which shots survive if you lose a session. |
 
+## Transitions and framing
+
+| Term | Definition |
+|------|------------|
+| **Cut** | Two clips placed back to back with no effect. The default, and the vast majority of edits. |
+| **Dissolve** | One shot fades into the next. Signals that time passed, or that two things are connected. |
+| **Fade to black** | The picture fades out. Signals that a chapter ended. |
+| **Wipe** | One shot pushes the other off screen. Stylized and deliberate. |
+| **Match cut** | A cut between two shots that share a shape or a motion. |
+| **J cut / L cut** | Audio from one shot starts before, or continues after, the picture changes. |
+| **Rule of thirds** | Dividing the frame into nine and placing the subject on a line or intersection. |
+| **Headroom** | The space above a subject's head in the frame. |
+| **Lead room** | Space in front of where a subject is looking or moving. |
+| **Leading lines** | Lines in the scene that pull the eye toward the subject. |
+| **Depth** | Having something in the foreground, middle, and background so a shot is not flat. |
+| **Framing within the frame** | Shooting through a doorway or window to draw the eye in. |
+
 ## Review Questions
 
 1. What are the three parts of a scene heading, in order?
@@ -66,3 +83,6 @@
 11. What is a shoot block, and why is a shot list sorted by location instead of story order?
 12. You estimate a block at 20 minutes. What do you actually schedule, and why?
 13. What goes on a call sheet?
+14. Why is the cut the default transition, and what does using a dissolve instead tell the audience?
+15. What is lead room, and what goes wrong in a shot without it?
+16. Name one framing rule and describe a shot where breaking it on purpose would be the right call.

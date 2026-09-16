@@ -100,8 +100,10 @@ WHERE DOES IT GO?
 ## 2. Video & Sound: Filming in the room
 
 **Documents:** `handouts/filming-day.md`, `handouts/review-packet.md`
-**Run it as:** groups shoot in eight minute slots. **Everyone else is on the review packet, silently.**
+**Run it as:** groups shoot in eight minute slots. **Everyone else is on the reading packet, silently.**
 Key: `handouts/review-packet-key.md`
+**Before class:** open the article links in Parts 1 and 2 and confirm they load. The packet has a backup
+summary if they do not.
 
 ### Slide 1: As You Come In (leave this up)
 
@@ -132,14 +134,15 @@ Key: `handouts/review-packet-key.md`
 > next group avoids it. Add a box in large text: "The goal by end of tomorrow: your footage is on a computer,
 > named, and ready to cut." One slide.
 
-### Slide 4: The review packet
+### Slide 4: Not filming? Reading and lookup rules
 
-> Create one slide for a high school video class titled "Not Filming? Review Packet." Body: "Eight sections,
-> silent and independent. Everything in it is fair game on the quiz." Then the section list: 1 camera setup; 2
-> the five unfixables; 3 shot types; 4 preproduction documents; 5 scheduling and planning; 6 on set; 7 applied
-> scenarios; 8 vocabulary. Add a box: "When you finish: check your answers against your handouts, fix what you
-> got wrong and mark what you changed, then work on your own script, shot list, or schedule. Still silent."
-> One slide.
+> Create one slide for a high school video class titled "Not Filming? Read and Apply." Body: "Two readings,
+> then you apply them to your own video. Five parts, each with a stopping point, so it works whether you have
+> fifteen minutes or forty." Then the parts: 1 Reading, transitions; 2 Reading, framing; 3 Apply it to your
+> own shot list; 4 Self-check, closed note; 5 If you finish. Add a box titled "THE LOOKUP RULES" with three
+> lines: GREEN, look it up freely, that is what the reading is for. YELLOW, try from memory first, then check,
+> then MARK what you changed. RED, closed note, and circle anything you cannot get. Add underneath in large
+> text: "Looking something up is not cheating. Pretending you knew it is." One slide.
 
 ### Board version (no projector)
 

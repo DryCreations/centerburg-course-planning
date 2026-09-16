@@ -30,6 +30,10 @@ continues.
 - Build a shared production schedule across groups sharing equipment
 - Write a call sheet
 - Peer review a script for format, filmability, and whether it can actually be shot
+- Name the common transitions and explain what each one signals to an audience
+- Explain why the cut is the default and what it costs to use anything else
+- Apply framing ideas (rule of thirds, headroom, lead room, leading lines) to your own shots
+- Critique your own footage using framing vocabulary
 - Offload and organize footage so it is ready to edit
 
 ### Weekly Snapshot
@@ -38,8 +42,8 @@ continues.
 |-----|-------|---------|
 | Mon Sep 14 | Camera handling and setup for video | Camera checklist run |
 | Tue Sep 15 | Settings check. Shoot blocks, time estimates, shared schedule. Script peer review | Shoot blocks + schedule rows |
-| Wed Sep 16 | **Filming in the classroom**, eight minute slots. Review packet if you are not in a slot | Footage offloaded + shot log |
-| Thu Sep 17 | **Filming continues.** Review packet if you are not in a slot | Footage offloaded + shot log |
+| Wed Sep 16 | **Filming in the classroom**, eight minute slots. Reading on transitions and framing if you are not in a slot | Footage offloaded + shot log |
+| Thu Sep 17 | **Filming continues.** Reading packet continues | Footage + reading packet Parts 1 to 3 |
 | Fri Sep 18 | **Quiz**, then filming continues | Footage + script submitted |
 
 ### What You'll Get This Week
@@ -48,8 +52,8 @@ continues.
 - **Building a Production Schedule:** shoot blocks, honest time estimates, the shared schedule, and a call
   sheet template
 - **Filming Day:** how to use an eight minute slot, the shot log, and what to do when something goes wrong
-- **The Review Packet:** eight sections covering everything that could be on the quiz, for anyone not in a
-  filming slot
+- **Between Shots:** readings on transitions and framing, with questions that apply both to your own shot
+  list, plus a closed-note self-check that doubles as the quiz study guide
 - **Script Peer Review:** the five rounds
 - **The screenplay format handout** with a full example page
 - **This week's vocabulary**
