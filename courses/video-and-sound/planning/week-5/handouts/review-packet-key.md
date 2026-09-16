@@ -4,6 +4,24 @@
 
 ---
 
+## Posting it
+
+**This is a digital worksheet, not a print handout.** Post it on Google Classroom as **Make a copy for each
+student.**
+
+Students type under each question, paste screenshots into questions 14 and 19, and **bold** any answer they
+changed after checking. They turn it in at the end of each period, finished or not, and pick it back up the
+next day.
+
+**Two things to say when you post it:**
+
+1. **Do not delete the questions.** Type under them.
+2. **Turn it in every day**, even mid-question. Tomorrow you keep going where you stopped.
+
+**Screenshot key for Windows:** `Windows + Shift + S`, then paste with `Ctrl + V`.
+
+---
+
 ## Check the links before you post it
 
 **The links in Part 1 and Part 2 were not verified from inside this repo.** Open each one before class and
@@ -61,7 +79,10 @@ study list for Friday.
 12. Lines that pull the eye toward the subject. In this building: a hallway's floor tiles, a row of lockers,
     stair rails, ceiling light rows, the line of windows.
 13. Any two from the reading: depth, framing within the frame, balance, symmetry, negative space.
-14. **Look at the sketches.** Two rough boxes with a label is enough. The label is the assessment.
+14. **Look at the two pasted frames and the labels.** The images matter less than the description of what
+    changed between them. A student who pastes two frames from their own footage and names the difference in
+    framing vocabulary has done the question; a student who pastes two random images and writes "this one is
+    better" has not.
 15. Push for a purpose, not just "it looks cool." Dead center for symmetry and confrontation. No lead room
     deliberately to make someone feel trapped. Extreme headroom to make someone feel small.
 16. Self-assessment. Any honest answer counts.
@@ -78,6 +99,9 @@ study list for Friday.
 - **Question 19 is the best question in the packet.** Critiquing their own footage in the new vocabulary is
   the whole transfer. Anyone who says "I would reshoot it because there is no lead room and she is looking
   off the edge" has learned something this period.
+- **Questions 14 and 19 both need a pasted screenshot.** If a group has not filmed yet, 14 says to pause any
+  video and screenshot from it, and 19 can wait until after their slot. Do not let a missing screenshot stop
+  a student from doing the written part.
 
 ## Part 4: Self-check
 
@@ -118,6 +142,11 @@ thinking shows up rather than copying.
 
 **Part 4 is not graded.** It is a study guide that produces a personal list of gaps. Tell them that plainly,
 or they will treat it as a test and copy from their handouts, which defeats it.
+
+**Everything a student typed `LOOK UP` next to in Part 4, and everything they bolded in Part 3, is their
+study list for Friday.** Worth saying out loud at the end of the period. Since this is digital, you can
+actually scan those quickly across the class and see which questions are failing for everybody, which tells
+you what to review Friday morning.
 
 ## What to watch for while circulating
 

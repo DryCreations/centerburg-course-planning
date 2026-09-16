@@ -87,7 +87,8 @@ LAB: SCROLL
 > Create one "As You Come In" slide for a high school video class. Big title in very large text: "SILENT WHEN
 > A CAMERA IS ROLLING." Body: "Same as yesterday. Sound carries onto their footage and cannot be removed."
 > Then two columns. Left, "IN YOUR SLOT": set up BEFORE your slot starts, checklist run, focus set, call sheet
-> in hand. Right, "NOT IN YOUR SLOT": the reading packet, silently. Pick up where you stopped yesterday. Add a box at the
+> in hand. Right, "NOT IN YOUR SLOT": reopen your worksheet on Classroom and pick up where you stopped yesterday.
+> Silently. Add a box at the
 > bottom: "Last in-room day. Anything that has to be shot in this classroom gets shot today." One slide,
 > designed to stay on the board.
 

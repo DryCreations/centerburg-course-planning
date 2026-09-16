@@ -52,8 +52,8 @@ continues.
 - **Building a Production Schedule:** shoot blocks, honest time estimates, the shared schedule, and a call
   sheet template
 - **Filming Day:** how to use an eight minute slot, the shot log, and what to do when something goes wrong
-- **Between Shots:** readings on transitions and framing, with questions that apply both to your own shot
-  list, plus a closed-note self-check that doubles as the quiz study guide
+- **Between Shots:** a digital worksheet on Classroom, with readings on transitions and framing, questions
+  that apply both to your own shot list, and a closed-tab self-check that doubles as the quiz study guide
 - **Script Peer Review:** the five rounds
 - **The screenplay format handout** with a full example page
 - **This week's vocabulary**

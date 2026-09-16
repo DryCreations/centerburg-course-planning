@@ -88,8 +88,12 @@ on their own, then reveal.
 
 ## The non-filming work is reading, not a worksheet
 
-`handouts/review-packet.md` is built around two readings, transitions and framing, with questions that apply
-both to the student's own shot list. **Part 3 is the graded part**, and question 19, critiquing their own
+`handouts/review-packet.md` is a **digital worksheet**, posted on Classroom as **Make a copy for each
+student.** Students type under each question and paste screenshots into questions 14 and 19. It is built
+around two readings, transitions and framing, with questions that apply both to the student's own shot list.
+
+**Tell them to turn it in at the end of each period, finished or not**, and reopen it the next day. It runs
+across Wednesday and Thursday with explicit stopping points. **Part 3 is the graded part**, and question 19, critiquing their own
 footage in the new vocabulary, is where the transfer actually happens.
 
 **Open the article links before class and confirm they load.** They were not verified from the repo. A backup
@@ -97,9 +101,13 @@ summary covering both topics is at the end of the packet if a link fails, and st
 they used it.
 
 **The lookup rules are worth naming out loud once.** Every section is marked GREEN (look it up freely),
-YELLOW (try from memory, check, then mark what you changed), or RED (closed note, circle what you cannot
-get). Say the line in the packet: looking something up is not cheating, pretending you knew it is. The
-marking is what turns the packet into a personal study list for Friday.
+YELLOW (try from memory, check, then **bold** what you changed), or RED (close every tab, and type `LOOK UP`
+next to anything you cannot get). Say the line in the worksheet: looking something up is not cheating,
+pretending you knew it is.
+
+**Because it is digital, you can scan the class quickly.** What students bolded in Part 3 and typed `LOOK UP`
+against in Part 4 is their study list, and reading across all of them tells you which questions are failing
+for everybody, which is what to review Friday morning.
 
 **Two things to catch while circulating:** students copying the reading's wording into questions 7 and 15,
 which ask for their own take, and anyone whose shot list has a dissolve between every clip, which question 17
