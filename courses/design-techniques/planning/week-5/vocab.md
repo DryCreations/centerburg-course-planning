@@ -41,6 +41,19 @@
 | **Toast / snackbar** | A brief message that appears and disappears on its own. |
 | **Loading state** | What a screen shows while it is waiting. |
 
+## Figma: components and variants
+
+| Term | Definition |
+|------|------------|
+| **Component** | A master copy. Every instance of it updates when you change the master. |
+| **Instance** | A copy of a component placed on a screen. Its text and images can differ from the master. |
+| **Component set** | The dashed purple box holding all the variants of one component. |
+| **Variant** | One version inside a component, switched with a dropdown. |
+| **Property** | The name of what changes between variants, such as State or Type. |
+| **Interactive component** | A component that reacts on its own, so every instance works without wiring each one. |
+| **Trigger** | What causes an interaction: on click, while hovering, while pressing. |
+| **Smart animate** | An animation that moves matching layers between two frames instead of cutting. |
+
 ## Carried forward (still in use)
 
 | Term | Definition |
@@ -69,3 +82,7 @@
 10. Why does breaking a convention cost the person using your app something?
 11. How many primary buttons should a screen have, and why?
 12. What is an empty state, and why does a blank screen read as broken?
+13. What is the difference between a component and an instance?
+14. You have a nav bar on four screens and want to rename one tab. How many places do you edit, and why?
+15. A heart fills in when tapped. Does that interaction belong in the component or on the screen? Why?
+16. A row opens a detail page when tapped. Component or screen?

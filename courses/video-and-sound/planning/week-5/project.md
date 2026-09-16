@@ -54,10 +54,11 @@ across the whole class, not group by group.
 |---|-------------|
 | 1 | **Run the camera checklist** before every setup: `handouts/camera-video-settings.md` |
 | 2 | **Shoot ten seconds and play it back** before shooting anything real |
-| 3 | At least **two shots filmed in the classroom Thursday**, and three total by end of Friday |
+| 3 | At least **two shots filmed in the classroom** across Wednesday and Thursday, and three total by end of Friday |
 | 4 | **Room tone** recorded at every location: 30 seconds, nobody talking |
 | 5 | Footage **offloaded and named** the same day it is shot |
-| 6 | A **shot log**: which shots are done, which still need doing |
+| 6 | A **shot log**: which shots are done, which need a retake, which are not shot |
+| 7 | If you are not in a filming slot, the **review packet**, completed silently |
 
 > **Editing software is not installed yet.** Offload and organize anyway. When it arrives you want to be
 > cutting, not hunting for files named MVI_4821.

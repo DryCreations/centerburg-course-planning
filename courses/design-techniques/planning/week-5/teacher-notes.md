@@ -14,12 +14,33 @@ students are putting on a screen that day, so nothing is taught in the abstract.
 |-----|----------------|-----|
 | Mon | | Back |
 | Tue | Navigation and focus | |
-| Wed | Content: lists, cards, empty states | State change |
+| Wed | Components, variants, interactive components | (the lesson is the lab) |
 | Thu | Feedback and state | Scroll |
 | Fri | Consistency | |
 | wk 6 | Input | Selection, Input, Transitions, Putting it together |
 
 `handouts/ui-patterns.md` is organized in those sections, so students read only the part that is live.
+
+## Wednesday: components, and the question that actually matters
+
+Three features that build on each other, taught in order: **component**, then **variant**, then
+**interactive component.** Demo each, then they apply it to something already on their screen.
+
+Timed well, this is the highest-leverage day of the project. They have a nav bar duplicated across four
+screens right now, and it is about to start drifting out of sync. Components fix that before it becomes a
+problem they cannot see.
+
+**The part worth the most class time is the decision rule:**
+
+> If it changes only that element, it goes **in the component.** If it changes the screen, it goes **on the
+> screen.**
+
+A heart filling, a toggle flipping, a button looking pressed: component. A row opening a detail page, a
+confirmation appearing, a success screen: screen.
+
+**Getting this wrong is how a prototype becomes unmanageable.** A student who builds a heart-fill as two
+screen frames then needs two copies of every other screen state, and it multiplies fast. Walk around and ask
+them, per interaction, which one it is.
 
 ## The "looks like a real app" point
 

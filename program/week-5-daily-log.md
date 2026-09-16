@@ -10,8 +10,8 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | Pick the project, write the ONE TASK, sketch. Lab: Back | **Camera setup for video**, then screenplay format | METAR anatomy, **decode together on the board**. Assign ODOT Module 1 | **`while` loop lesson** + problems, then lab steps 1 to 5 | Shutter speed lesson, camera list opens |
 | **Tue** | **Navigation and focus**, then lay out screens | **Camera check** and hands-on time, then shoot blocks and scheduling in groups | **Airspace rules**, quick, then **ODOT work time** | **`for index` and modulo**, steps 6 to 9 | **Shutter speed lesson**, then the four shot set |
-| **Wed** | **Content patterns**, Lab: State change, build screen 1 | **Lock the script**, finish the schedule, call sheets | Weather hazards | `forever`, nested loops, steps 10 to 12 | Rotation, spread work |
-| **Thu** | **Feedback and state**, Lab: Scroll, build screens 2 and 3 | **FILMING, IN THE CLASSROOM** | TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
+| **Wed** | **Components, variants, interactive components** | **FILMING in 8 min slots.** Review packet, silent, otherwise | **Reading sectionals**, hands on in a viewer | `forever`, nested loops, steps 10 to 12 | Photos or spreads |
+| **Thu** | **Feedback and state**, Lab: Scroll, build screens 2 and 3 | **FILMING, day 2.** Retakes first | Weather hazards, TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
 | **Fri** | **Consistency pass**, connect, first partner test | **QUIZ**, then back out to film | **QUIZ**, then live weather briefs | Finish and showcase | **Four shot set + PDF check-in due** |
 
 ---
@@ -26,11 +26,15 @@
 - **V&S: camera setup, production planning, and first filming.** Tuesday opens with a **camera
   understanding check** and more hands-on time, then **shoot blocks and scheduling in small groups**, with
   groups comparing plans before the period ends. **Three cameras support manual video settings** (T4i, T5,
-  T6), so up to three groups shoot at a time. Script locks Wednesday and every group leaves with a call
-  sheet.
+  T6), so up to three groups shoot at a time. **Wednesday and Thursday are in-room filming days run in eight
+  minute slots.** Anyone not in a slot works the **review packet** silently, because sound carries onto
+  footage and cannot be removed. Groups spread into the building next week.
   **Thursday is an in-room shoot day**; groups spread into the building next week. No editing software
   needed: they shoot, offload, and organize.
-- **Aviation: weather, then airspace.** Monday is METAR decoding. Tuesday is a **short airspace block**:
+- **Aviation: weather, then airspace.** Wednesday is a **hands-on sectional reading activity** in a chart
+  viewer: find one of each airspace class, read stacked numbers and obstruction heights, then answer six
+  questions about three self-chosen locations, plus a scavenger hunt. Framed as a **lookup skill**, not a
+  memory test. Monday is METAR decoding. Tuesday is a **short airspace block**:
   review the classes, the rules attached to each, LAANC grid ceilings, and enough sectional to recognize how
   airspace is marked. Four problems, then the rest of the period is **ODOT Module 1 work time**. Module 1 is
   due Thu Sep 24. Wednesday is weather hazards, Thursday the Personal Minimums Card, Friday the quiz

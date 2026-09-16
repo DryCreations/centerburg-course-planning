@@ -41,6 +41,11 @@ with specific targets, and spread work every day. **The biweekly PDF check-in is
 - **The Shutter Speed Set:** four shots, each with a target, and how to get each one
 - **Friday:** the biweekly PDF check-in on whatever spread you are working, old book or new
 
+### This Quarter
+
+**Something on every page by the end of the quarter.** A page with a rough layout and placeholder frames can
+be critiqued and improved. An empty page cannot. Keep shooting, keep signing up for cameras, keep building.
+
 ### Focus Areas
 
 - Craft: camera technique and photo quality

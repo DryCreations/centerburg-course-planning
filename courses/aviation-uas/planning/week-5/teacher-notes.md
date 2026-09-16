@@ -12,7 +12,7 @@ deliberately avoided.
 |-----|----------|-------|
 | Mon | METAR anatomy, then **group decoding on the board** with turn and talk. Drill 1. **Assign ODOT Module 1** | `handouts/decode-together.md` has five rounds of board codes, easiest to hardest, with answers |
 | Tue | **Airspace, kept short:** review the classes, the rules attached to each, LAANC and grid ceilings, and enough sectional to recognize one. Four problems, then **ODOT work time** | They have seen the classes. This is the rules and the chart basics, not a full sectional lesson. Protect the work time |
-| Wed | Weather hazards for small UAS. Drill 3 | Connect every hazard back to the aircraft. Why does a gust matter more than steady wind |
+| Wed | **Reading sectionals, hands on in a viewer.** Three locations, a scavenger hunt, two written questions | Brief framing, then they work the map most of the period. Circulate. `handouts/sectional-reading.md` |
 | Thu | TAFs, then the Personal Minimums Card | Card is due end of period, signed, with a reason next to every number |
 | Fri | **Quiz**, then live weather briefs | Briefs are ~90 seconds each on a real current METAR |
 
@@ -43,6 +43,28 @@ the first day it happens, not the day it is due. Access issues took 48 hours or 
 
 > **Check the date against your intent.** If you meant Module 1 due this Friday Sep 18 instead, it is a
 > one-line change in `project.md`, `outline.md`, and Monday's slide.
+
+## Wednesday: hands on the map
+
+The exit ticket said they are still working it out, so Wednesday is a second pass, done by **using** a chart
+rather than being shown one.
+
+**Frame it as a lookup skill, not a memory test.** Say plainly that real pilots check the legend constantly
+and nobody memorizes a sectional. That removes the reason a struggling student shuts down.
+
+The activity in `handouts/sectional-reading.md` moves in stages: get oriented, find one of each airspace
+class, read stacked numbers, read obstruction heights, then **three locations of their choosing** answered
+against the same six questions, then a scavenger hunt.
+
+**The three most valuable things to reinforce while circulating:**
+
+1. **Color and line style is the whole airspace answer.** Blue or magenta, solid or dashed.
+2. **SFC on the bottom of a stacked pair** means the airspace reaches the ground, which is the case that
+   actually affects them.
+3. **The number in parentheses** on an obstruction is height above the ground, and that is the one that
+   matters when their ceiling is 400 feet.
+
+Any viewer that pans and zooms works. The handout is written without naming one.
 
 ## Tuesday is mostly work time
 

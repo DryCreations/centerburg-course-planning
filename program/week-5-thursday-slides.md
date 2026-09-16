@@ -1,11 +1,11 @@
 # THURSDAY (Sep 17): Slide Prompts (all classes)
 
-> **Video & Sound films in the classroom today.** Three shooting cameras, three groups, call sheets in hand.
+> **Video & Sound films in the classroom today**, second day. Last in-room day before groups spread out.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 4 | Feedback and state, lab, then screens 2 and 3 |
-| Video & Sound | 4 | **Filming, in the classroom** |
+| Video & Sound | 4 | **Filming continues.** Review packet, silent, otherwise |
 | Aviation UAS | 5 | TAFs, then personal minimums |
 | Middle School CS | 4 | `while` for real |
 | Yearbook | 1 | Last rotation |
@@ -76,53 +76,90 @@ LAB: SCROLL
 
 ---
 
-## 2. Video & Sound: FILMING, IN THE CLASSROOM
+## 2. Video & Sound: Filming continues
 
-**Bring:** cameras, charged batteries and spares, cards with space, tripods, any external mics.
-**Reference:** `handouts/camera-video-settings.md`, and each group's call sheet from yesterday.
-**Three shooting cameras** (T4i, T5, T6), three groups, running on the shared schedule. The T3 shoots
-behind-the-scenes stills only.
+**Documents:** `handouts/filming-day.md`, `handouts/review-packet.md`
+**Same structure as Wednesday:** eight minute slots, everyone else silent on the review packet.
+**Three shooting cameras** (T4i, T5, T6). The T3 shoots behind-the-scenes stills only.
 
 ### Slide 1: As You Come In (leave this up)
 
-> Create one "As You Come In" checklist slide for a high school video class. Big title: "As You Come In: Set
-> Up First." A large numbered checklist designed to stay on the board: 1) Get your call sheet out and your
-> assigned camera: T4i, T5, or T6. 2) Movie mode, exposure MANUAL. 3) Resolution and frame rate, the SAME for everyone in your group. 4)
-> Shutter at double the frame rate: 1/50 at 24fps, 1/60 at 30fps. 5) White balance on a PRESET, not auto. 6)
-> Lens switch to MF, focus with the magnifier. 7) Audio level peaking below the red. 8) Card space and battery
-> checked, spare in the bag. Add a box in large text: "Then shoot ten seconds and PLAY IT BACK before you
-> shoot anything real." One slide, legible from across the room.
+> Create one "As You Come In" slide for a high school video class. Big title in very large text: "SILENT WHEN
+> A CAMERA IS ROLLING." Body: "Same as yesterday. Sound carries onto their footage and cannot be removed."
+> Then two columns. Left, "IN YOUR SLOT": set up BEFORE your slot starts, checklist run, focus set, call sheet
+> in hand. Right, "NOT IN YOUR SLOT": review packet, silently. Hand up if you need me. Add a box at the
+> bottom: "Last in-room day. Anything that has to be shot in this classroom gets shot today." One slide,
+> designed to stay on the board.
 
-### Slide 2: The five unfixables
+### Slide 2: What yesterday taught you
 
-> Create one slide for a high school video class titled "Five Things You Cannot Fix Later." A list in large
-> text: autofocus left on, the image pulses in and out of focus; auto exposure left on, brightness drifts
-> mid-shot; auto white balance, shots do not match when you cut them; shutter too fast, motion looks stuttery;
-> clipped audio, distorted crackling voices. Caption at the bottom: "All five are set before you press record.
-> None of them can be repaired afterward. That is the whole reason for the checklist." One slide.
+> Create one slide for a high school video class titled "Check Yesterday's Footage First." Body: "Before you
+> shoot anything new, watch what you got yesterday. Look for: brightness that drifts mid-shot, focus that
+> goes soft then sharp, audio that sounds distorted, motion that looks stuttery." Then: "Any of those means a
+> setting was wrong, and it means a retake, not a fix in editing." Add a box in large text: "Log the retakes
+> BEFORE you shoot new material. A shot you thought was done is worse than a shot you know is missing." One
+> slide.
 
 ### Slide 3: Do Now
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Shoot In Room." Numbered: "1)
-> Run the setup checklist. Ten seconds, play it back. 2) Work your call sheet in order. 3) Get at least TWO
-> in-room shots today. 4) Shoot more takes than you think you need, it costs nothing now and everything later.
-> 5) Record ROOM TONE: 30 seconds, nobody talking, nobody moving. 6) Hand the camera off on time, another
-> group is waiting." Add a box: "Room tone feels pointless right now. You will need it in the edit and you
-> cannot go back for it." And: "Next week you spread out into the building. Today is the room." One slide.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Finish the Room." Numbered: "1)
+> Watch yesterday's footage and mark retakes. 2) Set up before your slot. 3) Shoot ten seconds and play it
+> back. 4) Work your call sheet, retakes first. 5) Room tone if you did not get it. 6) Offload, name, watch,
+> log." Add a box: "Not in a slot? Review packet, silently. When you finish it, check your answers against
+> your handouts and fix what you got wrong." And in large text: "Next week you spread out into the building.
+> Confirm your locations and your schedule rows before you leave." One slide.
 
 ### Slide 4: Before You Leave
 
-> Create one "Exit" slide for a high school video class titled "Before You Leave." Body: "1) Offload
-> everything today. Not tomorrow. 2) Name your files: LastName_Project_Shot03_Take2. Not MVI_4821, you will
-> not remember what that was. 3) Update your shot log: what is done, what still needs shooting. 4) Batteries
-> on the charger, gear back in the case." Add a box: "Editing software is not installed yet. Offload and
-> organize anyway. When it lands you want to be cutting, not hunting." One slide.
+> Create one "Exit" slide for a high school video class titled "Before You Leave." A checklist: every clip
+> offloaded to your project folder; every file named LastName underscore Project underscore Shot underscore
+> Take; footage actually watched, not just copied; shot log updated with done, retake, and not shot; room tone
+> recorded; batteries on the charger and gear in the case; next week's locations confirmed. Add a box in large
+> text: "Quiz tomorrow: camera setup, preproduction, shot types, scheduling. The review packet is the study
+> guide." One slide.
+
+### Board version (no projector)
+
+```
+   SILENT WHEN A CAMERA IS ROLLING      LAST IN-ROOM DAY
+
+BEFORE YOU SHOOT ANYTHING NEW:
+  watch yesterday's footage.
+  brightness drifting? .... exposure was on auto -> RETAKE
+  soft then sharp? ........ autofocus was on -> RETAKE
+  distorted audio? ........ clipped -> RETAKE
+  stuttery motion? ........ shutter too fast -> RETAKE
+  LOG RETAKES FIRST. then shoot new.
+
+IN YOUR SLOT              NOT IN YOUR SLOT
+  set up BEFORE it          review packet, silent
+  10 sec + playback         check answers after
+  retakes first             fix what you got wrong
+  room tone
+  offload / name /        QUIZ TOMORROW
+  watch / log               the packet is the study guide
+
+BEFORE YOU LEAVE: confirm next week's locations
+```
 
 ---
 
 ---
 
-## 3. Aviation UAS: TAFs, then your own limits
+## 3. Aviation UAS: Hazards, TAFs, and your own limits
+
+**Documents:** `handouts/personal-minimums.md`, `vocab.md`
+
+### Slide 0: Weather hazards
+
+> Create one slide for a high school drone class titled "What the Weather Actually Does." A two column table,
+> the hazard and what it does. GUSTS, a repeated shove that pushes the aircraft off position so it has to
+> fight back, draining battery and ruining a steady shot. Your aircraft experiences the peak, not the average.
+> TURBULENCE, irregular air that makes it hard to hold steady. BUILDINGS, air moving around a structure
+> becomes turbulent and unpredictable. PRECIPITATION, most small drones are not weather sealed and water
+> reaches motors and electronics. FOG AND MIST, visibility drops below legal minimums fast. HEAT, thinner air
+> means less lift to work with. THUNDERSTORMS, violent shifting winds well outside the storm itself, so ten
+> miles away is still a no-go. One slide, clean table.
 
 ### Slide 1: As You Come In
 
@@ -227,7 +264,7 @@ behind-the-scenes stills only.
 | Class | Today |
 |-------|-------|
 | Design Techniques | Feedback and state patterns, Lab: Scroll, build screens 2 and 3 |
-| Video & Sound | **FILMING IN ROOM.** Call sheet, checklist, two in-room shots, room tone, offload today |
+| Video & Sound | **FILMING, day 2.** Retakes first, then new. Review packet, silent, for everyone else |
 | Aviation UAS | TAFs, then write and sign the Personal Minimums Card. Quiz tomorrow |
 | Middle School CS | `while` for real: the countdown, plus a ramp or levels. Steps 13 to 14 |
 | Yearbook | Last camera rotation, then the write-up |

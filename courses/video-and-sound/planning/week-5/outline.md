@@ -38,8 +38,8 @@ continues.
 |-----|-------|---------|
 | Mon Sep 14 | Camera handling and setup for video | Camera checklist run |
 | Tue Sep 15 | Settings check. Shoot blocks, time estimates, shared schedule. Script peer review | Shoot blocks + schedule rows |
-| Wed Sep 16 | Lock the script, finish the schedule, write call sheets | Locked script + call sheet |
-| Thu Sep 17 | **Filming, in the classroom** | First footage offloaded |
+| Wed Sep 16 | **Filming in the classroom**, eight minute slots. Review packet if you are not in a slot | Footage offloaded + shot log |
+| Thu Sep 17 | **Filming continues.** Review packet if you are not in a slot | Footage offloaded + shot log |
 | Fri Sep 18 | **Quiz**, then filming continues | Footage + script submitted |
 
 ### What You'll Get This Week
@@ -47,6 +47,9 @@ continues.
 - **Setting Up the Camera for Video:** the full checklist, plus which body does what
 - **Building a Production Schedule:** shoot blocks, honest time estimates, the shared schedule, and a call
   sheet template
+- **Filming Day:** how to use an eight minute slot, the shot log, and what to do when something goes wrong
+- **The Review Packet:** eight sections covering everything that could be on the quiz, for anyone not in a
+  filming slot
 - **Script Peer Review:** the five rounds
 - **The screenplay format handout** with a full example page
 - **This week's vocabulary**

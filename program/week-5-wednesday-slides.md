@@ -1,180 +1,232 @@
 # WEDNESDAY (Sep 16): Slide Prompts (all classes)
 
+Every block is **one prompt, for one slide.** Each class also has a **Board version** for running without a
+projector.
+
+> **Video & Sound films in the room today.** The room is silent while a camera rolls.
+
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Content patterns, lab, then build screen 1 |
-| Video & Sound | 4 | Lock the script, finish the schedule, call sheets |
-| Aviation UAS | 5 | Weather hazards |
+| Design Techniques | 5 | Components, variants, interactive components |
+| Video & Sound | 4 | Filming in slots, review packet otherwise. Silent |
+| Aviation UAS | 4 | Reading sectionals, hands on the map |
 | Middle School CS | 5 | `forever` and nested loops |
-| Yearbook | 1 | Rotation and work |
+| Yearbook | 1 | Work time |
 
 ---
 
-## 1. Design Techniques: Content patterns, then build screen 1
+## 1. Design Techniques: Components and variants
 
-**Documents:** `handouts/ui-patterns.md` (section 2), `handouts/interaction-labs.md` (Lab 3)
-**Run it as:** five minutes on how content sits on a screen, the ten minute lab, then build.
+**Documents:** `handouts/components-and-variants.md`
+**Run it as:** three features that build on each other. Demo each one, then they apply it to the thing they
+already have on screen.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> Figma and put your screen flow and sketches where you can see them. Today you build your first real screen.
-> Follow your own wireframe. Want to change something? Change the paper first." Large, clean. One slide.
+> Figma. Count how many times your nav bar or tab bar appears across your screens. Warm-up question to think
+> about: if you wanted to change one word on it, how many places would you have to fix?" Large, clean. One
+> slide.
 
-### Slide 2: How content sits on a screen
+### Slide 2: Components
 
-> Create one slide for a high school design class titled "Lists, Cards, and Empty States." Three blocks.
-> LIST: stacked rows, each one tappable, one row is one thing, rows the same height, and a list longer than
-> the screen scrolls. Use it for many similar things. CARD: a contained block with its own edge holding an
-> image, a title, and text. Use it when each item needs more than a line. If a person cannot see where one
-> card ends and the next begins, it is not working. EMPTY STATE: what a screen shows when there is nothing in
-> it yet. Say what goes here and how to add the first one. Add a box in large text: "A blank screen reads as
-> broken. Every list you build starts empty for somebody." One slide.
+> Create one slide for a high school design class titled "Build It Once." Body: "A COMPONENT is a master copy.
+> Every INSTANCE of it updates when you change the master." Then numbered steps: 1) Select something you use
+> more than once, your nav bar, a button, a list row. 2) Right-click, Create component, or Ctrl+Alt+K. 3) The
+> outline turns purple with a diamond icon. That is the master. 4) Copy and paste instances anywhere. Add a
+> box in large text: "Change the master, every instance changes. Text and images can still be different on
+> each instance, which is exactly why list rows are components." One slide.
 
-### Slide 3: Lab: State change
+### Slide 3: Variants
 
-> Create one instructional slide for a high school design class titled "Ten Minute Lab: State Change." Body:
-> "The same screen, ONE thing different. A toggle flips, a heart fills, a button says Added. In a scratch
-> file." Numbered: 1) Duplicate a frame. Keep both IDENTICAL except one element. 2) On the copy, change just
-> that one thing. 3) Connect that element on frame 1 to frame 2. 4) Connect it back so it toggles off. 5)
-> Present and click it a few times. Add a box: "If anything else moves even slightly, the screen jumps when
-> you click. Everything except the one changing thing stays exactly put." One slide.
+> Create one slide for a high school design class titled "One Component, Many States." Body: "A VARIANT is a
+> component with more than one version inside it, and a dropdown to switch between them. Instead of three
+> separate button components, you have ONE button with a State property." Then numbered: 1) Select your
+> component. 2) Click Add variant in the right panel, or Ctrl+Alt+B. 3) Change the second version: fill it,
+> change the text color. 4) Rename the property to State. 5) Rename the values to Default and Selected. Add a
+> box: "Now every instance has a State dropdown. Same component, different look, no extra frames." One slide.
 
-### Slide 4: Do Now
+### Slide 4: Interactive components, and where interactions live
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build Screen One." Body:
-> "Build your first screen on a phone frame, following your wireframe box for box. Your primary action is the
-> thing you circled: biggest, boldest, most obvious. Everything else supports it or gets deleted." Then a
-> checklist: navigation in place, even the parts that do not work; content in lists or cards; gray boxes where
-> photos will go, all the same proportion; your primary action winning by two or three of the five tools. Add
-> a box: "Before you leave: screen one built. Not perfect. Built." One slide.
-
-### Board version (no projector)
-
-```
-LIST    stacked rows, one row = one thing,
-        same height, scrolls if long
-
-CARD    contained block, own edge,
-        image + title + text
-        can you see where one ends?
-
-EMPTY   what shows when there is nothing yet
-STATE   say what goes here + how to add it
-        A BLANK SCREEN READS AS BROKEN
-
-IMAGE   gray box, same proportion every time
-PLACE-
-HOLDER
-
-LAB: STATE CHANGE
-  duplicate frame -> change ONE thing -> connect
-  both ways. everything else stays EXACTLY put.
-```
-
----
-
----
-
-## 2. Video & Sound: Lock the script, finish the schedule, write call sheets
-
-**Documents:** `handouts/production-schedule.md` (Part 5), `handouts/script-peer-review.md`
-**Run it as:** finish revisions from yesterday's peer review, lock, then the shared schedule gets finalized
-and every group leaves with a call sheet for tomorrow.
-
-### Slide 1: As You Come In
-
-> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Get out
-> your script, your peer review findings, and your shoot blocks. Today your script LOCKS and you write the
-> call sheet you will carry tomorrow. We film in this room tomorrow." Large, clean. One slide.
-
-### Slide 2: Locking the script
-
-> Create one slide for a high school video class titled "Lock It." Body: "After today your script stops being
-> a writing project and becomes a SHOOTING DOCUMENT. The whole crew works from it, the shot list points at it,
-> and the schedule is built on it. Changes after lock have to be small." Then a checklist: 2 to 3 pages; scene
-> headings formatted and consistently named; every action line filmable; at least three things changed from
-> the peer review; scene list at the front; every PROBLEM shot rewritten or cut. One slide.
-
-### Slide 3: The call sheet
-
-> Create one slide for a high school video class titled "The Call Sheet." Body: "This is the document you
-> actually carry tomorrow." Then the sections as a list: WHO IS WHERE, WHEN, with times and names; SHOTS TO
-> GET, in shooting order, as a checklist; GEAR, camera, charged battery and spare, card with space, tripod,
-> mic, script and shot list; SETTINGS, resolution, frame rate, shutter at double the frame rate, and the white
-> balance preset, and everyone in the group matches; BEFORE WE LEAVE, room tone recorded, footage played back,
-> everything offloaded and named. One slide.
-
-### Slide 4: Do Now
-
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Lock, Schedule, Call Sheet."
-> Numbered: "1) Make your last revisions from the peer review, then LOCK the script. 2) Finish your rows on the
-> class schedule: who has which camera, when, and where. 3) Write your call sheet for tomorrow's in-room
-> shoot. 4) Confirm your two in-room shots. If you do not have two that work in this classroom, fix that
-> now." Add a box in large text: "Tomorrow you walk in and start setting up. If your call sheet is not done
-> today, you lose tomorrow figuring out what to shoot." One slide.
-
-### Board version (no projector)
-
-```
-LOCK THE SCRIPT           CALL SHEET (carry it tomorrow)
- 2-3 pages                  who / where / when
- headings consistent        shots, in shooting order
- all action filmable        gear: cam + battery + spare
- 3 changes from review            card, tripod, mic
- scene list at front              script + shot list
- PROBLEM shots fixed        settings: res / fps
-                                      shutter = 2x fps
-CONFIRM: 2 shots that                 WB preset
-can be shot IN THIS ROOM    before leaving: room tone,
-                              playback, offload, name
-```
-
----
-
----
-
-## 3. Aviation UAS: What the weather actually does to you
-
-### Slide 1: As You Come In
-
-> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Pull
-> our field's METAR and decode it in your head, all the way through, no handout. Warm-up question: you can
-> read the code now. So which of those numbers would actually stop us from flying today, and why that one?"
-> Large, clean. One slide.
-
-### Slide 2: Gusts
-
-> Create one slide for a high school drone class titled "Why a Gust Is Worse Than Wind." Body: "A steady wind
-> is something the aircraft can lean into and hold. A gust is a shove. Every shove pushes it off position and
-> it has to fight back. That means a shot that will not hold still, a battery draining faster than planned,
-> and less margin every time." Add in large text: "Your aircraft does not experience the average. It
-> experiences the peak." One slide.
-
-### Slide 3: The ones that end a flight
-
-> Create one slide for a high school drone class titled "Hazards, and Why." A two column table, the hazard and
-> what it does. TURBULENCE, irregular air that makes the aircraft hard to hold steady. WIND SHEAR, a sudden
-> change in wind speed or direction over a short distance. BUILDINGS, air moving around a structure becomes
-> turbulent and unpredictable. PRECIPITATION, most small drones are not weather sealed and water reaches
-> motors and electronics. FOG AND MIST, visibility drops below legal minimums fast. ICING, ice adds weight and
-> ruins the airflow that makes lift. One slide, clean table.
-
-### Slide 4: Two you might underestimate
-
-> Create one slide for a high school drone class titled "Two You Might Underestimate." Two boxes. Box 1,
-> THUNDERSTORMS: "A storm ten miles away is still a no-go. Thunderstorms produce violent, shifting winds well
-> outside the storm itself, and conditions change faster than you can react." Box 2, HEAT: "Hot air is
-> thinner. Thinner air means less lift to work with, so the aircraft works harder and performs worse on a hot
-> day than a cool one, at the same throttle." One slide, large text.
+> Create one slide for a high school design class titled "Where Does the Interaction Go?" Top half: "Select
+> the component SET, the dashed purple box. Prototype tab. Drag from the Default variant to the Selected
+> variant. Trigger: On click or While hovering. Now every instance reacts, on every screen, and you built it
+> once." Bottom half, a two column table with the header "If it changes only that element, it goes IN THE
+> COMPONENT. If it changes the screen, it goes ON THE SCREEN." Rows: a heart fills in, COMPONENT; a toggle
+> flips, COMPONENT; a button looks pressed, COMPONENT; tapping a row opens a detail page, SCREEN; a
+> confirmation box appears, SCREEN; submitting shows a success page, SCREEN. One slide.
 
 ### Slide 5: Do Now
 
-> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Decode Drill 3." Body: "Pull
-> THREE full live METARs and decode every field, no handout if you can manage it. Then for each: which single
-> hazard here is the one that matters, and what would it actually do to our aircraft? Finish with a go or
-> no-go call and name the deciding number." Add a box: "Tomorrow you write your own limits. Start thinking
-> about what your numbers would be." And: "ODOT Module 1, due Thursday the 24th." One slide.
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build It Once." Numbered: "1)
+> Turn your nav bar or tab bar into a COMPONENT. Replace the copies on your other screens with instances. 2)
+> Turn your main button into a component with VARIANTS: State, Default and Selected. 3) Make it INTERACTIVE:
+> connect Default to Selected inside the component set. 4) Drop it on a screen and test it in Present. 5) Go
+> through every interaction you have planned and ask: component, or screen? Move any that are in the wrong
+> place." Add a box: "Finished? Make your list row a component. Add a Disabled variant. Try smart animate on a
+> toggle so the knob slides." One slide.
+
+### Board version (no projector)
+
+```
+COMPONENT = master copy
+  select -> right-click -> Create component  (Ctrl+Alt+K)
+  purple outline + diamond = the master
+  change the master -> EVERY instance changes
+  text and images can still differ per instance
+
+VARIANT = one component holding several versions
+  select -> Add variant  (Ctrl+Alt+B)
+  change the 2nd one, then rename:
+     property: State      values: Default / Selected
+  instances now have a State dropdown
+
+INTERACTIVE = the component reacts by itself
+  select the SET (dashed purple box) -> Prototype tab
+  drag Default -> Selected, trigger On click / While hovering
+  built once, works on every screen
+
+WHERE DOES IT GO?
+  changes only that element ....... IN THE COMPONENT
+    heart fills, toggle flips, button pressed
+  changes the screen .............. ON THE SCREEN
+    row opens a page, confirm box, success page
+```
+
+---
+
+---
+
+## 2. Video & Sound: Filming in the room
+
+**Documents:** `handouts/filming-day.md`, `handouts/review-packet.md`
+**Run it as:** groups shoot in eight minute slots. **Everyone else is on the review packet, silently.**
+Key: `handouts/review-packet-key.md`
+
+### Slide 1: As You Come In (leave this up)
+
+> Create one "As You Come In" slide for a high school video class. Big title in very large text: "SILENT WHEN
+> A CAMERA IS ROLLING." Body: "Sound carries onto their footage and it cannot be removed later. One
+> conversation ruins a take somebody has to shoot again." Then two columns. Left, "IN YOUR SLOT": get set up
+> BEFORE your slot starts, camera out, checklist run, focus set, call sheet in hand, everyone knows their job.
+> Right, "NOT IN YOUR SLOT": review packet, silently, on your own. If you need me, raise your hand and wait.
+> One slide, designed to stay on the board all period.
+
+### Slide 2: Eight minutes
+
+> Create one slide for a high school video class titled "Eight Minutes Is Short." Body in large text: "It is
+> enough ONLY if you are set up before your slot starts. Setting up during your slot is how eight minutes
+> becomes four." Then two lists. "BEFORE YOUR SLOT, while the group ahead is shooting": camera out, battery
+> and card in; run the setup checklist; focus set with the magnifier where your subject will be; call sheet
+> out, shots in order; everyone knows their job. "DURING": shoot ten seconds and play it back; work the call
+> sheet in order; more takes than you think you need; do not review every take, keep moving; record room
+> tone, 30 seconds. One slide.
+
+### Slide 3: Hand off, then offload
+
+> Create one slide for a high school video class titled "The Slot Ends, the Work Does Not." Body: "The next
+> group is waiting. Card out, camera back, ON TIME. If you did not get everything, log what you missed and
+> take a later slot." Then a checklist headed "Then, immediately, at a computer": offload everything to your
+> project folder; name every file, LastName underscore Project underscore Shot03 underscore Take2; WATCH it,
+> actually watch it; update your shot log, done, retake, or not shot; note anything that went wrong so the
+> next group avoids it. Add a box in large text: "The goal by end of tomorrow: your footage is on a computer,
+> named, and ready to cut." One slide.
+
+### Slide 4: The review packet
+
+> Create one slide for a high school video class titled "Not Filming? Review Packet." Body: "Eight sections,
+> silent and independent. Everything in it is fair game on the quiz." Then the section list: 1 camera setup; 2
+> the five unfixables; 3 shot types; 4 preproduction documents; 5 scheduling and planning; 6 on set; 7 applied
+> scenarios; 8 vocabulary. Add a box: "When you finish: check your answers against your handouts, fix what you
+> got wrong and mark what you changed, then work on your own script, shot list, or schedule. Still silent."
+> One slide.
+
+### Board version (no projector)
+
+```
+   SILENT WHEN A CAMERA IS ROLLING
+   sound gets on their footage. it cannot be removed.
+
+IN YOUR SLOT (8 min)          NOT IN YOUR SLOT
+  set up BEFORE it starts       review packet
+  checklist + focus + call      silent, independent
+  sheet ready                   hand up if you need me
+  10 sec, play it back
+  work the call sheet         AFTER YOUR SLOT
+  more takes than you think     offload
+  ROOM TONE, 30 sec             name every file
+  hand off ON TIME              watch it
+                                update shot log
+TOO DARK? aperture, then ISO.
+  never slow the shutter.     GOAL: footage on a computer,
+PULSING? exposure is on auto.       named, ready to cut
+SOFT/SHARP? autofocus is on.
+```
+
+---
+
+---
+
+## 3. Aviation UAS: Reading the map
+
+**Documents:** `handouts/sectional-reading.md`
+**Run it as:** brief framing, then they work the map in a viewer for most of the period. Circulate.
+
+### Slide 1: As You Come In
+
+> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Open
+> the sectional viewer and find an airport you recognize. Zoom out until you can see several at once, then
+> zoom back in on one. Find the LEGEND and leave it open. You will use it constantly." Large, clean. One
+> slide.
+
+### Slide 2: Nobody memorizes a sectional
+
+> Create one slide for a high school drone class titled "It Is a Lookup Skill." Body in large text: "Every
+> symbol on the chart is in the legend. Real pilots check it constantly. You are not supposed to know them
+> all." Then, the skill stated as a sequence: see something unfamiliar, find it on the legend, read what it
+> means, decide whether it affects you. Add a box: "That is what today is practicing. Not memorizing." One
+> slide.
+
+### Slide 3: The three things to find first
+
+> Create one slide for a high school drone class titled "Three Things, Every Time." Three numbered blocks. 1)
+> AIRSPACE, by color and line: solid blue is Class B, solid magenta is Class C, dashed blue is Class D, dashed
+> magenta is Class E at the surface, no ring is Class G. 2) THE STACKED NUMBERS: top is the ceiling, bottom is
+> the floor, in hundreds of feet. If the bottom says SFC it goes to the ground, and that is the one that
+> matters to you. 3) OBSTRUCTIONS: the tall number is height above SEA LEVEL, the number in parentheses is
+> height above the GROUND. The one in parentheses is yours. One slide.
+
+### Slide 4: Do Now
+
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Work the Map." Body: "Follow
+> the handout. Zoom around, use the legend, and write down what you find." Then a short list of what the
+> activity covers: find one of each airspace class; read a set of stacked numbers out loud; find an
+> obstruction and read both its heights; find one taller than 400 feet AGL; then pick THREE different
+> locations and answer the same six questions about each. Add a box: "Make your three locations different. One
+> near a big airport, one near a small one, one out in the middle of nowhere." And: "Finish the scavenger hunt
+> at the end, then the two written questions." One slide.
+
+### Board version (no projector)
+
+```
+EVERY SYMBOL IS IN THE LEGEND. look it up. that is the skill.
+
+AIRSPACE                        STACKED NUMBERS
+ solid BLUE ....... B            70   <- ceiling
+ solid MAGENTA .... C           ----
+ dashed BLUE ...... D            25   <- floor
+ dashed MAGENTA ... E at sfc          (hundreds of feet)
+ no ring .......... G           = 2,500 to 7,000 ft
+                                SFC on the bottom = goes to
+AIRPORTS                          the ground. THAT one is yours.
+ magenta = no tower
+ blue = towered                 OBSTRUCTIONS
+                                 1549  <- above SEA LEVEL
+FIND THREE LOCATIONS:            (451) <- above the GROUND
+ one near a big airport                  this one is yours
+ one near a small one           over 400 AGL = taller than
+ one in the middle of nowhere     you may legally fly
+```
 
 ---
 
@@ -221,19 +273,45 @@ can be shot IN THIS ROOM    before leaving: room tone,
 > large text: "It got slow? Something is not being destroyed. Find it. That is today's real lesson: things you
 > create have to be cleaned up." One slide.
 
+### Board version (no projector)
+
+```
+forever = never stops while the game runs
+
+  forever:
+      for index from 0 to 4:          <- NESTED LOOP
+          spawn a star at (20 + index*30)
+      pause 2000
+
+  read it from the INSIDE OUT:
+    the for makes a row
+    the pause waits 2 sec
+    the forever does it all again
+
+CATCHING                     MISSING
+ on overlap Player + Food:    forever:
+   destroy otherSprite          if star y > 120:
+   change score by 1              destroy star
+                                  change life by -1
+
+DESTROY THE STAR IN BOTH CASES.
+never destroyed -> hundreds pile up -> game crawls
+```
+
 ---
 
-## 5. Yearbook: Rotation and work
+## 5. Yearbook: Work time
 
 ### Slide 1: Today (the only slide, leave it up)
 
-> Create one work-time slide for a high school yearbook class. Big title: "Today." Top, the four shot set due
-> Friday in a compact list: 1 FROZEN 1/500+; 2 PANNING INDOORS ~1/60; 3 WATER FROZEN 1/1000+; 4 SUBJECT
-> BLURRED 1/30 or slower, camera braced. Then two columns. Left, "On the camera list": shoot, note shutter
-> speed, ISO, and aperture for each, offload and name right away. Right, "Everyone else": spread work, get
-> your PDF ready for Friday. Add a box: "TOMORROW IS THE LAST ROTATION. If you still need shots, get on the
-> list today." And: "Water shot? The drinking fountain works. Get close, get light on it, backlight it if you
-> can so the droplets separate." One slide, clean, meant to stay on the board.
+> Create one work-time slide for a high school yearbook class. Big title: "As You Come In." Body: "Pick what
+> you are working on and get started. Two options." Then two columns. Left, "PHOTOS": get on the camera list,
+> practice shutter speed, work on your four shot set, offload and name files right away. Right, "SPREADS":
+> keep building, old book or new. Every photo frame gets a caption box, every text box uses a preset, your
+> design-by credit goes on. Add a box across the bottom in large text: "The target for this quarter: something
+> on EVERY page, so we can adjust as we go. An empty page cannot be improved." And a second, smaller note:
+> "Set due Friday with your PDF check-in. Keep signing up for cameras." One slide, clean, designed to stay on
+> the board all period.
 
 ---
 
@@ -241,8 +319,8 @@ can be shot IN THIS ROOM    before leaving: room tone,
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | Content patterns, Lab: State change, build screen 1 |
-| Video & Sound | **Lock the script**, finish the shared schedule, write call sheets |
-| Aviation UAS | Weather hazards and what each does to the aircraft. Drill 3 |
+| Design Techniques | Components, variants, interactive components. Where an interaction lives |
+| Video & Sound | **Filming in eight minute slots.** Review packet, silent, for everyone else |
+| Aviation UAS | Reading sectionals hands-on in a viewer. Three locations plus a scavenger hunt |
 | Middle School CS | `forever`, nested loops, catching and missing. Steps 10 to 12 |
-| Yearbook | Camera rotation, spread work, PDF prep |
+| Yearbook | Photos or spreads. Something on every page by the end of the quarter |

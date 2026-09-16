@@ -11,8 +11,8 @@
 ## What This Week Covers
 
 **Monday:** the anatomy of a METAR, field by field, and group decoding. **Tuesday:** airspace classes, LAANC,
-and reading a sectional chart. **Wednesday:** the weather that actually threatens a small drone.
-**Thursday:** TAFs, and writing your own personal minimums. **Friday:** quiz, then a live weather brief.
+and grid ceilings. **Wednesday:** reading sectional charts hands-on. **Thursday:** weather hazards, TAFs, and
+writing your own personal minimums. **Friday:** quiz, then a live weather brief.
 
 ## Student Overview
 
@@ -33,7 +33,7 @@ and reading a sectional chart. **Wednesday:** the weather that actually threaten
 |-----|-------|---------|
 | Mon Sep 14 | METAR anatomy, then group decoding practice on the board | Decode drill 1 |
 | Tue Sep 15 | Airspace classes, LAANC and grid ceilings, reading a sectional | Airspace problems |
-| Wed Sep 16 | Weather hazards for small UAS: wind, gusts, precipitation, fog, thunderstorms | Hazard chart |
+| Wed Sep 16 | Reading sectional charts: airspace, airports, obstructions, and the legend | Three locations + scavenger hunt |
 | Thu Sep 17 | TAFs, and writing your personal minimums | Personal minimums card |
 | Fri Sep 18 | **Quiz**, then a live weather brief on a real METAR | Weather brief |
 
@@ -41,6 +41,7 @@ and reading a sectional chart. **Wednesday:** the weather that actually threaten
 
 - **The METAR Decoder:** every field, with practice METARs and answers. Keep this one
 - **Airspace and Sectional Charts:** the classes, LAANC, chart symbols, and practice problems
+- **Reading a Sectional:** a hands-on activity in a chart viewer, with a scavenger hunt
 - **Your Personal Minimums Card:** the limits you set for yourself, signed
 - **ODOT Part 107 course, Module 1**, assigned Monday, **due Thu Sep 24** before the next quiz
 - **This week's vocabulary:** weather and decision-making terms

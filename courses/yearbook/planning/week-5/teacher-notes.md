@@ -77,6 +77,16 @@ Biweekly, so it is due this week. **Old book counts fully.** Nobody starts somet
 Progress check, not a final. Looking at: has it moved, is there a dominant photo, is there room for captions,
 are presets being used, is the credit on it, is anything important in the gutter.
 
+## The quarter target
+
+**Something on every page by the end of the quarter**, so pages can be adjusted as the book develops rather
+than built from nothing in a rush later. Say it out loud regularly.
+
+**An empty page cannot be improved.** A page with a rough layout, placeholder frames, and filler text can be
+critiqued, reworked, and finished. The goal right now is coverage, not polish.
+
+That also means camera sign-ups stay constant: photos have to exist before pages can hold them.
+
 ## While they work
 
 This is your window for grade check-ins one at a time. The class runs itself on camera rotation plus spread

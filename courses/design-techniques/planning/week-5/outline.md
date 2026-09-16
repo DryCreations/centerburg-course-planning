@@ -37,7 +37,7 @@ something of your own, and learn seven more kinds of interaction along the way.
 |-----|----------------|------|
 | Mon Sep 14 | | Pick your project, write your one task, list your screens |
 | Tue Sep 15 | **Navigation and focus:** tab bars, back, screen flow, the primary action | Lay out your screens |
-| Wed Sep 16 | **Content:** lists, cards, empty states, image placeholders | Build screen 1. Lab: State change |
+| Wed Sep 16 | **Components, variants, interactive components:** build it once, reuse it everywhere | Build screens. Where interactions live |
 | Thu Sep 17 | **Feedback and state:** selected states, modals, toasts, loading | Build screens 2 and 3. Lab: Scroll |
 | Fri Sep 18 | **Consistency:** what has to match across every screen | Connect, first partner test |
 
@@ -57,6 +57,8 @@ something of your own, and learn seven more kinds of interaction along the way.
 
 - **The project assignment** with the full requirement list and ten project ideas if you want one
 - **UI Patterns:** the named building blocks, in the order you need them
+- **Components, Variants, and Interactive Components:** how to build a thing once and reuse it, and how to
+  decide whether an interaction belongs in the component or on the screen
 - **The Interaction Labs:** eight short labs, one per day, each teaching one thing you then use
 - **This week's vocabulary**
 
