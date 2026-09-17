@@ -11,7 +11,7 @@
 | **Mon** | Pick the project, write the ONE TASK, sketch. Lab: Back | **Camera setup for video**, then screenplay format | METAR anatomy, **decode together on the board**. Assign ODOT Module 1 | **`while` loop lesson** + problems, then lab steps 1 to 5 | Shutter speed lesson, camera list opens |
 | **Tue** | **Navigation and focus**, then lay out screens | **Camera check** and hands-on time, then shoot blocks and scheduling in groups | **Airspace rules**, quick, then **ODOT work time** | **`for index` and modulo**, steps 6 to 9 | **Shutter speed lesson**, then the four shot set |
 | **Wed** | **Components, variants, interactive components** | **FILMING in 8 min slots.** Review packet, silent, otherwise | **Reading sectionals**, hands on in a viewer | `forever`, nested loops, steps 10 to 12 | Photos or spreads |
-| **Thu** | **Feedback and state**, Lab: Scroll, build screens 2 and 3 | **FILMING, day 2.** Retakes first | Weather hazards, TAFs, **Personal Minimums Card** | **`while` for real**, steps 13 to 14 | Last rotation, write-up |
+| **Thu** | **Overlay, scroll, selection, input**, plus feedback. Component or screen | **Equipment procedure**, then filming | **Three overlapping-airspace points** on their own | **Practice problems**, then build. No new content | Photos or spreads |
 | **Fri** | **Consistency pass**, connect, first partner test | **QUIZ**, then back out to film | **QUIZ**, then live weather briefs | Finish and showcase | **Four shot set + PDF check-in due** |
 
 ---
@@ -68,6 +68,11 @@
   scrubs flights. The next flight's gate is now the weather brief plus the minimums card.
 
 ---
+
+## Posting
+
+`program/week-5-post-this.md` lists exactly what still needs to go to each Classroom, one line per post, in
+priority order, with a four item short list for a day when the computer is not cooperating.
 
 ## Flagged for later
 

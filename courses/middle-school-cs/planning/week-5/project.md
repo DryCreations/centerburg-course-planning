@@ -20,8 +20,10 @@ numbered, day by day, with example problems and a bug table. Read it and follow 
 | 5 | A **nested loop**: a spawning loop inside the forever loop | Wed |
 | 6 | Catching a star adds to your score, and the star is destroyed | Wed |
 | 7 | Missing a star costs something, and the star is destroyed | Wed |
-| 8 | A working **`while`** loop: a countdown timer, a wait-for-condition, or a ramp | Thu |
+| 8 | **Optional:** a `while` countdown timer, or a difficulty ramp | if you get there |
 | 9 | The game **ends**, win or lose | Thu |
+
+**Requirements 1 to 7 and 9 are the assignment.** Number 8 is there if you want to push further.
 | 10 | It is playable start to finish by someone who is not you | Fri |
 
 ---

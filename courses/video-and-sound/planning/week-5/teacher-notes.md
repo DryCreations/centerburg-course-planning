@@ -86,6 +86,23 @@ on their own, then reveal.
 - **Way over length:** ask which scene could go entirely. Never trim evenly across everything.
 - **Absent:** `screenplay-format.md` has the full example page and the mistake table. Self-serve.
 
+## Equipment procedure comes before cameras
+
+`handouts/equipment-procedure.md` covers checking out, carrying, shooting with, and returning a camera, plus a
+per-group daily sign-off.
+
+**Cover the three that have been missed, out loud, with the gear in front of them, before anyone signs out a
+camera:** the lens cap goes back on, sign it out and sign it back in, follow the schedule you wrote.
+
+**The stake is stated plainly on the first slide:** next week's shooting out in the building depends on this
+room running the procedure correctly today. Framing it as a professional standard rather than a punishment is
+the part that makes it land. Any production company makes the same call.
+
+**Packing up starts with five minutes left.** Returning gear correctly takes about five minutes, and starting
+at the bell is exactly how steps get skipped. Losing a minute of shooting is cheaper than a lost lens cap.
+
+**First period did not get to shoot yesterday.** They get slots first today.
+
 ## The non-filming work is reading, not a worksheet
 
 `handouts/review-packet.md` is a **digital worksheet**, posted on Classroom as **Make a copy for each

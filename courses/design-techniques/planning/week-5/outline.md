@@ -38,7 +38,7 @@ something of your own, and learn seven more kinds of interaction along the way.
 | Mon Sep 14 | | Pick your project, write your one task, list your screens |
 | Tue Sep 15 | **Navigation and focus:** tab bars, back, screen flow, the primary action | Lay out your screens |
 | Wed Sep 16 | **Components, variants, interactive components:** build it once, reuse it everywhere | Build screens. Where interactions live |
-| Thu Sep 17 | **Feedback and state:** selected states, modals, toasts, loading | Build screens 2 and 3. Lab: Scroll |
+| Thu Sep 17 | **The remaining interactions:** overlay, scroll, selection, input, plus feedback | Build and wire. Component or screen for each |
 | Fri Sep 18 | **Consistency:** what has to match across every screen | Connect, first partner test |
 
 > **Each pattern lesson lands the day you need it**, right before you put that thing on a screen.

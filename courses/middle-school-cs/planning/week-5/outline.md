@@ -32,8 +32,10 @@ different kind of loop.
 | Mon Sep 14 | **`while` loops:** lesson, trace problems, read them out loud. Then start the lab | Player moves, ten stars spawn with `repeat` |
 | Tue Sep 15 | **`for index`** and the count. **Modulo:** the remainder block and "every Nth" | A row of stars, a bonus every 5th |
 | Wed Sep 16 | `forever` and nested loops | Waves that keep coming, catching, missing |
-| Thu Sep 17 | `while` for real: a countdown, a ramp, or levels | The game ends |
+| Thu Sep 17 | Practice problems on loops and modulo, then build | A game that plays |
 | Fri Sep 18 | Finish and showcase | Playable game |
+
+> **`while` loops** were introduced Monday and come back when the game needs a countdown or a timer.
 
 ### What You'll Get This Week
 

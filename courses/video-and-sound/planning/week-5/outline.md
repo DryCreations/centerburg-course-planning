@@ -51,6 +51,7 @@ continues.
 - **Setting Up the Camera for Video:** the full checklist, plus which body does what
 - **Building a Production Schedule:** shoot blocks, honest time estimates, the shared schedule, and a call
   sheet template
+- **Equipment Procedure:** checking out, carrying, shooting with, and returning a camera
 - **Filming Day:** how to use an eight minute slot, the shot log, and what to do when something goes wrong
 - **Between Shots:** a digital worksheet on Classroom, with readings on transitions and framing, questions
   that apply both to your own shot list, and a closed-tab self-check that doubles as the quiz study guide

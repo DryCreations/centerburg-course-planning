@@ -15,7 +15,7 @@ students are putting on a screen that day, so nothing is taught in the abstract.
 | Mon | | Back |
 | Tue | Navigation and focus | |
 | Wed | Components, variants, interactive components | (the lesson is the lab) |
-| Thu | Feedback and state | Scroll |
+| Thu | The remaining interactions: overlay, scroll, selection, input, plus feedback | (the lesson is the lab) |
 | Fri | Consistency | |
 | wk 6 | Input | Selection, Input, Transitions, Putting it together |
 
