@@ -13,7 +13,7 @@ Unit 1.2 Pre-Production, week 1 of 3. **No editing software is installed, and th
 | Tue | **Camera check**, hands-on camera time, then shoot blocks and scheduling in small groups | Check understanding first, then get cameras back in hands. Anyone who did not get real time exploring yesterday needs it today |
 | Wed | **Table read, lock the script**, plan the shoot | Script locks today. After this it is a shooting document |
 | Thu | **Filming starts** | Checklist before every setup. Ten seconds and play it back |
-| Fri | **Quiz**, then filming continues, offload and organize | Quiz is short, 20 questions, then back out to shoot |
+| Fri | **Reset.** New groups, new plans, finish the worksheet. Cleared groups shoot | **Quiz moves to Monday**, which gives the worksheet a real deadline |
 
 ## Filming starts Thursday
 
@@ -85,6 +85,40 @@ on their own, then reveal.
   filmable action.
 - **Way over length:** ask which scene could go entirely. Never trim evenly across everything.
 - **Absent:** `screenplay-format.md` has the full example page and the mistake table. Self-serve.
+
+## Friday is a reset
+
+Most groups are not shooting outside this room next week. `handouts/reset-and-replan.md` carries the message,
+the new plan template, and the standard for earning it back.
+
+**Say it once, plainly, then move to work.** The period should not be spent on the message. The slide is
+written to be read in about ninety seconds.
+
+**The framing that makes it land:** a group that cannot follow directions with supervision does not get sent
+somewhere without it. Not personal, not a punishment, the same call any production company makes about a
+crew. And it is **reversible**, which matters: the bar is one full period run correctly, and the checklist is
+on the handout.
+
+**Name the groups that are cleared and send them out.** That is the part that makes the standard read as a
+standard rather than a mood. Students need to see that it was achievable, because somebody achieved it.
+
+### New groups: pairs and trios, assigned
+
+Small enough that nobody can be a passenger. **Tell them to start from whichever script in the group is
+furthest along** rather than starting over, or the period disappears into re-writing.
+
+The plan template covers: whose script, shot count, locations, which shots work in this room, jobs by name,
+and a realistic schedule. **In a pair, the person not on camera holds the shot list.** There is no job called
+watching.
+
+### The worksheet
+
+Many students have not started it, which is most of what went wrong Wednesday and Thursday. **It is due
+today**, and the quiz moving to Monday is what gives that deadline teeth.
+
+The expectations section of the handout is deliberately blunt about tabs, about not needing to assign
+something twice, and about quiet. Those were all said out loud already; writing them down removes the
+argument about whether they were said.
 
 ## Equipment procedure comes before cameras
 

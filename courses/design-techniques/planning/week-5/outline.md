@@ -18,6 +18,9 @@ something of your own, and learn seven more kinds of interaction along the way.
 
 ## Student Overview
 
+> **Everything in this project works on a free Figma account.** Build your file in your **Drafts**, keep it
+> your own, and use the frame method wherever a shortcut is not available to you.
+
 ### What You'll Be Able to Do
 
 - Scope a design project down to one task a person actually does
@@ -39,7 +42,7 @@ something of your own, and learn seven more kinds of interaction along the way.
 | Tue Sep 15 | **Navigation and focus:** tab bars, back, screen flow, the primary action | Lay out your screens |
 | Wed Sep 16 | **Components, variants, interactive components:** build it once, reuse it everywhere | Build screens. Where interactions live |
 | Thu Sep 17 | **The remaining interactions:** overlay, scroll, selection, input, plus feedback | Build and wire. Component or screen for each |
-| Fri Sep 18 | **Consistency:** what has to match across every screen | Connect, first partner test |
+| Fri Sep 18 | **Overlays and modals, list behavior and empty states, text input** | Build them into your app |
 
 > **Each pattern lesson lands the day you need it**, right before you put that thing on a screen.
 
@@ -59,6 +62,8 @@ something of your own, and learn seven more kinds of interaction along the way.
 - **UI Patterns:** the named building blocks, in the order you need them
 - **Components, Variants, and Interactive Components:** how to build a thing once and reuse it, and how to
   decide whether an interaction belongs in the component or on the screen
+- **Overlays, Scrolling, and Text Input:** each built two ways, including a frame method that works on any
+  Figma account
 - **The Interaction Labs:** eight short labs, one per day, each teaching one thing you then use
 - **This week's vocabulary**
 

@@ -12,7 +12,7 @@
 | **Tue** | **Navigation and focus**, then lay out screens | **Camera check** and hands-on time, then shoot blocks and scheduling in groups | **Airspace rules**, quick, then **ODOT work time** | **`for index` and modulo**, steps 6 to 9 | **Shutter speed lesson**, then the four shot set |
 | **Wed** | **Components, variants, interactive components** | **FILMING in 8 min slots.** Review packet, silent, otherwise | **Reading sectionals**, hands on in a viewer | `forever`, nested loops, steps 10 to 12 | Photos or spreads |
 | **Thu** | **Overlay, scroll, selection, input**, plus feedback. Component or screen | **Equipment procedure**, then filming | **Three overlapping-airspace points** on their own | **Practice problems**, then build. No new content | Photos or spreads |
-| **Fri** | **Consistency pass**, connect, first partner test | **QUIZ**, then back out to film | **QUIZ**, then live weather briefs | Finish and showcase | **Four shot set + PDF check-in due** |
+| **Fri** | **Overlays, list behavior, empty states, text input.** Frame method | **Reset:** new groups, new plans, finish the worksheet | **Obstructions and airports**, then sectionals or ODOT, their choice | **Power-ups**, then build | **Shot set + PDF check-in due. Last chance** |
 
 ---
 
@@ -73,6 +73,22 @@
 
 `program/week-5-post-this.md` lists exactly what still needs to go to each Classroom, one line per post, in
 priority order, with a four item short list for a day when the computer is not cooperating.
+
+## Friday changes
+
+- **V&S quiz moves to Monday.** Friday became a reset: most groups are not cleared to shoot outside the room
+  next week, groups are reassigned into teacher-assigned pairs and trios, and the reading worksheet is due.
+  The quiz moving gives that deadline teeth and means Monday opens with a quiz rather than another
+  negotiation. Cleared groups shoot Friday, which is what makes the standard read as a standard.
+- **DT is on free Figma accounts with no education benefits.** Sources disagree about which prototyping
+  features the free tier includes and this could not be verified, so Friday teaches a **frame method for
+  every technique** that works on any plan, with shortcuts offered as "try it and see." Consistent
+  constraints worth enforcing: work in Drafts, one file per student, and a shared prototype link exposes the
+  whole file.
+- **Aviation stays on sectionals but moves to the easy end:** obstructions and airport symbols. Then students
+  choose between finishing the sectional points or ODOT Module 1.
+- **MS CS Thursday and Friday merged.** Thursday was practice and tracing; Friday is power-ups, which uses
+  `if`, variables, and `remainder` together with no new blocks.
 
 ## Flagged for later
 

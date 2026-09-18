@@ -44,13 +44,14 @@ continues.
 | Tue Sep 15 | Settings check. Shoot blocks, time estimates, shared schedule. Script peer review | Shoot blocks + schedule rows |
 | Wed Sep 16 | **Filming in the classroom**, eight minute slots. Reading on transitions and framing if you are not in a slot | Footage offloaded + shot log |
 | Thu Sep 17 | **Filming continues.** Reading packet continues | Footage + reading packet Parts 1 to 3 |
-| Fri Sep 18 | **Quiz**, then filming continues | Footage + script submitted |
+| Fri Sep 18 | New groups, new plans, finish the reading worksheet | Plan + worksheet Parts 1 to 3 |
 
 ### What You'll Get This Week
 
 - **Setting Up the Camera for Video:** the full checklist, plus which body does what
 - **Building a Production Schedule:** shoot blocks, honest time estimates, the shared schedule, and a call
   sheet template
+- **Reset: New Groups, New Plan:** the new plan template, jobs, schedule, and what earning it back takes
 - **Equipment Procedure:** checking out, carrying, shooting with, and returning a camera
 - **Filming Day:** how to use an eight minute slot, the shot log, and what to do when something goes wrong
 - **Between Shots:** a digital worksheet on Classroom, with readings on transitions and framing, questions

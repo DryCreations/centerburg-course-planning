@@ -1,188 +1,341 @@
 # FRIDAY (Sep 18): Slide Prompts (all classes)
 
-> **Two quizzes today.** Aviation (meteorology) and Video & Sound (pre-production and camera setup). Both
-> short, both followed by work.
+Every block is **one prompt, for one slide.** Board versions included.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Consistency pass, connect, first partner test |
-| Video & Sound | 3 | Quiz, then back out to film |
-| Aviation UAS | 4 | Quiz, then live weather briefs |
-| Middle School CS | 3 | Finish and showcase |
-| Yearbook | 1 | Two things due |
+| Design Techniques | 5 | Overlays, lists, text input. Free-plan safe |
+| Video & Sound | 4 | Reset: new groups, new plan, finish the worksheet |
+| Aviation UAS | 4 | Obstructions and airports, then choice of work |
+| Middle School CS | 4 | Power-ups, then build |
+| Yearbook | 1 | Everything due today |
 
 ---
 
-## 1. Design Techniques: Connect it, test it
+## 1. Design Techniques: Overlays, lists, and input
 
-**Not due today.** This project runs through Friday of next week. Today is the **first** partner test.
+**Documents:** `handouts/overlays-scroll-input.md`
+**Run it as:** teach the **frame method** for all three. It works on every account. The shortcut versions are
+offered as "try it and see if your account has it."
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> Figma. Today you connect what you have built and put it in front of a person for the first time. It does not
-> have to be finished. It has to be clickable." Large, clean. One slide.
+> Figma. Check the left sidebar: your file should be under DRAFTS, not inside a team project. If it is in a
+> team project, drag it to Drafts now. Warm-up question: where in your app should something pop up ON TOP of
+> the screen instead of replacing it?" Large, clean. One slide.
 
-### Slide 2: The consistency pass
+### Slide 2: Building on a free account
 
-> Create one slide for a high school design class titled "Look Across, Not At." Body: "Lay all your screens
-> side by side and look ACROSS them. Anything that shifts position between screens is a bug." Then a
-> checklist: back button in the same corner on every screen; tab bar in the same position with the same items
-> in the same order; titles the same size and placement; the same kind of button looks the same everywhere;
-> the same margin from the screen edge; your primary color means one thing and is not used decoratively. Add
-> a box in large text: "Consistency is what separates a prototype that feels real from three unrelated
-> pictures." One slide.
+> Create one slide for a high school design class titled "On a Free Account." Three short points in large
+> text: 1) WORK IN YOUR DRAFTS. Drafts are unlimited, team files are not. 2) YOUR FILE IS YOURS. Free accounts
+> limit how many people can edit one file, so do not build a shared group file. 3) YOUR SHARE LINK SHOWS THE
+> WHOLE FILE, not just the prototype. That is fine for this class, just know it. Add a box at the bottom in
+> large text: "Everything today is built the FRAME WAY, which works on every account. If you want to try a
+> shortcut, test it in Present first. The frame way is never wrong, it is just more clicking." One slide.
 
-### Slide 3: The partner test
+### Slide 3: Overlays and modals
 
-> Create one slide for a high school design class titled "The Partner Test." Body: "Hand your prototype to a
-> partner and tell them ONE thing: the task. 'Order a coffee.' 'Find the game on Friday.' Then say nothing
-> else." Then a list of what to watch: Where do they look first? Do they hesitate? Do they tap the wrong
-> thing? Where do they ask a question? Add a box in large text: "You are not allowed to explain. Every time
-> you WANT to explain something, that is a design problem you just found. Write it down instead of saying
-> it." One slide.
+> Create one slide for a high school design class titled "Overlays: On Top, Not Instead." Body: "An overlay
+> sits on top of the screen. The screen behind stays visible but dimmed. Use it for a confirmation, a menu, or
+> a short message that does not deserve its own screen." Then numbered build steps: 1) Duplicate the frame it
+> appears over, name the copy something like Home-confirm. 2) On the copy, a rectangle covering the WHOLE
+> screen, black, opacity 40 percent. 3) A smaller white rounded rectangle in the middle, with text and two
+> buttons, Cancel and Confirm. 4) Connect the original frame's button to the copy. 5) Connect Cancel back. Add
+> a box: "The dim is the whole trick. It says the screen is still there, you are just on top of it. Two
+> buttons max, and Cancel has to work." One slide.
+
+### Slide 4: Lists, and the empty state
+
+> Create one slide for a high school design class titled "Make the List Look Real." Two halves. Top, "A real
+> list runs off the screen": build your rows so they run past the bottom edge, and CUT THE LAST ROW OFF
+> HALFWAY. That half-visible row is what says there is more below. A list that ends neatly at the bottom looks
+> like the whole list. Bottom, "THE EMPTY STATE": every list starts empty for somebody. Show a small example
+> with an icon, the words "No assignments yet", and underneath "Tap + to add your first one". Add a box in
+> large text: "A blank screen reads as broken. This is the single most skipped screen in student work." One
+> slide.
+
+### Slide 5: Text input, then Do Now
+
+> Create one "Do Now" slide for a high school design class. Big title: "Do Now." Top section, "TEXT INPUT, if
+> your task needs it": an EMPTY version is a rounded rectangle with a thin gray border and GRAY placeholder
+> text showing an example. A FILLED version is a duplicate frame with real-looking text in DARK color and a
+> thin colored border. Connect empty to filled to result. The gray versus dark difference is how a person
+> knows at a glance whether a field is empty. Bottom section, a numbered task list: 1) Add an overlay
+> somewhere, frame method. 2) Make one list look real, rows running off the bottom. 3) Design the empty state
+> for that list. 4) Add a text field if your task needs one. 5) Test every path in Present, including backing
+> out of the overlay. One slide.
+
+### Board version (no projector)
+
+```
+FREE ACCOUNT: work in DRAFTS. your own file. share link = whole file.
+Build the FRAME WAY. it works on every account.
+
+OVERLAY (on top, not instead)
+  duplicate the frame -> name it Home-confirm
+  black rect over the WHOLE screen @ 40% opacity
+  white rounded box on top: text + Cancel + Confirm
+  connect button -> copy ;  Cancel -> back
+  2 buttons max. Cancel must work.
+
+LISTS
+  rows run PAST the bottom edge
+  cut the last row in HALF  <- that is what says "more below"
+  one row = one thing. same height. 5+ items scrolls.
+
+  EMPTY STATE:  "No assignments yet"
+                "Tap + to add your first one"
+                A BLANK SCREEN READS AS BROKEN
+
+TEXT INPUT
+  empty  = thin gray border + GRAY placeholder
+  filled = duplicate + DARK real text + colored border
+  gray vs dark = how you know if it is empty
+```
+
+---
+
+---
+
+## 2. Video & Sound: Reset
+
+**Documents:** `handouts/reset-and-replan.md`, `handouts/review-packet.md`
+**Run it as:** state it once, plainly, then move to work. **Do not spend the period on the message.**
+**Cleared groups** shoot today and work their call sheet instead.
+**Quiz moves to Monday.**
+
+### Slide 1: Where this stands
+
+> Create one slide for a high school video class titled "Where This Stands." Body: "Filming outside this room
+> was going to start next week. For most groups, it is not." Then: "The standard was agreed in advance: follow
+> the schedule you wrote, stay where you are supposed to be, handle the equipment correctly, and let other
+> people work. That did not happen, in a room with a teacher standing in it." Add a box in large text: "A
+> group that cannot follow directions with supervision does not get sent somewhere without it. That is not
+> personal. It is the same call any production company makes." And a second box: "This is reversible. Some
+> groups are shooting out of the room today, because they already earned it." One slide, plain and direct, not
+> decorated.
+
+### Slide 2: New groups
+
+> Create one slide for a high school video class titled "New Groups." Body: "Groups are assigned, and they are
+> smaller on purpose: pairs and trios. In a group of two or three there is nowhere to be a passenger. Everyone
+> has a real job and everyone can see whether everyone else is doing it." Then: "Start from whichever script
+> in your group is furthest along. Do not start from nothing." Add a box: "Assignments are not up for
+> discussion today." One slide.
+
+### Slide 3: How this class runs
+
+> Create one slide for a high school video class titled "How This Class Runs." Four short groups with headers.
+> WHEN YOU ARE TOLD TO WORK: the assigned tab is the only tab, not email, not another class, not a video. An
+> assignment does not need to be assigned twice. Quiet means quiet. WHEN SOMEONE IS RECORDING: silent, your
+> voice goes on their footage; stay out of frame; do not walk through a shot. WITH EQUIPMENT: lens cap back
+> on; sign it out and back in; start packing with five minutes left; hand it back to me. WHERE YOU ARE: in
+> this room unless I have told you otherwise, today. One slide, clean four-block layout.
 
 ### Slide 4: Do Now
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Connect, Then Test." Numbered:
-> "1) Connect the screens you have built, both directions. 2) Make sure every screen has a way BACK. 3)
-> Present and click every path yourself first. 4) Find a partner, give them the task and nothing else, and
-> watch. 5) Write down at least TWO things you are changing because of what you saw." Add a box: "Next week:
-> selection, input, and transitions, then the last screen and the write-up. Due Friday the 25th." One slide.
+> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Earn It Back." Top, a numbered
+> list: 1) Meet your new group. 2) Fill in the new plan: whose script, how many shots, how many locations,
+> which shots can be filmed in THIS ROOM. 3) Assign jobs, by name, for every shoot. 4) Build a realistic
+> schedule. 5) Finish the reading worksheet, Parts 1 to 3. Then a box titled "EARNING IT BACK: one full period,
+> done right" with a checklist: worked when told, without being told twice; stayed in the room; stayed quiet
+> while others recorded; followed your own schedule; signed equipment out and back; packed up starting five
+> minutes early; finished what was assigned. Add at the bottom: "Quiz Monday. The worksheet is the study
+> guide." One slide.
+
+### Board version (no projector)
+
+```
+MOST GROUPS ARE NOT GOING OUT NEXT WEEK.
+cannot follow directions WITH supervision
+   -> not sent somewhere WITHOUT it.
+not personal. same call any production company makes.
+REVERSIBLE: one full period done right.
+
+NEW GROUPS: pairs and trios. assigned. not up for discussion.
+  start from the script that is furthest along.
+
+HOW THIS CLASS RUNS
+  told to work ..... assigned tab is the ONLY tab
+                     not assigned twice. quiet means quiet.
+  someone records .. silent. out of frame. do not walk through.
+  equipment ........ cap on. sign out + in. pack at 5 min left.
+  where you are .... THIS ROOM unless I said otherwise, today.
+
+TODAY: new plan + jobs + schedule, then FINISH THE WORKSHEET
+QUIZ MONDAY.
+```
 
 ---
 
 ---
 
-## 2. Video & Sound: Quiz, then back out to film
+## 3. Aviation UAS: Obstructions and airports
 
-**Quiz:** `courses/video-and-sound/planning/week-5/quiz-bank.csv`, 44 questions, cut to 20.
+**Documents:** `handouts/chart-symbols.md`
+**Run it as:** short. Two symbols, both simple. Then they choose their own work for the rest of the period.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school video class. Big title: "As You Come In." Body: "Quiz
-> first, on Google Classroom. It is short: pre-production terms, screenplay format, and camera setup. Stay on
-> the quiz tab, not open note. When you submit, get your gear ready quietly, we go back out to film." Large,
-> clean. One slide.
+> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Open
+> your chart viewer. Warm-up question to think about: everything we have read on this chart so far has been
+> airspace. What ELSE is drawn on there, and which of those things could you actually run into?" Large, clean.
+> One slide.
 
-### Slide 2: What is on it
+### Slide 2: Obstructions
 
-> Create one slide for a high school video class titled "What Is On the Quiz." Three columns. Column 1,
-> FORMAT: scene headings, INT and EXT, present tense action, what belongs in an action line and what does not,
-> character names, parentheticals, when you need a new scene heading, Courier. Column 2, DOCUMENTS: storyboard,
-> shot list, call sheet, production schedule, coverage, continuity, table read, when a two column A/V script
-> beats screenplay. Column 3, CAMERA: manual exposure, the 180 degree rule, why autofocus is off, why white
-> balance is on a preset, the five unfixables, room tone, ISO and noise. Add a box: "The big one: if a camera
-> cannot record it, it does not belong in a script." One slide.
+> Create one slide for a high school drone class titled "The Symbol That Matters Most to You." Body: "Towers,
+> antennas, and stacks. They live in exactly the band of altitude you fly in." Then show the two numbers
+> stacked large and in monospace: "1549" with the label "height above SEA LEVEL" and "(451)" with the label
+> "height above the GROUND". Add in large text: "The number in parentheses is YOURS. You fly in feet above the
+> ground." Then three short notes: a wider symbol with a broad base means 1,000 feet AGL or taller; starburst
+> marks on top mean it is LIT, which means it is a known hazard; anything over 400 AGL is taller than you may
+> legally fly, so you go around it, never over it. One slide.
 
-### Slide 3: Do Now
+### Slide 3: Guy-wires, and airports
 
-> Create one "Do Now" slide for a high school video class. Big title: "Do Now: Finish the Quiz, Then Shoot."
-> Body: "When you submit, run the camera setup checklist and keep working your call sheet. Target by end of
-> today: at least three shots total, offloaded and named." Then a checklist: setup checklist run; ten seconds
-> shot and played back; three or more shots done; room tone recorded; everything offloaded and named
-> LastName_Project_Shot_Take; shot log updated; your rows on next week's schedule confirmed. Add a box: "Also
-> submit today: your locked script with the scene list, your peer reviewer's name, and the three things you
-> changed." And: "Next week you spread out into the building. Confirm your locations before you leave." One
-> slide.
+> Create one slide for a high school drone class. Title: "Two Things to Know." Top half, GUY-WIRES: "Thin
+> steel cables running from partway up a tower out to anchors on the ground, sometimes a long way out. They
+> are nearly invisible from the air and they are NOT drawn on the chart. Give a guyed tower a wide berth, not
+> a close pass." Bottom half, AIRPORTS: a short table. Magenta airport symbol means NO control tower. Blue
+> means it HAS one. Tick marks around the circle mean fuel. An R in a box means private. The number after the
+> name is field elevation in feet MSL, and the runway length is in HUNDREDS of feet, so 40 means 4,000. Add a
+> note: "Magenta means no tower, blue means tower. Same color logic as the airspace rings, and that is not a
+> coincidence." One slide.
 
----
+### Slide 4: Do Now
 
----
+> Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Find Them, Then Choose." Top, a
+> short scavenger list: an obstruction, and write BOTH its numbers; one taller than 400 feet AGL; a lit one; a
+> group of them; the tallest one you can find; an airport with no tower; one with a tower; an airport's field
+> elevation. Then a box titled "Then pick what serves you best for the rest of the period" with two options:
+> KEEP WORKING SECTIONALS, finish your three points from yesterday if they are not done; or ODOT MODULE 1, due
+> Thursday the 24th and on next Friday's quiz. Add at the bottom: "Either one is the right answer. Pick the one
+> you actually need." One slide.
 
-## 3. Aviation UAS: Quiz, then weather briefs
+### Board version (no projector)
 
-**Quiz:** `courses/aviation-uas/planning/week-5/quiz-bank.csv`, 40 questions, cut to 20.
+```
+OBSTRUCTIONS  (the symbol that matters most to you)
 
-### Slide 1: As You Come In
+   1549   <- above SEA LEVEL (MSL)
+  (451)   <- above the GROUND (AGL)   <-- THIS ONE IS YOURS
 
-> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Quiz
-> first, on Google Classroom. Silent, stay on the quiz tab, not open note. Have your Personal Minimums Card
-> out on the desk, you will need it after. When you submit, sit quietly, people are still testing." Large,
-> clean. One slide.
+  wide base ...... 1,000 ft AGL or taller
+  starburst ...... LIT = known hazard
+  over 400 AGL ... taller than you may fly. GO AROUND.
 
-### Slide 2: What is on it
+  GUY-WIRES: cables from the tower out to the ground.
+             far out. nearly invisible. NOT on the chart.
+             wide berth, never a close pass.
 
-> Create one slide for a high school drone class titled "What Is On the Quiz." Four short groups. DECODING:
-> wind groups including gusts, visibility, sky condition codes and their real heights, temperature over dew
-> point, altimeter, weather codes. TIME: what Zulu means, converting to local, why an observation's age
-> matters. FORECAST: how a TAF differs and what FM marks. HAZARDS AND LIMITS: gusts versus steady wind, wind
-> shear, thunderstorms at a distance, precipitation, the 3 statute mile minimum, personal minimums. Add a box:
-> "Remember: add two zeros for cloud height. Wind direction is FROM. The gust is the number that matters." One
-> slide.
+AIRPORTS
+  magenta = NO tower        blue = HAS tower
+  tick marks = fuel         R in a box = private
+  number after name = field elevation (MSL)
+  runway length in HUNDREDS of ft  (40 = 4,000)
 
-### Slide 3: Do Now (the briefs)
-
-> Create one "Do Now" slide for a high school drone class. Big title: "After the Quiz: Your Weather Brief."
-> Body: "I hand you a real, current METAR. About ninety seconds in front of the class." Numbered: 1) Read the
-> station and time, and say how OLD this observation is. 2) Decode every field in plain English. 3) Name the
-> one number closest to a limit, and say which limit. 4) Give a go or no-go call and name the deciding number.
-> 5) Say what the TAF expects to change. One slide.
-
-### Slide 4: A no-go is a perfect brief
-
-> Create one slide for a high school drone class titled "A No-Go Is a Perfect Brief." Body in large text: "You
-> are not being graded on whether you say go. You are being graded on whether the number behind your call is
-> the right one. Calling a scrub, with the deciding number named, is a perfect brief." Underneath: "Do not go
-> hunting for a reason to say go. That is exactly the habit this week exists to prevent." Add a box: "ODOT
-> Module 1 is due Thursday the 24th, and it is on next Friday's quiz. Do not leave it to that Wednesday
-> night." One slide.
+THEN: sectionals OR ODOT Module 1. your call.
+```
 
 ---
 
 ---
 
-## 4. Middle School CS: Finish and show
+## 4. Middle School CS: Power-ups
 
-**No quiz.** They took one last week.
+**Documents:** `handouts/powerups.md`
+**Run it as:** short demo, then build. **No new blocks**, this is `if`, variables, and `remainder` together.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a middle school computer science class. Big title: "As You Come In."
-> Body: "Open Star Catcher and play it all the way to an ending. Does it actually end? If not, that is your
-> first job today." Large, clean, minimal. One slide.
+> Body: "Open Star Catcher and play it. Last day of the week. Today we add POWER-UPS, and there are no new
+> blocks: it is the if, the variables, and the remainder block you already know, used together." Large, clean,
+> minimal. One slide.
 
-### Slide 2: Do Now
+### Slide 2: Three parts of a power-up
 
-> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Finish It." A
-> checklist in large text: a player you move along the bottom; stars spawned with a LOOP, not placed by hand;
-> a row positioned with "for index", using the count for something; a REMAINDER block doing "every Nth"; a
-> FOREVER loop with a NESTED loop inside it; a WHILE loop that does something real; catching adds score and
-> destroys the star; missing costs a life and destroys the star; the game ENDS; still fast after a minute. Add
-> a box: "Then share your project link on Google Classroom." One slide.
+> Create one slide for a middle school computer science class titled "What Makes It a Power-Up." Three
+> numbered points in large text: 1) SOMETHING MARKS IT AS SPECIAL so the player can see it. A power-up that
+> looks like everything else is not a power-up, it is a surprise. 2) CATCHING IT CHANGES SOMETHING. 3) THE
+> CHANGE WEARS OFF, or it would not be special. Add a box: "Bonus points and an extra life do not need to wear
+> off. They happen once and they are done. Only effects that change the RULES need a timer." One slide.
 
-### Slide 3: Showcase
+### Slide 3: Making some stars special
 
-> Create one slide for a middle school computer science class titled "Play Each Other's." Body: "Trade seats
-> and play someone else's Star Catcher all the way to an ending. Then tell them one thing you genuinely liked,
-> and one thing that confused you." Add a box: "Back at your own seat, answer two things for me: which loop
-> was hardest to get right and what was the bug? And read one of your while loops out loud as a sentence." One
-> slide.
+> Create one slide for a middle school computer science class titled "Every Fifth Star." Show in a monospace
+> box: "for index from 0 to 4:" then indented "change starCount by 1" and "if remainder of starCount ÷ 5 = 0
+> then" then indented further "set star image to GOLD" and "set star kind to PowerUp" then "else" then "set
+> star image to normal". Underneath: "Then a SECOND overlap block, just for the new kind: on Player overlaps
+> PowerUp, destroy it and change score by 5." Add a box: "Make a new kind: click the dropdown in the set kind
+> block and Add a new kind called PowerUp. That is what lets you write a separate overlap for it." One slide.
+
+### Slide 4: Do Now
+
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Add a Power-Up." A
+> required checklist: some stars are visibly different, chosen with the remainder block; they are a different
+> KIND, with their own overlap block; catching one does something different from a normal star; the player can
+> TELL it happened, with a splash, a color change, or a sound. Then a short list of effects to pick from,
+> easiest first: bonus points; extra life; speed boost; slow motion. Add a box: "If your effect changes the
+> rules, it needs a timer variable that counts down and puts things back. Same rule as a while loop: something
+> has to move it toward stopping." One slide.
+
+### Board version (no projector)
+
+```
+POWER-UP = 3 parts
+  1. looks different (or it is just a surprise)
+  2. catching it changes something
+  3. the change WEARS OFF
+
+  for index from 0 to 4:
+      change starCount by 1
+      if remainder of starCount / 5 = 0:
+          set star image to GOLD
+          set star kind to PowerUp      <- new KIND
+      else:
+          set star image to normal
+
+  on Player overlaps PowerUp:
+      destroy otherSprite
+      change score by 5
+
+PICK AN EFFECT: bonus points / extra life / speed boost / slow fall
+
+CHANGES THE RULES? it needs a TIMER:
+  set boostTimer to 5 ... then each second change it by -1
+  when it hits 0, put things back
+  (same rule as while: something must move it toward stopping)
+
+TELL THE PLAYER: splash, color change, or a sound.
+```
 
 ---
 
-## 5. Yearbook: Two things due
+## 5. Yearbook: Everything due
 
 ### Slide 1: Today (the only slide, leave it up)
 
-> Create one work-time slide for a high school yearbook class. Big title: "Both Due Today." Two numbered
-> sections in large text. 1) THE SHUTTER SPEED SET: four shots, frozen, panning indoors, water frozen, and
-> subject blurred with a sharp background. Shutter speed, ISO, and aperture noted for each. One sentence per
-> shot on what you had to change. Then ONE PARAGRAPH on which of the four belongs in the yearbook and why. 2)
+> Create one work-time slide for a high school yearbook class. Big title in large text: "BOTH DUE TODAY. LAST
+> CHANCE." Two numbered sections. 1) THE SHUTTER SPEED SET: your four shots, frozen, panning indoors, water
+> frozen, and subject blurred with a sharp background. Shutter speed, ISO, and aperture noted for each. One
+> sentence per shot on what you had to change. One paragraph on which belongs in the yearbook and why. 2) THE
 > PDF CHECK-IN: export whatever spread or page you are working, old book or new, and submit it. It does not
-> need to be finished, this is a progress check. Add a box at the bottom: "The paragraph is the real
-> assignment. All four shots are technically correct. Tell me which one tells a story better, and why." And:
-> "Missing one? Turn in what you have plus a note on which one beat you and what happened." One slide, clean,
-> meant to stay on the board.
+> need to be finished. Add a box at the bottom: "Missing a shot? Turn in what you have with a note on which
+> one beat you and what happened. Three good shots and an honest account of the fourth beats four
+> half-attempts." And a smaller line: "Everything else is spread work. The target this quarter is something on
+> every page." One slide, clean, designed to stay on the board.
 
 ---
 
 ## One-line action list
 
-| Class | Today | Due |
-|-------|-------|-----|
-| Design Techniques | Consistency pass, connect, first partner test | Nothing. Project due Fri Sep 25 |
-| Video & Sound | **QUIZ**, then back out to film | Locked script + 3 shots offloaded |
-| Aviation UAS | **QUIZ**, then live weather briefs | Drills, minimums card, brief |
-| Middle School CS | Finish and showcase | **Star Catcher** |
-| Yearbook | Both due, grade check-ins continue | **Four shot set + PDF check-in** |
+| Class | Today |
+|-------|-------|
+| Design Techniques | Overlays, list behavior, empty states, text input. Frame method, free-plan safe |
+| Video & Sound | **Reset.** New groups, new plans, finish the worksheet. **Quiz moves to Monday** |
+| Aviation UAS | Obstructions and airport symbols, then sectionals or ODOT, their choice |
+| Middle School CS | Power-ups, then build. No new blocks |
+| Yearbook | **Shot set and PDF check-in due. Last chance** |

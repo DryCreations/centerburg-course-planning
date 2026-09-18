@@ -35,13 +35,15 @@ writing your own personal minimums. **Friday:** quiz, then a live weather brief.
 | Tue Sep 15 | Airspace classes, LAANC and grid ceilings, reading a sectional | Airspace problems |
 | Wed Sep 16 | Reading sectional charts: airspace, airports, obstructions, and the legend | Three locations + scavenger hunt |
 | Thu Sep 17 | TAFs, and writing your personal minimums | Personal minimums card |
-| Fri Sep 18 | **Quiz**, then a live weather brief on a real METAR | Weather brief |
+| Fri Sep 18 | Obstructions and airport symbols on a sectional, then work time | Symbol hunt |
 
 ### What You'll Get This Week
 
 - **The METAR Decoder:** every field, with practice METARs and answers. Keep this one
 - **Airspace and Sectional Charts:** the classes, LAANC, chart symbols, and practice problems
 - **Reading a Sectional:** a hands-on activity in a chart viewer, with a scavenger hunt
+- **Two More Things on the Chart:** obstructions and airport symbols, and why the number in parentheses is
+  the one that matters to you
 - **Your Personal Minimums Card:** the limits you set for yourself, signed
 - **ODOT Part 107 course, Module 1**, assigned Monday, **due Thu Sep 24** before the next quiz
 - **This week's vocabulary:** weather and decision-making terms

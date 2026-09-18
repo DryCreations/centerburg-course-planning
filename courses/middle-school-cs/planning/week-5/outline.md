@@ -33,12 +33,13 @@ different kind of loop.
 | Tue Sep 15 | **`for index`** and the count. **Modulo:** the remainder block and "every Nth" | A row of stars, a bonus every 5th |
 | Wed Sep 16 | `forever` and nested loops | Waves that keep coming, catching, missing |
 | Thu Sep 17 | Practice problems on loops and modulo, then build | A game that plays |
-| Fri Sep 18 | Finish and showcase | Playable game |
+| Fri Sep 18 | **Power-ups:** a special star that changes the rules | A power-up that works |
 
 > **`while` loops** were introduced Monday and come back when the game needs a countdown or a timer.
 
 ### What You'll Get This Week
 
+- **Power-Ups:** how to make one star special, give it its own kind, and make the effect wear off
 - **The Star Catcher lab:** numbered steps you read and follow yourself, day by day, with example problems
   and a bug table. Enough to catch up alone if you were out
 - **This week's vocabulary:** loop terms

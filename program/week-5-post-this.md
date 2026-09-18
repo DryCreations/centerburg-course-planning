@@ -13,7 +13,8 @@ Paths are inside `week-5-materials/` in the zip.
 | 1 | `1-design-techniques/outline.md` | Material. The week at a glance |
 | 2 | `1-design-techniques/vocab.md` | Material |
 | 3 | `1-design-techniques/project.md` | **Assignment.** Due Fri Sep 25 |
-| 4 | `1-design-techniques/handouts/ui-patterns.md` | Material |
+| 4 | `1-design-techniques/handouts/overlays-scroll-input.md` | **Material, post today.** Free-plan safe methods |
+| 5 | `1-design-techniques/handouts/ui-patterns.md` | Material |
 | 5 | `1-design-techniques/handouts/components-and-variants.md` | Material |
 | 6 | `1-design-techniques/handouts/interaction-labs.md` | Material |
 
@@ -25,7 +26,8 @@ Paths are inside `week-5-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `2-video-and-sound/handouts/equipment-procedure.md` | **Material, post today.** The checkout and return rules |
+| 1 | `2-video-and-sound/handouts/reset-and-replan.md` | **Assignment, post today.** New groups, new plan, expectations |
+| 2 | `2-video-and-sound/handouts/equipment-procedure.md` | Material. The checkout and return rules |
 | 2 | `2-video-and-sound/handouts/review-packet.md` | **Assignment, make a copy for each student.** The reading worksheet |
 | 3 | `2-video-and-sound/outline.md` | Material |
 | 4 | `2-video-and-sound/vocab.md` | Material |
@@ -46,7 +48,8 @@ summary is built in if they do not.
 |------|------|------|
 | 1 | `3-aviation-uas/outline.md` | Material |
 | 2 | `3-aviation-uas/vocab.md` | Material |
-| 3 | `3-aviation-uas/handouts/airspace.md` | Material. The classes, LAANC, chart basics |
+| 3 | `3-aviation-uas/handouts/chart-symbols.md` | **Material, post today.** Obstructions and airports |
+| 4 | `3-aviation-uas/handouts/airspace.md` | Material. The classes, LAANC, chart basics |
 | 4 | `3-aviation-uas/handouts/metar-decoder.md` | Material. They will want this for the quiz |
 | 5 | `3-aviation-uas/handouts/personal-minimums.md` | **Assignment**, due today |
 | 6 | `3-aviation-uas/project.md` | **Assignment** |
@@ -62,7 +65,8 @@ summary is built in if they do not.
 | Post | File | Type |
 |------|------|------|
 | 1 | `4-middle-school-cs/project.md` | **Assignment.** Star Catcher |
-| 2 | `4-middle-school-cs/handouts/star-catcher-lab.md` | Material. The numbered build steps |
+| 2 | `4-middle-school-cs/handouts/powerups.md` | **Material, post today** |
+| 3 | `4-middle-school-cs/handouts/star-catcher-lab.md` | Material. The numbered build steps |
 | 3 | `4-middle-school-cs/outline.md` | Material |
 | 4 | `4-middle-school-cs/vocab.md` | Material |
 
@@ -83,12 +87,13 @@ summary is built in if they do not.
 
 ---
 
-## Tomorrow (Friday)
+## Monday
 
-Two quizzes to build. Both are plain CSV, cut to 20, no images.
+**Video & Sound quiz**, moved from Friday. `2-video-and-sound/quiz-bank.csv`, 44 questions, cut to 20. Plain
+CSV, no images. The reading worksheet is the study guide.
 
-- `3-aviation-uas/quiz-bank.csv`, 40 questions
-- `2-video-and-sound/quiz-bank.csv`, 44 questions
+**Aviation quiz** is still unbuilt. `3-aviation-uas/quiz-bank.csv`, 40 questions, cut to 20. Schedule it once
+sectionals have settled.
 
 ---
 
@@ -96,9 +101,9 @@ Two quizzes to build. Both are plain CSV, cut to 20, no images.
 
 If today is a bad day for the computer, these four are the ones that actually change what happens in a room:
 
-1. **V&S:** `equipment-procedure.md`
-2. **V&S:** `review-packet.md`, as make-a-copy
-3. **MS CS:** `star-catcher-lab.md`
-4. **DT:** `project.md`
+1. **V&S:** `reset-and-replan.md`
+2. **V&S:** `review-packet.md`, as make-a-copy, if it is still not out
+3. **MS CS:** `powerups.md`
+4. **DT:** `overlays-scroll-input.md`
 
 Everything else is reference that can go out tomorrow without costing anyone anything.

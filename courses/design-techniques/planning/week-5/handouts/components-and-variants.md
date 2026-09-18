@@ -7,6 +7,11 @@ Each builds on the last. **Do them in order.**
 
 ---
 
+> **On a free account, some of this may be limited.** Components and instances work. Variants and
+> interactive components may or may not, depending on your plan. **Try it, and if a step does not work, use
+> the frame method in `overlays-scroll-input.md` instead.** The frame method is never wrong, it is just more
+> clicking. Nothing in this project requires a paid account.
+
 ## Why this matters right now
 
 You have a nav bar on four screens. Right now those are four separate copies, and if you change one you have

@@ -16,10 +16,27 @@ students are putting on a screen that day, so nothing is taught in the abstract.
 | Tue | Navigation and focus | |
 | Wed | Components, variants, interactive components | (the lesson is the lab) |
 | Thu | The remaining interactions: overlay, scroll, selection, input, plus feedback | (the lesson is the lab) |
-| Fri | Consistency | |
+| Fri | Overlays and modals, list behavior and empty states, text input | (frame method) |
 | wk 6 | Input | Selection, Input, Transitions, Putting it together |
 
 `handouts/ui-patterns.md` is organized in those sections, so students read only the part that is live.
+
+## The free plan question
+
+Students are on free Figma accounts with no education benefits. **Sources disagree about which prototyping
+features the free tier includes**, and this could not be verified directly, so Friday's handout
+(`overlays-scroll-input.md`) teaches a **frame method for every technique** that works regardless of plan,
+with the shortcut offered as "try it and see."
+
+**The constraints that are consistent across sources and worth enforcing:**
+
+- **Work in Drafts, not a team project.** Drafts are unlimited; team files are capped
+- **One file per student.** Free accounts limit editors per file, so no shared group files
+- **A shared prototype link exposes the whole file.** Fine for this class, worth knowing
+
+**If Wednesday's variants or interactive components did not work for some students**, point them at the frame
+method and move on. Nothing in this project requires a paid account. A note to that effect is now at the top
+of `components-and-variants.md`.
 
 ## Wednesday: components, and the question that actually matters
 

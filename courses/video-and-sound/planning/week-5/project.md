@@ -58,7 +58,8 @@ across the whole class, not group by group.
 | 4 | **Room tone** recorded at every location: 30 seconds, nobody talking |
 | 5 | Footage **offloaded and named** the same day it is shot |
 | 6 | A **shot log**: which shots are done, which need a retake, which are not shot |
-| 7 | If you are not in a filming slot, the **review packet**, completed silently |
+| 7 | If you are not in a filming slot, the **reading worksheet**, completed silently |
+| 8 | After regrouping: a **new plan** with jobs assigned by name and a realistic schedule |
 
 > **Editing software is not installed yet.** Offload and organize anyway. When it arrives you want to be
 > cutting, not hunting for files named MVI_4821.

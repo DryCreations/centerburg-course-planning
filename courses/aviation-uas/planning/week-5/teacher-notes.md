@@ -14,7 +14,7 @@ deliberately avoided.
 | Tue | **Airspace, kept short:** review the classes, the rules attached to each, LAANC and grid ceilings, and enough sectional to recognize one. Four problems, then **ODOT work time** | They have seen the classes. This is the rules and the chart basics, not a full sectional lesson. Protect the work time |
 | Wed | **Reading sectionals, hands on in a viewer.** Three locations, a scavenger hunt, two written questions | Brief framing, then they work the map most of the period. Circulate. `handouts/sectional-reading.md` |
 | Thu | TAFs, then the Personal Minimums Card | Card is due end of period, signed, with a reason next to every number |
-| Fri | **Quiz**, then live weather briefs | Briefs are ~90 seconds each on a real current METAR |
+| Fri | **Obstructions and airport symbols**, short, then their choice of sectional work or ODOT Module 1 | A small, achievable win after a hard topic. `handouts/chart-symbols.md` |
 
 ## Monday: decode together before they decode alone
 
@@ -43,6 +43,22 @@ the first day it happens, not the day it is due. Access issues took 48 hours or 
 
 > **Check the date against your intent.** If you meant Module 1 due this Friday Sep 18 instead, it is a
 > one-line change in `project.md`, `outline.md`, and Monday's slide.
+
+## Friday: something simple to identify
+
+Airspace was hard and several students are still working it out. **Obstructions and airport symbols are the
+easy end of the same chart**, and one of them matters more to a drone pilot than any circle on the map.
+
+**The thing to land:** an obstruction has two numbers, and **the one in parentheses is AGL, which is theirs.**
+Anything over 400 AGL is taller than they may legally fly, so it is gone around, never over.
+
+**Guy-wires are worth thirty seconds.** Cables running far out from the tower, nearly invisible from the air,
+not drawn on the chart. That is a real hazard that a chart symbol does not warn you about, and it makes the
+point that the chart is a starting place rather than the whole picture.
+
+Then **they choose** how to spend the rest of the period: finish the three sectional points, or ODOT Module 1,
+which is due Thursday the 24th. Both are legitimate, and letting them pick lowers the temperature after a
+frustrating topic.
 
 ## Wednesday: hands on the map
 
