@@ -44,6 +44,24 @@ the first day it happens, not the day it is due. Access issues took 48 hours or 
 > **Check the date against your intent.** If you meant Module 1 due this Friday Sep 18 instead, it is a
 > one-line change in `project.md`, `outline.md`, and Monday's slide.
 
+## Friday: the retake, and the reason flying is paused
+
+**Open with the retake.** The first quiz is available at the start of class for anyone who wants to improve a
+score.
+
+**Then say the thing about flying, once, plainly.** The original plan was a quiz and then a flight. It is
+worth telling them exactly why that changed, because the reason is the strongest argument in the course:
+
+> **The Part 107 exam does not test whether you can fly a drone.** There is no multiple choice question that
+> measures stick skill. Part 107 is airspace, weather, limits, and the decisions a pilot makes before
+> anything leaves the ground. That is what the WebXam assesses, and right now it is not landing.
+
+Then the trade, stated without heat: **flying is the part of this class that depends on the other part.** If
+they want to fly every week, the work during class time is how that happens. This is a standing arrangement,
+not a one-day punishment.
+
+**Do not spend the period on it.** Two minutes, then move to content.
+
 ## Friday: something simple to identify
 
 Airspace was hard and several students are still working it out. **Obstructions and airport symbols are the

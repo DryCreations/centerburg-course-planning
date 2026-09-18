@@ -4,9 +4,9 @@ Every block is **one prompt, for one slide.** Board versions included.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | Overlays, lists, text input. Free-plan safe |
-| Video & Sound | 4 | Reset: new groups, new plan, finish the worksheet |
-| Aviation UAS | 4 | Obstructions and airports, then choice of work |
+| Design Techniques | 6 | Overlays, lists, text input. Free-plan safe |
+| Video & Sound | 6 | Standards, vocab round, then the reset and new plans |
+| Aviation UAS | 6 | Retake, standards, the why, then obstructions and airports |
 | Middle School CS | 4 | Power-ups, then build |
 | Yearbook | 1 | Everything due today |
 
@@ -15,8 +15,8 @@ Every block is **one prompt, for one slide.** Board versions included.
 ## 1. Design Techniques: Overlays, lists, and input
 
 **Documents:** `handouts/overlays-scroll-input.md`
-**Run it as:** teach the **frame method** for all three. It works on every account. The shortcut versions are
-offered as "try it and see if your account has it."
+**Run it as:** standards up first and left on the board, then teach the **frame method** for all three. It
+works on every account. The shortcut versions are offered as "try it and see if your account has it."
 
 ### Slide 1: As You Come In
 
@@ -25,7 +25,16 @@ offered as "try it and see if your account has it."
 > team project, drag it to Drafts now. Warm-up question: where in your app should something pop up ON TOP of
 > the screen instead of replacing it?" Large, clean. One slide.
 
-### Slide 2: Building on a free account
+### Slide 2: Standards today
+
+> Create one standards slide for a high school design class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.15.1 Understand the UX/UI design process
+> (vision, journey mapping, wireframing, prototyping) for the targeted platform. 7.1.2 Describe the components
+> of interactive media. 7.2.10 Select and create visual design elements appropriate for the intended audience
+> and use. Then a short line: "Today that means overlays, list behavior, empty states, and text input." Design
+> it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: Building on a free account
 
 > Create one slide for a high school design class titled "On a Free Account." Three short points in large
 > text: 1) WORK IN YOUR DRAFTS. Drafts are unlimited, team files are not. 2) YOUR FILE IS YOURS. Free accounts
@@ -34,7 +43,7 @@ offered as "try it and see if your account has it."
 > large text: "Everything today is built the FRAME WAY, which works on every account. If you want to try a
 > shortcut, test it in Present first. The frame way is never wrong, it is just more clicking." One slide.
 
-### Slide 3: Overlays and modals
+### Slide 4: Overlays and modals
 
 > Create one slide for a high school design class titled "Overlays: On Top, Not Instead." Body: "An overlay
 > sits on top of the screen. The screen behind stays visible but dimmed. Use it for a confirmation, a menu, or
@@ -45,7 +54,7 @@ offered as "try it and see if your account has it."
 > a box: "The dim is the whole trick. It says the screen is still there, you are just on top of it. Two
 > buttons max, and Cancel has to work." One slide.
 
-### Slide 4: Lists, and the empty state
+### Slide 5: Lists, and the empty state
 
 > Create one slide for a high school design class titled "Make the List Look Real." Two halves. Top, "A real
 > list runs off the screen": build your rows so they run past the bottom edge, and CUT THE LAST ROW OFF
@@ -55,7 +64,7 @@ offered as "try it and see if your account has it."
 > large text: "A blank screen reads as broken. This is the single most skipped screen in student work." One
 > slide.
 
-### Slide 5: Text input, then Do Now
+### Slide 6: Text input, then Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now." Top section, "TEXT INPUT, if
 > your task needs it": an EMPTY version is a rounded rectangle with a thin gray border and GRAY placeholder
@@ -69,6 +78,14 @@ offered as "try it and see if your account has it."
 ### Board version (no projector)
 
 ```
+STANDARDS TODAY (leave this on the board)
+  2.15.1 understand the UX/UI design process: vision,
+         journey mapping, wireframing, prototyping
+  7.1.2  describe the components of interactive media
+  7.2.10 select and create visual design elements
+         appropriate for the audience and use
+  -> today: overlays, list behavior, empty states, text input
+
 FREE ACCOUNT: work in DRAFTS. your own file. share link = whole file.
 Build the FRAME WAY. it works on every account.
 
@@ -101,11 +118,32 @@ TEXT INPUT
 ## 2. Video & Sound: Reset
 
 **Documents:** `handouts/reset-and-replan.md`, `handouts/review-packet.md`
-**Run it as:** state it once, plainly, then move to work. **Do not spend the period on the message.**
+**Run it as:** standards, then a fast vocabulary round off the worksheet, then the reset message stated once
+and plainly. **Do not spend the period on the message.**
 **Cleared groups** shoot today and work their call sheet instead.
-**Quiz moves to Monday.**
+**Quiz moves to Monday**, and the vocabulary round is a preview of it.
 
-### Slide 1: Where this stands
+### Slide 1: Standards today
+
+> Create one standards slide for a high school video class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 7.7.2 Analyze the script and storyboard to develop
+> a production schedule. 7.3.1 Apply pre-production processes. 2.10 Operate equipment according to
+> manufacturer specifications. Then a short line: "Today that means pre-production vocabulary, a new
+> production plan, and the equipment procedure." Design it to stay readable on the board for the whole period.
+> One slide.
+
+### Slide 2: Vocabulary check
+
+> Create one review slide for a high school video class titled "From the Worksheet." Present as a list of
+> terms to define out loud, in large readable text: cut, dissolve, fade to black, wipe, rule of thirds,
+> headroom, lead room, leading lines, shoot block, coverage, continuity, call sheet, room tone, the 180 degree
+> rule. Add a box at the bottom: "These are on Monday's quiz. If you cannot define one right now, that is the
+> one to go find in your worksheet today." One slide.
+
+*(Run this as a fast round: name a term, take an answer, correct it, move on. Five to seven minutes. The
+point is to surface which terms are missing, not to teach them all again.)*
+
+### Slide 3: Where this stands
 
 > Create one slide for a high school video class titled "Where This Stands." Body: "Filming outside this room
 > was going to start next week. For most groups, it is not." Then: "The standard was agreed in advance: follow
@@ -116,7 +154,7 @@ TEXT INPUT
 > groups are shooting out of the room today, because they already earned it." One slide, plain and direct, not
 > decorated.
 
-### Slide 2: New groups
+### Slide 4: New groups
 
 > Create one slide for a high school video class titled "New Groups." Body: "Groups are assigned, and they are
 > smaller on purpose: pairs and trios. In a group of two or three there is nowhere to be a passenger. Everyone
@@ -124,7 +162,7 @@ TEXT INPUT
 > in your group is furthest along. Do not start from nothing." Add a box: "Assignments are not up for
 > discussion today." One slide.
 
-### Slide 3: How this class runs
+### Slide 5: How this class runs
 
 > Create one slide for a high school video class titled "How This Class Runs." Four short groups with headers.
 > WHEN YOU ARE TOLD TO WORK: the assigned tab is the only tab, not email, not another class, not a video. An
@@ -133,7 +171,7 @@ TEXT INPUT
 > on; sign it out and back in; start packing with five minutes left; hand it back to me. WHERE YOU ARE: in
 > this room unless I have told you otherwise, today. One slide, clean four-block layout.
 
-### Slide 4: Do Now
+### Slide 6: Do Now
 
 > Create one "Do Now" slide for a high school video class. Big title: "Do Now: Earn It Back." Top, a numbered
 > list: 1) Meet your new group. 2) Fill in the new plan: whose script, how many shots, how many locations,
@@ -147,6 +185,20 @@ TEXT INPUT
 ### Board version (no projector)
 
 ```
+STANDARDS TODAY (leave this on the board)
+  7.7.2 analyze the script and storyboard to develop
+        a production schedule
+  7.3.1 apply pre-production processes
+  2.10  operate equipment according to manufacturer specs
+  -> today: pre-production vocab, a new plan, equipment procedure
+
+VOCAB ROUND (on Monday's quiz)
+  cut / dissolve / fade to black / wipe
+  rule of thirds / headroom / lead room / leading lines
+  shoot block / coverage / continuity / call sheet
+  room tone / the 180 degree rule
+  cannot define one? THAT is the one to find today.
+
 MOST GROUPS ARE NOT GOING OUT NEXT WEEK.
 cannot follow directions WITH supervision
    -> not sent somewhere WITHOUT it.
@@ -174,16 +226,38 @@ QUIZ MONDAY.
 ## 3. Aviation UAS: Obstructions and airports
 
 **Documents:** `handouts/chart-symbols.md`
-**Run it as:** short. Two symbols, both simple. Then they choose their own work for the rest of the period.
+**Run it as:** **retake first** for anyone who wants it, then the standards, then the reason flying is
+paused, then two simple symbols. The rest of the period is their choice of work.
+**The retake** is the first quiz, open at the start of class, to improve a score.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "Open
-> your chart viewer. Warm-up question to think about: everything we have read on this chart so far has been
-> airspace. What ELSE is drawn on there, and which of those things could you actually run into?" Large, clean.
-> One slide.
+> Create one "As You Come In" slide for a high school drone class. Big title: "As You Come In." Body: "If you
+> want to RETAKE the first quiz to improve your score, it is open on Google Classroom right now. Take it at
+> the start of class. Silent, stay on the quiz tab, not open note. Everyone else: open your chart viewer and
+> get ready to work." Large, clean. One slide.
 
-### Slide 2: Obstructions
+### Slide 2: Standards today
+
+> Create one standards slide for a high school drone class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 7.13 Evaluate the flight environment, including
+> airspace classification and obstructions. 7.9 Identify small UAS rules and operating limitations. 7.6
+> Interpret weather data and reports relevant to flight. Then a short line: "Today that means obstructions and
+> airport symbols on a sectional chart." Design it to stay readable on the board for the whole period. One
+> slide.
+
+### Slide 3: Why we are not flying yet
+
+> Create one slide for a high school drone class titled "Why We Are Not Flying Yet." Body: "The plan for today
+> was a quiz and then flying. That is not what is happening, and here is the reason." Then in large text: "The
+> Part 107 exam does not test whether you can fly a drone. There is no multiple choice question that measures
+> stick skill. Part 107 is rules and regulations: airspace, weather, limits, and the decisions a pilot makes
+> before anything leaves the ground." Then: "That is what you are being assessed on at the end of this
+> course, and right now it is not landing." Add a box in large text: "Flying is the part of this class that
+> depends on the other part. If you want to fly every week, the work during class time is how that happens."
+> One slide, plain and direct, not decorated.
+
+### Slide 4: Obstructions
 
 > Create one slide for a high school drone class titled "The Symbol That Matters Most to You." Body: "Towers,
 > antennas, and stacks. They live in exactly the band of altitude you fly in." Then show the two numbers
@@ -193,7 +267,7 @@ QUIZ MONDAY.
 > marks on top mean it is LIT, which means it is a known hazard; anything over 400 AGL is taller than you may
 > legally fly, so you go around it, never over it. One slide.
 
-### Slide 3: Guy-wires, and airports
+### Slide 5: Guy-wires, and airports
 
 > Create one slide for a high school drone class. Title: "Two Things to Know." Top half, GUY-WIRES: "Thin
 > steel cables running from partway up a tower out to anchors on the ground, sometimes a long way out. They
@@ -204,7 +278,7 @@ QUIZ MONDAY.
 > note: "Magenta means no tower, blue means tower. Same color logic as the airspace rings, and that is not a
 > coincidence." One slide.
 
-### Slide 4: Do Now
+### Slide 6: Do Now
 
 > Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Find Them, Then Choose." Top, a
 > short scavenger list: an obstruction, and write BOTH its numbers; one taller than 400 feet AGL; a lit one; a
@@ -217,6 +291,24 @@ QUIZ MONDAY.
 ### Board version (no projector)
 
 ```
+RETAKE OPEN AT THE START OF CLASS (improve your score)
+
+STANDARDS TODAY (leave this on the board)
+  7.13 evaluate the flight environment, including
+       airspace classification and obstructions
+  7.9  identify small UAS rules and operating limitations
+  7.6  interpret weather data and reports relevant to flight
+  -> today: obstructions and airport symbols
+
+WHY WE ARE NOT FLYING YET
+  Part 107 does not test whether you can FLY.
+  no multiple choice question measures stick skill.
+  it tests RULES AND REGULATIONS: airspace, weather,
+  limits, and the calls you make before takeoff.
+  that is what you are assessed on. right now it is not landing.
+  flying depends on the other part. want to fly every week?
+  the work during class time is how that happens.
+
 OBSTRUCTIONS  (the symbol that matters most to you)
 
    1549   <- above SEA LEVEL (MSL)
@@ -334,8 +426,8 @@ TELL THE PLAYER: splash, color change, or a sound.
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | Overlays, list behavior, empty states, text input. Frame method, free-plan safe |
-| Video & Sound | **Reset.** New groups, new plans, finish the worksheet. **Quiz moves to Monday** |
-| Aviation UAS | Obstructions and airport symbols, then sectionals or ODOT, their choice |
+| Design Techniques | Standards posted, then overlays, list behavior, empty states, text input |
+| Video & Sound | Standards, vocab round, then **the reset**: new groups, new plans, worksheet due. **Quiz Monday** |
+| Aviation UAS | **Retake at the start**, standards, why flying is paused, then obstructions and airports |
 | Middle School CS | Power-ups, then build. No new blocks |
 | Yearbook | **Shot set and PDF check-in due. Last chance** |

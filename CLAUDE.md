@@ -21,6 +21,17 @@ Other symbol notes:
 Apply this to everything you write or edit here, including new files, and fix em dashes you come across while
 editing a file.
 
+## Career-tech classes open with standards
+
+**Design Techniques, Video & Sound, and Aviation UAS are career-tech courses.** Every day's slide deck for
+those three **opens with the standards or competencies being covered that day**, written out, not just
+numbered.
+
+- It goes in the **first two slides**, and it is meant to **stay visible** or be posted on the board.
+- Anyone walking into the room mid-lesson should be able to see what is being covered.
+- **Write the full text of the standard**, not just `7.6`. A number alone tells a visitor nothing.
+- Middle School CS and Yearbook do not need this, though naming the focus area is still good practice.
+
 ## Student-facing vs. teacher-facing
 
 - `outline.md`, `project.md`, `vocab.md`, and `handouts/` are **student-facing** (safe to paste into Google

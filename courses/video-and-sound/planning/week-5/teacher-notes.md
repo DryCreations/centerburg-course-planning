@@ -86,6 +86,19 @@ on their own, then reveal.
 - **Way over length:** ask which scene could go entirely. Never trim evenly across everything.
 - **Absent:** `screenplay-format.md` has the full example page and the mistake table. Self-serve.
 
+## Friday: vocabulary first, then the reset
+
+**Open with standards, then a fast vocabulary round** off the worksheet: cut, dissolve, fade to black, wipe,
+rule of thirds, headroom, lead room, leading lines, shoot block, coverage, continuity, call sheet, room tone,
+the 180 degree rule.
+
+Run it as a quick round: name a term, take an answer, correct it, move on. **Five to seven minutes.** The
+point is to surface which terms are missing, not to reteach them. It also previews Monday's quiz, which is
+what makes finishing the worksheet today feel necessary.
+
+**Then the regrouping message**, in the same block, so the shift in gears reads as one change rather than
+two.
+
 ## Friday is a reset
 
 Most groups are not shooting outside this room next week. `handouts/reset-and-replan.md` carries the message,

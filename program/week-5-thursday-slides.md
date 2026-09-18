@@ -4,9 +4,9 @@ Every block is **one prompt, for one slide.** Board versions included for runnin
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | The remaining interactions, and where each lives |
-| Video & Sound | 4 | Equipment procedure, then filming |
-| Aviation UAS | 3 | Three locations on their own. Mostly work time |
+| Design Techniques | 6 | The remaining interactions, and where each lives |
+| Video & Sound | 5 | Equipment procedure, then filming |
+| Aviation UAS | 4 | Three locations on their own. Mostly work time |
 | Middle School CS | 4 | Practice problems, then build. No new content |
 | Yearbook | 1 | Work time |
 
@@ -25,7 +25,16 @@ then work time. The recurring question is **where does this one live.**
 > think about: list every place in your app where tapping something should make something happen. How many are
 > there?" Large, clean. One slide.
 
-### Slide 2: Four more interactions
+### Slide 2: Standards today
+
+> Create one standards slide for a high school design class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.15.1 Understand the UX/UI design process
+> (vision, journey mapping, wireframing, prototyping) for the targeted platform. 7.1.2 Describe the components
+> of interactive media. 7.2.10 Select and create visual design elements appropriate for the intended audience
+> and use. Then a short line: "Today that means overlays, scrolling, selection, input, and feedback." Design it to stay readable on the board for the
+> whole period. One slide.
+
+### Slide 3: Four more interactions
 
 > Create one slide for a high school design class titled "Four More." Four short blocks, each with what it is
 > and when to use it. OVERLAY: something appears on top of a dimmed screen instead of replacing it. Use for
@@ -36,7 +45,7 @@ then work time. The recurring question is **where does this one live.**
 > extra frames. INPUT: a field that looks typed in. An empty version with gray placeholder text, and a filled
 > version with darker real text. One slide.
 
-### Slide 3: Where does it live?
+### Slide 4: Where does it live?
 
 > Create one slide for a high school design class titled "Component or Screen?" Body in large text: "If it
 > changes only that element, it goes IN THE COMPONENT. If it changes the screen, it goes ON THE SCREEN." Then
@@ -46,7 +55,7 @@ then work time. The recurring question is **where does this one live.**
 > that you have variants, most of the left column is a variant swap, not a new frame. That is the point of
 > yesterday." One slide.
 
-### Slide 4: Feedback, so it feels real
+### Slide 5: Feedback, so it feels real
 
 > Create one slide for a high school design class titled "Tell the Person It Worked." Four short blocks.
 > SELECTED STATE: which option is picked right now, shown filled, colored, or check-marked. A choice with no
@@ -56,7 +65,7 @@ then work time. The recurring question is **where does this one live.**
 > outline of the content. Add a box in large text: "Nothing happening reads as broken. Even in a mockup,
 > showing you thought about it counts." One slide.
 
-### Slide 5: Do Now
+### Slide 6: Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build and Wire." Numbered: "1)
 > Add at least TWO of today's four interactions to your app: overlay, scroll, selection, or input. 2) For each
@@ -112,7 +121,13 @@ same eight minute slots.
 > get a camera somewhere I am not standing." Add a box: "That is not a punishment. It is the same call any
 > production company makes." One slide, direct and plain, not decorated.
 
-### Slide 2: The three that have been missed
+### Slide 2: Standards today
+
+> Create one standards slide for a high school video class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.10 Operate equipment according to manufacturer specifications. 7.7.2 Analyze the script and storyboard to develop a production schedule. Then a short line: "Today that means
+> the equipment procedure, then filming." Design it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: The three that have been missed
 
 > Create one slide for a high school video class titled "Three Things. Every Time." A large numbered list with
 > plenty of space: 1) THE LENS CAP GOES BACK ON. In your pocket while shooting, on the camera the moment you
@@ -121,7 +136,7 @@ same eight minute slots.
 > YOU WROTE. If you are not in your slot, you are not on a camera. Add a box at the bottom: "Say these out
 > loud with your group before you take a camera today." One slide, large and legible from across the room.
 
-### Slide 3: Packing up starts before you think
+### Slide 4: Packing up starts before you think
 
 > Create one slide for a high school video class titled "Five Minutes Left, You Start Packing." Body:
 > "Returning gear correctly takes about five minutes. If you start when the bell is about to ring, you skip
@@ -131,7 +146,7 @@ same eight minute slots.
 > wrong; table cleared of caps, cards, and cables. Add a box in large text: "Not done until I have seen it.
 > Hand it back. Do not leave it on a table and walk away." One slide.
 
-### Slide 4: Do Now
+### Slide 5: Do Now
 
 > Create one "Do Now" slide for a high school video class. Big title: "Do Now." Two columns. Left, "IN YOUR
 > SLOT": say the three things out loud with your group; sign it out and check it in front of me; set up BEFORE
@@ -181,7 +196,13 @@ themselves. Circulate.
 > minute, so you remember what the finished answer looked like. Then you are doing three more on your own."
 > Large, clean. One slide.
 
-### Slide 2: What a finished one looks like
+### Slide 2: Standards today
+
+> Create one standards slide for a high school drone class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 7.13 Evaluate the flight environment, including airspace classification and obstructions. Then a short line: "Today that means
+> finding three points where airspace overlaps, and listing every layer with its floor and ceiling." Design it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: What a finished one looks like
 
 > Create one slide for a high school drone class titled "One Point, Every Layer." Body: "Pick a point on the
 > chart. Then work upward and list EVERY piece of airspace stacked over that exact spot, with the floor and
@@ -190,7 +211,7 @@ themselves. Circulate.
 > Class C shelf, 1,200 feet, up to 4,000 feet. Add a box in large text: "Your three points must have
 > OVERLAPPING CIRCLES. A spot with one ring over it is not the exercise." One slide.
 
-### Slide 3: Do Now
+### Slide 4: Do Now
 
 > Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Find Three." Numbered: "1) Find
 > three different points on the chart where circles OVERLAP. 2) For each one, list every airspace layer over

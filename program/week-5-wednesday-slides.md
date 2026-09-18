@@ -7,9 +7,9 @@ projector.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | Components, variants, interactive components |
-| Video & Sound | 4 | Filming in slots, review packet otherwise. Silent |
-| Aviation UAS | 4 | Reading sectionals, hands on the map |
+| Design Techniques | 6 | Components, variants, interactive components |
+| Video & Sound | 5 | Filming in slots, review packet otherwise. Silent |
+| Aviation UAS | 5 | Reading sectionals, hands on the map |
 | Middle School CS | 5 | `forever` and nested loops |
 | Yearbook | 1 | Work time |
 
@@ -28,7 +28,16 @@ already have on screen.
 > about: if you wanted to change one word on it, how many places would you have to fix?" Large, clean. One
 > slide.
 
-### Slide 2: Components
+### Slide 2: Standards today
+
+> Create one standards slide for a high school design class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.15.1 Understand the UX/UI design process
+> (vision, journey mapping, wireframing, prototyping) for the targeted platform. 7.1.2 Describe the components
+> of interactive media. 7.2.10 Select and create visual design elements appropriate for the intended audience
+> and use. Then a short line: "Today that means components, variants, and where an interaction lives." Design it to stay readable on the board for the
+> whole period. One slide.
+
+### Slide 3: Components
 
 > Create one slide for a high school design class titled "Build It Once." Body: "A COMPONENT is a master copy.
 > Every INSTANCE of it updates when you change the master." Then numbered steps: 1) Select something you use
@@ -37,7 +46,7 @@ already have on screen.
 > box in large text: "Change the master, every instance changes. Text and images can still be different on
 > each instance, which is exactly why list rows are components." One slide.
 
-### Slide 3: Variants
+### Slide 4: Variants
 
 > Create one slide for a high school design class titled "One Component, Many States." Body: "A VARIANT is a
 > component with more than one version inside it, and a dropdown to switch between them. Instead of three
@@ -46,7 +55,7 @@ already have on screen.
 > change the text color. 4) Rename the property to State. 5) Rename the values to Default and Selected. Add a
 > box: "Now every instance has a State dropdown. Same component, different look, no extra frames." One slide.
 
-### Slide 4: Interactive components, and where interactions live
+### Slide 5: Interactive components, and where interactions live
 
 > Create one slide for a high school design class titled "Where Does the Interaction Go?" Top half: "Select
 > the component SET, the dashed purple box. Prototype tab. Drag from the Default variant to the Selected
@@ -56,7 +65,7 @@ already have on screen.
 > flips, COMPONENT; a button looks pressed, COMPONENT; tapping a row opens a detail page, SCREEN; a
 > confirmation box appears, SCREEN; submitting shows a success page, SCREEN. One slide.
 
-### Slide 5: Do Now
+### Slide 6: Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build It Once." Numbered: "1)
 > Turn your nav bar or tab bar into a COMPONENT. Replace the copies on your other screens with instances. 2)
@@ -114,7 +123,13 @@ links in Parts 1 and 2 to confirm they load. The worksheet has a backup summary 
 > Right, "NOT IN YOUR SLOT": review packet, silently, on your own. If you need me, raise your hand and wait.
 > One slide, designed to stay on the board all period.
 
-### Slide 2: Eight minutes
+### Slide 2: Standards today
+
+> Create one standards slide for a high school video class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.10 Operate equipment according to manufacturer specifications. 7.7 Apply video production techniques. Then a short line: "Today that means
+> filming in the classroom, and reading on transitions and framing." Design it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: Eight minutes
 
 > Create one slide for a high school video class titled "Eight Minutes Is Short." Body in large text: "It is
 > enough ONLY if you are set up before your slot starts. Setting up during your slot is how eight minutes
@@ -124,7 +139,7 @@ links in Parts 1 and 2 to confirm they load. The worksheet has a backup summary 
 > sheet in order; more takes than you think you need; do not review every take, keep moving; record room
 > tone, 30 seconds. One slide.
 
-### Slide 3: Hand off, then offload
+### Slide 4: Hand off, then offload
 
 > Create one slide for a high school video class titled "The Slot Ends, the Work Does Not." Body: "The next
 > group is waiting. Card out, camera back, ON TIME. If you did not get everything, log what you missed and
@@ -134,7 +149,7 @@ links in Parts 1 and 2 to confirm they load. The worksheet has a backup summary 
 > next group avoids it. Add a box in large text: "The goal by end of tomorrow: your footage is on a computer,
 > named, and ready to cut." One slide.
 
-### Slide 4: Not filming? Reading and lookup rules
+### Slide 5: Not filming? Reading and lookup rules
 
 > Create one slide for a high school video class titled "Not Filming? Read and Apply." Body: "Open the
 > assignment on Google Classroom. You each have your own copy. Type your answers under each question, and
@@ -183,7 +198,13 @@ SOFT/SHARP? autofocus is on.
 > zoom back in on one. Find the LEGEND and leave it open. You will use it constantly." Large, clean. One
 > slide.
 
-### Slide 2: Nobody memorizes a sectional
+### Slide 2: Standards today
+
+> Create one standards slide for a high school drone class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 7.13 Evaluate the flight environment, including airspace classification. 7.9 Identify small UAS rules and operating limitations. Then a short line: "Today that means
+> reading a sectional chart: airspace, airports, and obstructions." Design it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: Nobody memorizes a sectional
 
 > Create one slide for a high school drone class titled "It Is a Lookup Skill." Body in large text: "Every
 > symbol on the chart is in the legend. Real pilots check it constantly. You are not supposed to know them
@@ -191,7 +212,7 @@ SOFT/SHARP? autofocus is on.
 > means, decide whether it affects you. Add a box: "That is what today is practicing. Not memorizing." One
 > slide.
 
-### Slide 3: The three things to find first
+### Slide 4: The three things to find first
 
 > Create one slide for a high school drone class titled "Three Things, Every Time." Three numbered blocks. 1)
 > AIRSPACE, by color and line: solid blue is Class B, solid magenta is Class C, dashed blue is Class D, dashed
@@ -200,7 +221,7 @@ SOFT/SHARP? autofocus is on.
 > matters to you. 3) OBSTRUCTIONS: the tall number is height above SEA LEVEL, the number in parentheses is
 > height above the GROUND. The one in parentheses is yours. One slide.
 
-### Slide 4: Do Now
+### Slide 5: Do Now
 
 > Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Work the Map." Body: "Follow
 > the handout. Zoom around, use the legend, and write down what you find." Then a short list of what the

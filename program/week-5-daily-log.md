@@ -74,6 +74,13 @@
 `program/week-5-post-this.md` lists exactly what still needs to go to each Classroom, one line per post, in
 priority order, with a four item short list for a day when the computer is not cooperating.
 
+## Standing practice: career-tech classes open with standards
+
+**Design Techniques, Video & Sound, and Aviation UAS** now open every day with a slide listing the standards
+being covered, **written out in full rather than numbered**, meant to stay visible on the board so anyone
+walking in mid-lesson can see what is being covered. This is recorded in `CLAUDE.md` and applies going
+forward. The Tuesday through Friday decks were retrofitted.
+
 ## Friday changes
 
 - **V&S quiz moves to Monday.** Friday became a reset: most groups are not cleared to shoot outside the room
@@ -87,6 +94,12 @@ priority order, with a four item short list for a day when the computer is not c
   whole file.
 - **Aviation stays on sectionals but moves to the easy end:** obstructions and airport symbols. Then students
   choose between finishing the sectional points or ODOT Module 1.
+- **Aviation opens with the first quiz available as a retake**, then the reason flying is paused: the Part
+  107 exam tests rules and regulations, not stick skill, and there is no multiple choice question that
+  measures whether you can fly. Flying is the part of the class that depends on the other part, stated as a
+  standing arrangement rather than a one-day consequence.
+- **V&S opens with a vocabulary round** off the reading worksheet before the regrouping message, which
+  previews Monday's quiz and makes finishing the worksheet today feel necessary.
 - **MS CS Thursday and Friday merged.** Thursday was practice and tracing; Friday is power-ups, which uses
   `if`, variables, and `remainder` together with no new blocks.
 

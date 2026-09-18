@@ -5,9 +5,9 @@ reduced to what fits on a whiteboard, for running the lesson without a projector
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 6 | Navigation and focus. What they are laying out today |
-| Video & Sound | 5 | Camera check and hands-on time, then scheduling in small groups |
-| Aviation UAS | 5 | Airspace rules, quick, then **ODOT work time** |
+| Design Techniques | 7 | Navigation and focus. What they are laying out today |
+| Video & Sound | 6 | Camera check and hands-on time, then scheduling in small groups |
+| Aviation UAS | 6 | Airspace rules, quick, then **ODOT work time** |
 | Middle School CS | 6 | `for index` and modulo |
 | Yearbook | 2 | Shutter speed lesson, then the assignment |
 
@@ -30,7 +30,16 @@ needed.
 > How do you get from the first screen to the thing you actually came for, and how many taps is it?" Large,
 > clean. One slide.
 
-### Slide 2: It has to LOOK like a real app
+### Slide 2: Standards today
+
+> Create one standards slide for a high school design class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.15.1 Understand the UX/UI design process
+> (vision, journey mapping, wireframing, prototyping) for the targeted platform. 7.1.2 Describe the components
+> of interactive media. 7.2.10 Select and create visual design elements appropriate for the intended audience
+> and use. Then a short line: "Today that means navigation, screen flow, and the primary action." Design it to stay readable on the board for the
+> whole period. One slide.
+
+### Slide 3: It has to LOOK like a real app
 
 > Create one slide for a high school design class titled "Not Everything Has to Work." Body: "Your prototype
 > will have four or five working interactions. A real app has hundreds. But your screens should LOOK like the
@@ -41,7 +50,7 @@ needed.
 > "Keep a list of what you are showing but not building. That is the difference between 'I forgot' and 'I
 > decided.'" One slide.
 
-### Slide 3: Navigation
+### Slide 4: Navigation
 
 > Create one slide for a high school design class titled "How People Move Around." Three short blocks. TAB
 > BAR: 3 to 5 destinations pinned to the bottom, visible on every screen, the current one marked. Show all of
@@ -50,7 +59,7 @@ needed.
 > destinations, for things people use rarely. Never put your primary action in there. Add a box: "Back goes
 > top left. Same corner, every screen, every time." One slide.
 
-### Slide 4: Your screen flow
+### Slide 5: Your screen flow
 
 > Create one slide for a high school design class titled "Draw the Flow First." Show a simple box-and-arrow
 > diagram: a HOME box at the top with arrows down to a LIST box and a SETTINGS box, and an arrow from LIST
@@ -59,7 +68,7 @@ needed.
 > going the other way. 3) How many taps to the thing they came for? Add a box: "Two or three taps. If
 > checking tomorrow's lunch takes five screens, the design is the problem, not the person." One slide.
 
-### Slide 5: The primary action
+### Slide 6: The primary action
 
 > Create one slide for a high school design class titled "One Thing Wins." Body: "Every screen has ONE thing
 > you most want a person to do. One per screen. Two primary buttons means zero primary buttons." Then a table
@@ -69,7 +78,7 @@ needed.
 > box in large text: "Use TWO OR THREE of these, not one. Bigger alone is not enough. Bigger AND the only
 > colored thing AND surrounded by space is impossible to miss." One slide.
 
-### Slide 6: Do Now
+### Slide 7: Do Now
 
 > Create one "Do Now" slide for a high school design class. Big title: "Do Now: Flow, Then Focus." Numbered:
 > "1) Draw your screen flow as boxes and arrows. Check all three questions. 2) On every screen, circle the
@@ -125,7 +134,13 @@ behind-the-scenes stills and second angles.
 > paper. Ten questions about what you worked out on the camera yesterday. Answer from memory first, then you
 > get a camera to go confirm anything you guessed at." Large, clean. One slide.
 
-### Slide 2: The check
+### Slide 2: Standards today
+
+> Create one standards slide for a high school video class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 2.10 Operate equipment according to manufacturer specifications. 7.7.2 Analyze the script and storyboard to develop a production schedule. Then a short line: "Today that means
+> a camera settings check, then shoot blocks and a production schedule." Design it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: The check
 
 > Create one slide for a high school video class titled "From Memory." A numbered list in large readable
 > text: 1) Which mode records video? 2) How do you get the camera to let YOU set shutter, aperture, and ISO?
@@ -135,7 +150,7 @@ behind-the-scenes stills and second angles.
 > bodies do manual exposure in movie mode? 10) Name one thing you tried that did not work and what you
 > figured out. One slide.
 
-### Slide 3: Go confirm it
+### Slide 4: Go confirm it
 
 > Create one "Do Now" slide for a high school video class. Big title: "Now Go Confirm." Body: "Pick up a
 > camera and check anything you guessed at. Do not leave a question unanswered. Then run the whole sequence
@@ -145,7 +160,7 @@ behind-the-scenes stills and second angles.
 > text: "If any step stops you, that is the thing to fix TODAY. Not Thursday, when you are trying to shoot."
 > One slide.
 
-### Slide 4: Shoot blocks and real time
+### Slide 5: Shoot blocks and real time
 
 > Create one slide for a high school video class titled "Shoot Blocks and Real Time." Body: "A SHOOT BLOCK is
 > everything you can film in one place, in one session, without moving. Sort every shot by LOCATION, not story
@@ -154,7 +169,7 @@ behind-the-scenes stills and second angles.
 > clear, add 10; moving the whole setup, 10 minutes; room tone, 2 minutes. Add a box in large text: "Then take
 > your honest estimate and add half again." One slide.
 
-### Slide 5: Do Now
+### Slide 6: Do Now
 
 > Create one "Do Now" slide for a high school video class. Big title: "Do Now: In Your Group." Numbered: "1)
 > Break your script into shoot blocks, sorted by location. 2) Estimate each block, then add half again. 3)
@@ -204,7 +219,13 @@ the period is **ODOT Module 1 work time.**
 > perfect. Blue sky, no wind, ten miles visibility. Name one reason you still might not be allowed to fly."
 > Large, clean. One slide.
 
-### Slide 2: The classes and what each one requires
+### Slide 2: Standards today
+
+> Create one standards slide for a high school drone class titled "Today's Standards." List these with their
+> FULL text, not just the numbers, in large readable type: 7.9 Identify small UAS rules and operating limitations. 7.13 Evaluate the flight environment, including airspace classification. Then a short line: "Today that means
+> airspace classes, LAANC and grid ceilings, and what a sectional looks like." Design it to stay readable on the board for the whole period. One slide.
+
+### Slide 3: The classes and what each one requires
 
 > Create one slide for a high school drone class titled "Where You May Fly." A table with columns Class,
 > What it is, and Drone authorization. Rows: B, the busiest airports, shaped like an upside-down wedding cake,
@@ -213,7 +234,7 @@ the period is **ODOT Module 1 work time.**
 > the ground, NOT required. Add a box in large text: "Class G does not mean no rules. 400 feet, 3 statute
 > miles, visual line of sight, daylight, not over people, one aircraft at a time. All still apply." One slide.
 
-### Slide 3: LAANC and grid ceilings
+### Slide 4: LAANC and grid ceilings
 
 > Create one slide for a high school drone class titled "LAANC." Body: "The system that grants automated
 > authorization to fly in controlled airspace, often in seconds." Then numbered: 1) Drop a pin where you want
@@ -223,7 +244,7 @@ the period is **ODOT Module 1 work time.**
 > than 400. The lower number always wins. And a ceiling of 0 means no flight at all, not ask nicely." One
 > slide.
 
-### Slide 4: What a sectional looks like
+### Slide 5: What a sectional looks like
 
 > Create one slide for a high school drone class titled "How Airspace Is Marked." Body: "You are not learning
 > to navigate with a sectional. You are learning to recognize how airspace is marked on one." Then a compact
@@ -233,7 +254,7 @@ the period is **ODOT Module 1 work time.**
 > around a smaller airport." Then show stacked numbers, 70 over 25, with: "Top is the ceiling, bottom is the
 > floor, in hundreds of feet. That piece runs 2,500 to 7,000. Below 2,500 you are underneath it." One slide.
 
-### Slide 5: Do Now
+### Slide 6: Do Now
 
 > Create one "Do Now" slide for a high school drone class. Big title: "Do Now: Four Problems, Then ODOT."
 > Body: "Four problems on the handout. Do them before you look at the answers. Then the rest of the period is
