@@ -1,0 +1,89 @@
+# Post This
+
+Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
+
+---
+
+## Monday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `5-yearbook/project.md` | **Assignment.** Two week photo assignment, due Fri Oct 2 |
+| 2 | Video & Sound quiz, built from `2-video-and-sound/quiz-bank.csv` | **Quiz**, cut to 20 |
+
+**That is the whole must-do list for Monday.** Everything below can go out during the week.
+
+---
+
+## Design Techniques
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/outline.md` | Material. Week 6 at a glance |
+| 2 | `1-design-techniques/quiz.md` is teacher-only. Build the quiz from `quiz-bank.csv` | **Quiz Friday**, cut to 20 |
+
+**Already out:** the project, the labs, ui-patterns, components-and-variants, overlays-scroll-input.
+
+---
+
+## Video & Sound
+
+| Post | File | Type |
+|------|------|------|
+| 1 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
+| 2 | `2-video-and-sound/outline.md` | Material |
+
+**Already out:** reset-and-replan, equipment-procedure, review-packet, the project.
+
+---
+
+## Aviation UAS
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `3-aviation-uas/outline.md` | Material. Week at a glance, including the quiz scope |
+| 2 | `3-aviation-uas/handouts/box-pattern-flight.md` | **Material, post by Wednesday.** The Thursday flight task |
+| 3 | Quiz from `3-aviation-uas/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
+
+**Say daily:** ODOT Module 1 due Thursday night, and it is on Friday's quiz.
+
+---
+
+## Middle School CS
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `4-middle-school-cs/outline.md` | Material |
+| 2 | `4-middle-school-cs/handouts/digital-footprint.md` | **Material, post Wednesday** |
+
+**Already out:** the Star Catcher lab, project, power-ups.
+
+---
+
+## Yearbook
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `5-yearbook/project.md` | **Assignment, post today.** Photos + check-in, due Fri Oct 2 |
+| 2 | `5-yearbook/outline.md` | Material |
+
+---
+
+## Quizzes this week
+
+| Class | When | Bank | Cut to |
+|-------|------|------|--------|
+| Video & Sound | **Monday** | 62 questions | 20 |
+| Design Techniques | **Friday** | 42 questions | 20 |
+| Aviation UAS | **Friday** | 62 questions | 20 |
+
+All plain CSV, no images, nothing coupled. `option_a` is always correct, so let the script shuffle.
+
+---
+
+## The short version
+
+If Monday is a bad day for the computer, these two are the only things that matter:
+
+1. **Yearbook:** `project.md`, so the two week clock starts today
+2. **V&S:** the quiz, because it was promised for today
