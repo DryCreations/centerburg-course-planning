@@ -8,11 +8,11 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Mon** | **QUIZ**, then build | **QUIZ**, then new groups work their plans | Symbol review, read a whole area | Finish Star Catcher | **Post the two week assignment** |
-| **Tue** | Labs: Selection and Input, build | Plans, then production | Plan a flight from the chart | Showcase and submit | Shoot, spread work |
-| **Wed** | Connect everything both ways | Production | Work time: sectionals or ODOT | **Digital footprint** (unplugged) | Shoot, spread work |
-| **Thu** | Second partner test, final fixes | Production | **FLIGHT: box pattern.** ODOT Mod 1 due tonight | **Who collects it, and why** | Shoot, spread work |
-| **Fri** | Write-up, post to portfolio, submit | Production | **QUIZ** | **Your footprint, on purpose** | Shoot, spread work |
+| **Mon** | **QUIZ**, then build | **QUIZ**, then new groups work their plans | Symbol review, read a whole area | **New game:** ship and shooting | **Post the two week assignment** |
+| **Tue** | Labs: Selection and Input, build | Plans, then production | Plan a flight from the chart | **Waves**, built with nested loops | Shoot, spread work |
+| **Wed** | Connect everything both ways | Production | Work time: sectionals or ODOT | Hits, misses, and ending | Shoot, spread work |
+| **Thu** | Second partner test, final fixes | Production | **FLIGHT: box pattern.** ODOT Mod 1 due tonight | Extensions, then showcase | Shoot, spread work |
+| **Fri** | Write-up, post to portfolio, submit | Production | **QUIZ** | **QUIZ** | Shoot, spread work |
 
 ---
 
@@ -22,9 +22,9 @@ These were decided rather than asked. **Each is a small change if wrong.**
 
 - **V&S quiz stays Monday**, as promised Friday. Moving a quiz twice, right after a reset about following
   through, would undercut the reset. The bank is ready.
-- **MS CS finishes Star Catcher Monday and Tuesday, then pivots to digital citizenship** Wednesday through
-  Friday, mostly unplugged. Reasoning: IC is a strand skipped entirely so far, it needs no setup, and it is a
-  genuine change of pace for a class that has taken four new programming concepts in two weeks.
+- **MS CS builds a new game in a new genre**, Wave Defender, a shooter. **One new block all week** (the
+  projectile), so the load is a new application rather than new theory. A formation of enemies is a nested
+  loop, which makes this the best available payoff for the hardest idea from last week. Quiz Friday.
 - **DT quiz is half carried forward, half new.** 18 questions from Week 3 material, 24 from this unit.
   **Moved to Monday** alongside Video & Sound, so both quizzes run the same morning. Verified that nothing on
   the bank depends on this week's labs.
@@ -48,8 +48,10 @@ These were decided rather than asked. **Each is a small change if wrong.**
 - **Aviation: sectionals get three more days**, because it is a hard skill and the exit tickets say it has
   not landed. Monday moves from single symbols to reading a whole area. Thursday is the box pattern flight.
   Friday's quiz covers airspace, charts, Part 107 rules, ODOT Module 1, and weather.
-- **MS CS: finish, then change gears.** Two days to complete and show Star Catcher, then three days on
-  digital footprint, data collection, and shaping your own footprint. Discussion and writing, not screens.
+- **MS CS: a new game, deliberately light on new concepts.** They have built a maze and a catcher, where
+  things move and you touch them. A shooter is structurally different: you act on the world. **Tuesday is the
+  week**: six blocks produce eighteen meteors, which is nested loops made visible. Quiz Friday covers loops,
+  conditionals, variables, modulo, and debugging.
 - **Yearbook: real coverage.** Two weeks, all-day camera checkout, 20 usable frames, plus the check-in.
 
 ---
@@ -61,5 +63,7 @@ These were decided rather than asked. **Each is a small change if wrong.**
 - **Aviation Week 5 quiz never ran.** Its meteorology bank was folded into the Week 6 bank as the carried
   forward section, so nothing is lost.
 - **DT course map still needs resequencing.** Unit 1.4 is scheduled for weeks 8 to 9 and has been taught.
+- **Digital citizenship material is written and parked** in `courses/middle-school-cs/planning/deferred/`.
+  The IC strand still has not been covered; it gets a quarter where a break from code is genuinely useful.
 - **V&S: watch whether the new group structure holds.** If pairs and trios work, next week's question is
   which groups get cleared for building locations.

@@ -1,60 +1,82 @@
 # Week 6 Teacher Notes: Middle School CS
 
-**Two days to finish Star Catcher, then three days of digital citizenship, mostly unplugged.**
+**A new game in a new genre, then a quiz Friday.** Programming continues all quarter.
 
 ## Pacing
 
-| Day | Activity |
-|-----|----------|
-| Mon | Finish Star Catcher. The checklist is the whole lesson |
-| Tue | Showcase: play each other's games. Submit links |
-| Wed | Digital footprint: what it is, active versus passive |
-| Thu | Who collects it and why |
-| Fri | Your own footprint, on purpose |
+| Day | Focus | The point |
+|-----|-------|-----------|
+| Mon | Ship, movement, shooting | One new block, the projectile. Everything else is familiar |
+| Tue | **Waves, built with loops** | The real content of the week. Nested loops build formations |
+| Wed | Hits, misses, ending | Collision and cleanup |
+| Thu | Extensions, then showcase | Their choice, two from a list |
+| Fri | **Quiz** | 39 question bank, cut to 20 |
 
-## Why the pivot
+## Why a shooter
 
-Four new programming ideas landed in two weeks: `repeat`, `for index`, modulo, and nesting. That is a lot,
-and it showed by Thursday.
+They have built a **maze** and a **catcher**. Both are "things move, you touch them." A shooter is
+structurally different: **you act on the world instead of only moving through it.**
 
-**Digital citizenship is the right break** for three reasons: it is an entire strand (**IC, Impacts of
-Computing**) that has been skipped so far, it needs no setup or screens, and it is genuinely different work
-rather than more of the same. Students who have been struggling with loops get to be good at something again.
+More importantly, **a formation of enemies is a nested loop**, which makes this the best possible application
+of the hardest idea from last week. Last week they were told a nested loop multiplies. This week they watch
+six blocks produce eighteen meteors.
 
-## Running the unplugged days
+## Load: deliberately light on new concepts
 
-`handouts/digital-footprint.md` carries all three days. **It is discussion first, writing second.** Do not
-turn it into a worksheet.
+**One new block all week:** `projectile from sprite with vx vy`. That is it.
 
-**Day 1** is the active versus passive sort. The best moment is item 7, a photo a friend posted of you:
-active or passive for *you*? That question opens the whole idea that your footprint is not only what you
-chose.
+Everything else is `if`, `for index`, `forever`, `remainder`, variables, and overlap, all of which they have.
+That is the answer to the class being saturated: **a new application, not new theory.**
 
-**Day 2** is where the real content is. The line to land: **any one data point is boring, all of them
-together are not.** Watched a bike video, searched a repair shop, near a park most afternoons. Nobody told
-anyone anything, and now something knows quite a lot.
+## Tuesday is the day that matters
 
-**Day 3** turns it from a warning into something they control. The framing that matters: **you cannot avoid
-having a footprint, you can choose what is in it.** Avoid the lecture version of this. They have heard it.
+Steps 5 through 8. Build it up in front of them in order:
 
-## What to be careful about
+1. **One meteor.** Boring, and that is the point
+2. **A row**, with `for index` and the count in the x
+3. **A block**, with a `for` inside a `for`. Stop and count: three rows of six, **eighteen sprites from six
+   blocks**
+4. **Waves**, by wrapping it in a `forever` with a pause
+5. **A shape**, using `remainder` to offset every other one
 
-- **Do not ask students to share their own audit results.** Day 3 explicitly says that one is theirs. Some
-  will volunteer, which is fine, but nobody should feel required.
-- **Do not make it a scare session.** Students tune out fear immediately. The interesting version is how the
-  system actually works, which is what Day 2 is for.
-- **If a student discloses something concerning** during these discussions, that is a counselor
-  conversation, not a class one.
+**Trace the nested loop out loud** before they build it. The inner loop runs completely, start to finish,
+every single time the outer loop goes around once. That sentence is the whole concept and it is on the quiz.
+
+## The two bugs that will eat Wednesday
+
+**1. One shot clears a whole column.** They destroyed the meteor but not the projectile. The shot keeps
+flying and keeps overlapping. **Destroy both in the overlap.** This is a genuinely good bug because the
+reason is visible and the fix is obvious once named.
+
+**2. The game crawls.** Projectiles and meteors accumulating. Turn on auto destroy for projectiles, destroy
+meteors at the bottom. Same lesson as the last two projects: **things you create have to be cleaned up.**
+
+## Also worth naming
+
+**Negative vy is up.** Y counts downward from the top of the screen, which is not intuitive. If their shots
+fall instead of rising, that is the sign.
 
 ## Differentiation
 
-- **Struggling writers:** the written pieces are three or four sentences. Take bullet points.
-- **Fast finishers:** have them write the counterargument. What is a fair trade of data for a service they
-  actually want?
-- **Absent:** the handout is self-serve for all three days.
+- **Struggling:** the lab is numbered and each step says exactly what to do. Day 1's goal, a ship that moves
+  and shoots, is a legitimate stopping point.
+- **Moving fast:** the Day 4 list runs from a speed variable up to a boss with a hit counter. Number 7,
+  a different formation each wave chosen with `remainder`, is the best of them.
+- **Absent:** the lab is self-serve, including the bug table.
+
+## Friday's quiz
+
+39 questions, cut to 20. Block language throughout, verified.
+
+**The single most informative question:** a `repeat 3 times` containing a `for index from 0 to 4` spawns how
+many sprites. The answer is 15. **Students who say 8 are adding instead of multiplying**, which tells you
+nesting did not land, and that is worth knowing before the next project depends on it.
 
 ## Looking ahead
 
-This closes the unplugged detour. Next programming concept is a choice between **functions** (making your own
-blocks, the natural step after loops) and **arrays and lists** (which pair with loops). Functions is the
-gentler of the two.
+Next programming concept is a choice between **functions** (making your own blocks, the natural step after
+loops, and the gentler option) and **arrays and lists** (which pair with loops and would let them spawn waves
+from data rather than hard-coded numbers).
+
+`planning/deferred/digital-footprint.md` holds three unplugged days on digital citizenship, written and
+ready, for a quarter where the IC strand gets its turn.

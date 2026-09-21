@@ -57,8 +57,10 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `4-middle-school-cs/outline.md` | Material |
-| 2 | `4-middle-school-cs/handouts/digital-footprint.md` | **Material, post Wednesday** |
+| 1 | `4-middle-school-cs/handouts/wave-defender-lab.md` | **Material, post today.** The numbered build |
+| 2 | `4-middle-school-cs/project.md` | **Assignment**, due Thu |
+| 3 | `4-middle-school-cs/outline.md` | Material |
+| 4 | Quiz from `4-middle-school-cs/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 
 **Already out:** the Star Catcher lab, project, power-ups.
 
@@ -80,6 +82,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 | Video & Sound | **Monday** | 62 questions | 20 |
 | Design Techniques | **Monday** | 42 questions | 20 |
 | Aviation UAS | **Friday** | 62 questions | 20 |
+| Middle School CS | **Friday** | 39 questions | 20 |
 
 All plain CSV, no images, nothing coupled. `option_a` is always correct, so let the script shuffle.
 

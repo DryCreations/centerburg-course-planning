@@ -10,7 +10,7 @@ Every block is **one prompt, for one slide.** Board versions included.
 | Design Techniques | 5 | **QUIZ**, then build |
 | Video & Sound | 4 | **Quiz**, then new groups work their plans |
 | Aviation UAS | 5 | Chart symbols review, then read a whole area |
-| Middle School CS | 4 | Finish Star Catcher |
+| Middle School CS | 5 | New game: ship and shooting |
 | Yearbook | 2 | The two week photo assignment |
 
 ---
@@ -237,52 +237,75 @@ READ AN AREA: which classes, where each starts and stops,
 
 ---
 
-## 4. Middle School CS: Finish it
+## 4. Middle School CS: A new game
 
-**Documents:** `week-5/handouts/star-catcher-lab.md`, `week-5/handouts/powerups.md`
+**Documents:** `week-6/handouts/wave-defender-lab.md`, `week-6/project.md`
+**Run it as:** one new block today, the projectile. Everything else they already have.
 
 ### Slide 1: As You Come In
 
 > Create one "As You Come In" slide for a middle school computer science class. Big title: "As You Come In."
-> Body: "Open Star Catcher and play it all the way to an ending. Today and tomorrow are for finishing. No new
-> blocks this week." Large, clean, minimal. One slide.
+> Body: "Open MakeCode Arcade and start a NEW project. Name it Wave Defender. Your maze and your catcher stay
+> where they are, this is something different: a game where you shoot back." Large, clean, minimal. One slide.
 
 ### Slide 2: This week
 
-> Create one agenda slide for a middle school computer science class titled "This Week." A day plan: MONDAY,
-> finish your game. TUESDAY, play each other's games and submit. WEDNESDAY, THURSDAY, FRIDAY, something
-> completely different, mostly off the computers. Add a box in large text: "No quiz this week." One slide.
+> Create one agenda slide for a middle school computer science class titled "This Week: Wave Defender." A day
+> plan: MONDAY, a ship that moves and shoots. TUESDAY, waves of enemies built with loops. WEDNESDAY, hits,
+> misses, and ending the game. THURSDAY, make it yours and show it. FRIDAY, quiz on loops and if statements.
+> Add a box in large text: "Only ONE new block all week. Everything else is the ifs, loops, variables, and
+> overlaps you already know." One slide.
 
-### Slide 3: The checklist
+### Slide 3: The game
 
-> Create one slide for a middle school computer science class titled "What Has To Work." A checklist in large
-> text: a player you move along the bottom; stars spawned with a LOOP, not placed by hand; a row placed with
-> "for index", using the count for spacing or speed; a REMAINDER block doing something every Nth time; a
-> FOREVER loop with a loop nested inside it; catching adds score and destroys the star; missing costs a life
-> and destroys the star; the game ENDS, win or lose; it is still fast after a minute of playing. One slide.
+> Create one slide for a middle school computer science class titled "What You Are Making." Show a simple
+> text diagram: a row of asterisks near the top labeled "a wave, spawned with a loop", a vertical line and a
+> caret below it labeled "your shot", and a small shape at the bottom labeled "your ship". Then body text: "A
+> ship at the bottom. Meteors come down in formations. Shoot them and they break. Let one reach the bottom
+> and you lose a life." Add a box: "You have built a maze and a catcher. In both of those, things move and
+> you touch them. In this one you act on the world." One slide.
 
-### Slide 4: Do Now
+### Slide 4: Shooting
 
-> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Finish." Body:
-> "Work down the checklist. Anything not checked is today's job." Then a short troubleshooting list: game gets
-> slow means something is never destroyed; the win never fires means the number in your if does not match how
-> many you placed; one extra star means for index counts from zero. Add a box: "Got everything? Add a power-up,
-> or make the maze harder, or help somebody next to you." One slide.
+> Create one slide for a middle school computer science class titled "The One New Block." Show in a monospace
+> box: "on A button pressed:" then indented "projectile from ship with vx 0 vy -100". Underneath, read it out:
+> "Make a projectile starting at the ship, moving 0 sideways and -100 up." Add a box in large text: "Negative
+> vy is UP. Y counts downward from the top of the screen. If your shots fall instead of rising, that is the
+> sign." One slide.
+
+### Slide 5: Do Now
+
+> Create one "Do Now" slide for a middle school computer science class. Big title: "Do Now: Steps 1 to 3."
+> Body: "Follow the numbered lab on Classroom." Numbered: "1) Make a ship, add 'move ship with buttons', set
+> its y to 110, and turn on 'stay in screen'. 2) Add 'on A button pressed' with a projectile going up. 3)
+> Make it feel right: a small image for the shot, try different speeds, add a sound." Add a box: "Goal for
+> today: a ship that moves along the bottom, and pressing A fires a shot that travels UP. Finished? Try
+> different projectile speeds and pick the one that feels best." One slide.
 
 ### Board version
 
 ```
-MUST WORK                       IF IT IS BROKEN
- player moves along the bottom    slow?  something is never destroyed
- stars spawned with a LOOP        win never fires? the number in your
- a row placed with for index        if does not match how many you placed
- a REMAINDER doing every-Nth      one extra star? for index counts from 0
- a FOREVER with a loop inside
- catching: +score, destroy      THIS WEEK
- missing: -life, destroy          Mon finish / Tue showcase + submit
- the game ENDS                    Wed-Fri something different,
- still fast after a minute          mostly off the computers
-                                  NO QUIZ
+WAVE DEFENDER        (a maze and a catcher: things move, you touch them.
+                      this one: YOU ACT ON THE WORLD.)
+
+THIS WEEK  Mon ship + shooting
+           Tue WAVES, built with loops   <- the real content
+           Wed hits, misses, ending
+           Thu make it yours + show
+           Fri QUIZ (loops + if statements)
+
+ONE NEW BLOCK ALL WEEK:
+  on A button pressed:
+      projectile from ship with vx 0  vy -100
+
+  "make a projectile at the ship, 0 sideways, -100 up"
+
+  NEGATIVE vy IS UP.
+  y counts DOWNWARD from the top of the screen.
+  shots falling instead of rising? that is the sign.
+
+TODAY: ship moves along the bottom + stays in screen
+       pressing A fires a shot that goes UP
 ```
 
 ---
@@ -318,5 +341,5 @@ MUST WORK                       IF IT IS BROKEN
 | Design Techniques | **QUIZ**, then build. Project due Friday |
 | Video & Sound | **QUIZ**, then new groups work their plans |
 | Aviation UAS | Symbol review, then read a whole area of the chart |
-| Middle School CS | Finish Star Catcher. Checklist on the board |
+| Middle School CS | **New game: Wave Defender.** Ship, movement, shooting |
 | Yearbook | **Post the two week assignment.** All-day camera checkout explained |

@@ -1,45 +1,49 @@
-# Week 6: Finish Star Catcher, then Your Digital Footprint: Outline
+# Week 6: Wave Defender: Outline
 
 **Course:** Middle School CS | **Week:** 6 | **Dates:** Mon Sep 21 to Fri Sep 25
 
-> **Two days to finish your game, then something completely different.** No screens for most of the rest of
-> the week.
+> **A new game, and a different kind of game.** You have built a maze and a catcher. This one is a shooter:
+> you fire back.
 
 ---
 
 ## What This Week Covers
 
-**Monday and Tuesday:** finish Star Catcher and play each other's. **Wednesday through Friday:** digital
-citizenship, mostly unplugged, mostly discussion.
+**No new big ideas.** This is `if`, loops, variables, and overlap, all of which you already have. The only
+new block is the one that makes a projectile.
+
+The thing this game is really built on is **nested loops**: a formation of enemies is two loops, one for
+rows and one for the enemies in each row.
 
 ## Student Overview
 
 ### What You'll Be Able to Do
 
-- Finish and show a working game you built yourself
-- Explain what a digital footprint is and what makes up yours
-- Tell the difference between what is private, what is public, and what only feels private
-- Recognize how information about you gets collected and used
-- Decide what you want your own footprint to look like
+- Fire a projectile and explain why its vertical speed is negative
+- Build a formation with a nested loop, and say how many sprites it makes
+- Change the shape of a formation using the remainder block
+- Destroy both objects in a collision, and explain why both
+- Keep a game running fast by cleaning up sprites you created
+- Finish a game that actually ends
 
 ### Weekly Snapshot
 
-| Day | Focus |
-|-----|-------|
-| Mon Sep 21 | Finish Star Catcher. Requirements checklist |
-| Tue Sep 22 | Showcase: play each other's games. Submit |
-| Wed Sep 23 | What a digital footprint is. Unplugged |
-| Thu Sep 24 | Who collects it and why. Unplugged |
-| Fri Sep 25 | Your own footprint: what you want it to be |
+| Day | Focus | Build |
+|-----|-------|-------|
+| Mon Sep 21 | Ship, movement, and shooting | A ship that fires upward |
+| Tue Sep 22 | **Waves, built with loops** | A formation from a nested loop |
+| Wed Sep 23 | Hits, misses, and ending | A game that can be won and lost |
+| Thu Sep 24 | Make it yours, then show it | Two additions of your choice |
+| Fri Sep 25 | **Quiz** | |
 
 ### What You'll Get This Week
 
-- **The Star Catcher checklist:** exactly what has to work
-- **Digital footprint activities:** discussion, sorting, and a short written piece
-- **No quiz this week**
+- **The Wave Defender lab:** numbered steps, day by day, with a bug table
+- **Friday's quiz** covers loops, if statements, variables, modulo, and debugging
 
 ### Strands Covered
 
-- **ATP Algorithmic Thinking and Programming:** finishing and debugging an iterative program
-- **IC Impacts of Computing:** digital footprint, privacy, and data collection
-- **NI Networks and the Internet:** how information travels and where it is stored
+- **ATP Control Structures:** loops, nested loops, and conditionals
+- **ATP Variables and Data Representation:** counters and the remainder operator
+- **ATP Algorithms:** events, collision, and cleanup
+- **ATP Program Development:** testing and debugging an iterative program
