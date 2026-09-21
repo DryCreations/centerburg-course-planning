@@ -3,9 +3,11 @@
 Every block is **one prompt, for one slide.** Board versions included.
 **Career-tech classes open with standards**, written out, meant to stay on the board.
 
+> **Two quizzes today:** Design Techniques and Video & Sound. Both are plain CSV, 20 questions, no images.
+
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | Lab: Selection. Build. Quiz Friday announced |
+| Design Techniques | 5 | **QUIZ**, then build |
 | Video & Sound | 4 | **Quiz**, then new groups work their plans |
 | Aviation UAS | 5 | Chart symbols review, then read a whole area |
 | Middle School CS | 4 | Finish Star Catcher |
@@ -13,16 +15,19 @@ Every block is **one prompt, for one slide.** Board versions included.
 
 ---
 
-## 1. Design Techniques: Selection, and the week ahead
+## 1. Design Techniques: Quiz, then build
 
-**Documents:** `week-5/project.md` (due Friday), `handouts/interaction-labs.md` (Lab 5), `week-6/quiz-bank.csv`
+**Documents:** `week-6/quiz-bank.csv` (42 questions, cut to 20), `week-5/project.md` (due Friday),
+`week-5/handouts/interaction-labs.md` (Lab 5)
+**Run it as:** quiz first, then project work time. The Selection lab fits after the quiz if there is room,
+otherwise it moves to Tuesday alongside Input.
 
 ### Slide 1: As You Come In
 
-> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Open
-> your Figma file. Check it is in your Drafts. Warm-up question to think about: somebody who has never seen
-> your app picks up your phone. Can they do your one task without you saying anything?" Large, clean. One
-> slide.
+> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body: "Quiz
+> first, on Google Classroom. Silent, stay on the quiz tab, not open note. It covers this unit AND the
+> typography and hierarchy material from the first quiz. When you submit, open your Figma file quietly and
+> get back to work, people are still testing." Large, clean. One slide.
 
 ### Slide 2: Standards today
 
@@ -30,35 +35,34 @@ Every block is **one prompt, for one slide.** Board versions included.
 > FULL text, not just the numbers, in large readable type: 2.15.1 Understand the UX/UI design process (vision,
 > journey mapping, wireframing, prototyping) for the targeted platform. 7.1.2 Describe the components of
 > interactive media. 7.2.10 Select and create visual design elements appropriate for the intended audience and
-> use. Then a short line: "Today that means selection states and finishing your screens." Design it to stay
-> readable on the board all period. One slide.
+> use. 7.4.7 Optimize and export graphics files for intended use. Then a short line: "Today that means the
+> quiz, then finishing your screens." Design it to stay readable on the board all period. One slide.
 
-### Slide 3: This week
+### Slide 3: What is on the quiz
 
-> Create one slide for a high school design class titled "This Week." A small day plan: MONDAY, selection
-> states, build. TUESDAY, text input, build. WEDNESDAY, connect everything both directions. THURSDAY, second
-> partner test and final fixes. FRIDAY, QUIZ, then write-up, post to portfolio, and submit. Add a box in large
-> text: "The project is due FRIDAY. The quiz is also Friday, and it covers this unit AND the hierarchy and
-> typography material from the first quiz." One slide.
+> Create one slide for a high school design class titled "What Is On It." Two columns. Left, "FROM THIS
+> UNIT": UX versus UI; wireframes and prototypes; user journeys; tab bars and navigation; where the back
+> button goes and why conventions matter; one primary action per screen and how to make it win; empty states;
+> modals and loading states; scrolling lists; components; placeholder text; user testing; scoping a project.
+> Right, "FROM THE FIRST QUIZ": serif and sans serif; type weight and pairing; hierarchy and the squint test;
+> contrast; proximity; whitespace; alignment; focal point; exporting a PDF to submit and an image to display.
+> Add a box: "Nothing on it is from this week's labs. Everything was taught by Friday." One slide.
 
-### Slide 4: Lab: Selection
+### Slide 4: This week
 
-> Create one instructional slide for a high school design class titled "Ten Minute Lab: Selection." Body:
-> "Picking one of several options, and seeing which one is picked." Numbered: 1) Make a frame with three
-> options in a row: three buttons, three days, three sizes. 2) Duplicate it twice, so you have three
-> near-identical frames. 3) On frame A, style option 1 as SELECTED: filled background, a border, or a check
-> mark. The other two stay plain. 4) On frame B, option 2 is selected. On frame C, option 3. 5) Connect every
-> option on every frame to the frame where that option is selected. Add a box: "Nine connections. That tedium
-> is exactly why real apps use components with variants instead. You are learning what the shortcut is for."
-> One slide.
+> Create one slide for a high school design class titled "This Week." A day plan: MONDAY, quiz, then build.
+> TUESDAY, selection and text input, build. WEDNESDAY, connect everything both directions. THURSDAY, second
+> partner test and final fixes. FRIDAY, write-up, post to your portfolio, submit. Add a box in large text:
+> "WEDNESDAY is the real deadline. Everything connected both ways. Thursday is for fixing, not building." One
+> slide.
 
-### Slide 5: Do Now
+### Slide 5: Do Now, after the quiz
 
-> Create one "Do Now" slide for a high school design class. Big title: "Do Now: Build." Numbered: "1) Do the
-> selection lab in a scratch file. 2) If your app has a place where somebody picks one of several things, add
-> it, and show which one is picked. 3) Keep building your screens. You should have most of them by now. 4)
-> Check the back button is in the same corner on every screen." Add a box: "A choice with no visible selection
-> is a choice a person cannot verify. That is the point of today." One slide.
+> Create one "Do Now" slide for a high school design class. Big title: "After the Quiz: Build." Numbered: "1)
+> Open your Figma file. 2) Count your screens. You should have most of them. 3) Anything half built, finish
+> it. 4) Check the back button is in the same corner on every screen. 5) Check every screen is actually
+> reachable from somewhere." Add a box: "Ahead of that? Start your write-up now. Four decisions, each with the
+> problem it solved. Doing it today means Friday is not a scramble." One slide.
 
 ### Board version
 
@@ -69,20 +73,22 @@ STANDARDS TODAY (leave on the board)
   7.1.2  describe the components of interactive media
   7.2.10 select and create visual design elements
          appropriate for the audience and use
-  -> today: selection states, finishing screens
+  7.4.7  optimize and export graphics files for intended use
+  -> today: the quiz, then finishing your screens
 
-THIS WEEK        Mon selection / Tue input / Wed connect
-                 Thu partner test / Fri QUIZ + project due
+QUIZ FIRST. silent. quiz tab only. not open note.
+  THIS UNIT: UX vs UI / wireframe / prototype / journey
+    tab bar / back top left / ONE primary action
+    empty states / modals / loading / scrolling lists
+    components / placeholder text / user testing / scope
+  FIRST QUIZ: serif vs sans / weight / pairing
+    hierarchy + squint test / contrast / proximity
+    whitespace / alignment / focal point / PDF vs image
+  nothing from this week's labs.
 
-LAB: SELECTION
-  3 options in a row -> duplicate the frame twice
-  frame A: option 1 styled SELECTED (filled/border/check)
-  frame B: option 2      frame C: option 3
-  connect EVERY option on EVERY frame to its selected frame
-  (9 connections. that tedium is why variants exist.)
-
-A CHOICE WITH NO VISIBLE SELECTION
-IS A CHOICE A PERSON CANNOT VERIFY.
+THIS WEEK   Mon quiz + build / Tue selection + input
+            Wed CONNECT EVERYTHING (the real deadline)
+            Thu partner test + fixes / Fri write-up, post, submit
 ```
 
 ---
@@ -309,7 +315,7 @@ MUST WORK                       IF IT IS BROKEN
 
 | Class | Today |
 |-------|-------|
-| Design Techniques | Lab: Selection, then build. **Project and quiz both Friday** |
+| Design Techniques | **QUIZ**, then build. Project due Friday |
 | Video & Sound | **QUIZ**, then new groups work their plans |
 | Aviation UAS | Symbol review, then read a whole area of the chart |
 | Middle School CS | Finish Star Catcher. Checklist on the board |

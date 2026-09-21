@@ -8,10 +8,14 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `5-yearbook/project.md` | **Assignment.** Two week photo assignment, due Fri Oct 2 |
-| 2 | Video & Sound quiz, built from `2-video-and-sound/quiz-bank.csv` | **Quiz**, cut to 20 |
+| 1 | Video & Sound quiz, from `2-video-and-sound/quiz-bank.csv` | **Quiz today**, cut to 20 |
+| 2 | Design Techniques quiz, from `1-design-techniques/quiz-bank.csv` | **Quiz today**, cut to 20 |
+| 3 | `5-yearbook/project.md` | **Assignment.** Two week photo assignment, due Fri Oct 2 |
 
 **That is the whole must-do list for Monday.** Everything below can go out during the week.
+
+> **Two quizzes to build this morning.** Both are plain CSV, cut to 20, no images, nothing coupled. Each has
+> a suggested cut in its `quiz.md`.
 
 ---
 
@@ -20,7 +24,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/outline.md` | Material. Week 6 at a glance |
-| 2 | `1-design-techniques/quiz.md` is teacher-only. Build the quiz from `quiz-bank.csv` | **Quiz Friday**, cut to 20 |
+| 2 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
 
 **Already out:** the project, the labs, ui-patterns, components-and-variants, overlays-scroll-input.
 
@@ -74,7 +78,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 | Class | When | Bank | Cut to |
 |-------|------|------|--------|
 | Video & Sound | **Monday** | 62 questions | 20 |
-| Design Techniques | **Friday** | 42 questions | 20 |
+| Design Techniques | **Monday** | 42 questions | 20 |
 | Aviation UAS | **Friday** | 62 questions | 20 |
 
 All plain CSV, no images, nothing coupled. `option_a` is always correct, so let the script shuffle.
@@ -83,7 +87,7 @@ All plain CSV, no images, nothing coupled. `option_a` is always correct, so let 
 
 ## The short version
 
-If Monday is a bad day for the computer, these two are the only things that matter:
+If Monday is a bad day for the computer, in this order:
 
-1. **Yearbook:** `project.md`, so the two week clock starts today
-2. **V&S:** the quiz, because it was promised for today
+1. **The two quizzes**, V&S and DT. They are the only thing today that cannot be done later
+2. **Yearbook:** `project.md`, so the two week clock starts today

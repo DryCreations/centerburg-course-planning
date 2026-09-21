@@ -1,4 +1,4 @@
-# Week 6 Quiz: Design Techniques (Friday Sep 25)
+# Week 6 Quiz: Design Techniques (Monday Sep 21)
 
 **Teacher-only.** **Bank:** `quiz-bank.csv`, 42 questions. **Cut to 20.** No images, nothing coupled.
 
@@ -36,7 +36,18 @@ toward what was actually taught these two weeks.
 Paste into the quiz spreadsheet tab and run the Apps Script. `option_a` is always correct and `answer` is
 always `A`, so let the script shuffle.
 
-## Note
+## Everything on it has been taught
 
-**The project is also due Friday.** Give the quiz first, then work time for anyone finishing the write-up and
-the portfolio post.
+**Verified against the bank:** nothing depends on this week's labs. Selection, input, and transitions are
+taught Monday through Wednesday, and no question requires them.
+
+The bank covers through last Friday: UX versus UI, wireframes and prototypes, user journeys, patterns and
+conventions, primary actions, empty states, modals, loading states, scrolling lists, components, placeholder
+text, user testing, and scoping, plus the Week 3 typography and hierarchy material.
+
+## Timing
+
+**Quiz first, then the rest of the period is project work time.** The project is still due Friday, so the
+back half of today is not spare time.
+
+The Selection lab moves to after the quiz if there is room, or to Tuesday alongside Input.

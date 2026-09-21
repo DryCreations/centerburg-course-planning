@@ -3,8 +3,7 @@
 **Course:** Design Techniques (145095)
 **Quarter:** Q1 | **Week:** 6 | **Dates:** Mon Sep 21 to Fri Sep 25
 
-> **Last week of the project.** Three more interactions, a second partner test, then the write-up. The quiz
-> is Friday too.
+> **Quiz Monday, project due Friday.** Three more interactions, a second partner test, then the write-up.
 
 ---
 
@@ -19,7 +18,7 @@ and the portfolio post. Assignment details are in the Week 5 `project.md`.
 
 | Day | Lab | Then |
 |-----|-----|------|
-| Mon Sep 21 | Selection | Build your screens |
+| Mon Sep 21 | **QUIZ** | Then Selection, then build your screens |
 | Tue Sep 22 | Input | Build the last screen |
 | Wed Sep 23 | Transitions | Connect everything, both directions |
 | Thu Sep 24 | Putting it together | Second partner test, final fixes |
@@ -34,7 +33,7 @@ and the portfolio post. Assignment details are in the Week 5 `project.md`.
 - Posted to your portfolio under Unit 1.1
 - Share link on Google Classroom
 
-### Friday's Quiz
+### Monday's Quiz
 
 Covers **this unit and the first quiz's material**: UX and UI, wireframes and prototypes, patterns and
 conventions, primary actions, empty states, and user testing, plus typography, hierarchy, contrast,

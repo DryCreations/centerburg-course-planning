@@ -1,16 +1,16 @@
 # Week 6 Teacher Notes: Design Techniques
 
-**Last week of the App Redesign Project. Project and quiz both due Friday.**
+**Quiz Monday. Project due Friday.**
 
 ## Pacing
 
 | Day | Lab | Then |
 |-----|-----|------|
-| Mon | Selection | Build screens |
+| Mon | **QUIZ**, then Selection if there is room | Build screens |
 | Tue | Input | Build the last screen |
 | Wed | Transitions | Connect everything, both directions |
 | Thu | Putting it together | Second partner test, final fixes |
-| Fri | | **Quiz**, then write-up, portfolio post, submit |
+| Fri | | Write-up, portfolio post, submit |
 
 Labs are in `week-5/handouts/interaction-labs.md`. The project and its requirements are in
 `week-5/project.md`.
@@ -33,17 +33,22 @@ Monday's selection lab is deliberately taught the frame way: nine connections ac
 **Say the thing that makes the tedium worth it:** that is exactly why real apps use components with variants.
 Feeling the manual version is what makes the shortcut make sense.
 
-## Friday's quiz
+## Monday's quiz
 
 42 questions, cut to 20. **Half carried forward from the Week 3 material, half new from this unit.**
 
 The suggested cut is 9 carried forward, 11 new, which leans slightly toward what was taught these two weeks
 while keeping the first quiz's content live.
 
+**Nothing on it depends on this week's labs.** Verified against the bank: selection, input, and transitions
+are taught Monday through Wednesday and no question requires them. Everything covered was taught by last
+Friday.
+
 **The best question on the bank:** *during a user test, every time the designer wants to explain something,
 it means they have found a design problem.* A student who gets that has understood what testing is for.
 
-**Give the quiz first**, then work time. Anyone finishing the project needs the back half of the period.
+**Quiz first, then project work time.** The project is still due Friday, so the back half of today is not
+spare time. The Selection lab slides to after the quiz if there is room, or to Tuesday with Input.
 
 ## Grading the project
 

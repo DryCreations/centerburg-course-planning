@@ -8,11 +8,11 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Mon** | Lab: Selection, build | **QUIZ**, then new groups work their plans | Symbol review, read a whole area | Finish Star Catcher | **Post the two week assignment** |
-| **Tue** | Lab: Input, build | Plans, then production | Plan a flight from the chart | Showcase and submit | Shoot, spread work |
+| **Mon** | **QUIZ**, then build | **QUIZ**, then new groups work their plans | Symbol review, read a whole area | Finish Star Catcher | **Post the two week assignment** |
+| **Tue** | Labs: Selection and Input, build | Plans, then production | Plan a flight from the chart | Showcase and submit | Shoot, spread work |
 | **Wed** | Connect everything both ways | Production | Work time: sectionals or ODOT | **Digital footprint** (unplugged) | Shoot, spread work |
 | **Thu** | Second partner test, final fixes | Production | **FLIGHT: box pattern.** ODOT Mod 1 due tonight | **Who collects it, and why** | Shoot, spread work |
-| **Fri** | **QUIZ**, then write-up and submit | Production | **QUIZ** | **Your footprint, on purpose** | Shoot, spread work |
+| **Fri** | Write-up, post to portfolio, submit | Production | **QUIZ** | **Your footprint, on purpose** | Shoot, spread work |
 
 ---
 
@@ -26,6 +26,8 @@ These were decided rather than asked. **Each is a small change if wrong.**
   Friday, mostly unplugged. Reasoning: IC is a strand skipped entirely so far, it needs no setup, and it is a
   genuine change of pace for a class that has taken four new programming concepts in two weeks.
 - **DT quiz is half carried forward, half new.** 18 questions from Week 3 material, 24 from this unit.
+  **Moved to Monday** alongside Video & Sound, so both quizzes run the same morning. Verified that nothing on
+  the bank depends on this week's labs.
 - **Aviation flies a fixed four-point box pattern** Thursday: same altitude, same order, five second holds at
   each corner, right stick only. Simple, reproducible, comparable pilot to pilot, and it practices the
   translation control they were weakest at.
@@ -36,8 +38,10 @@ These were decided rather than asked. **Each is a small change if wrong.**
 
 ## What each course is doing
 
-- **DT: last week of the App Redesign Project.** Labs are Selection, Input, and Transitions. The project and
-  the quiz both land Friday. The quiz mixes this unit with the Week 3 typography and hierarchy material.
+- **DT: quiz Monday, project due Friday.** Labs are Selection, Input, and Transitions, with Selection
+  sliding to Tuesday if the quiz eats Monday. The quiz mixes this unit with the Week 3 typography and
+  hierarchy material. **Wednesday is the real project deadline**: everything connected both directions, since
+  Thursday is for fixing rather than building.
 - **V&S: quiz Monday, then production under the new structure.** Teacher-assigned pairs and trios, each with
   a plan, jobs by name, and a realistic schedule. Groups earn location privileges back by running one full
   period correctly.
