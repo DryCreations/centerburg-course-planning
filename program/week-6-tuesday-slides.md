@@ -7,7 +7,7 @@ Every block is **one prompt, for one slide.** Board versions included.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Peer review, then input |
+| Design Techniques | 6 | Peer review on Classroom, then input |
 | Video & Sound | 4 | Filming restarts, in this room, by sign-up |
 | Aviation UAS | 4 | Coordinate bell ringer, then chart work time |
 | Middle School CS | 3 | Bell ringer, then waves with nested loops |
@@ -15,12 +15,14 @@ Every block is **one prompt, for one slide.** Board versions included.
 
 ---
 
-## 1. Design Techniques: Peer review, then input
+## 1. Design Techniques: Peer review on Classroom, then input
 
 **Documents:** `week-6/handouts/peer-review.md` (student-facing, post it),
 `week-5/handouts/interaction-labs.md` (Lab 6: Input), `week-5/project.md` (due Friday)
-**Run it as:** ten minutes to get files runnable, then peer review in pairs, then the rest of the period
-is build time with Lab 6 available for anyone whose task involves typing.
+**Set up first:** a Google Classroom **Question** post, short answer, with **"Students can reply to each
+other" turned on.** Everything below depends on that setting.
+**Run it as:** ten minutes to get files shareable and links posted, then cold reviews (at least two each),
+then the demos, then finalize replies, then changes and the rubric check.
 
 ### Slide 1: Standards today
 
@@ -28,35 +30,61 @@ is build time with Lab 6 available for anyone whose task involves typing.
 > their FULL text, not just the numbers, in large readable type: 2.15.1 Understand the UX/UI design
 > process (vision, journey mapping, wireframing, prototyping) for the targeted platform. 7.1.2 Describe
 > the components of interactive media. 7.2.10 Select and create visual design elements appropriate for the
-> intended audience and use. Then a short line: "Today that means a real user test on someone else's
-> prototype, and text input." Design it to stay readable on the board all period. One slide.
+> intended audience and use. Then a short line: "Today that means putting your prototype in front of
+> people who know nothing about it, and changing something because of what they say." Design it to stay
+> readable on the board all period. One slide.
 
-### Slide 2: As You Come In
+### Slide 2: As You Come In, post your link
 
-> Create one "As You Come In" slide for a high school design class. Big title: "As You Come In." Body:
-> "Open your Figma file. Ten minutes to make it runnable: Present opens on your home screen, frames are
-> named something real, every screen has a way back, share link set to Anyone with the link can view.
-> Then write your task sentence at the top of your file: 'Starting on this screen, ___.' One task. One
-> sentence." Large and clean. One slide.
+> Create one "As You Come In" slide for a high school design class. Big title: "Post Your Link." A short
+> checklist: Present opens on your HOME screen; frames named something real, not Frame 12; share set to
+> Anyone with the link can view; copy the PROTOTYPE link, not the edit link. Then in large text: "Post it
+> on the Classroom Question. Your name. Your link. Nothing else." Then a box in large text: "Do NOT
+> describe your app. Not what it does, not what to tap, not 'it's not done yet.' If you explain it first,
+> you learn nothing." One slide.
 
-### Slide 3: How the test runs
+### Slide 3: Reply to two people, cold
 
-> Create one slide for a high school design class titled "Peer Review: The Rules." Two columns. Left
-> column headed "IF IT IS YOUR FILE": read your task sentence out loud, once; then stop talking; do not
-> point; do not say which button; write down every place they hesitate; if they are stuck more than 30
-> seconds, say stop and write down where. Right column headed "IF YOU ARE TESTING": say what you are
-> thinking out loud; tap what you actually believe you should tap; be honest and specific; "it's good" is
-> not feedback. Add a box across the bottom in large text: "When I ___, I expected ___, but ___." One
-> slide.
+> Create one slide for a high school design class titled "Reply To At Least Two People." Subtitle: "Open
+> their link and use it without asking a single question." Then: "At least three sentences, and cover all
+> four." A numbered list in large type: 1, What looks clickable, name the actual things. 2, What you tried
+> to tap that did nothing, or expected to find and could not. 3, Hierarchy, what wins your eye first on
+> the main screen, and should it. 4, One thing that was confusing, and what would make it clearer. Add a
+> box across the bottom: "When I ___, I expected ___, but ___." Add a small line: "Write about what is on
+> the screen. 'Cool colors' is not feedback." One slide.
 
-### Slide 4: After the test
+### Slide 4: Then talk to them
 
-> Create one slide for a high school design class titled "Then What." Numbered: "1) Fill out the review
-> sheet for the file you tested and submit it on Google Classroom. 2) Back in your own file, go through
-> every piece of feedback and write either CHANGED IT and what, or NOT CHANGING IT BECAUSE and a real
-> reason. 3) Keep that list, it goes in Friday's write-up. 4) Then build." Add a box: "If two different
-> testers got stuck in the same place, that is not an opinion any more. Fix it." Add a small line:
-> "Typing in your app? Do Lab 6: Input." One slide.
+> Create one slide for a high school design class titled "Then Go Talk To Them." Two columns. Left,
+> "BUILDER": demo your one task start to finish, say what the screen is supposed to do and what you were
+> going for. Right, "REVIEWER": listen, then answer out loud, did anything change? Did something
+> confusing make sense once explained? Did they intend something you missed completely? Add a box in large
+> text: "If it only made sense AFTER the demo, it is still a problem. A real user does not get a demo."
+> Then a bottom line: "Go back and edit your reply, or add a second one, with what the conversation
+> changed. That final version is what gets graded." One slide.
+
+### Slide 5: Everybody changes something
+
+> Create one slide for a high school design class titled "Everybody Changes Something." In very large
+> text: "'Mine is perfect' is not an option." Body: you got feedback from at least two people, make at
+> least one real change based on it; if two people got stuck in the same place that is not an opinion any
+> more, that is a problem with the screen; if nobody got stuck, there is still a hierarchy that could be
+> stronger, a label that could be clearer, or something that looks tappable and is not. Then a small
+> table with two columns, "Feedback I got" and "Changed it / Not changing it because." Add a line: "Keep
+> this list. It goes in Friday's write-up and it is 10% of the project grade. 'Not changing it' is allowed
+> if the reason is real." One slide.
+
+### Slide 6: Check yourself against the rubric
+
+> Create one slide for a high school design class titled "Before You Leave: Check The Rubric." A checklist
+> in two columns, compact but readable: 3 to 4 named phone frames; Present opens on your home screen; one
+> primary action per screen and it is obviously the most prominent thing; at least 4 different interaction
+> types; every screen reachable with a way back; repeating things in the same place on every screen; it
+> looks like a complete app, tab bar, icons, a settings gear; a list of what you are showing but not
+> implementing; paper wireframes for every screen; two partner tests with what changed; write-up naming
+> four decisions. Add a box: "Where people lose points: everything the same size so nothing wins. A screen
+> with one button that nobody would believe is a real app. A back button that moves. A write-up that says
+> what you built instead of why." One slide.
 
 ### Board version
 
@@ -67,25 +95,37 @@ STANDARDS TODAY (leave on the board)
   7.1.2  describe the components of interactive media
   7.2.10 select and create visual design elements
          appropriate for the audience and use
-  -> today: a real user test, and text input
+  -> today: put it in front of people who know nothing
+     about it, and change something because of it
 
-FIRST 10 MIN: make your file runnable
-  present opens on HOME / frames named / way back on every
-  screen / share link = anyone with link can view
-  write your task: "starting on this screen, ______"
+1. POST YOUR LINK (Classroom Question)
+   present opens on HOME / frames named / share = anyone
+   with the link can view / PROTOTYPE link, not edit link
+   post = your name + your link. NOTHING ELSE.
+   do NOT describe your app.
 
-PEER REVIEW
-  builder: read the task ONCE, then say nothing
-  tester: think out loud, tap what YOU think
+2. REPLY TO 2+ PEOPLE, COLD.  3+ sentences, all four:
+   a. what looks clickable
+   b. what you tried to tap that did nothing
+   c. hierarchy: what wins your eye? should it?
+   d. what was confusing, and what would fix it
 
-  "when I ____, I expected ____, but ____"
+   "when I ____, I expected ____, but ____"
 
-AFTER: for every piece of feedback write
-  CHANGED IT (what)  or  NOT CHANGING IT BECAUSE (why)
-  two testers stuck in the same place = fix it
-```
+3. THEN GO TALK TO THEM. get the demo. did anything change?
+   only made sense AFTER the demo? still a problem.
+   -> edit your reply with what changed. that one is graded.
 
----
+4. EVERYBODY CHANGES SOMETHING.
+   "mine is perfect" is not an option.
+   keep the list: feedback -> changed it / not because ___
+
+5. RUBRIC CHECK before you leave.
+   3-4 named frames / opens on home / one primary action
+   per screen / 4+ interaction types / every screen
+   reachable + a way back / repeats stay put / looks like
+   a real app / list of what's faked / wireframes /
+   2 partner tests / write-up, 4 decisions
 
 ## 2. Video & Sound: Filming restarts, in this room
 

@@ -20,7 +20,7 @@
 
 | Class | What ran |
 |-------|----------|
-| **DT** | Ten minutes to make files runnable, then peer review in pairs, then build. Lab 6 Input for anyone whose task involves typing. New handout: `handouts/peer-review.md` |
+| **DT** | Peer review **on Google Classroom**: post a prototype link under a Question, reply cold to at least two people, then demo in person, then finalize the reply. Everybody makes one change. Rubric self-check to close. New handout: `handouts/peer-review.md` |
 | **V&S** | Filming restarts, **in this room**, on a three-slot sign-up board across the three manual-video cameras. New handout: `handouts/filming-signup.md` |
 | **Aviation** | Bell ringer: a latitude and longitude, found on SkyVector, name the class you are standing in plus its floor and ceiling. Extension is every layer above. Then chart work time and ODOT Module 1. Teacher reference: `handouts/coordinate-bell-ringers.md` |
 | **MS CS** | Bell ringer on nested loops (3 x 6 = 18), then Day 2 of Wave Defender. No new blocks. Teacher reference: `handouts/bell-ringers.md` |
@@ -28,9 +28,15 @@
 
 ### Tuesday calls
 
-- **DT peer review is structured, not open-ended.** The builder reads one task sentence and then says
-  nothing. The tester thinks out loud. Feedback uses "When I ___, I expected ___, but ___." Every piece of
-  feedback gets either "changed it" or "not changing it because," and that list feeds Friday's write-up.
+- **DT peer review runs on a Classroom Question**, with student replies turned on. Posts are name and
+  link only, no description, so reviewers meet the prototype the way a stranger would. Each reviewer owes
+  at least two people three or more sentences covering four things: what looks clickable, what should be
+  clickable and is not, hierarchy, and clarity. Then they talk in person, get the demo, and edit the reply
+  with what changed. Anything that only made sense after the demo still counts as a problem.
+- **Everyone makes at least one change.** "Mine is perfect" is explicitly not an option. The running
+  feedback-and-change list feeds Friday's write-up and is 10% of the project grade.
+- **The period closes with a rubric self-check** against the project requirements, so Wednesday's build
+  time is aimed at whatever is unchecked.
 - **V&S sign-ups are one slot per group per day** until every group has had one, then seconds open up.
   Three fifteen-minute slots, three cameras. The T3 stays stills and second angles only.
 - **The Aviation coordinates need verifying on SkyVector before use.** Candidates are listed in the

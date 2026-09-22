@@ -23,7 +23,8 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `1-design-techniques/handouts/peer-review.md` | **Material.** Students need it in front of them during the test |
+| 1 | `1-design-techniques/handouts/peer-review.md` | **Material.** Students need it open the whole period |
+| 1b | **A Classroom Question** for DT, short answer, **student replies turned on**. That is where links and feedback live |
 | 2 | `2-video-and-sound/handouts/filming-signup.md` | **Material.** Read it before signing up |
 
 **Not posted, teacher only:** `3-aviation-uas/handouts/coordinate-bell-ringers.md` and
@@ -37,7 +38,8 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 |------|------|------|
 | 1 | `1-design-techniques/outline.md` | Material. Week 6 at a glance |
 | 2 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
-| 3 | `1-design-techniques/handouts/peer-review.md` | **Material, post Tuesday morning.** The partner test protocol and the review sheet |
+| 3 | `1-design-techniques/handouts/peer-review.md` | **Material, post Tuesday morning.** The Classroom peer review protocol and the rubric self-check |
+| 4 | **Classroom Question**, short answer, student replies ON | **Post Tuesday morning.** "Post your prototype link. Your name and your link, nothing else." |
 
 **Already out:** the project, the labs, ui-patterns, components-and-variants, overlays-scroll-input.
 
