@@ -28,7 +28,7 @@
 | Day | Focus | Turn in |
 |-----|-------|---------|
 | Mon Sep 21 | Chart symbols review, then a full-area read | Area read |
-| Tue Sep 22 | Plan a flight from the chart: airspace, ceiling, obstructions, weather | Site plan |
+| Tue Sep 22 | Coordinates to airspace: find a point, name the class, floor, and ceiling | Chart work time |
 | Wed Sep 23 | Work time: sectionals or ODOT Module 1 | Progress |
 | Thu Sep 24 | **Flight day: the box pattern.** ODOT Module 1 due tonight | Flight log |
 | Fri Sep 25 | **Quiz** | |

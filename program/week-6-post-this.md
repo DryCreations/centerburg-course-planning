@@ -19,12 +19,25 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 
 ---
 
+## Tuesday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/peer-review.md` | **Material.** Students need it in front of them during the test |
+| 2 | `2-video-and-sound/handouts/filming-signup.md` | **Material.** Read it before signing up |
+
+**Not posted, teacher only:** `3-aviation-uas/handouts/coordinate-bell-ringers.md` and
+`4-middle-school-cs/handouts/bell-ringers.md`. Both hold answers. They go on the board, not in Classroom.
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/outline.md` | Material. Week 6 at a glance |
 | 2 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
+| 3 | `1-design-techniques/handouts/peer-review.md` | **Material, post Tuesday morning.** The partner test protocol and the review sheet |
 
 **Already out:** the project, the labs, ui-patterns, components-and-variants, overlays-scroll-input.
 
@@ -36,6 +49,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 |------|------|------|
 | 1 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
 | 2 | `2-video-and-sound/outline.md` | Material |
+| 3 | `2-video-and-sound/handouts/filming-signup.md` | **Material, post Tuesday morning.** Slots, ready-means-ready, and room rules |
 
 **Already out:** reset-and-replan, equipment-procedure, review-packet, the project.
 

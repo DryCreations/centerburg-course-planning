@@ -9,10 +9,32 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **QUIZ**, then build | **QUIZ**, then new groups work their plans | Symbol review, read a whole area | **New game:** ship and shooting | **Post the two week assignment** |
-| **Tue** | Labs: Selection and Input, build | Plans, then production | Plan a flight from the chart | **Waves**, built with nested loops | Shoot, spread work |
+| **Tue** | **Peer review**, then Input, build | **Filming restarts in this room**, by sign-up | Coordinate bell ringer, then chart work | **Waves**, built with nested loops | Shoot, spread work |
 | **Wed** | Connect everything both ways | Production | Work time: sectionals or ODOT | Hits, misses, and ending | Shoot, spread work |
 | **Thu** | Second partner test, final fixes | Production | **FLIGHT: box pattern.** ODOT Mod 1 due tonight | Extensions, then showcase | Shoot, spread work |
 | **Fri** | Write-up, post to portfolio, submit | Production | **QUIZ** | **QUIZ** | Shoot, spread work |
+
+---
+
+## Tuesday Sep 22
+
+| Class | What ran |
+|-------|----------|
+| **DT** | Ten minutes to make files runnable, then peer review in pairs, then build. Lab 6 Input for anyone whose task involves typing. New handout: `handouts/peer-review.md` |
+| **V&S** | Filming restarts, **in this room**, on a three-slot sign-up board across the three manual-video cameras. New handout: `handouts/filming-signup.md` |
+| **Aviation** | Bell ringer: a latitude and longitude, found on SkyVector, name the class you are standing in plus its floor and ceiling. Extension is every layer above. Then chart work time and ODOT Module 1. Teacher reference: `handouts/coordinate-bell-ringers.md` |
+| **MS CS** | Bell ringer on nested loops (3 x 6 = 18), then Day 2 of Wave Defender. No new blocks. Teacher reference: `handouts/bell-ringers.md` |
+| **Yearbook** | Work time. No instruction. Cameras out under the assignment's checkout options |
+
+### Tuesday calls
+
+- **DT peer review is structured, not open-ended.** The builder reads one task sentence and then says
+  nothing. The tester thinks out loud. Feedback uses "When I ___, I expected ___, but ___." Every piece of
+  feedback gets either "changed it" or "not changing it because," and that list feeds Friday's write-up.
+- **V&S sign-ups are one slot per group per day** until every group has had one, then seconds open up.
+  Three fifteen-minute slots, three cameras. The T3 stays stills and second angles only.
+- **The Aviation coordinates need verifying on SkyVector before use.** Candidates are listed in the
+  handout and flagged. They could not be confirmed from here.
 
 ---
 

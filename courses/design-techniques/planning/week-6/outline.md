@@ -19,7 +19,7 @@ and the portfolio post. Assignment details are in the Week 5 `project.md`.
 | Day | Lab | Then |
 |-----|-----|------|
 | Mon Sep 21 | **QUIZ** | Then Selection, then build your screens |
-| Tue Sep 22 | Input | Build the last screen |
+| Tue Sep 22 | **Peer review** | Then Input, then build |
 | Wed Sep 23 | Transitions | Connect everything, both directions |
 | Thu Sep 24 | Putting it together | Second partner test, final fixes |
 | Fri Sep 25 | | **QUIZ**, then write-up, post to portfolio, submit |
