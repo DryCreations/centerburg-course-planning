@@ -39,21 +39,78 @@ are in a row.
 
 ---
 
-## Wednesday Sep 23
+## Wednesday Sep 23: quiz prep set
+
+Friday's quiz covers loops, nested loops, `while`, `for index`, modulo, conditionals, variables, and
+debugging. **Put up two or three of these**, not all five. Take the ones the class is weakest on.
+
+### A. Reading a nested loop
 
 ```
-BELL RINGER
+  repeat 4 times
+    repeat 5 times
+      set mySprite to sprite of kind Enemy
+
+How many sprites?
+```
+
+**20.** The wrong answer is 9. Multiply, do not add.
+
+### B. The for loop that counts zero
+
+```
+  for index from 0 to 3
+    change score by 1
+
+What is the score at the end?
+```
+
+**4.** Index is 0, 1, 2, 3. `from 0 to 3` runs **four** times. This is the single most missed idea on the
+quiz. Say it out loud: count the zero.
+
+### C. Modulo
+
+```
+  if remainder of score / 5 = 0 then
+    set life to life + 1
+
+At which scores does the player gain a life?
+```
+
+**5, 10, 15, 20, and so on.** Also 0, which is worth pointing out.
+
+The sentence to make them say: **"remainder equals zero means it divides evenly,"** which is how you do
+"every Nth time" in any language.
+
+### D. while versus forever
+
+```
+  set lives to 3
+  while lives > 0
+    change lives by -1
+
+How many times does the loop run?
+What if the last line said "change lives by 1"?
+```
+
+**3.** With `change lives by 1` it never ends: lives grows, the condition stays true, the game freezes.
+
+**The vocabulary:** an **infinite loop**. A `while` needs something inside it that moves the condition
+toward false.
+
+### E. Debugging, read the symptom
+
+```
+One shot hits one alien and the whole column disappears.
 
   on overlap Projectile with Enemy
     change score by 1
     destroy Enemy
 
-One shot hits one alien, and the whole column disappears.
 What is missing?
 ```
 
-**Answer:** the **projectile is never destroyed.** It keeps flying up through every sprite above it, and
-every one of them overlaps it. Add `destroy Projectile` inside the same overlap block.
+**`destroy Projectile`.** The shot keeps flying up through everything above it, overlapping each one.
 
 ---
 

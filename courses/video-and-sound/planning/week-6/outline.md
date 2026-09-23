@@ -21,7 +21,7 @@ their own schedules, in this room, and earn location privileges by running a ful
 |-----|-------|
 | Mon Sep 21 | **Quiz.** Then your new group's plan, jobs, and schedule |
 | Tue Sep 22 | **Filming restarts, in this room.** Sign up for a slot |
-| Wed Sep 23 | Production |
+| Wed Sep 23 | Production, then **CapCut**: offload and build a rough timeline |
 | Thu Sep 24 | Production |
 | Fri Sep 25 | Production. Footage offloaded, named, and logged |
 

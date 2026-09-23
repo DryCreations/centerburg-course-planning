@@ -20,21 +20,37 @@ the book.
 | **Usable means** | In focus, correctly exposed, and something is actually happening |
 | **What to shoot** | Games, practices, rehearsals, club meetings, classes, hallways, the parking lot before school, anything real |
 | **Named and offloaded** | `LastName_Event_01.jpg`, in your folder, before the deadline |
+| **Where they go** | **Uploaded to eDesign AND posted to Google Classroom.** Both. One is not the other |
 
 **Twenty frames is not twenty attempts.** Shoot far more than twenty and turn in the ones that work.
 
-### When and how to get a camera
+### Where the photos go
 
-You have three ways. **Use whichever fits your schedule.**
+**Both places, by the deadline.**
+
+| | |
+|---|---|
+| **eDesign** | Upload your usable frames to the image library so they can actually go in the book |
+| **Google Classroom** | Post them on the assignment so they are turned in and gradeable |
+
+Uploading to one and not the other is an incomplete submission. eDesign is where the book gets built.
+Classroom is how it gets graded.
+
+### Getting a camera: this is a requirement
+
+**Everybody takes a camera out during these two weeks.** Not during class only. **You take it through the
+school day, or you take it after school.** Pick one.
 
 | Option | How it works |
 |--------|--------------|
-| **During class** | Sign out, shoot, return before the bell. Same procedure as always |
 | **All day** | Sign it out in the morning or during our class, carry it through the day, and **return it at the end of the day, after 9th period** |
 | **After school** | Sign up for an event. Take the camera, shoot, **return it the same day** |
 
-**The all-day option is the one that makes this work.** If there is a game at 4:00, or something happening
-during 3rd period you want to catch, sign the camera out and keep it with you.
+**In-class checkout still exists, but it does not satisfy this on its own.** The whole point is being
+somewhere a class period cannot take you.
+
+**Sign up for your day.** The sheet is in the room. Do it now rather than next Thursday, because there are
+a fixed number of cameras and the last two days will be full.
 
 ### Rules for all-day and after-school checkout
 
@@ -79,7 +95,10 @@ It does not need to be finished. This is a progress check.
 
 - [ ] At least 20 usable frames, from 2 or more events or subjects
 - [ ] Files named and offloaded
+- [ ] **Uploaded to eDesign**
+- [ ] **Posted to Google Classroom**
 - [ ] PDF check-in of your current spread or page
+- [ ] **You took a camera out through the day or after school**, at least once
 - [ ] Camera returned, every time, same day
 
 ---
@@ -89,7 +108,9 @@ It does not need to be finished. This is a progress check.
 **Because real coverage cannot be scheduled into one class period.** The things worth photographing happen
 after school, during other periods, and on days you are not expecting.
 
-Two weeks and an all-day camera option means you can actually be where something is happening.
+Two weeks and an all-day camera means you can actually be where something is happening. That is also why
+taking one out is a requirement and not a suggestion: coverage shot only between these four walls is not
+coverage.
 
 **Do not wait until Thursday of next week.** The events that make a good yearbook page will have already
 happened by then.

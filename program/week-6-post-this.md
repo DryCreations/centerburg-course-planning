@@ -32,6 +32,23 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 
 ---
 
+## Wednesday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/what-feedback-is.md` | **Material.** The standard, the sort, and the rewrite |
+| 2 | `2-video-and-sound/handouts/capcut-first-timeline.md` | **Material.** Offload steps, the timeline assignment, and the vocab |
+| 3 | `3-aviation-uas/handouts/readiness-check.md` | **Material.** 12 questions, ungraded, done in class |
+| 4 | `3-aviation-uas/handouts/regulations-practice.md` | **Material, optional.** Self-study, answers included, not collected |
+| 5 | `5-yearbook/project.md` | **Repost.** Updated: checkout required, eDesign AND Classroom |
+
+**Also before DT:** pull 4 to 6 real replies off Tuesday's Classroom Question, **names removed**, into a
+slide or doc. That is the sort you put on the board.
+
+**Not posted, teacher only:** `3-aviation-uas/handouts/readiness-check-key.md`.
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
@@ -40,6 +57,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 | 2 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
 | 3 | `1-design-techniques/handouts/peer-review.md` | **Material, post Tuesday morning.** The Classroom peer review protocol and the rubric self-check |
 | 4 | **Classroom Question**, short answer, student replies ON | **Post Tuesday morning.** "Post your prototype link. Your name and your link, nothing else." |
+| 5 | `1-design-techniques/handouts/what-feedback-is.md` | **Material, post Wednesday morning.** The reset. The rewrite is the grade |
 
 **Already out:** the project, the labs, ui-patterns, components-and-variants, overlays-scroll-input.
 
@@ -52,6 +70,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 | 1 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Monday**, cut to 20 |
 | 2 | `2-video-and-sound/outline.md` | Material |
 | 3 | `2-video-and-sound/handouts/filming-signup.md` | **Material, post Tuesday morning.** Slots, ready-means-ready, and room rules |
+| 4 | `2-video-and-sound/handouts/capcut-first-timeline.md` | **Material, post Wednesday morning.** First timeline, four moves, editing vocab |
 
 **Already out:** reset-and-replan, equipment-procedure, review-packet, the project.
 
@@ -65,7 +84,10 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 | 2 | `3-aviation-uas/handouts/box-pattern-flight.md` | **Material, post by Wednesday.** The Thursday flight task |
 | 3 | Quiz from `3-aviation-uas/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 
-**Say daily:** ODOT Module 1 due Thursday night, and it is on Friday's quiz.
+| 4 | `3-aviation-uas/handouts/readiness-check.md` | **Material, post Wednesday.** Ungraded, done in class |
+| 5 | `3-aviation-uas/handouts/regulations-practice.md` | **Material, optional.** Self-study with answers, not collected |
+
+**Module 1 work time is over.** It should be finished. It is still on Friday's quiz.
 
 ---
 
@@ -86,7 +108,7 @@ Week 6. Each line is one post. Paths are inside `week-6-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `5-yearbook/project.md` | **Assignment, post today.** Photos + check-in, due Fri Oct 2 |
+| 1 | `5-yearbook/project.md` | **Assignment, post today. Repost Wednesday after the update.** Photos + check-in, due Fri Oct 2. Checkout is now required, and photos go to eDesign AND Classroom |
 | 2 | `5-yearbook/outline.md` | Material |
 
 ---
