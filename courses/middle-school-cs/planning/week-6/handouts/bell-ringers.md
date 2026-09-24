@@ -114,29 +114,101 @@ What is missing?
 
 ---
 
-## Thursday Sep 24
+## Thursday Sep 24: last quiz prep
+
+**The quiz is tomorrow.** Put up two or three of these, not all six. Take whatever Wednesday's set showed
+was weakest, then go over each one out loud.
+
+### A. while, and the loop that never ends
 
 ```
-BELL RINGER
-
-  set count to 0
-  while count < 5
-    set mySprite to sprite of kind Enemy
-    change count by 1
+  set lives to 3
+  while lives > 0
+    change lives by -1
 
 How many times does the loop run?
-What happens if the LAST line is deleted?
+What happens if it says "change lives by 1" instead?
 ```
 
-**Answer:** **5** (count is 0, 1, 2, 3, 4). Delete `change count by 1` and `count` stays 0 forever, the
-condition is always true, and it never stops. The game freezes.
+**3.** With `change lives by 1` it never ends: lives grows, the condition stays true, the game freezes.
+That is an **infinite loop**. A `while` needs something inside it that pushes the condition toward false.
 
-**The vocabulary to say out loud:** an **infinite loop.** A `while` loop needs something inside it that
-moves it toward being false.
+### B. Variables: the order of the lines matters
+
+```
+  set score to 0
+  set score to score + 5
+  set score to score x 2
+
+What is score at the end?
+```
+
+**10.** Not 5, not 20. Lines run top to bottom, one at a time. Read it a line at a time out loud and they
+will get it.
+
+### C. Conditional inside a loop
+
+```
+  for index from 0 to 5
+    if remainder of index / 2 = 0 then
+      set mySprite to sprite of kind Enemy
+
+How many enemies?
+```
+
+**3.** Index runs 0, 1, 2, 3, 4, 5, which is **six** times, and the even ones are 0, 2, 4. Two ideas in
+one question, which is what the quiz does.
+
+### D. Counting the zero, one more time
+
+```
+  for index from 0 to 9
+    change score by 1
+
+What is the score?
+```
+
+**10.** This is the most-missed idea on the quiz and it is worth putting up even if they got it
+yesterday.
+
+### E. Nested, with different numbers
+
+```
+  repeat 2 times
+    repeat 7 times
+      change score by 1
+
+What is the score?
+```
+
+**14.** Multiply, do not add. Anyone answering 9 is adding.
+
+### F. Debugging from a symptom
+
+```
+The ship shoots, but the shots fall toward the bottom
+of the screen instead of going up.
+
+What is wrong?
+```
+
+**The vy is positive.** On screen, y increases downward, so **negative vy is up.**
 
 ---
 
-## Friday Sep 26 (quiz day)
+## Before the quiz, say these four out loud
+
+Worth ninety seconds at the end of the bell ringer:
+
+1. **`for index from 0 to N` runs N+1 times.** Count the zero
+2. **A loop inside a loop multiplies.** Inside means it runs all the way through, every time
+3. **`remainder = 0` means it divides evenly.** That is how you do "every Nth time"
+4. **`while` asks a question every time around. `forever` never asks.** A `while` needs something that
+   makes the answer become no
+
+---
+
+## Friday Sep 25 (quiz day)
 
 ```
 BELL RINGER

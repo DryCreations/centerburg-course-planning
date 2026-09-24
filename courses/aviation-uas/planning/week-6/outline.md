@@ -30,7 +30,7 @@
 | Mon Sep 21 | Chart symbols review, then a full-area read | Area read |
 | Tue Sep 22 | Coordinates to airspace: find a point, name the class, floor, and ceiling | Chart work time |
 | Wed Sep 23 | Readiness check: 12 questions, ungraded, gone over the same period | Know what to study |
-| Thu Sep 24 | **Flight day: the box pattern.** ODOT Module 1 due tonight | Flight log |
+| Thu Sep 24 | **FLIGHT: box pattern warm-up, then the circle drill** | Fly it |
 | Fri Sep 25 | **Quiz** | |
 
 ### What You'll Get This Week

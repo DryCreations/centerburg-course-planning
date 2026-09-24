@@ -1,4 +1,4 @@
-# WEDNESDAY (Sep 24): Slide Prompts (all classes)
+# WEDNESDAY (Sep 23): Slide Prompts (all classes)
 
 Every block is **one prompt, for one slide.** Board versions included.
 **Career-tech classes open with standards**, written out, meant to stay on the board.

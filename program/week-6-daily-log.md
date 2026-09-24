@@ -11,7 +11,7 @@
 | **Mon** | **QUIZ**, then build | **QUIZ**, then new groups work their plans | Symbol review, read a whole area | **New game:** ship and shooting | **Post the two week assignment** |
 | **Tue** | **Peer review**, then Input, build | **Filming restarts in this room**, by sign-up | Coordinate bell ringer, then chart work | **Waves**, built with nested loops | Shoot, spread work |
 | **Wed** | **What feedback is.** Rewrite, then connect both ways | Filming, then **CapCut timelines** | **Readiness check**, ungraded | Quiz-prep bell ringer, then hits/misses/ending | **Sign up for a camera day** |
-| **Thu** | Second partner test, final fixes | Production | **FLIGHT: box pattern.** ODOT Mod 1 due tonight | Extensions, then showcase | Shoot, spread work |
+| **Thu** | **Embed to the portfolio**, then the reflection | **CapCut lab**, individual cuts | **FLIGHT: circle drill.** ODOT Mod 1 due tonight | Last quiz prep, then finish the game | Shoot, spread work |
 | **Fri** | Write-up, post to portfolio, submit | Production | **QUIZ** | **QUIZ** | Shoot, spread work |
 
 ---
@@ -44,7 +44,37 @@
 
 ---
 
-## Wednesday Sep 24
+## Thursday Sep 24
+
+| Class | What ran |
+|-------|----------|
+| **DT** | Live demo of the Figma embed into Google Sites, then everyone publishes and writes the reflection. The four standards get written about **by name, in plain language**. New handout: `handouts/portfolio-embed.md` |
+| **V&S** | CapCut demo on the projector, then the two day lab. **Individual:** same group footage, separate projects, separate cuts. Level 1 is required (order, trim, title card, credits, export), Levels 2 and 3 exist so nobody idles. New handout: `handouts/capcut-lab.md` |
+| **Aviation** | **Flight day.** Preflight gate, one box pattern as the warm-up, then the circle drill: 15 ft, ~20 ft radius, nose fixed, both directions. New handout: `handouts/circle-drill.md` |
+| **MS CS** | Six item last quiz prep set, two or three of them, then the four things to know cold, then finish the game |
+| **Yearbook** | Work time. Photo push, and name who is not on the sign-up sheet |
+
+### Thursday calls
+
+- **The circle replaced the box as the main event**, with the box kept as the warm-up gate. A box can be
+  flown one stick at a time; a circle cannot, which is the whole reason for it. **Nose stays fixed**, no
+  yaw, so students are forced to mix roll and pitch continuously rather than steering with the nose.
+- **Orientation is taught explicitly, not discovered.** When the nose comes around toward the pilot,
+  their left is its right. The instruction given is: slow down before the far side, small inputs, say the
+  orientation out loud, and **let go and hover when you lose it**, which is framed as a correct response
+  rather than giving up.
+- **Most pilots reach step 3 or 4 of 6 and that is a fine day.** Step 6 (nose-in) is genuinely hard and
+  gated behind step 5 being comfortable.
+- **The V&S lab is individual on purpose.** Same footage, different edits, and they will not match. It
+  is also the only way everybody actually touches the software rather than one person driving.
+- **Levels 2 and 3 are the extension structure**, so a fast group has somewhere real to go: cut five more
+  seconds, fix the worst cut with a cutaway, then a whole second version in a different order.
+- **DT reflection requires naming the standards in plain words**, not numbers. A portfolio that names the
+  competencies is one that can go to an employer or a BPA judge.
+
+---
+
+## Wednesday Sep 23
 
 | Class | What ran |
 |-------|----------|
@@ -125,6 +155,9 @@ These were decided rather than asked. **Each is a small change if wrong.**
 - **DT course map still needs resequencing.** Unit 1.4 is scheduled for weeks 8 to 9 and has been taught.
 - **Digital citizenship material is written and parked** in `courses/middle-school-cs/planning/deferred/`.
   The IC strand still has not been covered; it gets a quarter where a break from code is genuinely useful.
+- **Check the Figma embed path before DT.** If Get embed code is not where expected on the free plan,
+  the fallback is Insert > Embed > By URL with the share link, then screenshots of every screen. The
+  fallback is in the handout but the demo should not be the first time it is discovered.
 - **DaVinci Resolve is still not installed.** CapCut on the Macs is the stopgap and the handout is
   written to transfer. Chase the install: the four moves only get you so far.
 - **Watch whether the DT rewrite actually lands.** If Wednesday's replies are still empty, the problem is

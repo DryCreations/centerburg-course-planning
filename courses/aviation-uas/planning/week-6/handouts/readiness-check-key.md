@@ -1,6 +1,6 @@
 # Readiness Check: Key and Teaching Notes
 
-**Aviation UAS | Week 6, Wednesday Sep 24** | **Teacher only**
+**Aviation UAS | Week 6, Wednesday Sep 23** | **Teacher only**
 
 Go over it out loud the same period. **Do not collect it for a grade.** The value is the conversation
 immediately after, and students will not guess honestly on something being graded.

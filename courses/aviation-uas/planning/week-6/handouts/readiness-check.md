@@ -1,6 +1,6 @@
 # Readiness Check
 
-**Aviation UAS | Week 6, Wednesday Sep 24**
+**Aviation UAS | Week 6, Wednesday Sep 23**
 
 **This is not graded.** It is twelve questions in the same format as Friday's quiz, so that both of us
 find out what is not solid while there are still two days to fix it.

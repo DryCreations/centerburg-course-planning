@@ -49,6 +49,22 @@ slide or doc. That is the sort you put on the board.
 
 ---
 
+## Thursday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/portfolio-embed.md` | **Material.** Embed steps, the reflection, and the standards to write about |
+| 2 | `2-video-and-sound/handouts/capcut-lab.md` | **Material.** Two day lab, individual. Level 1 required |
+
+**Before DT:** walk the embed path yourself once (Figma Share > Get embed code > Google Sites Insert >
+Embed > Embed code > Publish) so the demo does not stall. Fallback if it is not there: Insert > Embed >
+By URL.
+
+**Aviation is outside.** Print or have on a device: `3-aviation-uas/handouts/circle-drill.md` and the
+box pattern sheet. The Logger needs the pilot log.
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
@@ -58,6 +74,7 @@ slide or doc. That is the sort you put on the board.
 | 3 | `1-design-techniques/handouts/peer-review.md` | **Material, post Tuesday morning.** The Classroom peer review protocol and the rubric self-check |
 | 4 | **Classroom Question**, short answer, student replies ON | **Post Tuesday morning.** "Post your prototype link. Your name and your link, nothing else." |
 | 5 | `1-design-techniques/handouts/what-feedback-is.md` | **Material, post Wednesday morning.** The reset. The rewrite is the grade |
+| 6 | `1-design-techniques/handouts/portfolio-embed.md` | **Material, post Thursday morning.** Embed, reflection, and the standards |
 
 **Already out:** the project, the labs, ui-patterns, components-and-variants, overlays-scroll-input.
 
@@ -71,6 +88,7 @@ slide or doc. That is the sort you put on the board.
 | 2 | `2-video-and-sound/outline.md` | Material |
 | 3 | `2-video-and-sound/handouts/filming-signup.md` | **Material, post Tuesday morning.** Slots, ready-means-ready, and room rules |
 | 4 | `2-video-and-sound/handouts/capcut-first-timeline.md` | **Material, post Wednesday morning.** First timeline, four moves, editing vocab |
+| 5 | `2-video-and-sound/handouts/capcut-lab.md` | **Material, post Thursday morning.** The two day lab. Individual cuts, Levels 1 to 3 |
 
 **Already out:** reset-and-replan, equipment-procedure, review-packet, the project.
 
@@ -81,7 +99,8 @@ slide or doc. That is the sort you put on the board.
 | Post | File | Type |
 |------|------|------|
 | 1 | `3-aviation-uas/outline.md` | Material. Week at a glance, including the quiz scope |
-| 2 | `3-aviation-uas/handouts/box-pattern-flight.md` | **Material, post by Wednesday.** The Thursday flight task |
+| 2 | `3-aviation-uas/handouts/box-pattern-flight.md` | **Material.** Now the Thursday warm-up rather than the main event |
+| 2b | `3-aviation-uas/handouts/circle-drill.md` | **Material, post Thursday.** The flight drill. Bring it outside |
 | 3 | Quiz from `3-aviation-uas/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 
 | 4 | `3-aviation-uas/handouts/readiness-check.md` | **Material, post Wednesday.** Ungraded, done in class |

@@ -1,6 +1,6 @@
 # CapCut: Your First Timeline
 
-**Video & Sound Production (145110) | Week 6, Wednesday Sep 24**
+**Video & Sound Production (145110) | Week 6, Wednesday Sep 23**
 
 We do not have DaVinci Resolve yet. **CapCut is installed on the Macs**, and the parts of editing that
 matter (the timeline, the playhead, trimming, ordering, and export) work the same way in every editor

@@ -1,6 +1,6 @@
 # What Feedback Is
 
-**Course:** Design Techniques (145095) | **Week 6, Wednesday Sep 24**
+**Course:** Design Techniques (145095) | **Week 6, Wednesday Sep 23**
 
 Yesterday most of the replies posted on Classroom were not feedback. **Today you write them again, and
 the rewrite is the grade.**
