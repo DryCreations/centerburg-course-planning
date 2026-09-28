@@ -9,9 +9,9 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **Login test first.** Then find the state, or Plan B | **Cut 20% out** | **Quiz review**, then how to study | **Quiz review**, then build a list together | **Spirit week.** Cameras out |
-| **Tue** | Wire it: a button that changes the value | **Screening and peer review** | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
-| **Wed** | Read it: bound text, conditionals | **Color and audio** | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
-| **Thu** | Polish, partner test, write-up | **Vocab review**, then plan the next shoot | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
+| **Tue** | Variables, or photography starts | **How cuts happen:** J-cuts, L-cuts, cutting on action | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
+| **Wed** | Read it: bound text, conditionals | **Color**, and untouched CapCut features | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
+| **Thu** | Polish, partner test, write-up | Screening and/or next project. **Flexible** | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
 | **Fri** | **QUIZ**, then submit | **QUIZ**, then export and submit | **BPA event selection** | Finish and show | **Photos + check-in DUE.** Events |
 
 ---
@@ -24,13 +24,19 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   so the load goes to the concept instead of to file setup. More importantly, **the lesson is only
   available because they built it the hard way first**: a student who never duplicated four frames has no
   reason to care that a variable prevents it.
-- **V&S stays in CapCut and goes wider rather than opening the audio unit.** Confirmed. The week now
-  runs pacing, screening and peer review, color plus audio, then vocab and pre-production for the next
-  project. Audio still gets half of Wednesday, which is a soft on-ramp to Unit 1.3 later.
-- **The V&S screening is scheduled next to the vocab day on purpose.** Peer notes are live rehearsal
-  for the quiz: "it felt weird" gets sent back, "the cut at 0:14 is a jump cut" is the standard.
-- **Pre-production for the next project starts Thursday, not next week.** They have just felt what bad
-  coverage costs in the edit, and that is the only moment pre-production is ever persuasive.
+- **V&S stays in CapCut and goes to editing craft, not audio.** Monday is review, Tuesday is **how cuts
+  actually happen** (J-cuts, L-cuts, cutaways, match cuts, cutting on action), Wednesday is **color plus
+  the CapCut features they have not touched**. Audio is deliberately held to about a minute.
+- **Audio gets its own unit later rather than a corner of this one.** Unit 1.3 is ~16% of the WebXam and
+  half-teaching it now would be worse than waiting.
+- **The framing said out loud all week: they have been learning the tool, this week is the craft.**
+  Every technique this week works identically in Premiere, Resolve and Final Cut, and none of them are
+  CapCut features. That changes how the week is received.
+- **Thursday in V&S is deliberately loose.** Screening and next-project planning are both written; pick
+  midweek. The screening is the safer pick the week of a vocabulary quiz, because peer notes force the
+  words into use.
+- **Both DT and V&S get a Gimkit kit**, 52 and 58 questions, already in Gimkit's column order. **Retrieval
+  first, game second**, or the game is just entertainment.
 - **Aviation moves to Unit 1.4 and sectionals become a daily bell ringer.** On map (1.3 is weeks 5 to 7,
   1.4 is weeks 8 to 9), and charts are a lookup skill that rewards spaced repetition over a fourth
   consecutive week. They return as a tool, not a topic, in Unit 2.2 at weeks 13 to 15.
@@ -44,6 +50,9 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   deliberately not as a lecture about effort.
 - **Both Friday quizzes close their own recent unit**, with a carried-forward minority so earlier
   material stays live before the WebXam.
+- **Monday is a review day in four of the five classes.** DT and V&S review for Friday, Aviation and MS
+  CS review last Friday's quiz. That was not planned as a theme, but it is a reasonable shape for the
+  Monday of a quiz week.
 - **Monday is review in both Aviation and MS CS**, run off real miss counts, with a student who got it
   right doing the explaining rather than the teacher.
 
@@ -52,13 +61,15 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 ## Design Techniques has two plans
 
 **Student logins on the upgraded Figma plan cannot be verified until a student is actually in there.**
-So Monday opens with a test, not a lesson: two or three students log in and open the Variables panel
-before anything is taught.
+So Monday opens with a ten minute test, and then **Monday is a review day either way.**
+
+**The test only decides Tuesday.** That is deliberate: the risk is contained to one class period, and if
+the logins fail, Monday was still a useful review before Friday's quiz rather than a wasted one.
 
 | | |
 |---|---|
-| **Plan A** | State and variables, as planned. Extend the existing prototype |
-| **Plan B** | Close Unit 1.4 and open **Q2 Unit 2.1 Photography**. Composition, light, cull and critique |
+| **Plan A** | Review Monday, then state and variables Tue to Thu. Extend the existing prototype |
+| **Plan B** | Review all of Monday, then **Q2 Unit 2.1 Photography** from Tuesday. Composition, light, cull and critique |
 
 **Plan B is the next unit on the map**, so the pivot costs nothing in sequence, and it depends on nothing
 working: phones are fine, and spirit week means there is something to photograph in every hallway.

@@ -23,7 +23,7 @@ A **variable** is how you stop faking it. One value, stored, that screens read f
 
 | Day | Lab | Then |
 |-----|-----|------|
-| Mon Sep 28 | Find the state in your project | Set up your first variable |
+| Mon Sep 28 | **Review**, then variables | Find the state in your own project |
 | Tue Sep 29 | Wire it: buttons that change the value | Replace your duplicate frames |
 | Wed Sep 30 | Show it: screens that read the value | Conditional visibility |
 | Thu Oct 1 | Polish, test with a partner, write it up | |

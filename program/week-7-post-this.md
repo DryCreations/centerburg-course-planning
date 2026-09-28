@@ -8,21 +8,36 @@ Week 7. Each line is one post. Paths are inside `week-7-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `2-video-and-sound/handouts/editing-depth-lab.md` | **Material.** The whole week |
+| 1 | `2-video-and-sound/vocab.md` | **Material. The study guide**, and it says how to study it |
 | 2 | `4-middle-school-cs/handouts/starter-code-lists.md` | **Material.** Today's build, follow along |
 | 3 | `5-yearbook/handouts/spirit-week-shot-plan.md` | **Material.** Post before cameras go out |
 | 4 | `3-aviation-uas/handouts/how-to-study-this.md` | **Material.** Monday's second half |
 | 5 | **DT: hold.** Post `state-and-variables.md` **or** `photo-composition.md` once you know which plan | See below |
+
+### Gimkit kits, both ready to import
+
+| Class | File | Questions |
+|-------|------|-----------|
+| Design Techniques | `1-design-techniques/gimkit-review.csv` | 52 |
+| Video & Sound | `2-video-and-sound/gimkit-review.csv` | 58 |
+
+Columns are already in Gimkit's order: **Question, Correct Answer, Incorrect Answer 1, 2, 3.** Create a
+kit, Import, upload or paste, host.
+
+> **Retrieval first, game second.** If the game comes first it is entertainment. If they have already
+> found out what they do not know, the game is the second pass and it sticks.
 
 ### Design Techniques is a decision, not a post
 
 **Do not post a DT handout until the login test is done.** First ten minutes of class: two or three
 students log in and open the Figma Variables panel.
 
-| Result | Post |
+**Monday is a review day either way.** The test only decides Tuesday.
+
+| Result | Post, and when |
 |--------|------|
-| Panel is there | `1-design-techniques/handouts/state-and-variables.md` |
-| Missing, greyed out, or logins fail | `1-design-techniques/handouts/photo-composition.md` |
+| Panel is there | `1-design-techniques/handouts/state-and-variables.md`, **Monday** |
+| Missing, greyed out, or logins fail | `1-design-techniques/handouts/photo-composition.md`, **Tuesday** |
 
 **Do not narrate the licensing problem to students.** One sentence: *"We are done with this unit. It is
 finished work and it is on your portfolio. Today we start photography."*
@@ -36,8 +51,9 @@ lessons are built on real data, not a general review.
 
 | Post | File | Type |
 |------|------|------|
-| 1a | `1-design-techniques/handouts/state-and-variables.md` | **Plan A only.** Find the state, make the variable, delete the frames |
-| 1b | `1-design-techniques/handouts/photo-composition.md` | **Plan B only.** Composition, light, five frames |
+| 0 | `1-design-techniques/gimkit-review.csv` | **Monday's review game.** 52 questions, import straight in |
+| 1a | `1-design-techniques/handouts/state-and-variables.md` | **Plan A only, Monday.** Find the state, make the variable, delete the frames |
+| 1b | `1-design-techniques/handouts/photo-composition.md` | **Plan B only, Tuesday.** Composition, light, five frames |
 | 2 | `1-design-techniques/outline.md` | Material. Week at a glance. **Plan A wording** |
 | 3 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 
@@ -58,15 +74,19 @@ state questions, and what remains is exactly 20.** No new bank needed.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `2-video-and-sound/handouts/editing-depth-lab.md` | **Material, post Monday.** Monday's 20% cut and the extensions |
-| 2 | `2-video-and-sound/handouts/screening-and-peer-review.md` | **Material, post Tuesday.** The screening rules and the feedback sheet |
-| 3 | `2-video-and-sound/handouts/capcut-color-and-features.md` | **Material, post Wednesday.** Color order, audio, and the other features |
-| 4 | `2-video-and-sound/vocab.md` | **Material, post by Wednesday. This is the study guide**, and it says how to study it |
-| 5 | `2-video-and-sound/outline.md` | Material |
-| 6 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
+| 1 | `2-video-and-sound/vocab.md` | **Material, post Monday. The study guide**, and it opens with how to study it |
+| 2 | `2-video-and-sound/gimkit-review.csv` | **Monday's review game.** 58 questions, import straight in |
+| 3 | `2-video-and-sound/handouts/how-cuts-happen.md` | **Material, post Tuesday.** J-cuts, L-cuts, cutaways, cutting on action |
+| 4 | `2-video-and-sound/handouts/capcut-color-and-features.md` | **Material, post Wednesday.** Color order, then the features they have not touched |
+| 5 | `2-video-and-sound/handouts/screening-and-peer-review.md` | **Material, post Thursday** if you run the screening |
+| 6 | `2-video-and-sound/handouts/editing-depth-lab.md` | **Optional.** The 20% cut and the extension list. Good filler any day |
+| 7 | `2-video-and-sound/outline.md` | Material |
+| 8 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 
-**Due Friday:** final cut at 1080p **and** last week's assembly, both. Written feedback on two other
-people's cuts. Three sentences. Pre-production packet started for the next project.
+**Due Friday:** final cut at 1080p **and** last week's assembly, both. A log of the four cut techniques
+(timecode, which one, did it help). Three sentences.
+
+**Thursday is flexible.** Screening or next-project planning, both written. Decide midweek.
 
 ---
 
@@ -130,7 +150,8 @@ Each has a suggested cut in its `quiz.md`.
 
 If Monday goes sideways, in this order:
 
-1. **Run the DT login test anyway.** It is ten minutes and it decides the whole week
-2. **The Monday handouts**, V&S, MS CS, Yearbook, Aviation. Those four classes work straight out of them
+1. **The two Gimkit kits.** DT and V&S both run a full period off them alone
+2. **Run the DT login test anyway.** Ten minutes, and it decides Tuesday
 3. **The Yearbook shot plan**, so cameras go out the door on the best coverage week of the quarter
-4. Everything else can wait until Tuesday
+4. **`how-to-study-this.md`** for Aviation and the MS CS starter code
+5. Everything else can wait until Tuesday

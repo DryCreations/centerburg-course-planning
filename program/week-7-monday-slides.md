@@ -5,30 +5,33 @@ Every block is **one prompt, for one slide.** Board versions included.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Find the state. **Plan B (4 slides) if logins fail** |
-| Video & Sound | 4 | Cut 20% out |
+| Design Techniques | 5 | **Review**, then variables if the logins work |
+| Video & Sound | 4 | **Review.** Vocab, then Gimkit |
 | Aviation UAS | 3 | Quiz review, then the new unit |
 | Middle School CS | 5 | Quiz review, then build the list together |
 | Yearbook | 2 | Spirit week. Get cameras out the door |
 
 ---
 
-## 1. Design Techniques: Find the state
+## 1. Design Techniques: Review, then variables
 
 **Documents:** `week-7/handouts/state-and-variables.md` (student-facing, post it), `week-7/outline.md`
-**FIRST TEN MINUTES ARE A TEST, NOT A LESSON.** Student logins on the upgraded plan cannot be verified
-until a student is actually in there. **Have two or three students log in and open the Variables panel
-before you teach anything.**
+**Monday is review either way. The test only decides Tuesday.**
 
-| What you see | Do |
+| Part of the period | What |
 |---|---|
-| Panel is there, they can create a variable | **Plan A.** Slides below |
-| Panel missing, greyed out, or logins fail | **Plan B.** Jump to the photography block at the end of this section. Do not troubleshoot for a period |
+| **First 10 min** | **Login test.** Two or three students open the Figma Variables panel while the rest settle |
+| **Then** | **Review.** Vocabulary retrieval, then the Gimkit kit (`gimkit-review.csv`, 52 questions) |
+| **Last stretch** | **Panel works:** demo variables, they find the state in their own project. **Panel fails:** keep reviewing, and photography starts Tuesday |
 
-**If Plan B, say one sentence and move on:** *"We are done with this unit. It is finished work and it is
-on your portfolio. Today we start photography."* **Do not narrate the licensing problem to students.**
+**Retrieval first, game second.** If Gimkit comes first it is entertainment. If they have already found
+out what they do not know, the game is the second pass and it sticks.
 
-**Run Plan A as:** the finding exercise first, on paper, before anyone touches Figma. Then one variable.
+**Ten minutes on the login test, then move.** Do not troubleshoot for a period. The risk is contained:
+if it fails, Monday was still a useful review day before Friday's quiz.
+
+**If it fails, one sentence:** *"We are done with this unit. It is finished work and it is on your
+portfolio. Tomorrow we start photography."* **Do not narrate the licensing problem to students.**
 
 ### Slide 1: Standards today
 
@@ -39,7 +42,15 @@ on your portfolio. Today we start photography."* **Do not narrate the licensing 
 > storyboards, and flowcharts. Then a short line: "Today that means finding the part of your prototype
 > that changes, and building it for real." Design it to stay readable on the board all period. One slide.
 
-### Slide 2: The idea
+### Slide 2: Review first
+
+> Create one review slide for a high school design class titled "Review First." Body in large text: "Quiz
+> Friday. Before we do anything new, find out what you actually know." Numbered: "1) Vocabulary, on your
+> own. Cover the definition, say it out loud, check. 2) Mark ONLY the ones you missed. 3) Then we play."
+> Add a box in large text: "Recognizing a word when you see it next to its definition is not knowing it.
+> That's the trap with vocab lists, and it's why people who 'studied' still miss questions." One slide.
+
+### Slide 3: The idea
 
 > Create one concept slide for a high school design class titled "Layout And State." Two columns. Left,
 > LAYOUT: does not change, it is the structure, example, the cart icon is always in the top right. Right,
@@ -48,7 +59,7 @@ on your portfolio. Today we start photography."* **Do not narrate the licensing 
 > changes." Then one line at the bottom in large text: "A variable is a named box that holds one piece of
 > state." One slide.
 
-### Slide 3: Do Now, on paper
+### Slide 4: Do Now, on paper
 
 > Create one "Do Now" slide for a high school design class. Big title: "Find It In Your Own File." Body:
 > "Open your prototype. Do not touch anything yet." Then a numbered list: "1) Find two frames that are
@@ -56,7 +67,7 @@ on your portfolio. Today we start photography."* **Do not narrate the licensing 
 > in one or two words? 4) What CHANGES it, which button? 5) What READS it, which screens show it?" Then a
 > box in large text: "That one thing is your state. That name is your variable." One slide.
 
-### Slide 4: Why you had to do it the hard way first
+### Slide 5: Why you had to do it the hard way first
 
 > Create one slide for a high school design class. Big title in large text: "Duplicating a screen is how
 > you fake a change you cannot build yet." Body, shorter: last week you built four nearly identical
@@ -99,9 +110,12 @@ DELETING FRAMES IS THE DELIVERABLE.
 
 ---
 
-### PLAN B: Photography (use only if logins fail)
+### PLAN B: Photography (starts TUESDAY if the logins fail)
 
-**Documents:** `week-7/handouts/photo-composition.md` (student-facing, post it)
+**If the login test fails, Monday stays a review day.** Keep playing Gimkit, work the UX/UI vocabulary,
+and say the one sentence about starting photography tomorrow. **These slides are for Tuesday.**
+
+**Documents:** `week-7/handouts/photo-composition.md` (student-facing, post it Tuesday)
 **Why this fallback:** it is the next unit on the map (Q2 2.1, Photography), so the pivot costs nothing
 in sequence, and it depends on nothing working. **Phones are fine**, and Yearbook has the cameras this
 week because it is spirit week.
@@ -181,79 +195,83 @@ FIVE FRAMES, one sentence each (which rule + what you DID)
 
 ---
 
-## 2. Video & Sound: Cut 20% out
+## 2. Video & Sound: Review
 
-**Documents:** `week-7/handouts/editing-depth-lab.md` (student-facing, post it)
-**Run it as:** state the assignment, take the pushback, then work. **Everyone keeps both versions.**
-Still individual: separate projects, separate exports.
+**Documents:** `week-7/vocab.md` (student-facing, **this is the study guide**),
+`week-7/gimkit-review.csv` (58 questions, import straight into Gimkit),
+`week-7/handouts/editing-depth-lab.md` (the 20% cut, if there is time left)
+**Run it as:** retrieval on the vocab first, **then** the Gimkit game. Order matters.
+**Watch what the room misses in the game.** That is free diagnostic data for Friday's cut of 20.
 
 ### Slide 1: Standards today
 
 > Create one standards slide for a high school video production class titled "Today's Standards." List
 > these with their FULL text, not just the numbers, in large readable type: 7.3.7 Edit video footage.
-> 7.3.6 Integrate media elements into the production. 7.7.5 Select a linear or nonlinear editing system
-> and edit the video. Then a short line: "Today that means making your edit 20 percent shorter and
-> better at the same time." Design it to stay readable on the board all period. One slide.
+> 7.7.5 Select a linear or nonlinear editing system and edit the video. 7.7.6 Add transitions
+> (dissolves, wipes, cuts), titles, special effects, and digital effects. Then a short line: "Today that
+> means finding out what actually stuck, before Friday." One slide.
 
-### Slide 2: Assembly versus edit
+### Slide 2: How to study a vocab list
 
-> Create one slide for a high school video production class titled "You Assembled. Now Edit." Body: last
-> week you got clips in an order with the dead time trimmed, which is an ASSEMBLY; every assembly is too
-> long, too flat, and has at least one cut that hurts to watch. Then in large text: "Same footage. The
-> improvement comes entirely from decisions." Add a small week plan: MON pacing, TUE cutaways, WED audio,
-> THU titles and finish, FRI quiz and export. One slide.
+> Create one slide for a high school video production class titled "Review First." Numbered in large
+> text: "1) Cover the right column. Read a term, say the definition OUT LOUD, then check. 2) Mark only
+> the ones you missed. 3) Do the marked ones again. 4) Then go backwards: read a definition, name the
+> term." Then a box in very large text: "If you can only recognize a word when it's sitting next to its
+> definition, you don't know it yet." Add a line: "Then we play." One slide.
 
-### Slide 3: The assignment
+### Slide 3: The five pairs that get you
 
-> Create one slide for a high school video production class. Very large title: "Cut 20% Out." Body: "Take
-> your current runtime and remove a fifth of it. 90 seconds becomes 72. No exceptions." Then a box in
-> large text: "You cannot cut a fifth by trimming frames off the ends. You have to remove something you
-> liked. That is the assignment." Then a short list headed "Where the time actually is": the shot you are
-> proud of that does not move the piece; anything the audience already knows; dead air at the top, try
-> deleting your first shot entirely; the long walk, four seconds of someone crossing a room; the tail
-> after the point is made. One slide.
+> Create one slide for a high school video production class titled "The Five Everybody Mixes Up." Five
+> rows, each a pair with a one-line distinction: JUMP CUT vs MATCH CUT, one is a mistake, one is on
+> purpose. THE TWO 180 DEGREE RULES, one is shutter speed, one is camera placement, unrelated. COLOR
+> CORRECTION vs GRADING, making it look right vs making it look like something. J-CUT vs L-CUT, next
+> shot's sound comes early vs last shot's sound lingers. FRAME RATE vs SHUTTER SPEED, frames per second
+> vs how long each one is exposed. One slide.
 
-### Slide 4: Keep both
+### Slide 4: This week
 
-> Create one slide for a high school video production class titled "Keep Both Versions." Numbered: "1)
-> Save your long version. Do not overwrite it. 2) Make the short one. 3) Watch the short one, then the
-> long one, back to back. 4) Ask: did I lose anything a viewer would notice?" Then a box in large text:
-> "Usually you did not. That is the lesson." Add a line: "You are submitting BOTH on Friday. The
-> comparison is the evidence." One slide.
+> Create one slide for a high school video production class titled "This Week." A day plan: MONDAY,
+> review. TUESDAY, how cuts actually happen, J-cuts, L-cuts, cutting on action. WEDNESDAY, color, and the
+> parts of CapCut we haven't touched. THURSDAY, screening and what's next. FRIDAY, quiz, then export.
+> Then a box in large text: "You've been learning the tool. This week is the craft. Every technique this
+> week works the same in Premiere, Resolve and Final Cut. None of them are CapCut features." One slide.
 
 ### Board version
 
 ```
 STANDARDS TODAY (leave on the board)
   7.3.7  edit video footage
-  7.3.6  integrate media elements into the production
   7.7.5  select a linear or nonlinear editing system
-  -> today: make your edit 20% shorter AND better
+  7.7.6  add transitions (dissolves, wipes, cuts), titles,
+         special effects, and digital effects
+  -> today: find out what actually stuck, before friday
 
-LAST WEEK = ASSEMBLY (clips in order, trimmed)
-THIS WEEK = EDIT
-  same footage. the improvement is ALL decisions.
+REVIEW FIRST (then we play)
+  1. cover the right column. say it OUT LOUD. check.
+  2. mark ONLY the misses
+  3. do the marked ones again
+  4. then backwards: definition -> name the term
 
-   MON pacing / TUE cutaways / WED audio
-   THU titles + finish / FRI quiz + export
+  recognizing a word next to its definition
+  is NOT knowing it.
 
-TODAY:  C U T   2 0 %   O U T
-  90 sec -> 72 sec. no exceptions.
+THE FIVE EVERYBODY MIXES UP
+  jump cut / match cut ...... mistake vs on purpose
+  the two 180 rules ......... shutter vs camera placement
+  correction / grading ...... look RIGHT vs look like SOMETHING
+  J-cut / L-cut ............. sound early vs sound lingers
+  frame rate / shutter ...... fps vs how long each frame
 
-  you can't do it by trimming frames off the ends.
-  you have to remove something you LIKED.
+THIS WEEK
+  MON review
+  TUE how cuts happen: J-cuts, L-cuts, cutting on action
+  WED color + capcut parts we haven't touched
+  THU screening / what's next
+  FRI quiz, then export
 
-WHERE THE TIME IS
-  the shot you're proud of that doesn't move the piece
-  anything they already know
-  dead air at the top (try deleting your FIRST shot)
-  the long walk
-  the tail after the point is made
-
-KEEP BOTH VERSIONS. watch them back to back.
-  did you lose anything a viewer would notice?
-  (usually no. that's the lesson.)
-  BOTH are due friday.
+"you've been learning the tool. this week is the craft."
+  every technique works the same in premiere, resolve,
+  final cut. none of them are capcut features.
 ```
 
 ---

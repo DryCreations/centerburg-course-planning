@@ -5,25 +5,42 @@
 
 ---
 
-## The decision, Monday, in the first ten minutes
+## Monday is review either way. The test decides Tuesday.
 
-**Student logins on the upgraded plan cannot be verified until a student is actually in there.** So
-Monday opens with a test, not a lesson.
+**Monday does not depend on the answer**, which is the point of structuring it this way. Both plans get
+the same first half.
 
-**Have two or three students log in and open the Variables panel before you teach anything.**
-
-| What you see | Do |
+| Part of Monday | What |
 |---|---|
-| Variables panel is there and they can create one | **Plan A.** Run the week as written |
-| Panel missing, greyed out, or logins fail | **Plan B.** Say one sentence and move on. Do not spend the period troubleshooting |
+| **First 10 minutes** | **The login test.** Two or three students log in and open the Variables panel while the rest settle |
+| **Then, everyone** | **Review.** Vocabulary retrieval, then the Gimkit kit. `gimkit-review.csv`, 52 questions |
+| **Last stretch** | **Plan A only:** demo variables, and they identify something in their own project to convert |
+
+| Test result | Rest of Monday | Tuesday onward |
+|---|---|---|
+| Panel is there | Variables demo, then they find the state in their own file | **Plan A.** Build it out |
+| Missing, greyed out, logins fail | **Review fills the period.** More Gimkit, or the UX/UI material | **Plan B.** Photography starts Tuesday |
+
+**So the risk is contained to one class period.** If it fails, Monday was still a useful review day
+before Friday's quiz, and nothing was wasted.
+
+**Do not spend the period troubleshooting logins.** Ten minutes, then move.
 
 **The sentence, if it is Plan B:**
 
-> "We are done with this unit. It is finished work and it is on your portfolio. Today we start
+> "We are done with this unit. It is finished work and it is on your portfolio. Tomorrow we start
 > photography."
 
 **Do not narrate the licensing problem to students.** It is not their problem and it makes the pivot feel
 like a failure rather than a plan.
+
+## Monday's review, run it in this order
+
+**Retrieval first, game second.** If Gimkit comes first it is entertainment. If they have already found
+out what they do not know, the game is a second pass and it sticks.
+
+**Watch which questions the room misses in the game.** That is free diagnostic data, and it tells you
+what Friday's cut of 20 should lean on.
 
 ---
 
@@ -33,7 +50,7 @@ like a failure rather than a plan.
 
 | Day | Focus | The point |
 |-----|-------|-----------|
-| Mon | Find the state, make the variable | The finding is the lesson. The panel takes five minutes |
+| Mon | **Review**, then demo variables and find the state | The finding is the lesson. The panel takes five minutes |
 | Tue | Wire it: a button that changes the value | Where it breaks, and where the teaching happens |
 | Wed | Read it: bound text, conditional visibility | The payoff. Delete frames today |
 | Thu | Polish, partner test, write-up | |
@@ -99,11 +116,14 @@ portfolios, so there is no loose end.
 
 | Day | Focus |
 |-----|-------|
-| Mon | Composition: the rules, and reading photographs |
-| Tue | Shoot: a composition set, five required frames |
-| Wed | Shoot: light. Same subject, different light |
-| Thu | Cull and critique. Pick three, defend them |
+| Mon | **Review only.** Gimkit, vocabulary, UX/UI. Photography starts tomorrow |
+| Tue | Composition: the rules, and reading photographs |
+| Wed | Shoot: a composition set, five required frames |
+| Thu | Light, then cull and critique. Pick three, defend them |
 | Fri | **Quiz** (alternate cut), then post the set |
+
+**Plan B loses a day to Monday's review and that is fine.** The five-frame set and the critique are the
+core; the lighting exercise compresses into Thursday or moves to next week.
 
 **Documents:** `handouts/photo-composition.md`.
 

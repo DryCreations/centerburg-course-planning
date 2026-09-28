@@ -5,7 +5,7 @@
 Two shots of the same scene, recorded four minutes apart, often do not match. One is bluer. One is
 darker. The audience cannot say why, but they feel that something is off.
 
-**Today is about fixing that, and about sound.** Both are the difference between footage and a piece.
+**Today is about fixing that**, and about the parts of CapCut you have not touched yet.
 
 ---
 
@@ -46,32 +46,20 @@ then, the rest of the piece has to be neutral for the stylized part to read as s
 
 ---
 
-## Part 2: Sound
+## Part 2: Audio, briefly
 
-**Bad audio reads as amateur faster than bad video.** People will watch a soft, badly framed shot. They
-will not sit through audio that jumps every three seconds.
+Not the focus today, and two things are worth thirty seconds each because they cost you points on any
+piece you make.
 
-### 1. Levels
+**Levels.** Play your edit with your eyes closed and listen for jumps. Adjust each clip's volume so
+nothing jolts at a cut. That is the whole fix.
 
-- Play the whole edit **with your eyes closed** and listen for jumps
-- Adjust each clip's volume so nothing jolts at a cut
-- Dialogue should sit at a consistent level, not peaking and not buried
+**Room tone.** Silence is not silent. Cutting from a clip with background sound to true digital silence
+sounds like a hole. If you have a moment of steady background with no talking, use it to fill gaps. If
+you have none, **record 30 seconds next shoot**: everybody standing still, not talking. It feels
+ridiculous and every professional crew does it.
 
-### 2. Room tone
-
-**Silence is not silent.** Every room has a sound. Cutting from a clip with that sound to true digital
-silence sounds like a hole.
-
-- Find a moment with no talking and steady background, and use it to fill gaps
-- **No room tone?** Record 30 seconds next shoot. Everybody standing still, not talking. It feels
-  ridiculous and every professional crew does it
-
-### 3. Cut on sound
-
-- Never cut in the middle of a word
-- A cut lands better **just before** someone speaks than on the syllable
-- Let the next shot's audio start slightly before its picture. That is a **J-cut**, and it is why
-  professional dialogue feels smooth
+We will do audio properly in its own unit later. **Today is picture.**
 
 ---
 
@@ -89,8 +77,12 @@ Explore these. **None are required today.**
 | **Crop and reframe** | Turning a wide shot into a tighter one in post. A real option when you did not get the close-up |
 | **Split screen** | Two shots at once. Rarely the right answer, occasionally exactly right |
 
-**If you try one, be able to say why it made the piece better.** A feature used because it exists is the
-same mistake as a filter.
+**Try at least two, and be able to say why each made the piece better.** A feature used because it
+exists is the same mistake as a filter.
+
+**Keyframes are the one to prioritize.** They work identically in every editor, they are how every
+professional animation of any setting is done, and they are the most transferable thing on this page.
+Start with something simple: a volume fade, or a slow push in on a still shot.
 
 ---
 
@@ -107,6 +99,6 @@ distinction, and it is worth understanding rather than memorizing.
 
 - [ ] Two shots that did not match, now matching
 - [ ] Toggled the correction on and off to check it is not overdone
-- [ ] Whole edit listened through with eyes closed, levels evened out
-- [ ] Gaps filled with room tone, or room tone added to the next shoot's plan
-- [ ] One new feature tried, with a reason you can say out loud
+- [ ] One consistent look across the whole piece, or deliberately none
+- [ ] **Two features from the list tried**, each with a reason you can say out loud
+- [ ] Levels evened out, thirty seconds with your eyes closed

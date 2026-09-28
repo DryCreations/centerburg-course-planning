@@ -20,29 +20,34 @@ You already know the four moves. This week is about *when* to use them, which is
 
 | Day | Focus | The deliverable |
 |-----|-------|-----------------|
-| Mon Sep 28 | **Pacing.** Cut 20% out of your edit | A shorter version that plays better |
-| Tue Sep 29 | **Screening and peer review.** We watch cuts and talk about them | Written feedback on two other cuts |
-| Wed Sep 30 | **Color and audio.** Make it look and sound intentional | A graded, leveled edit |
-| Thu Oct 1 | **Vocab review**, then plan the next shoot properly | Finished piece, plus a real pre-production packet started |
+| Mon Sep 28 | **Review.** Vocabulary, then a Gimkit game | You know what you actually know |
+| Tue Sep 29 | **How cuts happen.** J-cuts, L-cuts, cutting on action | Four techniques applied to your edit |
+| Wed Sep 30 | **Color.** Correction, grading, and CapCut features you have not touched | A matched, graded edit |
+| Thu Oct 1 | **Screening**, and the next project | Feedback on two cuts, plus a concept for what is next |
 | Fri Oct 2 | **QUIZ**, then export and submit | Final export, 1080p |
+
+> **Thursday may shift** depending on how the week goes. Screening and next-project planning are both
+> ready, and either can take the full period.
 
 ### What You'll Be Able to Do
 
 - Say why a cut works or does not, in words other than "it feels weird"
-- Cut significant time out of a piece without losing what it is about
+- Use a **J-cut, an L-cut, a cutaway, and a cut on action**, and say what each is for
 - Give another editor feedback they can act on, using the right words
-- Match audio levels across clips and explain what room tone is for
-- Adjust exposure, contrast, and color so shots match each other
+- Correct two shots so they match, and say how correction differs from grading
+- Use keyframes to change a setting over time
 - Finish a piece: titles, credits, fade, and a clean export
-- Start a pre-production packet for the next project before shooting anything
+
+> **You have been learning the tool. This week is the craft.** Every technique here works identically in
+> Premiere, Resolve, and Final Cut. None of them are CapCut features. They are decisions.
 
 ### Due Friday
 
 - Your finished piece, exported at 1080p, on Google Classroom
 - The **before and after**: last week's assembly and your Friday cut, both submitted
-- **Written feedback on two other people's cuts**
+- **A log of the four cut techniques** you applied: timecode, which one, and whether it helped
+- Written feedback on two other people's cuts
 - Three sentences on what changed and why
-- Your pre-production packet, started: concept, one-sentence goal, and a shot list
 
 ### The study guide
 
