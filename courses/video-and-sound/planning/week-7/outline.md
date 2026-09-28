@@ -21,24 +21,33 @@ You already know the four moves. This week is about *when* to use them, which is
 | Day | Focus | The deliverable |
 |-----|-------|-----------------|
 | Mon Sep 28 | **Pacing.** Cut 20% out of your edit | A shorter version that plays better |
-| Tue Sep 29 | **Cutaways and B-roll.** Hide your worst cut | An invisible cut where an ugly one was |
-| Wed Sep 30 | **Audio.** Levels, room tone, and why silence is not silent | An edit that does not jump between clips |
-| Thu Oct 1 | **Titles and the finish.** Lower thirds, credits, fade | A finished piece |
+| Tue Sep 29 | **Screening and peer review.** We watch cuts and talk about them | Written feedback on two other cuts |
+| Wed Sep 30 | **Color and audio.** Make it look and sound intentional | A graded, leveled edit |
+| Thu Oct 1 | **Vocab review**, then plan the next shoot properly | Finished piece, plus a real pre-production packet started |
 | Fri Oct 2 | **QUIZ**, then export and submit | Final export, 1080p |
 
 ### What You'll Be Able to Do
 
 - Say why a cut works or does not, in words other than "it feels weird"
 - Cut significant time out of a piece without losing what it is about
-- Use a cutaway to hide a cut that would otherwise be visible
+- Give another editor feedback they can act on, using the right words
 - Match audio levels across clips and explain what room tone is for
+- Adjust exposure, contrast, and color so shots match each other
 - Finish a piece: titles, credits, fade, and a clean export
+- Start a pre-production packet for the next project before shooting anything
 
 ### Due Friday
 
 - Your finished piece, exported at 1080p, on Google Classroom
-- The **before and after**: your Thursday assembly and your Friday cut, both submitted
+- The **before and after**: last week's assembly and your Friday cut, both submitted
+- **Written feedback on two other people's cuts**
 - Three sentences on what changed and why
+- Your pre-production packet, started: concept, one-sentence goal, and a shot list
+
+### The study guide
+
+**`vocab.md` is the study guide.** Everything on Friday's quiz comes from that list or from something you
+did in class. It also explains how to study it, which is not by reading it.
 
 ### Friday's Quiz
 

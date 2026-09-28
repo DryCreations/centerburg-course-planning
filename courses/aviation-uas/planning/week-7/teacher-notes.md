@@ -6,10 +6,10 @@
 
 | Day | Focus |
 |-----|-------|
-| Mon | **Quiz review.** Work the missed questions with the class |
+| Mon | **Quiz review**, then **how to study**. `handouts/how-to-study-this.md` |
 | Tue | Components: what the aircraft is and what each part does |
 | Wed | **Batteries.** The serious safety day |
-| Thu | Preflight and post-flight, logging, maintenance |
+| Thu | Preflight and post-flight, logging, maintenance. **Vocab review**, `vocab.md` |
 | Fri | **BPA event selection**, due on Classroom |
 
 ## On moving off sectionals
@@ -33,6 +33,34 @@ review.**
 The format that works: put the question up, let them answer again cold, then have a student who got it
 right explain it. **Not you.** A student explanation is worth three of yours and it tells you whether the
 right answer was understood or guessed.
+
+## Monday, second half: the study skills lesson
+
+The last quiz's misses were **not the hard questions.** They were the regulation numbers from Module 1:
+altitudes, distances, weights, timeframes. Those cannot be reasoned to, and almost nobody is actually
+studying them.
+
+`handouts/how-to-study-this.md` teaches **retrieval practice** and **spacing**, which are the two
+techniques with the strongest evidence behind them, framed concretely rather than as advice.
+
+**Do the four minute demo in class.** Have them cover the nine number table and write all nine from
+memory, right now.
+
+| What happens | What to say |
+|---|---|
+| Most get 5 or 6 | "So you have **three things to learn**, not nine. That is a ten minute problem." |
+| Someone gets all nine | Ask them how they learned them. If the answer is "I just remember," press: they saw them repeatedly over time, which is the point |
+| Someone gets one or two | Privately: this is the list, it is short, and it is entirely learnable |
+
+**The sentence that matters:**
+
+> **"Recognizing an answer when you see it is not the same as producing it when you do not."**
+
+That is why re-reading feels like studying and does not work, and it is the single most useful thing
+they can take out of this class into every other one.
+
+**Do not moralize about effort.** The handout is deliberately written as a method, not a lecture. The
+message is "here is how," not "you should have."
 
 ## Wednesday is the day that matters
 
@@ -58,6 +86,15 @@ That is not a sales pitch, it is the actual structure of the course, and student
 a better choice.
 
 **The only real criterion:** pick the one you will still be interested in during February.
+
+## Thursday: vocab review
+
+`vocab.md` is the running list, everything through Week 7. **Run it as retrieval, not reading.** Cover
+the column, say it, check, mark the misses, study only the misses.
+
+The pairs people mix up are listed at the bottom and that section is worth putting on the board:
+MSL vs AGL, TRUST vs Part 107, authorization vs waiver, Class C vs Class D, and the 500/2,000 cloud
+clearance where below is the smaller number.
 
 ## Hardware note
 

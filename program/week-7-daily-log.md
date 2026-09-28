@@ -8,10 +8,10 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Mon** | Find the state in your project | **Cut 20% out** | **Quiz review**, then new unit | **Quiz review**, then what a list is | **Spirit week.** Cameras out |
-| **Tue** | Wire it: a button that changes the value | Cutaways: hide your worst cut | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
-| **Wed** | Read it: bound text, conditionals | **Audio:** levels and room tone | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
-| **Thu** | Polish, partner test, write-up | Titles, lower thirds, fade | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
+| **Mon** | **Login test first.** Then find the state, or Plan B | **Cut 20% out** | **Quiz review**, then how to study | **Quiz review**, then build a list together | **Spirit week.** Cameras out |
+| **Tue** | Wire it: a button that changes the value | **Screening and peer review** | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
+| **Wed** | Read it: bound text, conditionals | **Color and audio** | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
+| **Thu** | Polish, partner test, write-up | **Vocab review**, then plan the next shoot | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
 | **Fri** | **QUIZ**, then submit | **QUIZ**, then export and submit | **BPA event selection** | Finish and show | **Photos + check-in DUE.** Events |
 
 ---
@@ -24,17 +24,50 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   so the load goes to the concept instead of to file setup. More importantly, **the lesson is only
   available because they built it the hard way first**: a student who never duplicated four frames has no
   reason to care that a variable prevents it.
-- **V&S stays in post-production rather than moving to the audio unit.** They have footage in hand and
-  momentum on the software. Audio still gets Wednesday, which is a soft on-ramp to Unit 1.3 later.
+- **V&S stays in CapCut and goes wider rather than opening the audio unit.** Confirmed. The week now
+  runs pacing, screening and peer review, color plus audio, then vocab and pre-production for the next
+  project. Audio still gets half of Wednesday, which is a soft on-ramp to Unit 1.3 later.
+- **The V&S screening is scheduled next to the vocab day on purpose.** Peer notes are live rehearsal
+  for the quiz: "it felt weird" gets sent back, "the cut at 0:14 is a jump cut" is the standard.
+- **Pre-production for the next project starts Thursday, not next week.** They have just felt what bad
+  coverage costs in the edit, and that is the only moment pre-production is ever persuasive.
 - **Aviation moves to Unit 1.4 and sectionals become a daily bell ringer.** On map (1.3 is weeks 5 to 7,
   1.4 is weeks 8 to 9), and charts are a lookup skill that rewards spaced repetition over a fourth
   consecutive week. They return as a tool, not a topic, in Unit 2.2 at weeks 13 to 15.
-- **MS CS does lists.** Last structure that is still concrete, and it handles the ability spread: a
-  strong student can shuffle and sort, a struggling one can use it as a single block and still succeed.
+- **MS CS does lists, starting today from given code.** Students get working code with an obvious flaw
+  (four enemies would mean four copy-pasted blocks) and the list is added as a class. The rule stated:
+  **any time you are about to copy code and change one number, something is wrong.** Lists also handle
+  the ability spread, since a strong student can shuffle and sort while a struggling one can use a list
+  as a single block and still succeed.
+- **Aviation gets an explicit study skills lesson.** The miss pattern was regulation numbers, not
+  concepts, and those are memorization. Taught as method (retrieval, spacing, study only your misses),
+  deliberately not as a lecture about effort.
 - **Both Friday quizzes close their own recent unit**, with a carried-forward minority so earlier
   material stays live before the WebXam.
 - **Monday is review in both Aviation and MS CS**, run off real miss counts, with a student who got it
   right doing the explaining rather than the teacher.
+
+---
+
+## Design Techniques has two plans
+
+**Student logins on the upgraded Figma plan cannot be verified until a student is actually in there.**
+So Monday opens with a test, not a lesson: two or three students log in and open the Variables panel
+before anything is taught.
+
+| | |
+|---|---|
+| **Plan A** | State and variables, as planned. Extend the existing prototype |
+| **Plan B** | Close Unit 1.4 and open **Q2 Unit 2.1 Photography**. Composition, light, cull and critique |
+
+**Plan B is the next unit on the map**, so the pivot costs nothing in sequence, and it depends on nothing
+working: phones are fine, and spirit week means there is something to photograph in every hallway.
+
+**The quiz works either way with no new bank.** Skipping the 16 state questions leaves exactly 20, which
+is a complete quiz. That is why the bank is ordered the way it is.
+
+**Do not narrate the licensing problem to students.** One sentence and move on, or the pivot reads as a
+failure rather than a plan.
 
 ---
 
@@ -43,12 +76,17 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 - **DT: state and variables, closing Unit 1.4.** They find the duplicated frames in their own file, name
   the one thing that differs, and build it as a variable. **Deleting the duplicate frames is the
   deliverable.** Quiz Friday, 36 question bank.
-- **V&S: assembly becomes edit.** Cut 20%, hide a bad cut with a cutaway, fix the audio, finish it. Same
-  footage, and the improvement is entirely decisions. Quiz Friday, 34 question bank.
-- **Aviation: the aircraft itself.** Components, batteries (the serious day), preflight and post-flight,
-  logging. BPA event chosen Friday, due end of Week 9.
-- **MS CS: lists.** Index, length, iteration, and the off-by-one. One applied option out of four on
-  Thursday, steered by ability.
+- **V&S: assembly becomes edit, staying in CapCut.** Cut 20%, then a **screening with peer review**,
+  then **color correction and audio**, then **vocab review and starting the next project's
+  pre-production**. Same footage, and the improvement is entirely decisions. Quiz Friday, 34 question
+  bank, with `vocab.md` as the published study guide.
+- **Aviation: the aircraft itself, plus how to study it.** Monday's second half is a **study skills
+  lesson** built on the actual miss pattern: the regulation numbers, which cannot be reasoned to.
+  Retrieval practice and spacing, taught as a method rather than a lecture. Then components, batteries
+  (the serious day), preflight and logging, with a **vocab review Thursday**. BPA event chosen Friday.
+- **MS CS: lists.** Monday is quiz review, then **starter code built together** and a list added as a
+  class with about twenty minutes left. Then index, length, iteration, and the off-by-one. One applied
+  option out of four on Thursday, steered by ability.
 - **Yearbook: spirit week and homecoming.** Wide, medium, close on every subject. Moments not poses. The
   two week assignment is due Friday.
 

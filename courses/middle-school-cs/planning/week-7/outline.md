@@ -19,8 +19,8 @@ to do suddenly easy.
 
 | Day | Focus |
 |-----|-------|
-| Mon Sep 28 | **Quiz review.** The questions the class missed, worked through together |
-| Tue Sep 29 | What a list is. Make one, add to it, get an item out |
+| Mon Sep 28 | **Quiz review**, then we build starter code together and add a list to it |
+| Tue Sep 29 | Your own list. Add to it, get items out, make it yours |
 | Wed Sep 30 | **Length and index.** Loop through a list, and the off-by-one trap |
 | Thu Oct 1 | Use it: random pick, keeping score of many things, a sprite army |
 | Fri Oct 2 | Finish and show |

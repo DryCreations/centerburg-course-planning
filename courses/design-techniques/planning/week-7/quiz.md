@@ -12,7 +12,18 @@
 | **UX/UI from the unit** | 14 | UX versus UI, wireframes and prototypes, primary actions, conventions, empty states, modals, components, user testing, scoping |
 | **Typography and export** | 6 | Carried forward so it stays live before the WebXam |
 
-**Suggested cut to 20:** 9 state, 8 UX/UI, 3 typography/export.
+**Suggested cut to 20 (Plan A):** 9 state, 8 UX/UI, 3 typography/export.
+
+### If the week ran as Plan B (photography pivot)
+
+**Skip the 16 state questions entirely.** What remains is 14 UX/UI + 6 typography and export = **exactly
+20**, which is a complete quiz with no editing required.
+
+That is why the bank is split the way it is. The state block is the first 16 rows, so it can be lifted
+out in one selection.
+
+Plan B's quiz still closes Unit 1.4 honestly: everything on it was taught and submitted. **Nothing on the
+photography material appears**, since it would only have had four days.
 
 ## The questions worth keeping
 

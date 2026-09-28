@@ -22,10 +22,10 @@ event you are entering.
 
 | Day | Focus | Bell ringer |
 |-----|-------|-------------|
-| Mon Sep 28 | **Quiz review.** The questions the class missed, worked through together | None |
+| Mon Sep 28 | **Quiz review**, then **how to actually study this** | None |
 | Tue Sep 29 | The aircraft: components and what each one does | Chart: 1 question |
 | Wed Sep 30 | Batteries, and the inspection that catches problems | Chart: 1 question |
-| Thu Oct 1 | Maintenance, logging, and what a professional does after every flight | Chart: 1 question |
+| Thu Oct 1 | Maintenance, logging, and what a professional does after every flight. **Vocab review** | Chart: 1 question |
 | Fri Oct 2 | **BPA event selection.** Two paths, pick one | Chart: 1 question |
 
 ### What You'll Be Able to Do
@@ -35,6 +35,7 @@ event you are entering.
 - Run a real preflight inspection and say what you are looking for at each step
 - Keep a flight log that would satisfy an employer or an insurer
 - Choose a BPA event and say why it fits you
+- Study something you have to memorize, on purpose, using a method that works
 
 ### Standards Covered
 

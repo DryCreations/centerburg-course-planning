@@ -5,10 +5,10 @@ Every block is **one prompt, for one slide.** Board versions included.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Find the state in your own project |
+| Design Techniques | 4 | Find the state. **Plan B (4 slides) if logins fail** |
 | Video & Sound | 4 | Cut 20% out |
 | Aviation UAS | 3 | Quiz review, then the new unit |
-| Middle School CS | 3 | Quiz review, then what a list is |
+| Middle School CS | 5 | Quiz review, then build the list together |
 | Yearbook | 2 | Spirit week. Get cameras out the door |
 
 ---
@@ -16,9 +16,19 @@ Every block is **one prompt, for one slide.** Board versions included.
 ## 1. Design Techniques: Find the state
 
 **Documents:** `week-7/handouts/state-and-variables.md` (student-facing, post it), `week-7/outline.md`
-**Before class:** open the Variables panel in Figma yourself and confirm it is there. Education approval
-came through, so Professional features should be available, but confirm rather than assume.
-**Run it as:** the finding exercise first, on paper, before anyone touches Figma. Then make one variable.
+**FIRST TEN MINUTES ARE A TEST, NOT A LESSON.** Student logins on the upgraded plan cannot be verified
+until a student is actually in there. **Have two or three students log in and open the Variables panel
+before you teach anything.**
+
+| What you see | Do |
+|---|---|
+| Panel is there, they can create a variable | **Plan A.** Slides below |
+| Panel missing, greyed out, or logins fail | **Plan B.** Jump to the photography block at the end of this section. Do not troubleshoot for a period |
+
+**If Plan B, say one sentence and move on:** *"We are done with this unit. It is finished work and it is
+on your portfolio. Today we start photography."* **Do not narrate the licensing problem to students.**
+
+**Run Plan A as:** the finding exercise first, on paper, before anyone touches Figma. Then one variable.
 
 ### Slide 1: Standards today
 
@@ -85,6 +95,88 @@ DO NOW (on paper, don't touch figma yet)
  you cannot build yet"
 
 DELETING FRAMES IS THE DELIVERABLE.
+```
+
+---
+
+### PLAN B: Photography (use only if logins fail)
+
+**Documents:** `week-7/handouts/photo-composition.md` (student-facing, post it)
+**Why this fallback:** it is the next unit on the map (Q2 2.1, Photography), so the pivot costs nothing
+in sequence, and it depends on nothing working. **Phones are fine**, and Yearbook has the cameras this
+week because it is spirit week.
+
+#### Plan B, Slide 1: Standards today
+
+> Create one standards slide for a high school design class titled "Today's Standards." List these with
+> their FULL text, not just the numbers, in large readable type: 7.9 Apply photographic techniques. 7.3.5
+> Prepare and integrate photographic images with graphic images. 7.2.10 Select and create visual design
+> elements appropriate for the intended audience and use. Then a short line: "Today that means where
+> things go in the frame, which is the same problem you have been solving for six weeks." One slide.
+
+#### Plan B, Slide 2: You already know this
+
+> Create one comparison slide for a high school design class titled "Same Eye, Different Surface." A two
+> column table. Left header "IN YOUR APP", right header "IN A PHOTOGRAPH". Rows: one primary action per
+> screen / one subject per frame. Hierarchy, what gets looked at first / leading lines, contrast, focus.
+> Whitespace / negative space. Alignment / rule of thirds and horizon lines. Cutting what does not serve
+> the task / filling the frame and simplifying. Add a line in large text: "You are not starting over. The
+> difference is you cannot move the elements. You move yourself." One slide.
+
+#### Plan B, Slide 3: The rules
+
+> Create one slide for a high school design class titled "Composition." A compact list, each with a very
+> short why: RULE OF THIRDS, subject off center, because dead center is static. LEADING LINES, something
+> points at the subject, because the eye follows a line. FRAMING, shoot through a doorway or gap, because
+> it adds depth. FILL THE FRAME, get closer, then closer again. LEADING ROOM, space in front of where
+> someone looks or moves. BACKGROUND, look at it before you press the shutter, every time. SIMPLIFY, if
+> you cannot say what it is about in one sentence there is too much in it. Add a box in large text: "The
+> most common fixable problem in student photography is standing too far away." One slide.
+
+#### Plan B, Slide 4: Do Now
+
+> Create one assignment slide for a high school design class titled "Five Frames." Numbered: "1) Rule of
+> thirds, subject clearly off center. 2) Leading lines, something points at your subject. 3) Framing,
+> shot through a doorway, window, or gap. 4) Fill the frame, close enough that you can't tell where you
+> are. 5) Your choice, and say which rule it uses." Then: "One sentence each: which rule, and what you
+> DID to get it. 'I got low so the railing ran toward her' is an answer. 'It looks good' is not." Add a
+> box: "You have to MOVE. Five photos from one standing position is not the assignment. Phone is fine.
+> No filters." One slide.
+
+#### Plan B, board version
+
+```
+STANDARDS TODAY (leave on the board)
+  7.9    apply photographic techniques
+  7.3.5  prepare and integrate photographic images with
+         graphic images
+  7.2.10 select and create visual design elements
+         appropriate for the audience and use
+  -> today: where things go in the frame
+
+SAME EYE, DIFFERENT SURFACE
+  one primary action  -> one subject per frame
+  hierarchy           -> leading lines, contrast, focus
+  whitespace          -> negative space
+  alignment           -> rule of thirds
+  you can't move the elements. you move YOURSELF.
+
+COMPOSITION
+  thirds     - off center, because center is static
+  lines      - the eye follows a line
+  framing    - shoot THROUGH something
+  fill it    - get closer. then closer again.
+  lead room  - space in front of a gaze or motion
+  background - LOOK at it before you shoot. every time.
+  simplify   - can't say it in one sentence? too much in it
+
+  most common fixable problem: STANDING TOO FAR AWAY
+
+FIVE FRAMES, one sentence each (which rule + what you DID)
+  1 thirds  2 leading lines  3 framing
+  4 fill the frame  5 your choice
+
+  YOU HAVE TO MOVE. phone is fine. no filters.
 ```
 
 ---
@@ -232,10 +324,12 @@ BPA EVENT CHOICE DUE END OF WEEK 9.
 
 ## 4. Middle School CS: Quiz review, then lists
 
-**Documents:** `week-7/handouts/lists-lab.md` (student-facing, post it)
+**Documents:** `week-7/handouts/starter-code-lists.md` (student-facing, post it, **today's build**),
+`week-7/handouts/lists-lab.md` (the rest of the week)
 **Before class:** pull the miss counts off Friday's quiz.
-**Run it as:** review off real data, same format as Aviation. Expect misses to cluster on `for index from
-0 to N` running N+1 times, which sets up Wednesday perfectly.
+**Run it as:** review off real data first, same format as Aviation. Expect misses to cluster on `for
+index from 0 to N` running N+1 times, which sets up the off-by-one perfectly. **Then build the starter
+code together and add the list as a class**, with about twenty minutes left.
 
 ### Slide 1: Quiz review
 
@@ -252,7 +346,27 @@ BPA EVENT CHOICE DUE END OF WEEK 9.
 > holds MANY things, in order." Then one line at the bottom in large text: "Those little numbers are the
 > whole trick." One slide.
 
-### Slide 3: Why it starts at zero
+### Slide 3: Build this together
+
+> Create one slide for a middle school computer science class titled "Build This With Me." Show
+> block-style pseudocode in large monospace text: "on start / set mySprite to sprite of kind Player / set
+> score to 0" then "on A button pressed / set target to sprite of kind Enemy / set target position to x
+> 20 y 40 / set target say 'red'". Below it a question in large text: "Press A a few times. What is wrong
+> with it?" Then a box: "Every enemy is in the same place and says the same thing. To get four different
+> ones you'd copy this four times and change one number each time." Then in large text: "Any time you are
+> about to copy code and change one number, something is wrong." One slide.
+
+### Slide 4: Add the list
+
+> Create one slide for a middle school computer science class titled "Add The List." Show in large
+> monospace text: "set colors to array of  'red'  'blue'  'green'  'yellow'" with the numbers 0, 1, 2, 3
+> written underneath each item. Below that: "set target say   colors  get value at  0". Then three short
+> steps: "Change the 0 to a 2. Run it. Now it says green. Change it to 4. It breaks, because there is no
+> item 4." Then the upgrade in monospace: "colors get value at (pick random 0 to (length of colors) - 1)".
+> Add a box in large text: "Now add two more colors to the list and change NOTHING else. They show up.
+> That is why lists exist." One slide.
+
+### Slide 5: Why it starts at zero
 
 > Create one slide for a middle school computer science class titled "Why The First One Is Zero." In very
 > large text in the middle: "The number is not WHICH ONE. It is HOW FAR FROM THE START." Below it a small
