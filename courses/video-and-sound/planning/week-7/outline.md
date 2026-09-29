@@ -21,20 +21,23 @@ You already know the four moves. This week is about *when* to use them, which is
 | Day | Focus | The deliverable |
 |-----|-------|-----------------|
 | Mon Sep 28 | **Review.** Vocabulary, then a Gimkit game | You know what you actually know |
-| Tue Sep 29 | **How cuts happen.** J-cuts, L-cuts, cutting on action | Four techniques applied to your edit |
-| Wed Sep 30 | **Color.** Correction, grading, and CapCut features you have not touched | A matched, graded edit |
-| Thu Oct 1 | **Screening**, and the next project | Feedback on two cuts, plus a concept for what is next |
+| Tue Sep 29 | **We watch everything, then color** | Two shots matched, whole piece corrected |
+| Wed Sep 30 | **How cuts happen.** J-cuts, L-cuts, cutting on action | Four techniques applied to your edit |
+| Thu Oct 1 | Screening, more CapCut features, or the next project | Depends on how the week goes |
 | Fri Oct 2 | **QUIZ**, then export and submit | Final export, 1080p |
 
-> **Thursday may shift** depending on how the week goes. Screening and next-project planning are both
-> ready, and either can take the full period.
+> **Tuesday we watch all of them**, 30 to 60 seconds each. Everyone, briefly. You are looking for one
+> thing: do the shots look like they belong to each other?
+
+> **Thursday may shift.** Screening, the rest of the CapCut features, and next-project planning are all
+> ready, and any one can take the full period.
 
 ### What You'll Be Able to Do
 
 - Say why a cut works or does not, in words other than "it feels weird"
+- **Correct two shots so they match**, in the right order, and say how correction differs from grading
 - Use a **J-cut, an L-cut, a cutaway, and a cut on action**, and say what each is for
 - Give another editor feedback they can act on, using the right words
-- Correct two shots so they match, and say how correction differs from grading
 - Use keyframes to change a setting over time
 - Finish a piece: titles, credits, fade, and a clean export
 
@@ -62,10 +65,17 @@ CapCut labs.
 
 ### Standards Covered
 
-- **7.3.7** Edit video footage
-- **7.3.6** Integrate media elements into the production
-- **7.7.6** Add transitions (dissolves, wipes, cuts), titles, special effects, and digital effects
-- **7.7.5** Select a linear or nonlinear editing system and edit the video
-- **7.7.8** Export video to the desired medium
-- **7.8.8** Perform audio mixing
-- **2.10** Operate equipment according to manufacturer specifications
+These attach to specific tools in CapCut, not to the software in general.
+
+| Standard | The tool it lives in |
+|---|---|
+| **7.3.7** Edit video footage | Timeline, trim, split, reorder |
+| **7.3.5** Prepare and integrate photographic images and special effects with graphic images | Color correction and grading controls |
+| **7.7.6** Add transitions (dissolves, wipes, cuts), titles, special effects, and digital effects | Transitions, text, effects panels |
+| **7.3.2** Generate text for multi-image presentations, including title graphics | Text and title tools |
+| **7.3.3** Incorporate graphics | Overlays and image import |
+| **7.3.4** Incorporate computer animation | **Keyframes** |
+| **7.7.5** Select a linear or nonlinear editing system and edit the video | The choice of editor itself |
+| **7.7.8** Export video to the desired medium | Export settings, 1080p |
+| **7.8.8** Perform audio mixing | Volume and levels |
+| **2.10** Operate equipment according to manufacturer specifications | Camera settings and offload procedure |

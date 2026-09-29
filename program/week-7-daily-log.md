@@ -9,9 +9,9 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **Login test first.** Then find the state, or Plan B | **Cut 20% out** | **Quiz review**, then how to study | **Quiz review**, then build a list together | **Spirit week.** Cameras out |
-| **Tue** | Variables, or photography starts | **How cuts happen:** J-cuts, L-cuts, cutting on action | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
-| **Wed** | Read it: bound text, conditionals | **Color**, and untouched CapCut features | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
-| **Thu** | Polish, partner test, write-up | Screening and/or next project. **Flexible** | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
+| **Tue** | **Conditionals**, then last build day | **Watch everything, then color** | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
+| **Wed** | **PHOTOGRAPHY starts.** Composition | **How cuts happen:** J-cuts, L-cuts, on action | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
+| **Thu** | Photography: shoot and critique | Screening, features, or next project. **Flexible** | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
 | **Fri** | **QUIZ**, then submit | **QUIZ**, then export and submit | **BPA event selection** | Finish and show | **Photos + check-in DUE.** Events |
 
 ---
@@ -58,6 +58,37 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 
 ---
 
+## Tuesday Sep 29, as planned
+
+| Class | What runs |
+|-------|-----------|
+| **DT** | **Conditionals demo** at the start, then work time. Announced as the **last build day**: photography starts Wednesday |
+| **V&S** | **Every piece on screen for 30 to 60 seconds**, watched for one question only (do the shots belong to each other?), then **color, one tool done properly**. New handout: `handouts/color-grading-lab.md` |
+| **Aviation** | **Unit 1.2 opens.** Four forces, three axes, why two motors spin backwards, and what all four motors do for climb, pitch, roll and yaw. Classroom, whole period. New handout: `handouts/forces-and-motors.md` |
+| **MS CS** | Your loops-and-lists lab, next portion |
+| **Yearbook** | Offload first, then spreads. Push sign-ups for tonight's and tomorrow's games |
+
+### Tuesday calls
+
+- **DT runs both plans in sequence, not one instead of the other.** Variables Monday, conditionals
+  Tuesday, photography from Wednesday. **This makes the quiz simpler:** state and conditionals get two
+  full days, so the 16 state questions are fair game Friday and no alternate cut is needed. Photography
+  gets Wed and Thu and stays off the quiz, which is correct for two days of content.
+- **The V&S screening is everyone, briefly**, rather than volunteers or a teacher selection. Nobody is
+  singled out, nobody is skipped, and a single narrow watching question keeps it from being a slideshow.
+- **Color is one tool done properly rather than a feature tour.** The order (exposure, contrast, white
+  balance, saturation) is stated as non-optional, because students go straight to saturation and end up
+  saturating a cast instead of removing one.
+- **The Aviation hook is that nobody has told them there is no steering.** True, surprising, and it
+  earns the period. Flying moves to Wednesday and Thursday deliberately: the theory needs the time, and
+  it lands better with two weeks of stick time to attach to.
+- **Flight runs two tracks Wed and Thu**, assigned by name at the briefing off one question from last
+  week's log: did the aircraft stop turning at the crossover, or wander through it? Track A breaks the
+  figure eight apart and isolates the crossover. Track B is maneuverability. **Not announced as levels**,
+  and a Track A pilot who gets it clean moves up the same day.
+
+---
+
 ## Design Techniques has two plans
 
 **Student logins on the upgraded Figma plan cannot be verified until a student is actually in there.**
@@ -68,8 +99,14 @@ the logins fail, Monday was still a useful review before Friday's quiz rather th
 
 | | |
 |---|---|
-| **Plan A** | Review Monday, then state and variables Tue to Thu. Extend the existing prototype |
-| **Plan B** | Review all of Monday, then **Q2 Unit 2.1 Photography** from Tuesday. Composition, light, cull and critique |
+**Resolved: both, in sequence.** The logins worked, so Plan A ran Monday and Tuesday (variables, then
+conditionals) and **Plan B starts Wednesday as the next unit** rather than as a fallback.
+
+| | |
+|---|---|
+| **Mon to Tue** | State, variables, conditionals. Unit 1.4 closes |
+| **Wed to Thu** | **Q2 Unit 2.1 Photography.** Composition, light, cull and critique |
+| **Fri** | Quiz on Unit 1.4, including variables and conditionals. **Nothing from photography** |
 
 **Plan B is the next unit on the map**, so the pivot costs nothing in sequence, and it depends on nothing
 working: phones are fine, and spirit week means there is something to photograph in every hallway.

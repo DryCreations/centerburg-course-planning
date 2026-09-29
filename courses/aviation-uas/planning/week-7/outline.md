@@ -1,18 +1,19 @@
-# Week 7: Safety, Hardware, and Picking Your Event: Outline
+# Week 7: Why It Flies, Safety, and Picking Your Event: Outline
 
 **Course:** Aviation UAS (177024)
-**Quarter:** Q1 | **Week:** 7 | **Unit:** 1.4 Safety, Hardware Intro and BPA Selection
+**Quarter:** Q1 | **Week:** 7 | **Units:** 1.2 Aerodynamics, plus 1.4 Safety and BPA Selection
 **Dates:** Mon Sep 28 to Fri Oct 2
 
-> **New unit.** Charts do not disappear, they move to the bell ringer. This week is the aircraft itself,
-> how to not break it, and choosing your BPA event.
+> **New unit: the physics.** You have flown these for two weeks. Now you find out there is no steering,
+> only four motors at different speeds. Charts move to the bell ringer.
 
 ---
 
 ## What This Week Covers
 
-What the aircraft is made of, what goes wrong with it, how a professional prevents that, and which BPA
-event you are entering.
+**Why a multirotor flies at all, and how it turns without any steering.** The four forces, the three
+axes, why two motors spin backwards, and how differential motor speed produces pitch, roll and yaw. Then
+flight time to feel all of it, plus battery safety and your BPA event choice.
 
 **Sectional charts are now spiral review**, five minutes a day at the start of class, not the lesson.
 
@@ -23,26 +24,42 @@ event you are entering.
 | Day | Focus | Bell ringer |
 |-----|-------|-------------|
 | Mon Sep 28 | **Quiz review**, then **how to actually study this** | None |
-| Tue Sep 29 | The aircraft: components and what each one does | Chart: 1 question |
-| Wed Sep 30 | Batteries, and the inspection that catches problems | Chart: 1 question |
-| Thu Oct 1 | Maintenance, logging, and what a professional does after every flight. **Vocab review** | Chart: 1 question |
+| Tue Sep 29 | **New unit: why it flies, and why it turns.** Forces, axes, and the four motors | Chart: 1 question |
+| Wed Sep 30 | **FLIGHT**, two tracks. Then batteries and inspection | Chart: 1 question |
+| Thu Oct 1 | **FLIGHT**, two tracks. Then logging and what a professional does after every flight | Chart: 1 question |
 | Fri Oct 2 | **BPA event selection.** Two paths, pick one | Chart: 1 question |
 
 ### What You'll Be Able to Do
 
-- Name the major components of a small UAS and say what each one does
+- **Draw a free-body diagram** of a drone in hover, climb, and forward flight
+- **Name the four forces** and say what each relationship means: lift equals weight, lift exceeds weight
+- **Explain lift two ways**, by Newton's third law and by Bernoulli's principle, and identify the parts
+  of an airfoil
+- **Say why two motors spin backwards**, and what torque is
+- **Say what all four motors are doing** for climb, pitch, roll, and yaw
+- Explain why forward flight costs altitude, and why yaw feels slower than roll
 - Handle, charge, store, and retire a lithium polymer battery without creating a hazard
-- Run a real preflight inspection and say what you are looking for at each step
 - Keep a flight log that would satisfy an employer or an insurer
 - Choose a BPA event and say why it fits you
 - Study something you have to memorize, on purpose, using a method that works
 
 ### Standards Covered
 
+**Unit 1.2 Aerodynamics**
+
+- **7.4.2** Describe the forces of flight and the three axes of motion
+- **7.4.3** Define Newton's Laws of Motion and Bernoulli's Principle
+- **7.4.4** Identify the parts of an airfoil and describe how an airfoil works
+- **7.4.6** Discuss the role of thrust and the relationship between lift and drag
+- **7.4.9** Describe the effects of loading, weight and balance on center of gravity and performance
+- **7.4.16** Define load factor and G-forces
+
+**Also this week**
+
+- **7.12** Perform takeoff, flight, and landing operations
 - **Strand 2.1** Apply safety practices
 - **Strand 2.2** Maintain equipment and workspace according to manufacturer and safety requirements
 - **Strand 1.4** Entrepreneurship and career planning
-- **7.9** Identify small UAS rules and operating limitations
 
 ### BPA: your event is due by end of Week 9
 

@@ -7,9 +7,9 @@
 | Day | Focus |
 |-----|-------|
 | Mon | **Quiz review**, then **how to study**. `handouts/how-to-study-this.md` |
-| Tue | Components: what the aircraft is and what each part does |
-| Wed | **Batteries.** The serious safety day |
-| Thu | Preflight and post-flight, logging, maintenance. **Vocab review**, `vocab.md` |
+| Tue | **Unit 1.2 opens: the physics.** Forces, axes, motors. `handouts/forces-and-motors.md` |
+| Wed | **FLIGHT, two tracks.** `handouts/flight-drills-two-tracks.md`. Then batteries |
+| Thu | **FLIGHT, two tracks.** Then logging and post-flight |
 | Fri | **BPA event selection**, due on Classroom |
 
 ## On moving off sectionals
@@ -62,7 +62,70 @@ they can take out of this class into every other one.
 **Do not moralize about effort.** The handout is deliberately written as a method, not a lecture. The
 message is "here is how," not "you should have."
 
-## Wednesday is the day that matters
+## Tuesday: the physics, and the hook that makes it land
+
+`handouts/forces-and-motors.md`. **Classroom, whole period.** Flying is Wednesday and Thursday, which is
+deliberate: the theory needs the time, and it is far better received once they have two weeks of stick
+time to attach it to.
+
+**The hook, said in the first thirty seconds:**
+
+> **"You have flown these for two weeks. Nobody has told you there is no steering."**
+
+That is true, it is surprising, and it earns you the period.
+
+### Build it on the board in this order
+
+1. **Four forces**, as a free-body diagram. Then hover, climb, descend as three different arrow lengths
+2. **Lift two ways.** Newton (props throw air down, air pushes aircraft up) and Bernoulli (airfoil,
+   pressure difference). **Both are correct and they describe the same event.** Say that explicitly,
+   because students assume one must be the "real" one
+3. **The motor layout**, diagonal pairs matching. Ask *before* explaining: what would happen if all four
+   spun the same way? Let someone get to "it would spin" on their own
+4. **Torque cancels.** Newton's third law again
+5. **The table**: what all four motors do for climb, pitch, roll, yaw
+
+### The two payoff sentences
+
+- **"Forward flight is tilted lift. There is no separate thrust."** This explains the sink they have all
+  felt when pushing forward, and it is the single most useful idea in the handout
+- **"Yaw is leftover torque."** Nothing pushes the tail around. That is why yaw feels mushy compared to
+  roll, which they have also felt and never had explained
+
+**Have them draw.** Three free-body diagrams and the motor layout, by hand. Watching you draw it is not
+the same and the exam asks them to produce it.
+
+### What already exists
+
+`units/unit-1-2-aerodynamics/` has a lab, project, quiz and vocab written for this unit, including Mavic
+3 weight and balance numbers. **Pull from it rather than rebuilding.** Note it predates the no-em-dash
+rule, so clean anything you copy forward.
+
+## Wednesday and Thursday: flight, on two tracks
+
+`handouts/flight-drills-two-tracks.md`.
+
+**Assign tracks by name, quietly, at the preflight briefing.** One question decides it, off last week's
+figure eight log: **did the aircraft stop turning at the crossover, or wander through it?**
+
+| | |
+|---|---|
+| **Track A** | Own the figure eight. Six steps that break it apart, isolating the crossover |
+| **Track B** | Maneuverability. Nose-in circle, square with yaw, altitude changes, orbit on a target, precision landing |
+
+**Do not announce them as levels.** They are different drills with real bars, and a Track A pilot who
+gets it clean moves up the same day.
+
+**The key insight for Track A:** the problem is almost never the loops, it is the crossover, where the
+nose changes which way it points relative to the pilot and every input reverses. **Most pilots who cannot
+fly a figure eight can fly step A3 fine**, which is the crossover alone. Isolating it is usually a
+fifteen minute fix.
+
+**Connect it back to Tuesday in the moment.** Ten seconds each time: they sink pushing forward, say
+"where did your lift go? You tilted it." They complain yaw is slow, say "that is torque, it is a much
+smaller force." **That is the week's real payoff** and it only works out on the field.
+
+## Wednesday, second half: batteries
 
 Battery safety is the one topic this week with real consequences. Do not let it become a slide deck.
 
@@ -72,6 +135,19 @@ Battery safety is the one topic this week with real consequences. Do not let it 
   someone is present for is an extinguisher problem, a failure at 2am is a building problem
 - **"Report damage immediately"** needs to be said as a promise, not a threat. A dropped pack reported is
   a pack we retire. A dropped pack hidden is the one that fails in a bag a week later
+
+## Thursday, second half: logging and post-flight
+
+Then vocab if there is time.
+
+## Vocab review, whenever it fits
+
+`vocab.md` is the running list, everything through Week 7. **Run it as retrieval, not reading.** Cover
+the column, say it, check, mark the misses, study only the misses.
+
+The pairs people mix up are listed at the bottom and that section is worth putting on the board:
+MSL vs AGL, TRUST vs Part 107, authorization vs waiver, Class C vs Class D, and the 500/2,000 cloud
+clearance where below is the smaller number.
 
 ## Friday: BPA selection
 
@@ -86,15 +162,6 @@ That is not a sales pitch, it is the actual structure of the course, and student
 a better choice.
 
 **The only real criterion:** pick the one you will still be interested in during February.
-
-## Thursday: vocab review
-
-`vocab.md` is the running list, everything through Week 7. **Run it as retrieval, not reading.** Cover
-the column, say it, check, mark the misses, study only the misses.
-
-The pairs people mix up are listed at the bottom and that section is worth putting on the board:
-MSL vs AGL, TRUST vs Part 107, authorization vs waiver, Class C vs Class D, and the 500/2,000 cloud
-clearance where below is the smaller number.
 
 ## Hardware note
 

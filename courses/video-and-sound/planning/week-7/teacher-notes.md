@@ -7,9 +7,9 @@
 | Day | Focus | The deliverable |
 |-----|-------|-----------------|
 | Mon | **Review.** Vocab, then Gimkit | Baseline on what actually stuck |
-| Tue | **How cuts happen.** J, L, cutaway, cut on action | Four techniques logged with timecodes |
-| Wed | **Color** and untouched CapCut features | Two shots matched, two features tried |
-| Thu | **Screening**, and/or the next project | Flexible. Both are ready |
+| Tue | **Watch everything briefly, then color in depth** | Two shots matched, whole piece corrected |
+| Wed | **How cuts happen.** J, L, cutaway, cut on action | Four techniques logged with timecodes |
+| Thu | Screening, next project, or more CapCut features | Flexible. All three are written |
 | Fri | **Quiz**, then export and submit | 34 question bank, cut to 20 |
 
 **Thursday is deliberately loose.** Decide midweek. Screening (`screening-and-peer-review.md`) and
@@ -49,7 +49,50 @@ Every technique this week works identically in Premiere, Resolve, and Final Cut.
 CapCut features.** Saying that changes how the week is received: it stops being "more CapCut" and starts
 being transferable.
 
-## Tuesday: the cuts. This is the best day of the week.
+## Tuesday: watch everything, then color
+
+`handouts/color-grading-lab.md`. **One tool, done properly, rather than a tour.**
+
+### The screening, 15 to 20 minutes
+
+**Every piece gets 30 to 60 seconds.** Everyone, briefly. Nobody is singled out and nobody is skipped,
+which is the whole reason to do it this way rather than picking volunteers.
+
+**Give them exactly one thing to watch for:** do the shots look like they belong to each other? They
+write MATCHED, DRIFTS, or ONE BAD SHOT for each piece.
+
+A single narrow question is what makes a screening productive instead of a slideshow. **It also seeds
+the lab**, because most of them will write "drifts" about their own work and then spend the period
+fixing exactly that.
+
+### Then the lab
+
+**The order is exposure, contrast, white balance, saturation, and it is not optional.** Students go
+straight to saturation because it is the most visible slider, which means saturating a color cast
+instead of removing one.
+
+**White balance is the step that earns the day.** It fixes most "my footage looks weird" complaints in
+about ten seconds, and it is the one most likely to produce an audible reaction.
+
+**The required work is concrete:** two shots that should match and do not, corrected until you cannot
+tell which was which, then the whole piece for consistency. A look is optional and comes last.
+
+The rule: **if you can tell a shot has been graded, you went too far.**
+
+### Why color is allowed when filters are banned
+
+Worth answering out loud, because it is a fair question and the answer is the actual distinction:
+
+| | |
+|---|---|
+| **A filter** | A look applied without a decision, picked off a menu |
+| **Correction** | Making the footage look like what your eye saw in the room |
+| **Grading** | A decision you can explain, applied on purpose, consistently |
+
+**One is avoidance, the other two are craft.** If they can say what problem they were solving, it is
+craft.
+
+## Wednesday: the cuts. This is the best day of the week.
 
 `handouts/how-cuts-happen.md`. Straight cut, J-cut, L-cut, cutaway, match cut, jump cut, cut on action.
 
@@ -67,22 +110,6 @@ The two that will actually change their work:
 legitimate answer** and it is worth saying so, because a student who tries a J-cut, hates it, and can
 say why has learned more than one who applied it because they were told to.
 
-## Wednesday: color, and the features they have not touched
-
-**Order is exposure, contrast, white balance, saturation.** They will skip to saturation because it is
-the most visible slider.
-
-The rule: **if you can tell a shot has been graded, you went too far.**
-
-The distinction that keeps your filter ban coherent: **color correction makes footage look like what
-your eye saw; a filter is a look applied without a decision.** One is craft, the other is avoidance.
-
-**The assignment is concrete:** find two shots that should match and do not, and make them match. "Explore
-color" produces purple footage.
-
-**Push keyframes** out of the feature list. They work identically in every editor, they are how any
-setting gets animated anywhere, and a volume fade or a slow push on a still shot is a five minute win.
-
 ## Audio is deliberately small this week
 
 Thirty seconds on levels, thirty on room tone, in the Wednesday handout. **That is it.**
@@ -96,15 +123,15 @@ the next shoot.
 
 ## Thursday: pick one, midweek
 
-Both are written:
+All three are written:
 
 | Option | Use it if |
 |--------|-----------|
-| **Screening and peer review** | Cuts have changed enough this week to be worth watching, and you want quiz rehearsal on the vocabulary |
+| **Screening with structured peer review** | You want quiz rehearsal on the vocabulary. Notes force the words into use |
+| **The rest of the CapCut features** | `capcut-color-and-features.md` Part 3: speed, keyframes, masking, stabilization, freeze frames. **Push keyframes**, they transfer to every editor |
 | **Next project planning** | You would rather spend the time getting the next shoot right |
 
-**If you can only do one, the screening is the safer pick** the week of a vocabulary quiz, because peer
-notes force the words into use.
+**The week of a vocabulary quiz, the screening is the safer pick.**
 
 ## The screening, if you run it
 

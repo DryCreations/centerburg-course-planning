@@ -47,13 +47,29 @@ lessons are built on real data, not a general review.
 
 ---
 
+## Tuesday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `2-video-and-sound/handouts/color-grading-lab.md` | **Material.** The screening task and the color lab |
+| 2 | `3-aviation-uas/handouts/forces-and-motors.md` | **Material.** Forces, axes, motors. The whole period |
+
+**DT:** the logins worked, so **Plan A ran** and `state-and-variables.md` is already out. **Photography
+starts Wednesday**, so post `photo-composition.md` tomorrow, not today. Tell students today is the last
+build day.
+
+**Not a post, teacher only:** `3-aviation-uas/handouts/flight-drills-two-tracks.md`. Assign tracks by
+name at Wednesday's briefing, and do not announce them as levels.
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
 |------|------|------|
 | 0 | `1-design-techniques/gimkit-review.csv` | **Monday's review game.** 52 questions, import straight in |
 | 1a | `1-design-techniques/handouts/state-and-variables.md` | **Plan A only, Monday.** Find the state, make the variable, delete the frames |
-| 1b | `1-design-techniques/handouts/photo-composition.md` | **Plan B only, Tuesday.** Composition, light, five frames |
+| 1b | `1-design-techniques/handouts/photo-composition.md` | **Post WEDNESDAY.** Photography is the next unit, not a fallback. Composition, light, five frames |
 | 2 | `1-design-techniques/outline.md` | Material. Week at a glance. **Plan A wording** |
 | 3 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 
@@ -76,9 +92,10 @@ state questions, and what remains is exactly 20.** No new bank needed.
 |------|------|------|
 | 1 | `2-video-and-sound/vocab.md` | **Material, post Monday. The study guide**, and it opens with how to study it |
 | 2 | `2-video-and-sound/gimkit-review.csv` | **Monday's review game.** 58 questions, import straight in |
-| 3 | `2-video-and-sound/handouts/how-cuts-happen.md` | **Material, post Tuesday.** J-cuts, L-cuts, cutaways, cutting on action |
-| 4 | `2-video-and-sound/handouts/capcut-color-and-features.md` | **Material, post Wednesday.** Color order, then the features they have not touched |
-| 5 | `2-video-and-sound/handouts/screening-and-peer-review.md` | **Material, post Thursday** if you run the screening |
+| 3 | `2-video-and-sound/handouts/color-grading-lab.md` | **Material, post Tuesday.** The screening task, then color in depth |
+| 4 | `2-video-and-sound/handouts/how-cuts-happen.md` | **Material, post Wednesday.** J-cuts, L-cuts, cutaways, cutting on action |
+| 5 | `2-video-and-sound/handouts/capcut-color-and-features.md` | **Optional, Thursday.** Part 3 is the features they have not touched |
+| 5b | `2-video-and-sound/handouts/screening-and-peer-review.md` | **Optional, Thursday** if you run a structured screening |
 | 6 | `2-video-and-sound/handouts/editing-depth-lab.md` | **Optional.** The 20% cut and the extension list. Good filler any day |
 | 7 | `2-video-and-sound/outline.md` | Material |
 | 8 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
@@ -96,13 +113,21 @@ state questions, and what remains is exactly 20.** No new bank needed.
 |------|------|------|
 | 1 | `3-aviation-uas/handouts/how-to-study-this.md` | **Material, post Monday.** Retrieval practice, spacing, and the nine numbers |
 | 2 | `3-aviation-uas/vocab.md` | **Material, post Monday. The running study list**, everything through Week 7 |
-| 3 | `3-aviation-uas/handouts/aircraft-and-battery-safety.md` | **Material, post Tuesday.** Components, batteries, preflight, logging |
+| 3 | `3-aviation-uas/handouts/forces-and-motors.md` | **Material, post Tuesday.** The physics. Forces, axes, and the four motors |
+| 3b | `3-aviation-uas/handouts/aircraft-and-battery-safety.md` | **Material, post Wednesday.** Components, batteries, preflight, logging |
 | 4 | `3-aviation-uas/handouts/bpa-event-choice.md` | **Material, post by Wednesday.** So they have time to think before Friday |
 | 5 | `3-aviation-uas/outline.md` | Material |
 | 6 | **A short form** for the BPA choice | **Assignment, due Friday.** Event, topic or business idea, and why |
 
 **Bell ringers resume Tuesday.** One chart question a day, from
 `week-6/handouts/coordinate-bell-ringers.md`. Teacher reference, do not post.
+
+**Also teacher only:** `handouts/flight-drills-two-tracks.md`, for Wednesday and Thursday flying.
+Assign tracks by name at the briefing and do not announce them as levels.
+
+**Already written and reusable:** `units/unit-1-2-aerodynamics/` has a lab, project, quiz and vocab for
+this unit, including Mavic 3 weight and balance numbers. It predates the no-em-dash rule, so clean
+anything you carry forward.
 
 ---
 
