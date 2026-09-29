@@ -32,6 +32,18 @@ numbered.
 - **Write the full text of the standard**, not just `7.6`. A number alone tells a visitor nothing.
 - Middle School CS and Yearbook do not need this, though naming the focus area is still good practice.
 
+### Standards come first, and activities are tied to them
+
+This applies to **agenda slides, presentation slides, and worksheets**, not just the opening slide.
+
+- **The standards go first, before the agenda.** What are we covering today, in its own words, before
+  anything about what we are doing.
+- **Quote the exact text of the standard.** Not a paraphrase, not a number.
+- **Then the activities, named as serving those standards.** A worksheet says which standard each section
+  is for. A slide deck returns to them rather than stating them once and moving on.
+- **Every student-facing worksheet for a career-tech class carries its standards**, in full text, at or
+  near the top.
+
 ## Student-facing vs. teacher-facing
 
 - `outline.md`, `project.md`, `vocab.md`, and `handouts/` are **student-facing** (safe to paste into Google

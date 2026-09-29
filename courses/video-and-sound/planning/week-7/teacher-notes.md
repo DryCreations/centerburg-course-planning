@@ -53,17 +53,42 @@ being transferable.
 
 `handouts/color-grading-lab.md`. **One tool, done properly, rather than a tour.**
 
-### The screening, 15 to 20 minutes
+### Set the critique expectation BEFORE anything plays
 
-**Every piece gets 30 to 60 seconds.** Everyone, briefly. Nobody is singled out and nobody is skipped,
-which is the whole reason to do it this way rather than picking volunteers.
+**This is the part that decides whether the screening is worth doing.** Put the five lenses up, explain
+the format, and only then ask for volunteers.
 
-**Give them exactly one thing to watch for:** do the shots look like they belong to each other? They
-write MATCHED, DRIFTS, or ONE BAD SHOT for each piece.
+**Volunteers first. If nobody offers, pick a few.** Watch a few, not all of them.
 
-A single narrow question is what makes a screening productive instead of a slideshow. **It also seeds
-the lab**, because most of them will write "drifts" about their own work and then spend the period
-fixing exactly that.
+**The format:** every person gives **one thing that works and one thing that could be fixed**, for every
+piece. Not "did you like it."
+
+| Lens | The question |
+|---|---|
+| **Continuity of look** | Same camera, same day, same room? |
+| **Exposure** | Too dark to see, or blown to white? |
+| **Color cast** | Anything tinted that should not be? **Look at white things** |
+| **Consistency of cuts** | One thing, or clips stapled together? |
+| **One good decision** | What do you want to steal? |
+
+**Make them point at a moment.** "The shot of the hallway is bluer than the one before it" beats "it
+looks off." That is the difference between a critique and a vibe.
+
+**Say this out loud before the first one plays:** *being watched is not a punishment and it is not a
+reward.* It removes most of the volunteer hesitation.
+
+**The lenses seed the lab.** Lens 1 is exactly what they spend the rest of the period fixing.
+
+### The framing sentence for the whole day
+
+> **"Your piece should look like it was filmed continuously, with one camera, on the same settings, in
+> the same light."**
+
+It was not. They shot over days, in different rooms, with auto settings drifting. **That sentence is the
+job**, and it is more useful than the word "correction," because it tells them what finished looks like.
+
+The follow-up worth saying: **the audience never thinks "the white balance shifted." They think "this
+feels cheap," and they cannot tell you why.**
 
 ### Then the lab
 
@@ -76,6 +101,9 @@ about ten seconds, and it is the one most likely to produce an audible reaction.
 
 **The required work is concrete:** two shots that should match and do not, corrected until you cannot
 tell which was which, then the whole piece for consistency. A look is optional and comes last.
+
+**Nothing is submitted today.** The corrected re-export is due Friday, along with the earlier version so
+the difference is visible, plus two sentences on what they fixed.
 
 The rule: **if you can tell a shot has been graded, you went too far.**
 
@@ -91,6 +119,18 @@ Worth answering out loud, because it is a fair question and the answer is the ac
 
 **One is avoidance, the other two are craft.** If they can say what problem they were solving, it is
 craft.
+
+## If color in video is not landing: the Lightroom option
+
+**Same skill, easier to see, because nothing is moving.**
+
+Open old RAW photo files in Lightroom and do white balance, exposure and correction there first. **The
+concepts transfer exactly**: exposure, contrast, white balance, saturation, correction before grading.
+Only the sliders move.
+
+**The point stays the same:** matching, so a set looks like it was shot at one time with one camera.
+That is noted in the student handout as well, so it is not a surprise if you pivot to it later in the
+week.
 
 ## Wednesday: the cuts. This is the best day of the week.
 

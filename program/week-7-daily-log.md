@@ -63,8 +63,8 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 | Class | What runs |
 |-------|-----------|
 | **DT** | **Conditionals demo** at the start, then work time. Announced as the **last build day**: photography starts Wednesday |
-| **V&S** | **Every piece on screen for 30 to 60 seconds**, watched for one question only (do the shots belong to each other?), then **color, one tool done properly**. New handout: `handouts/color-grading-lab.md` |
-| **Aviation** | **Unit 1.2 opens.** Four forces, three axes, why two motors spin backwards, and what all four motors do for climb, pitch, roll and yaw. Classroom, whole period. New handout: `handouts/forces-and-motors.md` |
+| **V&S** | **Critique lenses set before anything plays**, then a volunteer screening of a few cuts, then **color correction**. New handout: `handouts/color-grading-lab.md` |
+| **Aviation** | **Unit 1.2 opens.** Board instruction, then a **digital worksheet with paper drawings**. Parts 1 to 3 today, 4 to 6 Wednesday. New: `handouts/forces-and-motors.md` (reading), `handouts/forces-worksheet.md` (digital), `handouts/forces-worksheet-key.md` (teacher) |
 | **MS CS** | Your loops-and-lists lab, next portion |
 | **Yearbook** | Offload first, then spreads. Push sign-ups for tonight's and tomorrow's games |
 
@@ -74,14 +74,30 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   Tuesday, photography from Wednesday. **This makes the quiz simpler:** state and conditionals get two
   full days, so the 16 state questions are fair game Friday and no alternate cut is needed. Photography
   gets Wed and Thu and stays off the quiz, which is correct for two days of content.
-- **The V&S screening is everyone, briefly**, rather than volunteers or a teacher selection. Nobody is
-  singled out, nobody is skipped, and a single narrow watching question keeps it from being a slideshow.
-- **Color is one tool done properly rather than a feature tour.** The order (exposure, contrast, white
-  balance, saturation) is stated as non-optional, because students go straight to saturation and end up
-  saturating a cast instead of removing one.
+- **The V&S screening is volunteers**, with the teacher picking a few if nobody offers, and **the
+  critique lenses go up before anything plays.** Five lenses, and every student owes one thing that
+  works and one thing that could be fixed per piece. Setting the expectation first is what separates a
+  critique from a vibe.
+- **The framing sentence for the day:** *your piece should look like it was filmed continuously, with
+  one camera, on the same settings, in the same light.* That tells them what finished looks like, which
+  the word "correction" does not.
+- **Nothing is submitted Tuesday.** The corrected re-export is due Friday, with the earlier version
+  alongside it so the difference is visible.
+- **Color order is stated as non-optional** (exposure, contrast, white balance, saturation), because
+  students go straight to saturation and end up saturating a cast instead of removing one.
+- **A Lightroom fallback is written in** for later in the week: same skill on old RAW photos, easier to
+  see because nothing moves, and the concepts transfer exactly.
 - **The Aviation hook is that nobody has told them there is no steering.** True, surprising, and it
-  earns the period. Flying moves to Wednesday and Thursday deliberately: the theory needs the time, and
-  it lands better with two weeks of stick time to attach to.
+  earns the period. Flying moves to Wednesday deliberately: the theory needs the time, and it lands
+  better with two weeks of stick time to attach to.
+- **The physics is a digital worksheet plus paper drawings**, since nothing can be printed in time. The
+  worksheet spans Tuesday and Wednesday so nobody runs out of work, and the drawings get photographed
+  and attached, which is better than a drawing tool anyway.
+- **Part 2 is addition and subtraction only.** No lift equation, no coefficients. A 1,000 g aircraft,
+  four motors at 400 g each, then add a 200 g camera and watch the per-motor margin drop from 150 g to
+  100 g. **That is taught as a safety idea, not an arithmetic one.**
+- **Grade the explanations, not the numbers.** Everyone can add. The scored questions are the ones where
+  a student either has the mechanism or is repeating words.
 - **Flight runs two tracks Wed and Thu**, assigned by name at the briefing off one question from last
   week's log: did the aircraft stop turning at the crossover, or wander through it? Track A breaks the
   figure eight apart and isolates the crossover. Track B is maneuverability. **Not announced as levels**,
@@ -137,6 +153,21 @@ failure rather than a plan.
   option out of four on Thursday, steered by ability.
 - **Yearbook: spirit week and homecoming.** Wide, medium, close on every subject. Moments not poses. The
   two week assignment is due Friday.
+
+---
+
+## Standing rule added to CLAUDE.md
+
+**Standards come first, before the agenda, and activities are tied to them.** This now applies to
+**agenda slides, presentation slides, and worksheets**, not only the opening slide of a career-tech
+class:
+
+- Standards go first, in their **exact text**, before anything about what we are doing
+- Then the agenda, with each activity named as serving one of them
+- **Every student-facing worksheet for a career-tech class carries its standards at the top**
+
+Tuesday's deck implements it for V&S and Aviation, and both new worksheets carry their standards with
+every section labeled by which competency it serves.
 
 ---
 

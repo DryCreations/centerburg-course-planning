@@ -1,31 +1,76 @@
-# Color: Correction, Then Grading
+# Color Correction: Making It Look Like One Camera
 
 **Video & Sound Production (145110) | Tuesday**
 
-Two shots of the same scene, filmed four minutes apart, usually do not match. One is bluer. One is
-darker. The audience cannot tell you why, but they feel that something is off.
+---
 
-**Today is one tool, done properly.** Not a tour.
+## What we are covering today
+
+**Read these before we start. Everything today is for these.**
+
+> **7.3.7** Edit video footage.
+
+> **7.3.5** Prepare and integrate photographic images and special effects with graphic images.
+
+> **7.7.6** Add transitions (dissolves, wipes, cuts), titles, special effects, and digital effects.
+
+> **2.10** Operate equipment according to manufacturer specifications.
+
+| What we do | Which standard it serves |
+|---|---|
+| Watch cuts and critique them with a shared checklist | 7.3.7 |
+| Correct two shots so they match | 7.3.5, 2.10 |
+| Correct the whole piece for consistency | 7.3.5, 7.7.6 |
+| Re-export the fixed version by Friday | 7.3.7 |
 
 ---
 
-## First: we watch everything
+## The goal, in one sentence
 
-**Every piece gets 30 to 60 seconds on the screen.** Everyone, briefly. Nobody is singled out and nobody
-is skipped.
+> **Your piece should look like it was filmed continuously, with one camera, on the same settings, in
+> the same light.**
 
-While each one plays, you are looking for **one specific thing**:
+It was not. You shot it over days, in different rooms, with auto settings drifting between takes. **The
+job today is hiding that.**
 
-> **Do the shots look like they belong to each other?**
+The audience never thinks "the white balance shifted." They think "this feels cheap," and they cannot
+tell you why.
 
-Not whether you like it. Whether the shots match. Write down, for each piece you see, one of:
+---
 
-- **Matched.** Looks like one thing
-- **Drifts.** Some shots are brighter, darker, warmer or cooler than others
-- **One shot is the problem.** Everything matches except one
+## First: how we critique
 
-**That is the whole viewing task.** You will be surprised how often the answer is "drifts," including in
-your own.
+**We are watching a few pieces before anybody touches anything.** Volunteers first. If nobody volunteers,
+I will pick.
+
+**Being watched is not a punishment and it is not a reward.** Every edit that goes on the screen makes
+the whole room better at seeing this, including the person who made it.
+
+### The lenses: what we are looking for
+
+**Do not say whether you liked it.** Look through these five, in this order, and comment on **one thing
+that works** and **one thing that could be fixed** for each piece.
+
+| Lens | The question |
+|---|---|
+| **1. Continuity of look** | **Do the shots look like the same camera, same day, same room?** Or does it jump brighter, darker, warmer, cooler? |
+| **2. Exposure** | Is anything so dark you cannot see it, or so bright it is pure white? |
+| **3. Color cast** | Is anything tinted orange, blue, or green that should not be? Look at white things |
+| **4. Consistency of cuts** | Does the piece feel like one thing, or like clips stapled together? |
+| **5. One good decision** | What did they do that you want to steal? |
+
+### How to say it
+
+**Point at a moment.** "Around the middle," "the shot of the hallway," "right after the title."
+
+| Weak | Useful |
+|---|---|
+| "It looks kind of off" | "The shot of the hallway is noticeably bluer than the one before it" |
+| "It's too dark" | "The second shot, I can't see his face. The first one was fine" |
+| "Good job" | "The title card is readable and stays up long enough. I'm stealing that" |
+| "The colors are weird" | "The wall is white in shot one and kind of yellow in shot three" |
+
+**Two comments per piece: one that works, one that could be fixed.** Everyone contributes.
 
 ---
 
@@ -98,8 +143,8 @@ saturating a cast instead of removing one.
 
 Go through every clip. **You are not making it pretty. You are making it consistent.**
 
-Watch it straight through afterward and ask the same question you asked during the screening: *do these
-shots look like they belong to each other?*
+Watch it straight through afterward and ask the question this whole day is about: **does this look like
+one camera, one day, one room?**
 
 ### Part 3: One look (optional)
 
@@ -137,6 +182,20 @@ Fair question, and the answer is worth understanding rather than memorizing.
 
 **One is avoidance. The other two are craft.** If you can say what problem you were solving, it is
 craft.
+
+---
+
+## If we need a different vehicle for this
+
+Color correction is the same skill in photographs, and in some ways it is easier to see there because
+nothing is moving.
+
+**Later this week we may open old RAW photo files in Lightroom** and do white balance, exposure and
+correction there first. **The concepts transfer exactly**: exposure, contrast, white balance, saturation,
+correction before grading. Only the sliders move.
+
+If that happens, the point is the same one as today: **matching, so a set looks like it was shot at one
+time with one camera.**
 
 ---
 
@@ -182,9 +241,21 @@ craft.
 
 ## Today's checklist
 
-- [ ] Watched every piece and noted matched / drifts / one bad shot
+- [ ] Gave two comments on each piece we watched: one that works, one that could be fixed
 - [ ] **Two shots matched**, corrected in the right order
 - [ ] Toggled the correction on and off to check it is neither invisible nor fake
 - [ ] **Whole piece corrected** for consistency
-- [ ] Watched it straight through and asked whether the shots belong to each other
+- [ ] Watched it straight through and asked: does this look like one camera, one day, one room?
 - [ ] Optional: one look, applied consistently
+
+---
+
+## Due Friday
+
+**Re-export your corrected version and submit it.** Not today. You have the rest of the week.
+
+Submit:
+
+- [ ] The **corrected** export, 1080p
+- [ ] Your earlier version, so the difference is visible
+- [ ] **Two sentences:** which two shots did not match, and what you changed to fix it

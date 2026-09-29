@@ -52,14 +52,21 @@ lessons are built on real data, not a general review.
 | Post | File | Type |
 |------|------|------|
 | 1 | `2-video-and-sound/handouts/color-grading-lab.md` | **Material.** The screening task and the color lab |
-| 2 | `3-aviation-uas/handouts/forces-and-motors.md` | **Material.** Forces, axes, motors. The whole period |
+| 2 | `3-aviation-uas/handouts/forces-and-motors.md` | **Material.** The reading. Forces, axes, motors |
+| 3 | `3-aviation-uas/handouts/forces-worksheet.md` | **Assignment, make-a-copy.** Digital. Drawings go on paper, photographed and attached |
 
 **DT:** the logins worked, so **Plan A ran** and `state-and-variables.md` is already out. **Photography
 starts Wednesday**, so post `photo-composition.md` tomorrow, not today. Tell students today is the last
 build day.
 
-**Not a post, teacher only:** `3-aviation-uas/handouts/flight-drills-two-tracks.md`. Assign tracks by
-name at Wednesday's briefing, and do not announce them as levels.
+**Nothing needs printing.** The Aviation worksheet is digital and the drawings are on paper, by hand.
+
+**Not a post, teacher only:** `3-aviation-uas/handouts/forces-worksheet-key.md` and
+`handouts/flight-drills-two-tracks.md`. Assign flight tracks by name at Wednesday's briefing, and do
+not announce them as levels.
+
+**V&S:** set the critique lenses **before** anything plays, then ask for volunteers. Nothing is
+submitted Tuesday; the corrected re-export is due Friday.
 
 ---
 
@@ -114,7 +121,8 @@ state questions, and what remains is exactly 20.** No new bank needed.
 | 1 | `3-aviation-uas/handouts/how-to-study-this.md` | **Material, post Monday.** Retrieval practice, spacing, and the nine numbers |
 | 2 | `3-aviation-uas/vocab.md` | **Material, post Monday. The running study list**, everything through Week 7 |
 | 3 | `3-aviation-uas/handouts/forces-and-motors.md` | **Material, post Tuesday.** The physics. Forces, axes, and the four motors |
-| 3b | `3-aviation-uas/handouts/aircraft-and-battery-safety.md` | **Material, post Wednesday.** Components, batteries, preflight, logging |
+| 3b | `3-aviation-uas/handouts/forces-worksheet.md` | **Assignment, post Tuesday, make-a-copy.** Parts 1 to 3 Tuesday, 4 to 6 Wednesday |
+| 3c | `3-aviation-uas/handouts/aircraft-and-battery-safety.md` | **Material, post Wednesday.** Components, batteries, preflight, logging |
 | 4 | `3-aviation-uas/handouts/bpa-event-choice.md` | **Material, post by Wednesday.** So they have time to think before Friday |
 | 5 | `3-aviation-uas/outline.md` | Material |
 | 6 | **A short form** for the BPA choice | **Assignment, due Friday.** Event, topic or business idea, and why |

@@ -1,13 +1,16 @@
 # TUESDAY (Sep 29): Slide Prompts (all classes)
 
 Every block is **one prompt, for one slide.** Board versions included.
-**Career-tech classes open with standards**, written out, meant to stay on the board.
+
+**Standards come first, before the agenda, in every career-tech class.** Full text, not numbers. Then
+the agenda, with each activity named as serving one of them. The worksheets carry the same standards at
+the top, so the slide and the paper agree.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 4 | Conditionals, then build. **Photography starts Wednesday** |
-| Video & Sound | 4 | Watch everything briefly, then color in depth |
-| Aviation UAS | 5 | **New unit: why it flies, and why it turns** |
+| Video & Sound | 5 | Critique lenses, volunteer screening, then color correction |
+| Aviation UAS | 6 | **New unit: why it flies, and why it turns** |
 | Middle School CS | 1 | Your loops and lists lab |
 | Yearbook | 2 | Keep shooting. Offload. Sign up for tonight |
 
@@ -95,51 +98,61 @@ LAST BUILD DAY
 
 ---
 
-## 2. Video & Sound: Watch everything, then color
+## 2. Video & Sound: Critique lenses, then color correction
 
 **Documents:** `week-7/handouts/color-grading-lab.md` (student-facing, post it)
-**Run it as:** **every piece gets 30 to 60 seconds on the screen.** Everyone, briefly. Nobody singled
-out, nobody skipped. Students watch for one thing only: do the shots look like they belong to each
-other? Then the rest of the period is color, one tool done properly.
-**Budget:** 15 to 20 minutes screening, the rest hands on.
+**Run it as:** **set the critique expectation before anything plays.** Put the five lenses up, explain
+that everyone gives one thing that works and one thing to fix, then ask for volunteers. **If nobody
+volunteers, pick a few.** Watch a few, not all. Then the rest of the period is color correction.
+**Nothing is submitted today.** The corrected re-export is due Friday.
 
 ### Slide 1: Standards today
 
-> Create one standards slide for a high school video production class titled "Today's Standards." List
+> Create one standards slide for a high school video production class. Title: "Today's Standards." List
 > these with their FULL text, not just the numbers, in large readable type: 7.3.7 Edit video footage.
 > 7.3.5 Prepare and integrate photographic images and special effects with graphic images. 7.7.6 Add
 > transitions (dissolves, wipes, cuts), titles, special effects, and digital effects. 2.10 Operate
-> equipment according to manufacturer specifications. Then a short line: "Today that means making your
-> shots look like they belong to each other." One slide.
+> equipment according to manufacturer specifications. Design it to stay readable on the board all
+> period. One slide.
 
-### Slide 2: While we watch
+### Slide 2: Today's agenda, tied to those standards
 
-> Create one slide for a high school video production class titled "We Are Watching All Of Them." Body:
-> "30 to 60 seconds each. Everybody. You are looking for ONE thing." Then in very large text: "Do the
-> shots look like they belong to each other?" Then three options to write down for each piece: MATCHED,
-> looks like one thing; DRIFTS, some shots are brighter, darker, warmer or cooler than others; ONE BAD
-> SHOT, everything matches except one. Add a line: "Not whether you like it. Whether it matches. You'll
-> be surprised how often the answer is 'drifts,' including in yours." One slide.
+> Create one agenda slide for a high school video production class titled "Today." A four row table with
+> two columns, WHAT WE ARE DOING and WHICH STANDARD. Rows: "Watch a few cuts and critique them with a
+> shared checklist" / 7.3.7. "Correct two shots so they match" / 7.3.5 and 2.10. "Correct the whole piece
+> for consistency" / 7.3.5 and 7.7.6. "Re-export the fixed version, due Friday" / 7.3.7. Keep it clean
+> and readable. One slide.
 
-### Slide 3: Correction, then grading
+### Slide 3: The goal
 
-> Create one comparison slide for a high school video production class titled "Two Different Jobs." Two
-> columns. Left, COLOR CORRECTION: making it look RIGHT; shots match each other; white is white; nothing
-> crushed to black or blown to white. Right, COLOR GRADING: making it look like SOMETHING; a warm
-> nostalgic feel, a cold clinical feel, a mood. Then a bar across the bottom in large text: "Correct
-> first. Always. Grading an uncorrected shot means fighting the original problem with a second problem on
-> top of it." Add a small line: "Most of what makes footage look professional is correction, not grading.
-> The invisible work is the work." One slide.
+> Create one slide for a high school video production class. In very large text in the middle: "Your
+> piece should look like it was filmed continuously, with one camera, on the same settings, in the same
+> light." Below it, smaller: "It wasn't. You shot it over days, in different rooms, with auto settings
+> drifting between takes. Today's job is hiding that." Then one line at the bottom: "The audience never
+> thinks 'the white balance shifted.' They think 'this feels cheap,' and they can't tell you why." One
+> slide.
 
-### Slide 4: The order, and the assignment
+### Slide 4: How we critique. Read this before anything plays.
+
+> Create one slide for a high school video production class titled "How We Critique." Subtitle: "One
+> thing that works. One thing that could be fixed. For every piece." Then a numbered list of five lenses:
+> 1 CONTINUITY OF LOOK, do the shots look like the same camera, same day, same room? 2 EXPOSURE, is
+> anything so dark you can't see it, or blown to pure white? 3 COLOR CAST, is anything tinted orange,
+> blue or green that shouldn't be? Look at white things. 4 CONSISTENCY OF CUTS, does it feel like one
+> thing or like clips stapled together? 5 ONE GOOD DECISION, what do you want to steal? Add a box in
+> large text: "Point at a moment. 'The shot of the hallway is bluer than the one before it' beats 'it
+> looks off.'" Add a line: "Being watched is not a punishment and it is not a reward." One slide.
+
+### Slide 5: Then: correct, in this order
 
 > Create one slide for a high school video production class titled "The Order Is Not Optional." A
 > numbered list, each with one line of why: 1 EXPOSURE, overall brightness, everything depends on it. 2
 > CONTRAST, how far apart the darks and lights are. 3 WHITE BALANCE, make white things white, this fixes
-> most 'my footage looks weird' problems. 4 SATURATION, last, and use less than you want to. Then a box
+> most "my footage looks weird" problems. 4 SATURATION, last, and use less than you want to. Then a box
 > headed "TODAY": find two shots that should match and don't; correct the worse one in that order; flip
-> between them until you can't tell which was which; then correct the whole piece for consistency. Then
-> in large text: "If you can tell a shot has been graded, you went too far." One slide.
+> between them until you can't tell which was which; then correct the whole piece. Then in large text:
+> "If you can tell a shot has been graded, you went too far." Add a small line: "Nothing is due today.
+> The corrected re-export is due Friday." One slide.
 
 ### Board version
 
@@ -151,45 +164,55 @@ STANDARDS TODAY (leave on the board)
   7.7.6  add transitions (dissolves, wipes, cuts), titles,
          special effects, and digital effects
   2.10   operate equipment per manufacturer specifications
-  -> today: make your shots look like they BELONG together
 
-WHILE WE WATCH (30-60 sec each, everybody)
-  one question:
-    DO THE SHOTS LOOK LIKE THEY BELONG TO EACH OTHER?
+TODAY                                        STANDARD
+  watch a few cuts + critique them ......... 7.3.7
+  correct two shots so they match .......... 7.3.5 / 2.10
+  correct the whole piece .................. 7.3.5 / 7.7.6
+  re-export the fixed version (due FRI) .... 7.3.7
 
-  write for each:  MATCHED / DRIFTS / ONE BAD SHOT
+THE GOAL
+  "it should look like it was filmed continuously,
+   with ONE camera, same settings, same light."
+  it wasn't. today's job is hiding that.
 
-TWO DIFFERENT JOBS
-  CORRECTION = make it look RIGHT
-     shots match, white is white, nothing crushed or blown
-  GRADING    = make it look like SOMETHING
-     a mood. warm, cool, desaturated, high contrast
+HOW WE CRITIQUE  (before anything plays)
+  one thing that WORKS. one thing to FIX. every piece.
 
-  CORRECT FIRST. ALWAYS.
+  1. continuity of look - same camera, same day, same room?
+  2. exposure ........... too dark to see? blown to white?
+  3. color cast ......... orange/blue/green? LOOK AT WHITES
+  4. consistency of cuts  one thing, or clips stapled?
+  5. one good decision .. what do you want to STEAL?
 
-THE ORDER (not optional)
-  1. exposure     everything depends on it
-  2. contrast     how far apart darks and lights are
-  3. white balance  fixes most "looks weird" problems
-  4. saturation   LAST, and less than you want
+  POINT AT A MOMENT.
+  "the hallway shot is bluer than the one before it"
+   beats "it looks off"
 
-TODAY
+THEN CORRECT, IN THIS ORDER (not optional)
+  1. exposure   2. contrast   3. white balance   4. saturation
+
   find 2 shots that should match and don't
-  correct the worse one, in that order
-  flip between them till you can't tell which was which
-  then correct the WHOLE piece for consistency
+  correct the worse one -> flip until you can't tell which
+  then the WHOLE piece
 
 "if you can tell a shot has been graded, you went too far"
+
+NOTHING DUE TODAY. corrected re-export due FRIDAY.
 ```
 
 ---
 
 ## 3. Aviation UAS: Why it flies, and why it turns
 
-**Documents:** `week-7/handouts/forces-and-motors.md` (student-facing, post it),
-`units/unit-1-2-aerodynamics/` (existing lab, project, quiz and vocab for this unit)
-**Run it as:** classroom, whole period. Build it on the board in the order below and **have them draw**,
-not just watch. Flying is Wednesday and Thursday, on two tracks.
+**Documents:** `week-7/handouts/forces-and-motors.md` (the reading, post it),
+`week-7/handouts/forces-worksheet.md` (**digital, make-a-copy on Classroom**),
+`week-7/handouts/forces-worksheet-key.md` (teacher only),
+`units/unit-1-2-aerodynamics/` (existing lab, project, quiz and vocab)
+**Run it as:** classroom, whole period. Board instruction in the order below, then they work the
+worksheet. **Nothing needs printing.** The worksheet is digital; **the drawings are on paper**, by hand,
+then photographed and attached.
+**Spans Tuesday and Wednesday.** Parts 1 to 3 today, Parts 4 to 6 tomorrow before flight.
 **The hook:** they have flown these for two weeks and nobody has told them there is no steering.
 
 ### Slide 1: Standards today
@@ -202,7 +225,16 @@ not just watch. Flying is Wednesday and Thursday, on two tracks.
 > what the aircraft is actually doing when you move the sticks." Design it to stay readable on the board
 > all period. One slide.
 
-### Slide 2: The four forces
+### Slide 2: Today's agenda, tied to those standards
+
+> Create one agenda slide for a high school aviation and drone class titled "Today." A table with two
+> columns, WHAT WE ARE DOING and WHICH COMPETENCY. Rows: "The four forces, and what a hover actually is"
+> / 7.4.2 and 7.4.6. "Where lift comes from, two ways" / 7.4.3 and 7.4.4. "Draw free-body diagrams, on
+> paper" / 7.4.2. "Numbers: what happens when you add a camera" / 7.4.6 and 7.4.9. "The four motors, and
+> the three axes" / 7.4.2. Add a line at the bottom: "Worksheet is on Classroom. Drawings are on paper,
+> photographed and attached." One slide.
+
+### Slide 3: The four forces
 
 > Create one diagram slide for a high school aviation class titled "The Four Forces." Show a simple
 > free-body diagram: a drone in the center with four labeled arrows, LIFT pointing up, WEIGHT pointing
@@ -211,7 +243,7 @@ not just watch. Flying is Wednesday and Thursday, on two tracks.
 > CONSTANT SPEED, thrust equals drag. Add a line in large text: "A hover is not 'no forces.' It is forces
 > that cancel." One slide.
 
-### Slide 3: Two motors spin backwards
+### Slide 4: Two motors spin backwards
 
 > Create one diagram slide for a high school drone class titled "Why Two Motors Spin Backwards." Show a
 > quadcopter from above with four motors labeled: front-left clockwise, front-right counterclockwise,
@@ -221,7 +253,7 @@ not just watch. Flying is Wednesday and Thursday, on two tracks.
 > could not stop it. Two each way, and the torques cancel." Add a line: "Everything a drone does, it does
 > by breaking that balance on purpose." One slide.
 
-### Slide 4: There is no steering
+### Slide 5: There is no steering
 
 > Create one slide for a high school drone class. Very large title: "There Is No Steering." Subtitle: "No
 > rudder. No ailerons. Four motors at different speeds. That is all of it." Then a compact table with two
@@ -230,7 +262,7 @@ not just watch. Flying is Wednesday and Thursday, on two tracks.
 > YAW RIGHT, the two counterclockwise speed up, the two clockwise slow, so the torques no longer cancel
 > and the leftover twist rotates it. One slide.
 
-### Slide 5: What you have already felt
+### Slide 6: What you have already felt
 
 > Create one slide for a high school drone class titled "You Have Already Felt This." A two column table,
 > WHAT YOU FELT and WHAT WAS HAPPENING. Rows: it sinks when you push forward hard / lift tilted away from
@@ -289,8 +321,25 @@ THERE IS NO STEERING.
 FORWARD FLIGHT IS TILTED LIFT. there is no separate thrust.
   -> that's why it SINKS when you push forward
 
-DRAW: 3 free-body diagrams (hover / climb / forward)
-      the motor layout, marked CW and CCW
+THE NUMBERS (addition only)
+  aircraft = 1,000 g      each motor can do up to 400 g
+
+  4 x 250 = 1,000  ->  HOVER   (lift = weight)
+  4 x 300 = 1,200  ->  CLIMB   (200 g to spare)
+  4 x 200 =   800  ->  DESCEND
+
+  add a 200 g camera -> 1,200 g total
+    each motor needs 300 g just to hover
+    spare per motor: 400 - 300 = 100 g   (was 150 g)
+  -> weight doesn't just slow you down.
+     it eats your MARGIN.
+
+ON PAPER (photograph + attach)
+  3 free-body diagrams: hover / climb / forward flight
+  an airfoil, labeled
+  the motor layout from above, marked CW and CCW
+
+WORKSHEET IS ON CLASSROOM. parts 1-3 today.
 ```
 
 ---

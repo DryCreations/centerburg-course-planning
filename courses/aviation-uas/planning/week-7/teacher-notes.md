@@ -7,8 +7,8 @@
 | Day | Focus |
 |-----|-------|
 | Mon | **Quiz review**, then **how to study**. `handouts/how-to-study-this.md` |
-| Tue | **Unit 1.2 opens: the physics.** Forces, axes, motors. `handouts/forces-and-motors.md` |
-| Wed | **FLIGHT, two tracks.** `handouts/flight-drills-two-tracks.md`. Then batteries |
+| Tue | **Unit 1.2 opens: the physics.** Board, then worksheet Parts 1 to 3 |
+| Wed | Worksheet Parts 4 to 6, then **FLIGHT, two tracks** |
 | Thu | **FLIGHT, two tracks.** Then logging and post-flight |
 | Fri | **BPA event selection**, due on Classroom |
 
@@ -74,6 +74,32 @@ time to attach it to.
 
 That is true, it is surprising, and it earns you the period.
 
+### The materials, and no printing required
+
+| | |
+|---|---|
+| `handouts/forces-and-motors.md` | The reading. Post it. They can work from this if they get ahead |
+| `handouts/forces-worksheet.md` | **Digital, make-a-copy on Classroom.** Standards at the top in full text, every section labeled with which one it serves |
+| `handouts/forces-worksheet-key.md` | **Teacher only.** Answers plus what to actually grade |
+
+**The drawings are on paper**, photographed and attached. That is better than a drawing tool anyway:
+they think about arrow lengths instead of fighting software.
+
+**The worksheet spans Tuesday and Wednesday.** Parts 1 to 3 today, Parts 4 to 6 tomorrow before flight.
+It is longer than a period on purpose so nobody runs out of work.
+
+### Math: deliberately almost none
+
+Part 2 is **addition and subtraction only**. No lift equation, no coefficients, no formulas.
+
+The numbers exist to make the relationships concrete: a 1,000 g aircraft, four motors that can do 400 g
+each. 4 x 250 is a hover. 4 x 300 climbs. **Then add a 200 g camera** and each motor's spare drops from
+150 g to 100 g.
+
+**That last one is the point of the whole section.** Adding weight does not just make it slower, it eats
+the margin you need to climb, fight wind, or recover from a mistake. **Say it as a safety idea, not an
+arithmetic one.**
+
 ### Build it on the board in this order
 
 1. **Four forces**, as a free-body diagram. Then hover, climb, descend as three different arrow lengths
@@ -92,14 +118,30 @@ That is true, it is surprising, and it earns you the period.
 - **"Yaw is leftover torque."** Nothing pushes the tail around. That is why yaw feels mushy compared to
   roll, which they have also felt and never had explained
 
-**Have them draw.** Three free-body diagrams and the motor layout, by hand. Watching you draw it is not
-the same and the exam asks them to produce it.
+**Have them draw.** Three free-body diagrams, an airfoil, and the motor layout, by hand. Watching you
+draw it is not the same and the exam asks them to produce it.
+
+### What to grade
+
+**Not the numbers.** Everyone can add. Grade the explanation questions: 1.5, 2.5, 3.3, 4.2, 5.3, and all
+of Part 6. Those are where a student either has the mechanism or is repeating words.
+
+**Part 6 matters more than the rest combined**, because it connects the physics to something they have
+physically felt.
 
 ### What already exists
 
 `units/unit-1-2-aerodynamics/` has a lab, project, quiz and vocab written for this unit, including Mavic
 3 weight and balance numbers. **Pull from it rather than rebuilding.** Note it predates the no-em-dash
 rule, so clean anything you copy forward.
+
+## Standards first, every day
+
+**Standards go up before the agenda**, in full text, and each activity is named as serving one of them.
+The worksheet carries the same standards at its top so the slide and the paper agree.
+
+For this unit that is 7.4.2, 7.4.3, 7.4.4, 7.4.6, and 7.4.9. The agenda slide in the Tuesday deck maps
+each activity to a competency; keep that pattern for Wednesday and Thursday too.
 
 ## Wednesday and Thursday: flight, on two tracks
 
