@@ -1,148 +1,100 @@
-# The Cut Plan and Storyboard
+# Cut Plan and Storyboard
 
-**Video & Sound Production (145110) | Thursday, Friday, and into next week**
+**Video & Sound Production | Thursday, Friday, into next week**
 
-You have a script and every shot that was filmed for it. **Before you open the editor, you decide on
-paper what the finished thing looks like.**
+Answer in this document. **The storyboard is on paper**, then photographed and attached.
 
----
+## Standards
 
-## What we are covering
+**7.2.4** Determine uses and needs for site maps, multimedia scripts, storyboards, and flowcharts.
 
-> **7.2.4** Determine uses and needs for site maps, multimedia scripts, storyboards, and flowcharts.
+**7.2.5** Make preliminary sketches showing placement of images and text on screen.
 
-> **7.2.5** Make preliminary sketches showing placement of images and text on screen.
-
-> **7.7.6** Add transitions (dissolves, wipes, cuts), titles, special effects, and digital effects.
-
-| What you do | Which standard |
-|---|---|
-| Log the footage you have | 7.2.4 |
-| Mark cut points and cut types on the script | 7.2.4, 7.7.6 |
-| Sketch every shot in order, showing framing | 7.2.5 |
+**7.7.6** Add transitions (dissolves, wipes, cuts), titles, special effects, and digital effects.
 
 ---
 
 ## Step 1: Log your footage
 
-**Watch every clip once. All of them.** Do not skip the ones that look boring: the shot you skipped is
-the cutaway you need on Friday.
+**Watch every clip once. All of them.** The one you skip is the cutaway you need on Friday.
 
-| Clip name | What is in it | Framing | Usable? |
-|---|---|---|---|
-| | | | |
-| | | | |
-| | | | |
-| | | | |
+For each clip, write: **clip name, what is in it, framing, usable yes or no.**
 
-**Framing options:** wide, medium, medium close-up, close-up, over the shoulder, two shot, insert.
+Framing options: wide, medium, medium close-up, close-up, over the shoulder, two shot.
 
-> **This is a real job.** Assistant editors log footage all day. It is the work that makes the editor's
-> work possible, and it is often the first job anyone gets.
+**1.** Your log:
 
 ---
 
 ## Step 2: Mark up the script
 
-**On the script itself.** For every place you intend to cut:
+**On the script itself.** At every place you want to cut:
 
-1. **Draw a line** where the cut happens
-2. **Write which shot** you are cutting to
-3. **Write which type:** straight, J, L, cutaway, match, cut on action
-4. **If J or L, write roughly how much offset.** "Sound starts about half a second early"
+1. Draw a line where it happens
+2. Write which shot you cut to
+3. Write the type: **straight, J, L, cutaway, match, on action**
+4. If J or L, roughly how much offset
 
-### Ask yourself at every cut
+### Ask at every cut
 
-| Question | Why it matters |
-|---|---|
-| **Whose face do I want to be on right now?** | The speaker, or the person hearing it? That choice is the scene |
-| **Why am I cutting here?** | "The line ended" is weak. "I want to see her hear it" is real |
-| **What does the audience need to see next?** | A cut is you answering that question |
-| **What is this scene actually about?** | Protect that moment. Let it breathe. Do not cut through it |
+- **Whose face do I want to be on right now?** The speaker, or the person hearing it?
+- **Why am I cutting here?** "The line ended" is weak. "I want to see her hear it" is real
+- **What does the audience need to see next?**
 
-> **A cut is an instruction to the audience: look here now.** If you cannot say why you are giving that
-> instruction, do not make the cut.
+**A cut tells the audience: look here now.** If you cannot say why, do not cut.
+
+**2.** Pick two of your cuts and explain why you put them there.
 
 ---
 
-## Step 3: The storyboard
+## Step 3: Storyboard
 
-**Sketch every shot, in the order a viewer will see them.**
+**Sketch every shot in order.**
 
-### What I am looking at
+### What is graded
 
-| | |
-|---|---|
-| **Framing** | How much of the person is in frame, and where they sit in it. **This is the main thing** |
-| **Who is in the shot** | I have to be able to tell the characters apart |
-| **Cut points and types** | Marked between the panels |
+- **Framing.** How much of the person is in the frame
+- **Who is in the shot.** I have to tell the characters apart
+- **The cut type**, written between panels
 
-### What I am not looking at
+### What is not graded
 
-**Art quality. At all.**
+**Art quality, at all.** Stick figures are fine. No faces, no clothing, no shading.
 
-- **Stick figures are completely fine**
-- No faces, no clothing detail, no shading
-- Backgrounds only enough to say where you are
-- Proportions do not matter
+**Just make the characters tellable apart:** different hair, a hat, a letter over the head.
 
-**But differentiate your characters.** Different hair, a hat, a label, a letter over the head. **If I
-cannot tell who is who, the storyboard is not doing its job.**
+### Each panel
 
-### Panel format
+Under each sketch write: **Shot number** and **Framing.**
+
+Between panels write: **the cut type.**
+
+### Framing, roughly
 
 ```
-  +---------------------------+     +---------------------------+
-  |                           |     |                           |
-  |      [ your sketch ]      | --> |      [ your sketch ]      |
-  |                           |     |                           |
-  +---------------------------+     +---------------------------+
-   Shot: ____                        Shot: ____
-   Framing: __________               Framing: __________
-                    ^
-            CUT TYPE goes here:
-       straight / J / L / cutaway / match / on action
-```
-
-**The cut type between panels is what makes this a plan** rather than a set of drawings.
-
-### Drawing framing, quickly
-
-You are showing **how much of the person fills the frame.** That is all.
-
-```
-   WIDE            MEDIUM          CLOSE-UP        OVER SHOULDER
-  +--------+      +--------+      +--------+      +--------+
-  |        |      |        |      |  (  )  |      |()      |
-  |  (  )  |      |  (  )  |      | |    | |      | |   () |
-  |  /|\   |      |  /|\   |      | |    | |      | |   /| |
-  | _/ \_  |      +--------+      +--------+      +--------+
+   WIDE            MEDIUM          CLOSE-UP
+  +--------+      +--------+      +--------+
+  |        |      |        |      |  (  )  |
+  |  (  )  |      |  (  )  |      | |    | |
+  |  /|\   |      |  /|\   |      | |    | |
+  | _/ \_  |      +--------+      +--------+
   +--------+
 ```
 
-**Five seconds a panel.** If a panel is taking two minutes you are drawing, not planning.
+**Five seconds a panel.** If a panel takes two minutes you are drawing, not planning.
 
 ---
 
 ## Turn in
 
-| When | What |
-|------|------|
-| **Friday** | Footage log, and the marked-up script |
-| **Next week** | Storyboard, photographed and uploaded |
-
-**Paper is fine. Photograph it and upload.**
+- **Friday:** the footage log and the marked-up script
+- **Next week:** the storyboard, photographed and uploaded
 
 ---
 
-## Why we do this before opening the editor
+## Why plan before editing
 
-Because **an editor with a plan makes decisions, and an editor without one makes whatever the timeline
-suggests.**
+**An editor with a plan makes decisions. An editor without one makes whatever the timeline suggests.**
 
-You can build this scene in about an hour once you know what you are building. Without a plan, the same
-scene takes four hours and comes out worse, because every choice gets made at random while you are tired
-and staring at a clip you have watched sixty times.
-
-**Twenty minutes of planning is worth three hours of cutting.** Every professional editor on earth
-already knows this, and most of them learned it the hard way.
+This scene takes about an hour to build once you know what you are building. Without a plan it takes
+four, and it comes out worse.

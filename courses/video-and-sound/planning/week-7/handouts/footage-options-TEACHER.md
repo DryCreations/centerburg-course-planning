@@ -17,9 +17,9 @@ Conversations and interviews are where J-cuts and L-cuts actually live.
 
 | Project | URL | Why |
 |---------|-----|-----|
-| **Hospital scene** | `cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/` | **Built specifically to practice split edits.** Lower-resolution version available, royalty-free music included. The default pick |
-| **Documentary format** | `cinestudy.org/2020/05/02/edit-challenge-documentary-format/` | Interview footage from the Mandalorian press kit (Filoni, Favreau, Pascal, Herzog). **Interviews are nothing but J-cuts and L-cuts**, and the subject matter will land with students |
-| **Mockumentary** | `cinestudy.org/2020/06/05/edit-challenge-mockumentary/` | Comedic interview format. **Preview the tone before offering it** |
+| **Hospital scene** | [link](https://cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/), [older version](https://cinestudy.org/2019/10/07/edit-challenge-split-edits-hospital-scene/) | **Built specifically to practice split edits.** Lower-resolution version available, royalty-free music included. The default pick |
+| **Documentary format** | [link](https://cinestudy.org/2020/05/02/edit-challenge-documentary-format/) | Interview footage from the Mandalorian press kit (Filoni, Favreau, Pascal, Herzog). **Interviews are nothing but J-cuts and L-cuts**, and the subject matter will land with students |
+| **Mockumentary** | [link](https://cinestudy.org/2020/06/05/edit-challenge-mockumentary/) | Comedic interview format. **Preview the tone before offering it** |
 
 **The documentary one is the strongest second option.** Real interviews, recognizable people, and split
 edits are the entire craft of cutting an interview.
@@ -30,23 +30,23 @@ edits are the entire craft of cutting an interview.
 
 | Project | URL | Teaches |
 |---------|-----|---------|
-| **Compression of time** | `cinestudy.org/2020/01/27/edit-challenge-compression-of-time/` | Elliptical editing, cutting on action |
-| **Editing dolly shots** | `cinestudy.org/2019/01/28/interactive-editing-project-free/` | Matching camera movement across cuts |
-| **Car chase** | `cinestudy.org/2019/11/26/interactive-project-edit-a-car-chase/` | Pacing, rhythm, match cuts. Sound effects included. Little or no dialogue, so **poor for split edits** |
-| **Editing a sequence** | `cinestudy.org/2019/02/15/interactive-project-editing-a-sequence/` | Structure and order, three scenes assembled into one. **Flagged below** |
+| **Compression of time** | [link](https://cinestudy.org/2020/01/27/edit-challenge-compression-of-time/) | Elliptical editing, cutting on action |
+| **Editing dolly shots** | [link](https://cinestudy.org/2019/01/28/interactive-editing-project-free/) | Matching camera movement across cuts |
+| **Car chase** | [link](https://cinestudy.org/2019/11/26/interactive-project-edit-a-car-chase/) | Pacing, rhythm, match cuts. Sound effects included. Little or no dialogue, so **poor for split edits** |
+| **Editing a sequence** | [link](https://cinestudy.org/2019/02/15/interactive-project-editing-a-sequence/) | Structure and order, three scenes assembled into one. **Flagged below** |
 
 ---
 
 ## Preview before offering, or do not offer
 
-| Project | Concern |
-|---------|---------|
-| **Horror movie in 4K** | Horror. Not appropriate without a close look |
-| **Editing a sequence** | Described as a heist, a character preparing gear, and her being attacked by henchmen. **The violence needs checking** |
-| **Accidental art** | Published as a "dark comedy." Tone unknown |
-| **Refractory** | "Dramatic short film." Content unknown |
-| **FX short film** | Unknown, and the effects focus is off-topic for this unit |
-| **16mm short film** | Unknown content |
+| Project | Link | Concern |
+|---------|------|---------|
+| **Horror movie in 4K** | [link](https://cinestudy.org/2019/09/24/interactive-project-horror-movie/) | Horror. Not appropriate without a close look |
+| **Editing a sequence** | [link](https://cinestudy.org/2019/02/15/interactive-project-editing-a-sequence/) | Described as a heist, a character preparing gear, and her being attacked by henchmen. **The violence needs checking** |
+| **Accidental art** | [link](https://cinestudy.org/2025/03/04/edit-this-accidental-art-a-dark-comedy/) | Published as a "dark comedy." Tone unknown |
+| **Refractory** | [link](https://cinestudy.org/2024/09/09/edit-this-dramatic-short-film-refractory/) | "Dramatic short film." Content unknown |
+| **FX short film** | [link](https://cinestudy.org/2020/09/17/edit-challenge-fx-short-film/) | Unknown, and the effects focus is off-topic for this unit |
+| **16mm short film** | [link](https://cinestudy.org/2020/11/27/edit-challenge-16mm-short-film/) | Unknown content |
 
 **The student-facing `project.md` lists only the safe set**, and tells students to ask before picking
 anything not on it.

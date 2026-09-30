@@ -44,6 +44,18 @@ This applies to **agenda slides, presentation slides, and worksheets**, not just
 - **Every student-facing worksheet for a career-tech class carries its standards**, in full text, at or
   near the top.
 
+## Worksheets
+
+**Keep them short.** A worksheet that takes three days should still be scannable in one screen of
+headings. Long and thorough reads as convoluted, and students skip the middle.
+
+- **Plain Markdown, ready to paste into Google Docs.** Headings, bold, numbered questions, short lists.
+  Avoid wide tables in student worksheets: they paste badly
+- **No name, date, or class-period fields.** Assume each student has their own copy and is typing into it
+- **Number questions straight through** the whole worksheet, so a teacher key can reference them
+- **Ask the question and stop.** Do not restate the lesson before every item
+- **Say what is graded**, in a line or two, at the end
+
 ## Student-facing vs. teacher-facing
 
 - `outline.md`, `project.md`, `vocab.md`, and `handouts/` are **student-facing** (safe to paste into Google
