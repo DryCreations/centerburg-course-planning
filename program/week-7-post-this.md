@@ -75,15 +75,19 @@ submitted Tuesday; the corrected re-export is due Friday.
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/handouts/photo-worksheet.md` | **Assignment, make-a-copy.** Digital, three days |
-| 2 | `2-video-and-sound/handouts/split-edits-lab.md` | **Material.** J-cuts, L-cuts, and the lab |
+| 2 | `2-video-and-sound/handouts/split-edits-lab.md` | **Material.** Cut types, and today's work |
+| 3 | `2-video-and-sound/project.md` | **Assignment.** The whole multi-day edit project |
+| 4 | `2-video-and-sound/handouts/cut-plan-and-storyboard.md` | **Material, post by Thursday.** Logging, cut plan, storyboard |
 
 **Not a post, do these yourself:**
 
 - **Check every camera body is set to RAW**, and ISO on Auto. A body left on JPEG costs a student the
   whole week and you will not find out until Monday
-- **Download the Cinestudy hospital scene** and put it in the V&S shared folder. Verify it works and
-  grab the lower-resolution version if the machines struggle.
+- **Download the clip packs** for whichever projects you are offering and stage them in a shared folder,
+  rather than thirty machines hitting the site at once. Grab the lower-resolution versions.
   `cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/`
+- **Read `2-video-and-sound/handouts/footage-options-TEACHER.md` first.** It has the vetted menu with
+  URLs and flags which projects to preview before offering. Several are horror or mature in tone
 - **Teacher only:** `1-design-techniques/handouts/photo-worksheet-key.md`
 
 ---
@@ -121,7 +125,11 @@ state questions, and what remains is exactly 20.** No new bank needed.
 | 3 | `2-video-and-sound/handouts/color-grading-lab.md` | **Material, post Tuesday.** The screening task, then color in depth |
 | 4 | `2-video-and-sound/handouts/how-cuts-happen.md` | **Material, post Wednesday.** J-cuts, L-cuts, cutaways, cutting on action |
 | 5 | `2-video-and-sound/handouts/capcut-color-and-features.md` | **Optional, Thursday.** Part 3 is the features they have not touched |
-| 5b | `2-video-and-sound/handouts/screening-and-peer-review.md` | **Optional, Thursday** if you run a structured screening |
+| 5b | `2-video-and-sound/handouts/screening-and-peer-review.md` | **Optional.** If you run a structured screening |
+| 6 | `2-video-and-sound/project.md` | **Assignment, post Wednesday.** Multi-day, runs into next week |
+| 7 | `2-video-and-sound/handouts/cut-plan-and-storyboard.md` | **Material, post by Thursday.** The paper planning phase |
+
+**Teacher only:** `2-video-and-sound/handouts/footage-options-TEACHER.md`, the vetted footage menu.
 | 6 | `2-video-and-sound/handouts/editing-depth-lab.md` | **Optional.** The 20% cut and the extension list. Good filler any day |
 | 7 | `2-video-and-sound/outline.md` | Material |
 | 8 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Friday**, cut to 20 |

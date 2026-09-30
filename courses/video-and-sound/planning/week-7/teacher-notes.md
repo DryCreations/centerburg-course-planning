@@ -8,8 +8,9 @@
 |-----|-------|-----------------|
 | Mon | **Review.** Vocab, then Gimkit | Baseline on what actually stuck |
 | Tue | **Watch everything briefly, then color in depth** | Two shots matched, whole piece corrected |
-| Wed | **How cuts happen.** J, L, cutaway, cut on action | Four techniques logged with timecodes |
-| Thu | Screening, next project, or more CapCut features | Flexible. All three are written |
+| Wed | **Cut types.** Pick a project, download, read the script | **No editor** |
+| Thu | Watch every clip, log it, mark cut points on the script | A log and a marked script |
+| Fri | **Quiz**, then finish the cut plan, start the storyboard | |
 | Fri | **Quiz**, then export and submit | 34 question bank, cut to 20 |
 
 **Thursday is deliberately loose.** Decide midweek. Screening (`screening-and-peer-review.md`) and
@@ -132,7 +133,61 @@ Only the sliders move.
 That is noted in the student handout as well, so it is not a surprise if you pivot to it later in the
 week.
 
-## Wednesday: the cuts. This is the best day of the week.
+## Wednesday: the cuts, and the project opens
+
+This is now **a multi-day project running into next week**, not a one-period lab. `project.md` has the
+whole arc; `split-edits-lab.md` is today.
+
+### The order is the pedagogy
+
+| | |
+|---|---|
+| **Wed** | Cut types on the board. Pick a project, download, **read the script** |
+| **Thu** | Watch every clip. Log it. Start marking cut points |
+| **Fri** | Finish the cut plan. Start the storyboard |
+| **Next week** | Build it. Then build it again, differently |
+
+**No editor Wednesday, and say why out loud:**
+
+> **"An editor with a plan makes decisions. An editor without one makes whatever the timeline
+> suggests."**
+
+Expect pushback, since they want to open the software. The honest version: **this scene takes about an
+hour to build once you know what you are building, and four hours if you do not, and the four-hour
+version comes out worse.**
+
+### The storyboard bar, stated clearly
+
+**Art quality does not matter at all. Stick figures are fine.**
+
+What is being graded is **framing** (how much of the person is in the frame) and **who is in the shot**,
+plus the **cut type marked between panels.** Characters just have to be tellable apart: different hair,
+a hat, a letter over the head.
+
+**Say "five seconds a panel."** If someone is spending two minutes on a panel they are drawing rather
+than planning, and they will not finish.
+
+### Footage choice
+
+`handouts/footage-options-TEACHER.md` has the vetted menu with URLs.
+
+**Offer two or three, not ten.** Choice motivates; a long menu is paralysis and every extra option is
+another download for you to stage.
+
+**Say out loud that the hospital scene is the easiest path to a good grade**, because it was built for
+exactly this. That makes choosing something else a deliberate decision rather than an accident.
+
+**The documentary one is the strongest second option**: real interview footage, recognizable people, and
+cutting an interview is nothing but J-cuts and L-cuts.
+
+**Several projects on that site are horror or mature in tone.** The student-facing list contains only
+the safe set and tells them to ask before picking anything else. **Preview whatever you offer.** I could
+not open those pages to check them.
+
+### Build a straight-cut version first, when you get to the editor
+
+Next week, before the split edits: assemble it with every cut straight and watch how mechanical a
+conversation feels. **That is what the fix gets measured against.** Skipping it wastes the lesson.
 
 `handouts/how-cuts-happen.md`. Straight cut, J-cut, L-cut, cutaway, match cut, jump cut, cut on action.
 
@@ -161,51 +216,33 @@ seconds settles it.
 **Room tone: most of them will have none.** That is fine and it is the point. Assign 30 seconds of it for
 the next shoot.
 
-## Thursday: pick one, midweek
+## Thursday and Friday: the project continues
 
-All three are written:
+**Thursday:** watch every clip, log it, start marking cut points on the script.
+**Friday:** quiz first, then finish the cut plan and start the storyboard.
 
-| Option | Use it if |
-|--------|-----------|
-| **Screening with structured peer review** | You want quiz rehearsal on the vocabulary. Notes force the words into use |
-| **The rest of the CapCut features** | `capcut-color-and-features.md` Part 3: speed, keyframes, masking, stabilization, freeze frames. **Push keyframes**, they transfer to every editor |
-| **Next project planning** | You would rather spend the time getting the next shoot right |
+`handouts/cut-plan-and-storyboard.md` covers both.
 
-**The week of a vocabulary quiz, the screening is the safer pick.**
+**The logging is a real job.** Say so: assistant editors log footage all day and it is often the first
+job anyone gets. That reframes it from busywork.
 
-## The screening, if you run it
+**The question that makes the cut plan work**, worth putting on the board:
 
-**Same footage, different edits, watched side by side.** This is the single most efficient teaching
-device available this week, because the variation makes every choice visible.
+> **"Whose face do I want to be on right now? The person speaking, or the person hearing it?"**
 
-Run it strictly:
+That single question is most of what editing a conversation is, and it turns "where do I cut" from a
+mechanical question into a dramatic one.
 
-1. The cut plays **all the way through with no commentary.** Nobody talks, including the editor
-2. **The editor says nothing first.** No "it's not done"
-3. Room gives notes. **Then** the editor can ask questions
+**Watch for:** students marking a cut at the end of every line. That is the tennis match, on paper. Push
+them toward holding on a listener.
 
-> **The editor talking first ruins the data.** Once they explain the shot, nobody can tell them whether
-> it read on its own, and that is the only thing worth knowing.
+### Still available if you need it
 
-**Make them use the vocabulary.** "It felt weird" gets sent back; "the cut at 0:14 is a jump cut" is the
-standard. This is also live rehearsal for Friday's quiz, which is why the vocab day and the screening
-day sit next to each other.
-
-**Timing:** you will not get through everyone. Four or five cuts is a full period done properly, and
-doing five well beats rushing twelve. Rotate who gets screened across future weeks.
-
-**The peer note lands harder than yours.** "You have a detail shot that would cover that cut" is the
-same information from me and from a classmate, and only one of those gets acted on.
-
-## If you run next-project planning instead
-
-They have now felt what bad coverage costs in the edit, which is the only moment pre-production is ever
-persuasive.
-
-> **Say it directly: every problem you hit this week was created two weeks ago, on the shoot.**
-
-Have them start a packet: concept, a one-sentence goal, and a shot list that **includes B-roll on
-purpose** this time. Tuesday's cutaway lesson is the argument, and it is fresh.
+| | |
+|---|---|
+| `handouts/screening-and-peer-review.md` | Structured screening with peer notes |
+| `handouts/capcut-color-and-features.md` Part 3 | Speed, keyframes, masking, stabilization |
+| `handouts/editing-depth-lab.md` | The 20 percent cut and extensions |
 
 ## Still individual
 
@@ -230,5 +267,9 @@ test of understanding rather than of guessing which one you meant.
 
 ## Submissions
 
-**Both cuts are due**: the Thursday assembly and the final. The comparison is the evidence that the week
-worked, and it is worth two minutes of watching a few side by side.
+**Friday:** the corrected re-export from Tuesday plus the earlier version, the footage log, and the
+marked-up script.
+
+**Next week:** the storyboard, then **two different cuts of the same footage** and a reason for which is
+better. That comparison is the most valuable thing in the project and it is only possible because
+everyone starts from identical footage.

@@ -22,21 +22,25 @@ You already know the four moves. This week is about *when* to use them, which is
 |-----|-------|-----------------|
 | Mon Sep 28 | **Review.** Vocabulary, then a Gimkit game | You know what you actually know |
 | Tue Sep 29 | **We watch everything, then color** | Two shots matched, whole piece corrected |
-| Wed Sep 30 | **How cuts happen.** J-cuts, L-cuts, cutting on action | Four techniques applied to your edit |
-| Thu Oct 1 | Screening, more CapCut features, or the next project | Depends on how the week goes |
-| Fri Oct 2 | **QUIZ**, then export and submit | Final export, 1080p |
+| Wed Sep 30 | **Cut types.** Pick a project, download, read the script | **No editor today** |
+| Thu Oct 1 | Watch every clip, log it, mark cut points | A footage log and a marked-up script |
+| Fri Oct 2 | **QUIZ**, then finish the cut plan and start the storyboard | |
+| **Next week** | Build it, then build it again differently | Two versions, and a reason |
 
 > **Tuesday we watch all of them**, 30 to 60 seconds each. Everyone, briefly. You are looking for one
 > thing: do the shots look like they belong to each other?
 
-> **Thursday may shift.** Screening, the rest of the CapCut features, and next-project planning are all
-> ready, and any one can take the full period.
+> **Wednesday starts a multi-day project** that runs into next week. You get a finished script and every
+> shot that was filmed for it. You are not shooting. **Every decision that remains is editing.**
+> See `project.md`.
 
 ### What You'll Be Able to Do
 
 - Say why a cut works or does not, in words other than "it feels weird"
 - **Correct two shots so they match**, in the right order, and say how correction differs from grading
 - Use a **J-cut, an L-cut, a cutaway, and a cut on action**, and say what each is for
+- **Log footage** and mark cut points and cut types on a script
+- **Storyboard a scene** showing framing and where each cut falls
 - Give another editor feedback they can act on, using the right words
 - Use keyframes to change a setting over time
 - Finish a piece: titles, credits, fade, and a clean export
@@ -46,11 +50,13 @@ You already know the four moves. This week is about *when* to use them, which is
 
 ### Due Friday
 
-- Your finished piece, exported at 1080p, on Google Classroom
-- The **before and after**: last week's assembly and your Friday cut, both submitted
-- **A log of the four cut techniques** you applied: timecode, which one, and whether it helped
+- Your corrected re-export from Tuesday's color work, plus the earlier version
+- **Your footage log** for the edit project
+- **Your marked-up script**: where the cuts go and which type each one is
 - Written feedback on two other people's cuts
-- Three sentences on what changed and why
+
+**Next week:** the storyboard, then two different cuts of the same footage and a reason for which is
+better.
 
 ### The study guide
 

@@ -10,8 +10,8 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **Login test first.** Then find the state, or Plan B | **Cut 20% out** | **Quiz review**, then how to study | **Quiz review**, then build a list together | **Spirit week.** Cameras out |
 | **Tue** | **Conditionals**, then last build day | **Watch everything, then color** | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
-| **Wed** | **PHOTOGRAPHY starts.** BPA, then shutter priority | **J-cuts and L-cuts** on a supplied scene | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
-| **Thu** | Photography: aperture priority | Flexible | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
+| **Wed** | **PHOTOGRAPHY starts.** BPA, then shutter priority | **Cut types. Edit project opens.** No editor | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
+| **Thu** | Photography: aperture priority | Log the footage, mark cut points | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
 | **Fri** | **QUIZ**, then submit | **QUIZ**, then export and submit | **BPA event selection** | Finish and show | **Photos + check-in DUE.** Events |
 
 ---
@@ -63,7 +63,7 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 | Class | What runs |
 |-------|-----------|
 | **DT** | **Unit 2.1 Photography opens.** BPA mention (10 min), shutter priority on the board, then shoot. New: `handouts/photo-worksheet.md` (digital, three days) and `handouts/photo-worksheet-key.md` (teacher) |
-| **V&S** | J-cuts and L-cuts, taught on a **supplied conversation scene** rather than their own footage. New: `handouts/split-edits-lab.md` |
+| **V&S** | Cut types, then **the edit project opens**: pick a project, download, read the script. **No editor today.** New: `project.md`, `handouts/split-edits-lab.md`, `handouts/cut-plan-and-storyboard.md`, `handouts/footage-options-TEACHER.md` |
 | **Aviation** | Your plan and your simplified worksheet: torque, CW and CCW rotation, how the drone rotates |
 | **MS CS** | Your plan: one more thing with lists. Thu and Fri are work days |
 | **Yearbook** | Two days left. Games today, the last easy coverage before Friday |
@@ -84,9 +84,21 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   change is visible and instant. The worksheet says so, so the alignment stays honest.
 - **ISO is set to Auto all week**, so students are learning two settings rather than three.
 - **V&S uses supplied footage** because split edits live in conversations and their own material is not
-  conversations. Everyone edits the same scene, so the comparison afterward is entirely about decisions.
-- **Students build a straight-cut version first**, deliberately, so the fix has something to be measured
-  against.
+  conversations. They get a finished script and complete coverage, so every remaining decision is
+  editing.
+- **The lab became a multi-day project** running into next week: cut types and reading Wednesday, log
+  and cut plan Thursday, storyboard Friday, build it next week, then build it again differently.
+- **No editor Wednesday, on purpose.** The reason given to students: an editor with a plan makes
+  decisions, an editor without one makes whatever the timeline suggests. The honest version is that the
+  scene takes an hour to build with a plan and four hours without one, and the four-hour version is
+  worse.
+- **Storyboard bar is explicitly low on art and specific on content.** Stick figures are fine. What is
+  graded is **framing**, **who is in the shot**, and the **cut type marked between panels**. Characters
+  only have to be tellable apart. "Five seconds a panel" is the pacing instruction.
+- **Students get a choice of footage**, from a vetted list. The hospital scene is named as the default
+  and the easiest path to a good grade, so choosing something else is deliberate.
+- **Students build a straight-cut version first** when they reach the editor, so the fix has something
+  to be measured against.
 
 ### Verified and flagged
 
@@ -98,6 +110,10 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   far too fast to blur a background behind someone walking, and is why those pans came out with sharp
   backgrounds. **The correct range is `1/30`, `1/15`, `1/8`.** That handout has already been shared with
   students so it has not been edited. Worth correcting verbally, or reposting it fixed.
+- **Several Cinestudy projects are horror or mature in tone** and are deliberately excluded from the
+  student-facing list. `handouts/footage-options-TEACHER.md` flags which ones to preview before
+  offering. **Those pages could not be opened from here**, so the flags come from titles and published
+  descriptions rather than from viewing them.
 - **Check every camera body is on RAW before first period.** A body left on JPEG costs that student the
   whole week and will not surface until Monday.
 

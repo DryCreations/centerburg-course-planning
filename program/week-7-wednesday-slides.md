@@ -8,7 +8,7 @@ agenda, with each activity named as serving one of them.
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 6 | **New unit: photography.** BPA, then shutter priority |
-| Video & Sound | 5 | J-cuts and L-cuts, on a supplied scene |
+| Video & Sound | 5 | J-cuts and L-cuts. **No editor today** |
 | Aviation UAS | 0 | Your plan. Torque and rotation, worksheet second half |
 | Middle School CS | 1 | One more thing with lists |
 | Yearbook | 1 | Keep shooting. Games today |
@@ -145,14 +145,18 @@ WAITING FOR A CAMERA? answer the written questions.
 
 ## 2. Video & Sound: J-cuts and L-cuts
 
-**Documents:** `week-7/handouts/split-edits-lab.md` (student-facing, post it)
-**Before class:** download the Cinestudy hospital scene clip pack and put it in the shared folder.
-**Verify the download works and check the file format**, and grab the lower-resolution version if the
-machines struggle with UltraHD.
-`cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/`
-**Run it as:** board lecture on cut types, then they edit the supplied scene. Everyone gets the same
-clips, so the comparison afterward is entirely about decisions.
-**Why supplied footage:** their own material is not conversations, and split edits live in conversations.
+**Documents:** `week-7/handouts/split-edits-lab.md` (today), `week-7/project.md` (the whole project),
+`week-7/handouts/cut-plan-and-storyboard.md` (Thu onward),
+`week-7/handouts/footage-options-TEACHER.md` (teacher only, the vetted menu)
+**Before class:** download the clip packs for whichever projects you are offering and stage them in a
+shared folder, rather than thirty machines hitting the site at once. **Grab the lower-resolution
+versions.** `cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/`
+**This is now a multi-day project running into next week.** Today is cut types, picking a project,
+downloading, and reading the script.
+**No editor today.** Say that out loud, and say why: an editor with a plan makes decisions, an editor
+without one makes whatever the timeline suggests.
+**Why supplied footage:** their own material is not conversations, and split edits live in
+conversations. They get a finished script and complete coverage, so every remaining decision is editing.
 
 ### Slide 1: Standards today
 
@@ -188,15 +192,17 @@ clips, so the comparison afterward is entirely about decisions.
 > didn't know that was a choice you were allowed to make." Then a short line: "Cutting picture and sound
 > together on every line makes a conversation feel like a tennis match." One slide.
 
-### Slide 5: The lab
+### Slide 5: Today, and where this goes
 
-> Create one assignment slide for a high school video production class titled "The Lab." Numbered: "1.
-> Copy the clips into YOUR OWN project folder. 2. Watch every clip once before you cut anything. 3. Build
-> a STRAIGHT CUT version first. Watch how mechanical it feels. That's what you're about to fix. 4. Unlink
-> the audio from the video. This is the one mechanical skill today. 5. Build three J-cuts. 6. Build three
-> L-cuts. 7. Compare the two versions." Then a box: "Adjust by TENTHS of a second, not seconds. Half a
-> second is usually enough." Add a line: "Turn in BOTH versions, plus a log: timecode, J or L, and how
-> much offset." One slide.
+> Create one slide for a high school video production class titled "Today: Pick, Download, Read."
+> Numbered: "1. Pick your project from the list. The hospital scene is the default and it was built for
+> exactly what we're learning. 2. Download the footage into YOUR OWN folder. 3. Read the script TWICE.
+> First pass, what happens. Second pass, where does the emotional weight sit? 4. Mark two or three places
+> you already know you want to cut, and write which type." Then a box in very large text: "We are not
+> opening the editor today." Then the plan, smaller: "THU watch every clip, log it, mark cut points. FRI
+> finish the cut plan, start the storyboard. NEXT WEEK build it, then build it again differently." Add a
+> line: "You're not shooting anything. You get a finished script and every shot that was filmed. Every
+> decision left is editing." One slide.
 
 ### Board version
 
@@ -235,16 +241,27 @@ THREE WAYS TO CUT
   not the camera. not the mic.
   almost nobody cuts picture and sound at the same frame.
 
-THE LAB
-  1. clips into YOUR OWN folder
-  2. watch every clip ONCE before cutting
-  3. build a STRAIGHT CUT version first  <- don't skip
-  4. UNLINK the audio    (the one mechanical skill today)
-  5. three J-cuts    6. three L-cuts    7. compare
+TODAY: PICK, DOWNLOAD, READ
+  1. pick your project (hospital scene = the default)
+  2. download into YOUR OWN folder
+  3. read the script TWICE
+       pass 1: what happens?
+       pass 2: where does the weight sit? which line is it about?
+  4. mark 2-3 cuts you already know you want + the TYPE
 
-  adjust by TENTHS of a second. half a second is usually enough.
+     * * *  WE ARE NOT OPENING THE EDITOR TODAY  * * *
 
-TURN IN: both versions + a log (timecode / J or L / offset)
+WHERE THIS GOES
+  THU  watch every clip. log it. mark cut points on the script.
+  FRI  finish the cut plan. start the storyboard.
+  NEXT WEEK  build it. then build it AGAIN, differently.
+
+you're not shooting anything. you get a finished script and
+every shot that was filmed. every decision left is EDITING.
+
+STORYBOARD LATER: stick figures are FINE.
+  I'm looking at FRAMING and WHO'S IN THE SHOT.
+  just make the characters tellable apart.
 ```
 
 ---

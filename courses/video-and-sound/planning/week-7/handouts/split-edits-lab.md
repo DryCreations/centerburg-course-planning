@@ -14,21 +14,27 @@
 
 > **7.8.8** Perform audio mixing.
 
-| What we are doing | Which standard |
+| What we are doing today | Which standard |
 |---|---|
 | Learn the cut types and what each is for | 7.7.6 |
-| Edit a supplied conversation scene using split edits | 7.3.7, 7.7.5 |
-| Separate picture from sound and offset them | 7.8.8, 7.7.6 |
+| Pick a project and download the footage | 7.7.5 |
+| Read the script and start thinking about where cuts go | 7.2.4 |
+
+**We are not opening the editor today.** This is the first day of a project that runs into next week.
+See `project.md` for the whole thing.
 
 ---
 
-## Why we are using someone else's footage today
+## Why we are using someone else's footage
 
 **Your footage does not suit this.** Split edits live in conversations, and most of what you shot is not
 two people talking to each other in a scene.
 
-So today you edit a **hospital scene** that was built specifically to practice this. Everyone gets the
-same clips, so when we compare cuts afterward the difference is entirely your decisions.
+So you work from a project that came with **a finished script and every shot that was filmed for it.**
+You are not shooting. Every decision that remains is the editing.
+
+**Everyone can start from the same footage**, which means when we compare versions the difference is
+entirely decisions.
 
 ---
 
@@ -99,61 +105,40 @@ shot "is done," which is exactly the moment the cut is most visible.
 
 ---
 
-## The lab: edit the hospital scene
+## Today: get set up and read
 
-The clips are in the shared folder. Everyone edits the same scene.
+**No editor today.**
 
-### Setup
+### 1. Pick your project and download the footage
 
-1. Copy the clips into **your own** project folder. Do not all open one project
-2. New project in CapCut, import the clips
-3. **Watch every clip once before you cut anything.** You cannot make choices about material you have
-   not seen
+The list is in `project.md`. **The hospital scene is the default** and it was built for exactly what we
+are learning. The others are there so you have a real choice.
 
-### Step 1: A straight-cut version first
+**Ask before picking anything not on that list.** Some projects on that site are horror or mature in
+tone and are not for this class.
 
-Assemble the scene with **every cut straight**: picture and sound changing together.
+### 2. Put it somewhere sensible
 
-**Watch it.** Notice how mechanical the conversation feels. **That is the thing you are about to fix**,
-and you will not appreciate the fix if you skip this step.
+Copy the clips into **your own** project folder. Not the desktop, not Downloads.
 
-### Step 2: Unlink the audio
+### 3. Read the script
 
-Find the control that **detaches or unlinks audio from video** so the two can move independently.
+**Twice.**
 
-**This is the single mechanical skill of the day.** Everything else is a decision.
+1. First pass: what happens?
+2. Second pass: **where does the emotional weight sit?** Which line is the scene actually about?
 
-### Step 3: Build at least three J-cuts
+### 4. Start thinking in cuts
 
-Find three places where a person starts speaking. **Let their audio start before you cut to them.**
+With the script in front of you, mark two or three places where you already know you want to cut, and
+write **which type** next to each one.
 
-Drag the audio edge earlier than the picture edge. **Adjust by tenths of a second**, not seconds. Half a
-second is usually enough.
-
-### Step 4: Build at least three L-cuts
-
-Find three places to cut to a listener while the speaker keeps talking.
-
-Drag the audio edge later than the picture edge.
-
-### Step 5: Compare
-
-Play your straight-cut version, then your split-edit version. **Same footage, same order.**
+**You do not have to be right.** You have to start seeing a script as a series of decisions rather than
+as words.
 
 ---
 
-## Turn in
-
-- [ ] Your **straight-cut** version exported
-- [ ] Your **split-edit** version exported
-- [ ] A log: **timecode, J or L, and how much offset** for each of your six
-- [ ] **Three sentences:** which single split edit made the biggest difference, and why you think so
-
-**Both versions.** The comparison is the evidence.
-
----
-
-## Listen for these
+## Listen for these, when you get to the editor
 
 | What you hear | What it means |
 |---|---|
@@ -161,6 +146,8 @@ Play your straight-cut version, then your split-edit version. **Same footage, sa
 | A word gets clipped | You cut mid-word. Never do this. Move the edit |
 | Someone's voice changes tone abruptly at a cut | Different takes, different levels. Match the levels |
 | It sounds smooth but looks confusing | The offset is too long. Pull it back toward a half second |
+
+**Offsets are tenths of a second**, not seconds. Half a second is usually enough.
 
 ---
 
@@ -181,13 +168,12 @@ Play your straight-cut version, then your split-edit version. **Same footage, sa
 
 ---
 
-## If you finish early
+## If you finish early today
 
-1. **Cut the scene a second time, differently.** Different shot choices, different offsets. Then decide
-   which version is better and be able to say why
-2. **Add a cutaway** somewhere, and say what it is doing for you
-3. **Try one offset that is far too long**, on purpose, so you can feel where the limit is
-4. Go back to **your own** footage and find one place a J-cut or L-cut would work
+1. **Watch every clip once.** That is tomorrow's job and getting ahead on it is genuinely useful
+2. Start the **footage log** in `project.md`: clip name, what is in it, framing, usable
+3. Go back to **your own** footage and find one place a J-cut or L-cut would work
+4. Read the rest of `project.md` so you know where this is going
 
 ---
 
