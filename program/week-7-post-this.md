@@ -70,13 +70,32 @@ submitted Tuesday; the corrected re-export is due Friday.
 
 ---
 
+## Wednesday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/photo-worksheet.md` | **Assignment, make-a-copy.** Digital, three days |
+| 2 | `2-video-and-sound/handouts/split-edits-lab.md` | **Material.** J-cuts, L-cuts, and the lab |
+
+**Not a post, do these yourself:**
+
+- **Check every camera body is set to RAW**, and ISO on Auto. A body left on JPEG costs a student the
+  whole week and you will not find out until Monday
+- **Download the Cinestudy hospital scene** and put it in the V&S shared folder. Verify it works and
+  grab the lower-resolution version if the machines struggle.
+  `cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/`
+- **Teacher only:** `1-design-techniques/handouts/photo-worksheet-key.md`
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
 |------|------|------|
 | 0 | `1-design-techniques/gimkit-review.csv` | **Monday's review game.** 52 questions, import straight in |
 | 1a | `1-design-techniques/handouts/state-and-variables.md` | **Plan A only, Monday.** Find the state, make the variable, delete the frames |
-| 1b | `1-design-techniques/handouts/photo-composition.md` | **Post WEDNESDAY.** Photography is the next unit, not a fallback. Composition, light, five frames |
+| 1b | `1-design-techniques/handouts/photo-worksheet.md` | **Assignment, post WEDNESDAY, make-a-copy.** Three days: shutter, aperture, then file and upload |
+| 1c | `1-design-techniques/handouts/photo-composition.md` | **Material, optional.** Composition reference alongside the worksheet |
 | 2 | `1-design-techniques/outline.md` | Material. Week at a glance. **Plan A wording** |
 | 3 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
 

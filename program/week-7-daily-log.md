@@ -10,8 +10,8 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **Login test first.** Then find the state, or Plan B | **Cut 20% out** | **Quiz review**, then how to study | **Quiz review**, then build a list together | **Spirit week.** Cameras out |
 | **Tue** | **Conditionals**, then last build day | **Watch everything, then color** | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
-| **Wed** | **PHOTOGRAPHY starts.** Composition | **How cuts happen:** J-cuts, L-cuts, on action | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
-| **Thu** | Photography: shoot and critique | Screening, features, or next project. **Flexible** | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
+| **Wed** | **PHOTOGRAPHY starts.** BPA, then shutter priority | **J-cuts and L-cuts** on a supplied scene | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
+| **Thu** | Photography: aperture priority | Flexible | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
 | **Fri** | **QUIZ**, then submit | **QUIZ**, then export and submit | **BPA event selection** | Finish and show | **Photos + check-in DUE.** Events |
 
 ---
@@ -55,6 +55,51 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   Monday of a quiz week.
 - **Monday is review in both Aviation and MS CS**, run off real miss counts, with a student who got it
   right doing the explaining rather than the teacher.
+
+---
+
+## Wednesday Sep 30, as planned
+
+| Class | What runs |
+|-------|-----------|
+| **DT** | **Unit 2.1 Photography opens.** BPA mention (10 min), shutter priority on the board, then shoot. New: `handouts/photo-worksheet.md` (digital, three days) and `handouts/photo-worksheet-key.md` (teacher) |
+| **V&S** | J-cuts and L-cuts, taught on a **supplied conversation scene** rather than their own footage. New: `handouts/split-edits-lab.md` |
+| **Aviation** | Your plan and your simplified worksheet: torque, CW and CCW rotation, how the drone rotates |
+| **MS CS** | Your plan: one more thing with lists. Thu and Fri are work days |
+| **Yearbook** | Two days left. Games today, the last easy coverage before Friday |
+
+### Wednesday calls
+
+- **DT cameras stay in the room**, shared and signed out per period, because **Yearbook has checkout as
+  a requirement with photos due Friday** and this is the busiest checkout week of the quarter. All four
+  bodies shoot RAW including the T3, since this is stills rather than video.
+- **Shutter priority first, aperture second.** The motion effects are immediately visible, and the slow
+  end (blur, panning) works well indoors because a slow shutter lets in more light. The fast end going
+  dark indoors is taught as the trade rather than as a failure.
+- **Every challenge gives a range to try, not a number to use.** A student handed `1/500` learns to obey
+  a number. A student handed `1/250, 1/500, 1/1000` finds the edge themselves, and the edge is the
+  content.
+- **White balance is deliberately not mentioned.** Competency 7.9.5 covers ISO, shutter, aperture and
+  white balance together, so it is **marked partial** and completed next week in the editor, where the
+  change is visible and instant. The worksheet says so, so the alignment stays honest.
+- **ISO is set to Auto all week**, so students are learning two settings rather than three.
+- **V&S uses supplied footage** because split edits live in conversations and their own material is not
+  conversations. Everyone edits the same scene, so the comparison afterward is entirely about decisions.
+- **Students build a straight-cut version first**, deliberately, so the fix has something to be measured
+  against.
+
+### Verified and flagged
+
+- **The Cinestudy hospital scene exists and fits**: downloadable clips built specifically for split-edit
+  practice, lower-resolution versions available, royalty-free music, free.
+  `cinestudy.org/2025/03/12/interactive-project-l-cuts-split-edits/`. **Outbound fetch is blocked in this
+  environment, so the page itself could not be loaded.** Download and test the clip pack before class.
+- **The Yearbook Week 5 shutter handout has an error.** It lists `1/60` for panning a runner, which is
+  far too fast to blur a background behind someone walking, and is why those pans came out with sharp
+  backgrounds. **The correct range is `1/30`, `1/15`, `1/8`.** That handout has already been shared with
+  students so it has not been edited. Worth correcting verbally, or reposting it fixed.
+- **Check every camera body is on RAW before first period.** A body left on JPEG costs that student the
+  whole week and will not surface until Monday.
 
 ---
 
