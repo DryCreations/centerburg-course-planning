@@ -43,6 +43,17 @@ Professional editors do exactly this. The footage arrives, and every decision th
 | **Fri** | Finish the cut plan. Start the storyboard |
 | **Next week** | Finish the storyboard, then build it. Then build it again, differently |
 
+## The storyboard is the gate
+
+> **Show me a complete, clear storyboard and you can start editing. Until then, I do not want to see
+> CapCut open.**
+
+That is the whole rule. It is not a punishment and it is not about speed: **whoever finishes the plan
+first starts editing first.** If your storyboard is done Monday, you edit Monday.
+
+"Complete" means every shot in order, framing visible, characters tellable apart, and the cut type
+written between panels.
+
 **We are not opening the editor until the plan exists.** That is not a delay, it is the point. An editor
 who starts cutting without a plan spends four hours discovering what they should have decided in twenty
 minutes.
@@ -95,12 +106,18 @@ mature in tone and are not appropriate for this class.
 **All of them. Do not skip the ones that look boring.** The shot you skipped is the cutaway you need on
 Friday.
 
-### Log what you have
+### Log what you have, with timestamps
 
-| Clip name | What is in it | Framing | Usable? |
-|---|---|---|---|
-| | | Wide / medium / close / over-the-shoulder | |
-| | | | |
+For every clip, write down:
+
+- **File name**
+- **Timestamp in and out**, like `0:42 to 1:15`
+- **Which scene** it belongs to
+- **Which angle** it is: wide, medium, close-up, over the shoulder
+- **Usable?** yes or no, and why not
+
+**If your project came as one long file**, the timestamps are the most important column. You are marking
+where this file should be cut apart, so write down every point where a new shot or angle starts.
 
 **This is a real job.** Assistant editors log footage all day, and it is the job that makes the editor's
 job possible.

@@ -216,9 +216,45 @@ seconds settles it.
 **Room tone: most of them will have none.** That is fine and it is the point. Assign 30 seconds of it for
 the next shoot.
 
+## The storyboard is the gate
+
+**Stated to students as a rule:** show a complete, clear storyboard and you can start editing. Until
+then, CapCut stays closed.
+
+**Frame it as access, not restriction.** Whoever finishes the plan first starts editing first. A student
+whose storyboard is done Monday edits Monday. That turns the planning phase into something to race
+through rather than something being done to them.
+
+**"Complete" needs to be concrete** or you will spend the week arguing: every shot in order, framing
+visible, characters tellable apart, and the cut type written between panels. **Art quality is not part
+of it.**
+
+## Splitting the long files
+
+Several projects download as **one long video containing everything.**
+
+**CapCut has no media-panel subclips.** See `handouts/splitting-long-files-TEACHER.md` for the full set
+of options. Short version:
+
+| Option | |
+|---|---|
+| **Split Scenes** | Right-click the clip, CapCut auto-detects scene changes. One action. Lands on the timeline. **Test it before class**, it could not be verified from here |
+| **Timeline split** | The normal professional workflow. Costs nothing to set up |
+| **Pre-split with LosslessCut** | Free, open source, Mac, lossless, near-instant. **You do it once and hand out named clips** |
+
+**Recommended: pre-split once yourself.** It gives students the drag-and-drop assets you wanted, the
+naming becomes consistent across every log and conversation, and it removes a file-management obstacle
+from a week whose content is editing decisions.
+
+**None of this blocks Thursday.** Logging timestamps is a document task and it is the same work either
+way. You need this resolved by Tuesday.
+
 ## Thursday and Friday: the project continues
 
-**Thursday:** watch every clip, log it, start marking cut points on the script.
+**Thursday:** watch every clip, log it **with timestamps**, start marking cut points on the script.
+
+**Timestamps matter more than usual this time**, because several projects arrive as one long file. The
+log is then genuinely load-bearing: it is the map for splitting the file next week.
 **Friday:** quiz first, then finish the cut plan and start the storyboard.
 
 `handouts/cut-plan-and-storyboard.md` covers both.

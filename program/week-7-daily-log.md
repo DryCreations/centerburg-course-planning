@@ -11,7 +11,7 @@
 | **Mon** | **Login test first.** Then find the state, or Plan B | **Cut 20% out** | **Quiz review**, then how to study | **Quiz review**, then build a list together | **Spirit week.** Cameras out |
 | **Tue** | **Conditionals**, then last build day | **Watch everything, then color** | Components: what each part does | Make a list, get an item out | Shoot: people not in the book yet |
 | **Wed** | **PHOTOGRAPHY starts.** BPA, then shutter priority | **Cut types. Edit project opens.** No editor | **Batteries** and the safety with them | **Length and index.** The off-by-one | Shoot: something being done |
-| **Thu** | Photography: aperture priority | Log the footage, mark cut points | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
+| **Thu** | **Aperture and depth of field** | Log with timestamps, mark cut points | Preflight, post-flight, logging | Apply it: one of four options | Homecoming setup, the before |
 | **Fri** | **QUIZ**, then submit | **QUIZ**, then export and submit | **BPA event selection** | Finish and show | **Photos + check-in DUE.** Events |
 
 ---
@@ -55,6 +55,50 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
   Monday of a quiz week.
 - **Monday is review in both Aviation and MS CS**, run off real miss counts, with a student who got it
   right doing the explaining rather than the teacher.
+
+---
+
+## Thursday Oct 1, as planned
+
+| Class | What runs |
+|-------|-----------|
+| **DT** | **Aperture and depth of field** on the board, then Challenges 4 to 6. Day 2 of the worksheet |
+| **V&S** | Log every clip **with timestamps**, mark cut points. **The storyboard becomes the gate for CapCut** |
+| **Aviation** | **Flight.** Orbit a fixed target, or figure eight in open air. New: `handouts/orbit-drill.md` |
+| **MS CS** | Bell ringer on a loop that runs once per sprite, then work. New: `handouts/bell-ringers.md` |
+| **Yearbook** | Due tomorrow. Last chance for a second event |
+
+### Thursday calls
+
+- **The storyboard is now the gate for editing**, stated to students as access rather than restriction:
+  show a complete, clear storyboard and CapCut opens, and whoever finishes the plan first starts editing
+  first. "Complete" is defined concretely so it is not arguable: every shot in order, framing visible,
+  characters tellable apart, cut type between panels. **Art quality is explicitly not part of it.**
+- **Timestamps are now the emphasis in the footage log**, because several projects download as one long
+  file. The log becomes the map for splitting it next week, which makes it genuinely load-bearing rather
+  than busywork.
+- **Aviation runs two drills, not two levels.** Orbiting a fixed object gives a visual reference the
+  pilot and the Visual Observer can both measure against: the gap to the tree is visible from the
+  ground. The figure eight in open air removes that reference and tests the crossover. A pilot who
+  orbits cleanly moves up the same day.
+- **The Visual Observer gets a real job in the orbit drill:** calling "closer" and "wider" as it goes
+  around. Immediate feedback with no instruments.
+- **The MS CS bell ringer uses a list the game built**, not one the student typed. `sprites of kind
+  Enemy` returns a live list, so the number of sprites on screen decides how many times the loop runs.
+  The question that does the work is "where did the 5 come from?", and the extension deliberately
+  cannot be solved by changing the loop count, because the loop count is not written down.
+
+### On splitting the long footage files
+
+**CapCut has no media-panel subclips.** Options, in `handouts/splitting-long-files-TEACHER.md`:
+
+| | |
+|---|---|
+| **Split Scenes** | Right-click, auto-detects scene changes. One action, lands on the timeline. **Unverified**, test before class |
+| **Timeline split** | The normal professional workflow. Nothing wrong with it |
+| **Pre-split with LosslessCut** | Free, open source, Mac, lossless. **Recommended:** do it once and hand out named clips |
+
+**Not blocking Thursday.** Logging timestamps is a document task. Needed by Tuesday.
 
 ---
 

@@ -14,15 +14,28 @@ Answer in this document. **The storyboard is on paper**, then photographed and a
 
 ---
 
-## Step 1: Log your footage
+## Step 1: Log your footage, with timestamps
 
 **Watch every clip once. All of them.** The one you skip is the cutaway you need on Friday.
 
-For each clip, write: **clip name, what is in it, framing, usable yes or no.**
+For each clip, write:
 
-Framing options: wide, medium, medium close-up, close-up, over the shoulder, two shot.
+- **File name**
+- **Timestamp in and out**, like `0:42 to 1:15`
+- **Which scene** it belongs to
+- **Which angle**: wide, medium, medium close-up, close-up, over the shoulder, two shot
+- **Usable?** Yes or no, and why not
+
+### If your project is one long file
+
+Some of these downloads are a single video containing everything.
+
+**Then the timestamps are the whole point.** You are marking where that file gets cut apart. Write down
+**every point where a new shot or angle begins**, so next week you can split it without hunting.
 
 **1.** Your log:
+
+**2.** If your footage is one long file: list every timestamp where a new shot starts.
 
 ---
 
@@ -43,7 +56,7 @@ Framing options: wide, medium, medium close-up, close-up, over the shoulder, two
 
 **A cut tells the audience: look here now.** If you cannot say why, do not cut.
 
-**2.** Pick two of your cuts and explain why you put them there.
+**3.** Pick two of your cuts and explain why you put them there.
 
 ---
 
@@ -89,6 +102,12 @@ Between panels write: **the cut type.**
 
 - **Friday:** the footage log and the marked-up script
 - **Next week:** the storyboard, photographed and uploaded
+
+## The storyboard is the gate
+
+**Show a complete, clear storyboard and you can start editing.** Until then, CapCut stays closed.
+
+Whoever finishes the plan first starts editing first.
 
 ---
 

@@ -92,6 +92,21 @@ submitted Tuesday; the corrected re-export is due Friday.
 
 ---
 
+## Thursday, before class
+
+**Nothing new to post.** DT continues the photo worksheet (Day 2), V&S continues the cut plan.
+
+**Do these yourself:**
+
+- **Test Split Scenes** on one of the long footage files, or pre-split with LosslessCut. See
+  `2-video-and-sound/handouts/splitting-long-files-TEACHER.md`. **Needed by Tuesday, not today**
+- **Bring `3-aviation-uas/handouts/orbit-drill.md` outside.** The Logger needs the pilot log
+- **Teacher only:** `4-middle-school-cs/handouts/bell-ringers.md`
+
+**Say the gate out loud in V&S:** a complete, clear storyboard unlocks CapCut next week.
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
@@ -129,7 +144,8 @@ state questions, and what remains is exactly 20.** No new bank needed.
 | 6 | `2-video-and-sound/project.md` | **Assignment, post Wednesday.** Multi-day, runs into next week |
 | 7 | `2-video-and-sound/handouts/cut-plan-and-storyboard.md` | **Material, post by Thursday.** The paper planning phase |
 
-**Teacher only:** `2-video-and-sound/handouts/footage-options-TEACHER.md`, the vetted footage menu.
+**Teacher only:** `2-video-and-sound/handouts/footage-options-TEACHER.md` (the vetted footage menu) and
+`handouts/splitting-long-files-TEACHER.md` (how to break up the one-long-file downloads).
 | 6 | `2-video-and-sound/handouts/editing-depth-lab.md` | **Optional.** The 20% cut and the extension list. Good filler any day |
 | 7 | `2-video-and-sound/outline.md` | Material |
 | 8 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz Friday**, cut to 20 |
