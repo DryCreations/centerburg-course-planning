@@ -5,12 +5,13 @@ Every block is **one prompt, for one slide.** Board versions included.
 **Standards come first, before the agenda, in every career-tech class.** Full text, not numbers.
 
 > **Two quizzes today:** Design Techniques and Video & Sound. Both plain CSV, cut to 20, no images.
+> **BPA event selection moved to next week**, so it can run across all the courses at once.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 3 | **QUIZ**, then Day 3 of the photo worksheet |
 | Video & Sound | 3 | **QUIZ**, then finish the cut plan and start the storyboard |
-| Aviation UAS | 3 | **BPA event selection** |
+| Aviation UAS | 3 | Finish the worksheet, then review the physics |
 | Middle School CS | 1 | Work day |
 | Yearbook | 1 | **Everything due today** |
 
@@ -142,83 +143,78 @@ AFTER THE QUIZ
 
 ---
 
-## 3. Aviation UAS: Choose your BPA event
+## 3. Aviation UAS: Finish the worksheet, then review
 
-**Documents:** `week-7/handouts/bpa-event-choice.md` (student-facing, post it if you have not)
-**Run it as:** fifteen minutes walking the two events, then they read, decide, and submit a short form.
-Anyone who finishes early works the regulations practice set or the vocab list.
-**Due today**, with the real deadline being end of Week 9, so there is a week of slack if someone needs
-to think.
-**Say the structural fact out loud:** choose #505 and the Unit 4.3 capstone **is** the entry.
+**Documents:** `week-7/handouts/forces-worksheet.md` (Parts 4 to 6),
+`week-7/handouts/forces-worksheet-key.md` (teacher only), `week-7/vocab.md`
+**Run it as:** work time to finish the worksheet, including the paper drawings, then a whole-class review
+of the four motors and the three axes. **Collect the drawings today.**
+**BPA event selection moved to next week**, so it can run alongside the other courses rather than on its
+own.
+**This sets up a quiz next week** on Unit 1.2 Aerodynamics.
 
 ### Slide 1: Standards today
 
-> Create one standards slide for a high school aviation and drone class. Title: "Today's Focus." List
-> these with their FULL text, not just the numbers, in large readable type: Strand 1.4 Entrepreneurship
-> and career planning. Strand 1.2 Communication and presentation of technical information. 7.9 Identify
-> small UAS rules and operating limitations. Add a short line: "Today that means choosing the competitive
-> event you will build toward this year." One slide.
+> Create one standards slide for a high school aviation and drone class. Title: "Today's Competencies."
+> List these with their FULL text, not just the numbers, in large readable type: 7.4.2 Describe the forces
+> of flight and the three axes of motion. 7.4.3 Define Newton's Laws of Motion and Bernoulli's Principle.
+> 7.4.6 Discuss the role of thrust and the relationship between lift and drag. Add a short line: "Today
+> that means finishing the worksheet and making sure it actually stuck." One slide.
 
-### Slide 2: The two paths
+### Slide 2: Finish it
 
-> Create one comparison slide for a high school aviation class titled "Two Events." Two columns. Left,
-> "#555 PRESENTATION, INDIVIDUAL": research a UAS topic and present on it; you produce a presentation
-> delivered live; subject is your choice within the field; good if you have a topic you actually care
-> about or want flexibility. Right, "#505 ENTREPRENEURSHIP": design a drone services business with an
-> operating plan and an investor pitch; good if you would rather build one thing all year and go deep.
-> Then a box across the bottom in large text: "If you pick #505, the Unit 4.3 capstone IS this event.
-> Taking the capstone seriously means your entry is nearly finished as a side effect." One slide.
+> Create one work slide for a high school aviation class titled "Finish The Worksheet." A checklist in
+> large text: Parts 4, 5 and 6 answered; the three free-body diagrams drawn on paper, hover, climbing and
+> forward flight, with arrow lengths that mean something; the airfoil drawn and labeled with leading edge,
+> trailing edge, chord line, camber and angle of attack; the motor layout drawn from above with CW and CCW
+> marked; all three photographed and attached. Then a box: "Drawings get collected today. If yours is not
+> done, that is the first thing you do." One slide.
 
-### Slide 3: Decide
+### Slide 3: The four-question check
 
-> Create one slide for a high school aviation class titled "Submit Three Things." Numbered in large text:
-> "1. Which event, #555 or #505. 2. Your topic or business idea, in one or two sentences. First draft, it
-> can change. 3. Why this one, in one sentence." Then a box: "Due today. The hard deadline is the end of
-> next week, so if you genuinely need to think, say so." Then in large text: "Pick the one you will still
-> be interested in during February. That is the only criterion that has ever mattered." Then a small line
-> listing topic ideas: drone delivery, agriculture, search and rescue, counter-UAS and airport shutdowns,
-> privacy law, powerline and tower inspection, wildfire mapping. One slide.
+> Create one review slide for a high school drone class titled "Can You Answer These Cold?" Four numbered
+> questions in large text, with no answers shown: "1. Why do two motors spin backwards? 2. What are all
+> four motors doing when it yaws right? 3. Where does thrust come from on an aircraft with no
+> forward-facing propeller? 4. Why does pushing forward cost you altitude?" Then a box in large text: "If
+> you can answer all four without looking, you understand a multirotor better than most people who own
+> one." Add a line: "Quiz on this next week. Study the way we talked about: cover the answer, say it out
+> loud, check, then study only what you missed." One slide.
 
 ### Board version
 
 ```
-TODAY'S FOCUS (leave on the board)
-  Strand 1.4  entrepreneurship and career planning
-  Strand 1.2  communication and presentation of technical
-              information
-  7.9         identify small UAS rules and operating
-              limitations
-  -> today: choose the event you'll build toward this year
+TODAY'S COMPETENCIES (leave on the board)
+  7.4.2  describe the forces of flight and the three axes
+         of motion
+  7.4.3  define Newton's Laws of Motion and Bernoulli's
+         Principle
+  7.4.6  discuss the role of thrust and the relationship
+         between lift and drag
+  -> today: finish it, and make sure it stuck
 
-TWO EVENTS
+FINISH THE WORKSHEET
+  [ ] parts 4, 5, 6 answered
+  [ ] 3 free-body diagrams (hover / climb / forward)
+      arrow lengths have to MEAN something
+  [ ] airfoil, labeled: leading edge, trailing edge,
+      chord line, camber, angle of attack
+  [ ] motor layout from above, CW and CCW marked
+  [ ] all three photographed and attached
 
-  #555 PRESENTATION, INDIVIDUAL
-    research a UAS topic, present it live
-    your choice of subject. most flexible.
-    good if: you have a topic you care about
+DRAWINGS GET COLLECTED TODAY.
 
-  #505 ENTREPRENEURSHIP
-    design a drone services business
-    operating plan + investor pitch
-    good if: you'd rather build ONE thing all year
+CAN YOU ANSWER THESE COLD?
+  1. why do two motors spin backwards?
+  2. what are all four doing when it yaws right?
+  3. where does thrust come from with no forward propeller?
+  4. why does pushing forward cost you altitude?
 
-  ** pick #505 and the Unit 4.3 CAPSTONE *IS* the entry **
-     taking the capstone seriously = entry nearly done
+  all four without looking? you understand a multirotor
+  better than most people who own one.
 
-SUBMIT THREE THINGS
-  1. which event
-  2. your topic or business idea (1-2 sentences, can change)
-  3. why this one (1 sentence)
-
-  due today. hard deadline is end of next week.
-
-"pick the one you'll still be interested in during February."
-
-TOPIC IDEAS: delivery / agriculture / search and rescue /
-  counter-UAS and airport shutdowns / privacy law /
-  powerline and tower inspection / wildfire mapping
-
-DONE EARLY? regulations practice set, or the vocab list.
+QUIZ ON THIS NEXT WEEK.
+  study the way we talked about:
+  cover it / say it out loud / check / study only the misses
 ```
 
 ---

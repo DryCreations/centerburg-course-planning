@@ -113,8 +113,11 @@ submitted Tuesday; the corrected re-export is due Friday.
 |------|------|------|
 | 1 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz today.** 36 questions, cut to 20 |
 | 2 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz today.** 32 questions, cut to 20 |
-| 3 | `3-aviation-uas/handouts/bpa-event-choice.md` | **Material**, if not already out |
-| 4 | **A short form** for the Aviation BPA choice | **Assignment, due today.** Event, topic, and why |
+**Aviation:** nothing new to post. Finish the forces worksheet, Parts 4 to 6, and **collect the three
+paper drawings today.**
+
+**BPA event selection moved to Week 8**, to run across all the courses at once. Do not post
+`bpa-event-choice.md` yet. See `program/bpa-selection-plan.md`.
 
 **Both banks were rebuilt to the scope set Thursday.** Suggested cuts are in each `quiz.md`.
 
@@ -185,7 +188,7 @@ state questions, and what remains is exactly 20.** No new bank needed.
 | 3c | `3-aviation-uas/handouts/aircraft-and-battery-safety.md` | **Material, post Wednesday.** Components, batteries, preflight, logging |
 | 4 | `3-aviation-uas/handouts/bpa-event-choice.md` | **Material, post by Wednesday.** So they have time to think before Friday |
 | 5 | `3-aviation-uas/outline.md` | Material |
-| 6 | **A short form** for the BPA choice | **Assignment, due Friday.** Event, topic or business idea, and why |
+| 6 | **A short form** for the BPA choice | **Week 8**, not this week |
 
 **Bell ringers resume Tuesday.** One chart question a day, from
 `week-6/handouts/coordinate-bell-ringers.md`. Teacher reference, do not post.

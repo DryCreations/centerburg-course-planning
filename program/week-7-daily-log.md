@@ -64,7 +64,7 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 |-------|-----------|
 | **DT** | **QUIZ** (36 bank, cut to 20), then Day 3 of the photo worksheet: offload, rename, upload |
 | **V&S** | **QUIZ** (32 bank, cut to 20), then finish the cut plan and start the storyboard |
-| **Aviation** | **BPA event selection.** `handouts/bpa-event-choice.md`. Due today, hard deadline end of Week 9 |
+| **Aviation** | Finish the forces worksheet, Parts 4 to 6, **collect the drawings**, then review the four motors and three axes |
 | **MS CS** | Work day |
 | **Yearbook** | **Everything due.** Photos to eDesign and Classroom, plus the PDF check-in |
 
@@ -94,16 +94,24 @@ theory (4)**, state and variables (4).
   still leaves 32 in scope
 - **Nothing from this week's photography**, and nothing on BPA
 
-### Aviation Friday
+### Aviation Friday: BPA selection moved out
 
-**BPA event selection**, which was already the plan and is the thing that needed doing. Fifteen minutes
-on the two events, then they read, decide, and submit three things: which event, their topic or business
-idea, and why.
+**It was too early**, and it would have happened in isolation from the other courses. **Deferred to Week
+8**, to run across all the courses in the same stretch rather than one class at a time. See
+`program/bpa-selection-plan.md`.
 
-**The structural fact worth saying out loud:** choose #505 and the Unit 4.3 capstone **is** the entry, so
-taking the capstone seriously finishes the BPA work as a side effect.
+**The deadline still allows it:** the hard stop is end of Week 9, so Week 8 leaves a week of slack for
+anyone who needs to think.
 
-**Due today, hard deadline end of Week 9**, so a student who genuinely needs to think has a week.
+**Friday is now worksheet completion and review.** Parts 4 to 6, the three paper drawings collected, then
+a whole-class pass on the four motors and the three axes.
+
+**The closer is the four-question check** from the bottom of the worksheet, cold: why two motors spin
+backwards, what all four are doing in a yaw right, where thrust comes from with no forward propeller, and
+why pushing forward costs altitude.
+
+**This sets up a Unit 1.2 Aerodynamics quiz next week**, which is now the natural landing for the physics
+content, and it gives the study-skills lesson from Monday something immediate to be used on.
 
 ---
 
@@ -340,5 +348,7 @@ every section labeled by which competency it serves.
   room before Tuesday.
 - **DT course map still needs resequencing.** Unit 1.4 is scheduled for weeks 8 to 9 and is finishing
   this week. The map is behind the room, not the other way around.
+- **BPA event selection is deferred to Week 8**, across all courses at once. Hard deadline is end of
+  Week 9. Plan and event mappings in `program/bpa-selection-plan.md`.
 - **Digital citizenship is still parked** in `courses/middle-school-cs/planning/deferred/`. The IC strand
   has not been covered.

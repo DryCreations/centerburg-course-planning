@@ -10,7 +10,7 @@
 | Tue | **Unit 1.2 opens: the physics.** Board, then worksheet Parts 1 to 3 |
 | Wed | Worksheet Parts 4 to 6, then **FLIGHT, two tracks** |
 | Thu | **FLIGHT, two tracks.** Then logging and post-flight |
-| Fri | **BPA event selection**, due on Classroom |
+| Fri | Finish the worksheet, collect the drawings, review the forces |
 
 ## On moving off sectionals
 
@@ -191,9 +191,30 @@ The pairs people mix up are listed at the bottom and that section is worth putti
 MSL vs AGL, TRUST vs Part 107, authorization vs waiver, Class C vs Class D, and the 500/2,000 cloud
 clearance where below is the smaller number.
 
-## Friday: BPA selection
+## Friday: finish the worksheet and review
 
-**Due by end of Week 9**, so Friday is the first ask and there is a week of slack.
+**BPA selection moved to Week 8.** It was too early for Friday, and running it one class at a time means
+a student in two of these courses gets the same conversation twice in different framings. See
+`program/bpa-selection-plan.md`. The hard deadline is end of Week 9, so Week 8 still leaves slack.
+
+**Friday is Parts 4 to 6 plus the drawings**, which realistically will not all be done. **Collect the
+three drawings today**: the free-body diagrams, the labeled airfoil, and the motor layout.
+
+**Then the four-question check, cold**, as a whole-class closer:
+
+1. Why do two motors spin backwards?
+2. What are all four motors doing when it yaws right?
+3. Where does thrust come from on an aircraft with no forward-facing propeller?
+4. Why does pushing forward cost you altitude?
+
+**Those four are the quiz, essentially.** A student who can answer them out loud has the unit.
+
+**Announce a Unit 1.2 quiz for next week.** That gives Monday's study-skills lesson something immediate
+to be used on, and it is the natural landing for the physics now that selection moved.
+
+## When BPA selection does happen
+
+**Due by end of Week 9.** Handout is written: `handouts/bpa-event-choice.md`.
 
 Both events are genuinely supported. The thing worth saying out loud:
 

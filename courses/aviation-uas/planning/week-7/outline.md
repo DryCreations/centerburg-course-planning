@@ -1,7 +1,7 @@
-# Week 7: Why It Flies, Safety, and Picking Your Event: Outline
+# Week 7: Why It Flies: Outline
 
 **Course:** Aviation UAS (177024)
-**Quarter:** Q1 | **Week:** 7 | **Units:** 1.2 Aerodynamics, plus 1.4 Safety and BPA Selection
+**Quarter:** Q1 | **Week:** 7 | **Unit:** 1.2 Aerodynamics, with 1.4 Safety
 **Dates:** Mon Sep 28 to Fri Oct 2
 
 > **New unit: the physics.** You have flown these for two weeks. Now you find out there is no steering,
@@ -27,7 +27,7 @@ flight time to feel all of it, plus battery safety and your BPA event choice.
 | Tue Sep 29 | **New unit: why it flies, and why it turns.** Forces, axes, and the four motors | Chart: 1 question |
 | Wed Sep 30 | **FLIGHT**, two tracks. Then batteries and inspection | Chart: 1 question |
 | Thu Oct 1 | **FLIGHT**, two tracks. Then logging and what a professional does after every flight | Chart: 1 question |
-| Fri Oct 2 | **BPA event selection.** Two paths, pick one | Chart: 1 question |
+| Fri Oct 2 | Finish the worksheet, then review the forces and the motors | Chart: 1 question |
 
 ### What You'll Be Able to Do
 
@@ -61,9 +61,10 @@ flight time to feel all of it, plus battery safety and your BPA event choice.
 - **Strand 2.2** Maintain equipment and workspace according to manufacturer and safety requirements
 - **Strand 1.4** Entrepreneurship and career planning
 
-### BPA: your event is due by end of Week 9
+### BPA: your event choice is coming
 
-Two paths, both equally supported:
+**Two paths, both equally supported.** You are not choosing this week. We will do it next week, alongside
+the other courses, and the hard deadline is the end of Week 9.
 
 | Event | What it is | Good fit if |
 |-------|-----------|-------------|
