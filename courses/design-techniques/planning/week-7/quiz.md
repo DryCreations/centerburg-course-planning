@@ -49,6 +49,36 @@ or embed codes).
 - **"Gray placeholder text inside an empty input field exists to..."** Small, and it checks whether they
   understand UI elements have purposes rather than just names.
 
+## Answer-quality audit
+
+**Passed a length-skew and distractor pass.** Three things were checked:
+
+| Check | Result |
+|---|---|
+| **Every question has one objectively correct answer** | Verified by hand, question by question |
+| **The correct answer is not the longest** | Was 33%, now **25%**, against ~25% by chance. **Zero questions** where the correct answer is longest by 8 or more characters |
+| **Distractors are plausible, not free eliminations** | Rewrote the ones that were obviously absurd |
+
+### What changed
+
+Seven questions had the correct answer visibly longest. Each was tightened and its distractors given
+real substance, rather than padding.
+
+Three distractors were replaced for being absurd enough to eliminate without knowing anything:
+
+- **Wireframes:** "design software will not open a brand new file" became "paper sketches import directly
+  into the software," which sounds possible and is false
+- **Scaling a raster image:** "the colors invert" became "the file size drops significantly"
+- **Destructive actions:** "be hidden with no warning" became "look the same as every other button"
+
+### One question worth knowing about
+
+**"Which is NOT one of the reliable ways to make an element win attention?"** is a negative question, and
+its correct answer (a decorative typeface) is right **because typeface is not on the list of five** that
+was taught: size, color, contrast, whitespace, position. It is objective against the instruction, and it
+is the one question on the bank where a student could argue from outside the material. **Drop it if you
+would rather not have that conversation.**
+
 ## Format
 
 Paste into the quiz spreadsheet tab and run the Apps Script. `option_a` is always correct and `answer`

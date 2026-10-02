@@ -56,6 +56,42 @@ cap. Nothing on match cuts, cutaways, jump cuts, B-roll, pacing, assembly or fin
   not to schedule it, which is a real production judgment.
 - **"Dim gym at 1/1000 and the images are too dark."** Your example, more or less as you described it.
 
+## Answer-quality audit
+
+**Passed a length-skew and distractor pass.** Three things were checked:
+
+| Check | Result |
+|---|---|
+| **Every question has one objectively correct answer** | Verified by hand, question by question |
+| **The correct answer is not the longest** | Was 37%, now **21%**, against ~25% by chance. **Zero questions** where the correct answer is longest by 8 or more characters |
+| **Distractors are plausible, not free eliminations** | Rewrote the ones that were absurd, and one that was accidentally defensible |
+
+### What changed
+
+Seven questions had the correct answer visibly longest and were tightened, with distractors given real
+substance rather than padding.
+
+**One distractor was accidentally a defensible answer.** On the inaccessible-rooftop question, "filmed
+from the ground with a longer lens" is a real workaround a thoughtful student could argue for. It is now
+"filmed later once access has been approved," which contradicts the premise that access is not available.
+
+Two absurd distractors were replaced:
+
+- **Production schedule:** "scenes are legally required to be shot out of order" became "it gives the
+  editor the footage in story order"
+- **Exposure triangle:** "the camera will not record otherwise" became "the camera meters one setting at
+  a time"
+
+### The exposure questions were checked individually
+
+Each one has exactly one brightening or darkening option, and every distractor moves the exposure the
+**wrong** direction or does nothing:
+
+- **Dim gym at 1/1000, too dark.** Raising ISO is the only option that brightens. A faster shutter, a
+  smaller aperture, and a lower ISO all darken it further
+- **Bright sun, washed out.** Closing the aperture is the only option that darkens. Opening it, raising
+  ISO, and a slower shutter all brighten it
+
 ## Format
 
 Paste into the quiz spreadsheet tab and run the Apps Script. `option_a` is always correct and `answer`
