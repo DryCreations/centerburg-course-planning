@@ -58,6 +58,55 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 
 ---
 
+## Friday Oct 2, as planned
+
+| Class | What runs |
+|-------|-----------|
+| **DT** | **QUIZ** (36 bank, cut to 20), then Day 3 of the photo worksheet: offload, rename, upload |
+| **V&S** | **QUIZ** (32 bank, cut to 20), then finish the cut plan and start the storyboard |
+| **Aviation** | **BPA event selection.** `handouts/bpa-event-choice.md`. Due today, hard deadline end of Week 9 |
+| **MS CS** | Work day |
+| **Yearbook** | **Everything due.** Photos to eDesign and Classroom, plus the PDF check-in |
+
+### Both quiz banks were rebuilt to scope
+
+**V&S was weighted backwards.** The previous bank was 22 editing, 12 pre-production. The new one leads
+with pre-production: screenplay format (7), storyboard and shot list (4), production schedule and call
+sheet (4), equipment (3), **exposure triangle as scenarios (5)**, camera settings (2), cuts (4), editor
+tools and keyframes (3).
+
+- **Exposure questions are situational**, each with exactly one objectively correct change. Dim gym at
+  1/1000 and too dark: raise the ISO, with distractors that would make it darker. Bright sun washed out:
+  close the aperture
+- **Cuts held to four questions** and kept inside straight cuts, J-cuts, L-cuts and fades
+- **Site maps, multimedia scripts and flowcharts excluded.** Storyboards only, which is the part of
+  7.2.4 actually taught
+- **Nothing on** color grading, audio, the Cinestudy project, footage logging, or CapCut beyond timeline,
+  playhead and keyframes
+
+**DT got the graphics and color material added back.** Wireframe and prototype (7), UI elements and their
+purposes (9), hierarchy and the primary action (7), **vector versus raster and file types (5)**, **color
+theory (4)**, state and variables (4).
+
+- **State and variables deliberately dropped from 16 questions to 4**, since the final scope named
+  wireframe/prototype, components of interactive media, visual design elements, hierarchy, file types and
+  color theory, with everything else tertiary. **Those four are the first to cut**, and removing them
+  still leaves 32 in scope
+- **Nothing from this week's photography**, and nothing on BPA
+
+### Aviation Friday
+
+**BPA event selection**, which was already the plan and is the thing that needed doing. Fifteen minutes
+on the two events, then they read, decide, and submit three things: which event, their topic or business
+idea, and why.
+
+**The structural fact worth saying out loud:** choose #505 and the Unit 4.3 capstone **is** the entry, so
+taking the capstone seriously finishes the BPA work as a side effect.
+
+**Due today, hard deadline end of Week 9**, so a student who genuinely needs to think has a week.
+
+---
+
 ## Thursday Oct 1, as planned
 
 | Class | What runs |

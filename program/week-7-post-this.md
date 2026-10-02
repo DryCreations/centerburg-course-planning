@@ -107,6 +107,23 @@ submitted Tuesday; the corrected re-export is due Friday.
 
 ---
 
+## Friday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz today.** 36 questions, cut to 20 |
+| 2 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz today.** 32 questions, cut to 20 |
+| 3 | `3-aviation-uas/handouts/bpa-event-choice.md` | **Material**, if not already out |
+| 4 | **A short form** for the Aviation BPA choice | **Assignment, due today.** Event, topic, and why |
+
+**Both banks were rebuilt to the scope set Thursday.** Suggested cuts are in each `quiz.md`.
+
+**Say out loud in DT:** nothing from this week's camera work is on the quiz. It will come up.
+
+**Say out loud in V&S:** the exposure questions are scenarios. Read the situation, pick the one change.
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
