@@ -11,7 +11,7 @@ Every block is **one prompt, for one slide.** Board versions included.
 |-------|--------|-------|
 | Design Techniques | 3 | **QUIZ**, then Day 3 of the photo worksheet |
 | Video & Sound | 3 | **QUIZ**, then finish the cut plan and start the storyboard |
-| Aviation UAS | 3 | Finish the worksheet, then review the physics |
+| Aviation UAS | 3 | Finish the worksheet, then **Gimkit review** |
 | Middle School CS | 1 | Work day |
 | Yearbook | 1 | **Everything due today** |
 
@@ -147,8 +147,12 @@ AFTER THE QUIZ
 
 **Documents:** `week-7/handouts/forces-worksheet.md` (Parts 4 to 6),
 `week-7/handouts/forces-worksheet-key.md` (teacher only), `week-7/vocab.md`
-**Run it as:** work time to finish the worksheet, including the paper drawings, then a whole-class review
-of the four motors and the three axes. **Collect the drawings today.**
+**Run it as:** work time to finish the worksheet, including the paper drawings, then **Gimkit** for the
+rest of the period. **Collect the drawings today.**
+**Gimkit kit:** `week-7/gimkit-review.csv`, **75 questions**, already in Gimkit's column order. Covers
+forces, Newton and Bernoulli, airfoils, torque and the motors, the three axes, applied physics, hardware,
+batteries, airspace and charts, weather, and the core Part 107 numbers.
+**Add your ODOT regulation questions to the CSV before importing**, or import this and add inside Gimkit.
 **BPA event selection moved to next week**, so it can run alongside the other courses rather than on its
 own.
 **This sets up a quiz next week** on Unit 1.2 Aerodynamics.
@@ -170,15 +174,15 @@ own.
 > marked; all three photographed and attached. Then a box: "Drawings get collected today. If yours is not
 > done, that is the first thing you do." One slide.
 
-### Slide 3: The four-question check
+### Slide 3: Gimkit, and the four-question check
 
 > Create one review slide for a high school drone class titled "Can You Answer These Cold?" Four numbered
 > questions in large text, with no answers shown: "1. Why do two motors spin backwards? 2. What are all
 > four motors doing when it yaws right? 3. Where does thrust come from on an aircraft with no
 > forward-facing propeller? 4. Why does pushing forward cost you altitude?" Then a box in large text: "If
 > you can answer all four without looking, you understand a multirotor better than most people who own
-> one." Add a line: "Quiz on this next week. Study the way we talked about: cover the answer, say it out
-> loud, check, then study only what you missed." One slide.
+> one." Add a line: "Then we play. Quiz on this next week. Study the way we talked about: cover the answer,
+> say it out loud, check, then study only what you missed." One slide.
 
 ### Board version
 
@@ -212,9 +216,13 @@ CAN YOU ANSWER THESE COLD?
   all four without looking? you understand a multirotor
   better than most people who own one.
 
+THEN: GIMKIT.
+
 QUIZ ON THIS NEXT WEEK.
   study the way we talked about:
   cover it / say it out loud / check / study only the misses
+
+  what you miss in the GAME is your study list.
 ```
 
 ---

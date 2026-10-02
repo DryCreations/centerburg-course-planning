@@ -64,7 +64,7 @@ These were chosen deliberately, with the reasoning, so they can be reversed know
 |-------|-----------|
 | **DT** | **QUIZ** (36 bank, cut to 20), then Day 3 of the photo worksheet: offload, rename, upload |
 | **V&S** | **QUIZ** (32 bank, cut to 20), then finish the cut plan and start the storyboard |
-| **Aviation** | Finish the forces worksheet, Parts 4 to 6, **collect the drawings**, then review the four motors and three axes |
+| **Aviation** | Finish the forces worksheet, Parts 4 to 6, **collect the drawings**, then **Gimkit review**. New: `gimkit-review.csv`, 75 questions |
 | **MS CS** | Work day |
 | **Yearbook** | **Everything due.** Photos to eDesign and Classroom, plus the PDF check-in |
 
@@ -109,6 +109,31 @@ a whole-class pass on the four motors and the three axes.
 **The closer is the four-question check** from the bottom of the worksheet, cold: why two motors spin
 backwards, what all four are doing in a yaw right, where thrust comes from with no forward propeller, and
 why pushing forward costs altitude.
+
+**Then Gimkit for the rest of the period.** `gimkit-review.csv`, **75 questions**, already in Gimkit's
+column order:
+
+| Section | Q |
+|---------|---|
+| Forces and the three states | 10 |
+| Newton, Bernoulli, airfoils | 7 |
+| Motors and torque | 9 |
+| The three axes | 5 |
+| Applied physics (tilted lift, yaw as torque, weight as margin) | 8 |
+| Hardware (IMU, ESC, gimbal, failsafe, compass) | 7 |
+| Batteries | 6 |
+| Airspace and charts | 9 |
+| Weather | 5 |
+| Core Part 107 numbers | 9 |
+
+**ODOT regulation questions are deliberately not in it**, since those get added by hand from the modules.
+Add them to the CSV before importing, or inside Gimkit after.
+
+**Weighted toward the physics**, which is the newest content and next week's quiz, with the rest as
+spiral review so airspace, weather and the Part 107 numbers stay live.
+
+**Watch what the room misses in the game.** That is free diagnostic data for next week's quiz cut, and it
+is also the students' own study list: the line to say is **what you miss in the game is what you study.**
 
 **This sets up a Unit 1.2 Aerodynamics quiz next week**, which is now the natural landing for the physics
 content, and it gives the study-skills lesson from Monday something immediate to be used on.

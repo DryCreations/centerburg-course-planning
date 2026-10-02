@@ -113,8 +113,10 @@ submitted Tuesday; the corrected re-export is due Friday.
 |------|------|------|
 | 1 | Quiz from `1-design-techniques/quiz-bank.csv` | **Quiz today.** 36 questions, cut to 20 |
 | 2 | Quiz from `2-video-and-sound/quiz-bank.csv` | **Quiz today.** 32 questions, cut to 20 |
-**Aviation:** nothing new to post. Finish the forces worksheet, Parts 4 to 6, and **collect the three
-paper drawings today.**
+**Aviation:** finish the forces worksheet, Parts 4 to 6, and **collect the three paper drawings today.**
+Then **import `3-aviation-uas/gimkit-review.csv`** (75 questions, already in Gimkit's column order) and
+play for the rest of the period. **Add your ODOT regulation questions** to the CSV first, or inside
+Gimkit after.
 
 **BPA event selection moved to Week 8**, to run across all the courses at once. Do not post
 `bpa-event-choice.md` yet. See `program/bpa-selection-plan.md`.
@@ -224,6 +226,20 @@ anything you carry forward.
 **Already out:** the two week photo assignment (`week-6/project.md`), **due Friday Oct 2**.
 
 **Check the camera sign-out sheet Monday and name who is not on it.** Friday will be full.
+
+---
+
+## Gimkit kits
+
+| Class | File | Questions |
+|-------|------|-----------|
+| Design Techniques | `1-design-techniques/gimkit-review.csv` | 52 |
+| Video & Sound | `2-video-and-sound/gimkit-review.csv` | 58 |
+| **Aviation UAS** | `3-aviation-uas/gimkit-review.csv` | **75** |
+
+Columns are already in Gimkit's order: **Question, Correct Answer, Incorrect Answer 1, 2, 3.**
+
+**Aviation's kit has no ODOT regulation questions.** Those get added by hand from the modules.
 
 ---
 
