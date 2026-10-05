@@ -11,7 +11,7 @@
 
 | Day | Focus |
 |-----|-------|
-| Mon Oct 5 | **White balance.** Temperature, tint, and RAW versus JPEG |
+| Mon Oct 5 | **White balance, exporting, and isolating a color.** Four files out by the end |
 | Tue Oct 6 | Exposure and tone: exposure, contrast, highlights, shadows, whites, blacks |
 | Wed Oct 7 | Clarity, vibrance, saturation. **Before and after exported** |
 | Thu Oct 8 | **Color.** HSL, and color theory applied to a real photo |
@@ -20,6 +20,8 @@
 ## What You'll Be Able to Do
 
 - Correct a color cast so white things look white, and say what Kelvin you landed on
+- **Export a JPEG out of the raw editor**, which you will do for the rest of the course
+- Drop every color but one and say what that does to where the eye goes
 - Explain why a RAW file has more room to fix white balance than a JPEG
 - Say what each slider in the Basic panel does, having pushed it to both ends
 - Tell the difference between Saturation and Vibrance, and when to use each
@@ -29,6 +31,7 @@
 ## Due Friday
 
 - The white balance sheet, answered
+- `LastName_WB_Cold_01`, `LastName_WB_Warm_01`, `LastName_WB_Fixed_01`, `LastName_ColorPop_01` **(Monday)**
 - The editing sheet, answered
 - `LastName_Before_01` and `LastName_After_01`
 - `LastName_Best_01`, plus three sentences on what changed and why
@@ -40,3 +43,4 @@
   settings to shoot manual photographs. **This completes 7.9.5**, which was partial last week
 - **7.9.7** Identify differences between film photographs and digital images
 - **7.2.7** Select colors based on color theory and psychology
+- **7.4.7** Optimize and export graphics files for a specified use

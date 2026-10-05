@@ -8,11 +8,11 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Mon** | **The editor.** White balance | Storyboard check, **detach audio and layer** | **Meteorology opens.** Why air moves | Lists that change | Next assignment |
-| **Tue** | Exposure and tone | Assemble the edit | Air masses and fronts | The collection game | Shoot |
+| **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
+| **Tue** | Exposure and tone | Assemble the edit | Air masses and fronts | The larger set, the bug, the collection game | Shoot |
 | **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Shoot |
 | **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Shoot |
-| **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the worksheet | Keep building | Shoot |
+| **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Shoot |
 
 ---
 
@@ -23,6 +23,35 @@ text, the agenda underneath with each activity paired to the standard it serves.
 
 Updated in `CLAUDE.md` and applied to this week's deck. The three career-tech classes each open with one
 combined slide that stays on the board.
+
+---
+
+## Changes made after review
+
+- **DT Monday was too thin.** Temperature and tint alone will not fill a period. Monday now also teaches
+  **JPEG export** (Camera Raw's Save Image button, bottom left, or Lightroom's File then Export, both in
+  the handout) with three required files out of one photo: cold, warm, and the version they call correct.
+  Then an open-ended piece: scroll past Basic to **HSL / Color / Color Mixer**, pull every Saturation
+  slider to minus 100 except one so a single color survives, export it, and push further with Hue,
+  Luminance, partial grayscale, or split toning. **Competency 7.4.7 added** for the export.
+- **Aviation is one project, not a worksheet a day.** The week is now the **pre-flight weather brief** a
+  real crew writes, in `handouts/weather-brief-project.md`, built one section a day: the site and the air
+  Monday, the system moving through Tuesday, the hazard list ending in their own go or no-go numbers
+  Wednesday, then Thursday they fly it and write down **what the brief missed**, which is graded as
+  highly as the rest. Real data from `aviationweather.gov`. One worksheet all week, every section ending
+  in a verdict. `meteorology-worksheet.md` is gone.
+- **MS CS Monday cut to two problems.** Both are about the shift. The larger set, including the
+  loop-and-remove bug and the collection game, moved to `handouts/list-practice-day-2.md` for Tuesday.
+  That frees real time Monday to open the final project and get them brainstorming.
+- **MS CS gets a quiz Friday**, which is new. 31 questions in `week-8/quiz-bank.csv`, cut to 20, coverage
+  in `quiz.md`. Lists, changing a list in a loop, loops, conditionals and variables, and **the planning
+  language from the project sheet**. Correct answer is the single longest option in 5 of 31 and the
+  shortest in 4 of 31, so length is not a tell either direction.
+- **The MS CS project sheet is built on project-management stages**, not "go plan it": Scope,
+  Requirements, Breakdown, Risk. The requirement checklist turns on a **removal test**: remove it, and if
+  the game still plays the same it was not meaningful. `forever` is explicitly excluded, since it is the
+  game loop every project already has. Students must answer "what breaks if I remove it?" for all six
+  requirements, and "nothing really" means the design changes, not the answer.
 
 ---
 

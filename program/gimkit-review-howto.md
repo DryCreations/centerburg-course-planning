@@ -1,4 +1,4 @@
-# Gimkit Review Games — How to Use the CSVs
+# Gimkit Review Games: How to Use the CSVs
 
 Each course has a `planning/week-3/gimkit-review.csv` ready to import into Gimkit as a review "kit." Use it as a
 whole-class review game **before** a quiz (or as a fun Friday activity when there's no quiz that week).
@@ -14,18 +14,17 @@ whole-class review game **before** a quiz (or as a fun Friday activity when ther
 
 ## Notes
 
-- These are **review** pools drawn from the week's vocabulary and quiz concepts — a little broader than the
+- These are **review** pools drawn from the week's vocabulary and quiz concepts, a little broader than the
   quiz, so playing the game isn't just memorizing the test.
 - To edit or add questions, edit the CSV (keep the five columns and the header) or edit inside Gimkit after
   import.
 - Answers within a question are all distinct; Gimkit shuffles answer positions when it plays.
 
-## This week
+## When to play one
 
-| Course | When to play | Quiz this week? |
-|--------|--------------|-----------------|
-| Design Techniques | **Thursday** review, before Friday's quiz | Yes (Fri) |
-| Video and Sound | **Thursday** review, before Friday's quiz | Yes (Fri) |
-| Aviation UAS | **Thursday** ground review (fun; flight is Friday) | No — quiz moved to next week |
-| Middle School CS | **Friday** review game (in place of a quiz) | No — first quiz next week |
-| Yearbook | **Friday** optional fun review after weekly status | No quiz (never) |
+**The day before the quiz**, as the review, is where these earn their keep. Where there is no quiz that
+week, Friday after weekly status works as a closer.
+
+Yearbook never has a quiz, so its kit is purely a review game.
+
+**Which kit is current for which week is in that week's POST-THIS and INDEX**, not here.

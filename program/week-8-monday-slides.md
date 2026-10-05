@@ -7,10 +7,10 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | **The editor.** White balance, one period |
+| Design Techniques | 7 | **The editor.** White balance, exporting, isolating a color |
 | Video & Sound | 4 | Storyboard check, then detach audio and layer |
-| Aviation UAS | 4 | **New unit: meteorology.** Why air moves |
-| Middle School CS | 3 | Lists that change, then practice problems |
+| Aviation UAS | 5 | **New unit: meteorology.** One weather brief, built all week |
+| Middle School CS | 4 | Two list problems, then the final project opens |
 | Yearbook | 1 | Next assignment |
 
 ---
@@ -21,10 +21,15 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 **Before class:** **open a RAW file yourself and confirm which editor comes up.** The handout gives both
 paths (Photoshop opens the raw dialog, or Lightroom's Develop module) because the app on these machines
 could be either. Confirm it so you can say one thing instead of two.
-**Everyone needs to shoot at least one new photo today** for Part 5, so cameras have to be out.
-**Run it as:** one period, white balance only. **Do not let them loose on the other sliders yet.**
-**The payoff is Part 4:** RAW gives Kelvin, JPEG gives a relative scale with much less room. Students
+**Everyone needs to shoot at least one new photo today** for Part 4, so cameras have to be out.
+**Know where Save Image is** in Camera Raw (bottom left) before class. Three of today's four files come
+out through it.
+**Run it as:** white balance, then export, then one open-ended color experiment. Temperature and tint
+alone will not fill the period.
+**The payoff is Part 3:** RAW gives Kelvin, JPEG gives a relative scale with much less room. Students
 who grabbed JPEGs will see the limit rather than being told about it.
+**Four files land today:** `LastName_WB_Cold_01`, `LastName_WB_Warm_01`, `LastName_WB_Fixed_01`, and
+`LastName_ColorPop_01`.
 
 ### Slide 1: Standards and agenda
 
@@ -32,11 +37,13 @@ who grabbed JPEGs will see the limit rather than being told about it.
 > "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
 > numbers: 7.9.5 Use International Standards Organization (ISO), shutter speed, aperture, and white
 > balance settings to shoot manual photographs. 7.9.6 Edit photographs (e.g., color corrections,
-> cropping, enhancements). 7.9.7 Identify differences between film photographs and digital images. Bottom
+> cropping, enhancements). 7.9.7 Identify differences between film photographs and digital images. 7.4.7
+> Optimize and export graphics files for a specified use. Bottom
 > half, headed "What we are doing," is a short two-column list pairing each activity with its competency:
-> "Open your RAW files in the editor" with 7.9.6; "Temperature and tint, pushed to both ends" with 7.9.5
-> and 7.9.6; "RAW versus JPEG, how much room each one gives you" with 7.9.7; "Shoot one new photo under
-> bad light on purpose" with 7.9.5. Keep both halves readable from the back of the room. Design it to
+> "Temperature and tint, pushed to both ends" with 7.9.5 and 7.9.6; "Export three JPEGs: cold, warm, and
+> your corrected version" with 7.4.7; "RAW versus JPEG, how much room each one gives you" with 7.9.7;
+> "Shoot one new photo under bad light on purpose" with 7.9.5; "Isolate one color and drop the rest" with
+> 7.9.6. Keep both halves readable from the back of the room. Design it to
 > stay on the board all period. One slide.
 
 ### Slide 2: Getting in
@@ -64,14 +71,36 @@ who grabbed JPEGs will see the limit rather than being told about it.
 > far less room; push it and it breaks. Then a box in very large text: "This is why we shot RAW. You are
 > about to see it rather than be told it." One slide.
 
-### Slide 5: Do Now
+### Slide 5: Getting it out
+
+> Create one slide for a high school photography class titled "Getting a Picture Out." Explain first, in
+> large text: "The RAW file never changes. You are making a NEW file from it." Then two labeled routes,
+> side by side. Left, "CAMERA RAW": the Save Image button, bottom left corner; set Format to JPEG; pick
+> your folder; name it; Save. Right, "LIGHTROOM": File, then Export; set the format to JPEG; pick your
+> folder; Export. Then a box listing the three files due today, in monospace: LastName_WB_Cold_01 for
+> temperature pushed all the way left, LastName_WB_Warm_01 for all the way right, LastName_WB_Fixed_01 for
+> the version you think is correct. Add a line: "You will do this in every project from now on." One
+> slide.
+
+### Slide 6: Then go further
+
+> Create one slide for a high school photography class titled "Make One Color Survive." Explain that below
+> the Basic panel there is a panel called HSL, or Color, or Color Mixer depending on the version, with
+> tabs for Hue, Saturation and Luminance. Then the task in large text: "Pull every Saturation slider to
+> minus 100 except ONE. Now only one color is left in the photo." Then a short list headed "Then push it
+> further, pick at least one": shift the surviving color with Hue; brighten or darken it with Luminance;
+> leave two colors instead of one; find split toning or color grading and see what it does. End with a box:
+> "Export it as LastName_ColorPop_01. Be ready to say where your eye goes now, and where it went before."
+> One slide.
+
+### Slide 7: Do Now
 
 > Create one "Do Now" slide for a high school photography class titled "Start Here." Numbered: "1. Open
 > one of your RAW photos. 2. Write down the Kelvin number it opens at. 3. Drag Temperature all the way
 > down, then all the way up. Write what color it goes at each end. 4. Do the same with Tint." Then a box:
 > "Then find a photo with something you KNOW is white. A wall, paper, a shirt. Is it actually white in the
-> photo?" Add a line: "Later today everyone shoots one new photo under the worst light in the room. Keep
-> a camera handy." One slide.
+> photo? Try the eyedropper White Balance tool on it." Add a line: "Later today everyone shoots one new
+> photo under the worst light in the room. Keep a camera handy." One slide.
 
 ### Board version
 
@@ -118,6 +147,30 @@ DO NOW
   2. temperature all the way down, then up. what colors?
   3. same with tint.
   4. find something you KNOW is white. is it actually white?
+
+GETTING A PICTURE OUT  (the RAW file never changes)
+  CAMERA RAW                |  LIGHTROOM
+   SAVE IMAGE, bottom left  |   File > Export
+   Format: JPEG             |   Format: JPEG
+   pick folder, name, Save  |   pick folder, Export
+
+  three files due:
+    LastName_WB_Cold_01    temperature all the way left
+    LastName_WB_Warm_01    all the way right
+    LastName_WB_Fixed_01   the one you think is correct
+
+MAKE ONE COLOR SURVIVE  (scroll past Basic: HSL / Color /
+  Color Mixer, tabs Hue / Saturation / Luminance)
+  pull EVERY saturation slider to -100 except ONE.
+
+  then push further, pick at least one:
+    shift that color with HUE
+    brighten or darken it with LUMINANCE
+    leave two colors instead of one
+    find split toning / color grading and see what it does
+
+  export as LastName_ColorPop_01
+  be ready to say where your eye goes NOW vs before.
 
 LATER: everyone shoots ONE new photo under the worst light
   in the room. keep a camera handy.
@@ -211,7 +264,7 @@ CAN'T SEE SOMETHING? something above it is in the way.
 
 ---
 
-## 3. Aviation UAS: Why air moves
+## 3. Aviation UAS: The weather brief opens
 
 **Documents:** `week-8/handouts/meteorology-worksheet.md` (student-facing, make-a-copy, all week),
 `week-8/outline.md`
@@ -233,18 +286,29 @@ does. Say it in those words, because they just learned the payload version.
 > plan pairing each day with its competencies: MONDAY, temperature, pressure and why air moves, 7.6.3.
 > TUESDAY, air masses, fronts and the wind they create, 7.6.9 and 7.6.6. WEDNESDAY, wind effects,
 > turbulence and severe weather, 7.6.13, 7.6.11 and 7.6.12. THURSDAY, we fly, 7.12 and 2.1. FRIDAY, quiz
-> then finish the worksheet. Then one line at the bottom in bold: "Friday's quiz covers everything
+> then finish the brief. Then one line at the bottom in bold: "Friday's quiz covers everything
 > through LAST Friday. No meteorology from this week is on it." Design it to stay on the board all week.
 > One slide.
 
-### Slide 2: You can already read it
+### Slide 2: The project
+
+> Create ONE slide for a high school drone class titled "One Brief, All Week." Explain in large text:
+> "Before a real crew flies, somebody writes a weather brief. That is what you are building this week.
+> One worksheet, one section a day." Then a four-row plan: MONDAY, Section 1, the site and the air;
+> TUESDAY, Section 2, the system moving through; WEDNESDAY, Section 3, the hazard list and YOUR OWN go
+> or no-go numbers; THURSDAY, Section 4, you fly it, and you write down what the brief missed. Then a box
+> in large text: "Every section ends in a verdict. Real data, pulled from aviationweather.gov. Not made
+> up." Add a line: "Thursday your own numbers go outside with you. That is the test of the brief, not the
+> worksheet." One slide.
+
+### Slide 3: You can already read it
 
 > Create one slide for a high school aviation class. In very large text: "You can already read a METAR.
 > This week is what the numbers mean." Below, smaller: "Back in Week 5 you learned to pull visibility,
 > ceiling, wind and temperature out of a report. None of that told you WHY the air was doing it, or what
 > it was about to do next. That is this week." One slide.
 
-### Slide 3: Why air moves
+### Slide 4: Why air moves
 
 > Create one concept slide for a high school aviation class titled "Why Air Moves At All." A simple
 > three-step chain in large text: "1. The sun heats the ground unevenly. 2. Warm air is less dense, so it
@@ -252,7 +316,7 @@ does. Say it in those words, because they just learned the payload version.
 > is air moving from high pressure toward low pressure." Then a small example: "Asphalt heats faster than
 > grass. Fly across the edge of the parking lot at 20 feet and you will feel it." One slide.
 
-### Slide 4: Density altitude
+### Slide 5: Density altitude
 
 > Create one slide for a high school drone class titled "Thin Air." Explain density altitude: how thin
 > the air behaves, regardless of your actual altitude, and that three things make air thinner: HEAT,
@@ -281,10 +345,20 @@ THIS WEEK: METEOROLOGY (leave up all week)
   TUE air masses, fronts, and the wind they create
   WED wind effects + turbulence + severe weather  <- the big one
   THU * WE FLY *  same drills as last week
-  FRI QUIZ, then finish the worksheet
+  FRI QUIZ, then finish the brief
 
-  thursday you bring your own go/no-go list OUTSIDE
-  and use it on whatever the weather actually is.
+ONE BRIEF, ALL WEEK  (one worksheet, one section a day)
+  before a real crew flies, somebody writes the weather brief.
+    MON  sec 1  the site and the air
+    TUE  sec 2  the system moving through
+    WED  sec 3  the hazard list + YOUR go/no-go numbers
+    THU  sec 4  you fly it. what did the brief MISS?
+
+  every section ends in a VERDICT.
+  real data: aviationweather.gov. not made up.
+
+  thursday your own numbers go OUTSIDE with you.
+  that is the test of the brief, not the worksheet.
 
 QUIZ FRIDAY = everything through LAST friday.
   forces / motors / hardware / airspace / charts / part 107
@@ -319,13 +393,15 @@ DENSITY ALTITUDE = how THIN the air behaves
 
 ---
 
-## 4. Middle School CS: Lists that change
+## 4. Middle School CS: Lists change, and the project opens
 
 **Documents:** `week-8/handouts/list-practice.md` (student-facing, post it),
-`week-8/project.md` (the final project plan, introduce it today or Tuesday)
-**Run it as:** the four mutation blocks on the board, then the practice problems. **Problem 3 is the
-lesson:** removing from a list while looping over it breaks, and it is a bug professionals write.
-**Mention the final project today** so they start thinking. Planning is Wednesday to Friday.
+`week-8/handouts/project-plan.md` (the final project plan, post it today)
+**Run it as:** the four mutation blocks on the board, then **two problems only.** The larger set is
+Tuesday, in `list-practice-day-2.md`, and that is where the loop-and-remove bug lives.
+**Spend real time on the project today.** Hand out the planning sheet and get them brainstorming.
+The plan is due Thursday and **no code happens until it is approved.**
+**Quiz Friday**, which is new for this class. Bank is `week-8/quiz-bank.csv`, coverage in `quiz.md`.
 
 ### Slide 1: Lists change now
 
@@ -337,22 +413,36 @@ lesson:** removing from a list while looping over it breaks, and it is a bug pro
 > box in large text: "The SHIFTING is what people forget. Remove item 2 from a list of 5 and what used to
 > be item 3 is now item 2." One slide.
 
-### Slide 2: The bug worth seeing
+### Slide 2: Two problems, then tomorrow
 
-> Create one slide for a middle school computer science class titled "Build This. It Breaks." Show in
-> large monospace text: "set stuff to array of 'a' 'b' 'c'" then "for index from 0 to (length of stuff) -
-> 1" then indented "remove value at index". Below it: "Run it. What happens? Why?" Then a box: "This is a
-> real bug that professionals write. Removing items from a list while you are looping through it changes
-> the length underneath you." Do not show the answer. One slide.
+> Create one slide for a middle school computer science class titled "Two Problems. Paper First." Body:
+> both of today's problems are about the shift, so work them on paper before you build them. Then a
+> teaser box headed "TOMORROW" showing in large monospace text: "set stuff to array of 'a' 'b' 'c'" then
+> "for index from 0 to (length of stuff) - 1" then indented "remove value at index", with the line "Three
+> items, three passes, and it still does not empty the list. We build this tomorrow." Do not explain why.
+> One slide.
 
-### Slide 3: Coming up
+### Slide 3: Your own game
 
 > Create one slide for a middle school computer science class titled "Your Own Game." Body: next week is
 > the last week of the quarter, and you are going to design and build your own game. This week you plan
-> it. Then the six required things in large text: a list used for something that matters; a loop; a
-> conditional; a variable that changes during play; a way to win; a way to lose. Then a box: "That is the
-> grade. Not how impressive it is. Small and finished beats big and broken, every single time." Add a
-> line: "No code until your plan is approved." One slide.
+> it. Then the six required things in large text: a list the game reads to make a decision; a FOR loop or
+> a WHILE loop, not forever; a conditional that can go either way; a variable that changes during play; a
+> way to win; a way to lose. Then a box in very large text: "Remove it. If the game still plays the same,
+> it was not meaningful." Add a line: "No code until your plan is approved. The plan is due Thursday."
+> One slide.
+
+### Slide 4: What counts
+
+> Create one slide for a middle school computer science class titled "Does It Count?" A two-column
+> comparison, headed COUNTS and DOES NOT COUNT, with four short rows. Row one, a list: counts if the game
+> reads it to make a decision; does not count if you fill it once and never read it. Row two, a loop:
+> counts if it repeats a countable number of times and the count matters; does not count if it is
+> "forever", because that is the game loop and every project has one. Row three, a conditional: counts if
+> it can go either way depending on play; does not count if it always runs. Row four, a variable: counts
+> if it changes during play and something reads it; does not count if it is set once and never changed.
+> Then a box: "If you cannot say what breaks when you remove it, it does not count yet. Change the
+> design, not the answer." One slide.
 
 ### Board version
 
@@ -368,25 +458,46 @@ LISTS THAT CHANGE
   remove item 2 from a list of 5 ->
   what was item 3 is now item 2.
 
-BUILD THIS. IT BREAKS.
-  set stuff to array of  "a"  "b"  "c"
-  for index from 0 to (length of stuff) - 1
-      remove value at index
+TWO PROBLEMS TODAY. PAPER FIRST.
+  both of them are about the SHIFT.
 
-  run it. what happens? WHY?
-  (professionals write this bug.)
+  TOMORROW ---------------------------------
+   set stuff to array of  "a"  "b"  "c"
+   for index from 0 to (length of stuff) - 1
+       remove value at index
 
-COMING: YOUR OWN GAME, next week.
-  this week you PLAN it.
+   three items. three passes. still doesn't empty.
+   we build it tomorrow.
+  ------------------------------------------
+
+YOUR OWN GAME, built next week. this week you PLAN it.
 
   six required things:
-    a LIST that matters / a LOOP / a CONDITIONAL
-    a VARIABLE that changes / a WAY TO WIN / a WAY TO LOSE
+    a LIST the game reads to decide something
+    a FOR or WHILE loop  (NOT forever)
+    a CONDITIONAL that can go either way
+    a VARIABLE that changes during play
+    a WAY TO WIN
+    a WAY TO LOSE
 
-  that's the grade. not how impressive it is.
-  SMALL AND FINISHED BEATS BIG AND BROKEN.
+  *** REMOVE IT. IF THE GAME STILL PLAYS THE SAME,
+      IT WASN'T MEANINGFUL. ***
 
-  no code until your plan is approved.
+DOES IT COUNT?
+  COUNTS                     |  DOESN'T COUNT
+   list the game READS to    |   a list you fill once
+   make a decision           |   and never read
+   loop that repeats a       |   "forever" - that's the
+   countable number of times |   game loop, everyone has one
+   conditional that can go   |   an if that always runs
+   either way                |
+   variable that CHANGES     |   set once, never changed
+   and something reads it    |
+
+  can't say what breaks when you remove it?
+  it doesn't count yet. change the DESIGN, not the answer.
+
+  plan due THURSDAY. no code until it's approved.
 ```
 
 ---

@@ -11,11 +11,11 @@
 
 | Day | Focus |
 |-----|-------|
-| Mon Oct 5 | Adding and removing from a list. Practice problems |
-| Tue Oct 6 | The collection game: a list that fills as you play |
-| Wed Oct 7 | **Final project planning.** The ten questions |
-| Thu Oct 8 | Finish the plan, get it approved, start the first piece |
-| Fri Oct 9 | Keep building |
+| Mon Oct 5 | Adding and removing from a list. **Two problems**, then the project is introduced |
+| Tue Oct 6 | The larger problem set, the bug, and the collection game |
+| Wed Oct 7 | **Final project planning.** Scope, requirements, breakdown, risk |
+| Thu Oct 8 | Finish the plan and get it approved. Start the first piece if it is |
+| Fri Oct 9 | **QUIZ**, then keep planning or building |
 
 ## What You'll Be Able to Do
 
@@ -27,9 +27,18 @@
 
 ## Due This Week
 
-- The practice problems, answered
+- The practice problems, answered. Monday's two, then Tuesday's set
 - The collection game, working
-- **Your final project plan, approved.** No code on the project until it is
+- **Your final project plan, approved, by Thursday.** No code on the project until it is
+
+## Friday's Quiz
+
+Lists (index, length, adding, the shift when you remove, insert), loops (`for` over a list, `for element`,
+why `forever` is not a countable loop, `while`), conditionals, variables, and **the planning language from
+the project sheet**, including what makes a feature meaningful.
+
+**This week is mostly planning.** You can start building early if your plan is approved, but the practice
+time is the practice time.
 
 ## Standards
 

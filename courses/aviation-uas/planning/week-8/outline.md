@@ -4,6 +4,7 @@
 **Quarter:** Q1 | **Week:** 8 | **Unit:** 2.1 Meteorology | **Dates:** Mon Oct 5 to Fri Oct 9
 
 > **You can already read a METAR. This week is what the numbers mean.**
+> **One project all week: the weather brief a real crew writes before it flies.**
 > **Quiz Friday covers everything through last Friday.** No meteorology on it.
 
 ---
@@ -15,6 +16,21 @@ Why weather happens, and which parts of it can ground you.
 You decoded METARs and TAFs back in Week 5, so you can already pull the numbers. This week is the layer
 underneath: **why the air does what it does, and what each condition costs you as a pilot.**
 
+### One project, four sections
+
+There is **one worksheet for the whole week**, `handouts/weather-brief-project.md`. It is the pre-flight
+weather brief a real crew produces before a flight, and you build it a section at a time:
+
+| Day | What you add to the brief |
+|-----|---------------------------|
+| **Mon** | Section 1: the site and the air |
+| **Tue** | Section 2: the system moving through |
+| **Wed** | Section 3: the hazard list, ending in your own go or no-go numbers |
+| **Thu** | Section 4: you fly it. Did the brief hold up? |
+| **Fri** | Quiz, then finish anything unfinished |
+
+**Every section ends in a verdict.** Real data, pulled from `aviationweather.gov`, not made up.
+
 ## Weekly Snapshot
 
 | Day | Focus | Competency |
@@ -23,7 +39,7 @@ underneath: **why the air does what it does, and what each condition costs you a
 | Tue Oct 6 | **Air masses and fronts**, and the wind patterns they create | 7.6.9, 7.6.6 |
 | Wed Oct 7 | **Wind effects, turbulence, and severe weather.** The big one | 7.6.13, 7.6.11, 7.6.12 |
 | Thu Oct 8 | **FLIGHT.** Orbit a target or figure eight, same drills as last week | 7.12, 2.1 |
-| Fri Oct 9 | **QUIZ**, then finish the worksheet | |
+| Fri Oct 9 | **QUIZ**, then finish the brief | |
 
 **Three days of weather, then you fly, then the quiz.** Thursday you bring your own go or no-go list
 outside and use it on a real day.
@@ -38,6 +54,7 @@ outside and use it on a real day.
 - Explain what a **microburst** is and why it is the worst thing on this list
 - Look at a forecast and make a **go or no-go** call with the deciding number named
 - **Use your own list outside on Thursday**, on whatever the weather actually is
+- **Say what your brief missed**, which is graded as highly as the rest of it
 
 ## Friday's Quiz
 
