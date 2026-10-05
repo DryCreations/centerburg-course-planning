@@ -1,8 +1,10 @@
 # Meteorology
 
-**Aviation UAS | Unit 2.1 | Monday to Friday**
+**Aviation UAS | Unit 2.1 | Monday to Wednesday**
 
-Answer in this document. **One part per day.**
+Answer in this document. **One part per day, Monday through Wednesday.**
+
+**Thursday we fly.** **Friday is the quiz**, then time to finish anything here you did not get to.
 
 ## Competencies
 
@@ -25,6 +27,9 @@ Answer in this document. **One part per day.**
 At the end of each day, answer this again. **Your answer should get longer every day.**
 
 > **What would make me cancel a flight?**
+
+**Thursday you fly.** Bring your answer with you, because you are going to make a real go or no-go call
+with it.
 
 ---
 
@@ -92,9 +97,13 @@ concern, and what is your plan?**
 
 ---
 
-# Part 3 (Wednesday): Wind
+# Part 3 (Wednesday): Wind, turbulence, and what grounds you
 
-**7.6.6, 7.6.13**
+**7.6.6, 7.6.13, 7.6.11, 7.6.12**
+
+**This is the big one.** Everything here is something that can stop you flying.
+
+## Wind
 
 **19. Crosswind.** Wind blowing across your direction of travel. **What does your aircraft have to do to
 hold a straight line, and what does that cost you?**
@@ -117,51 +126,60 @@ scale?**
 **25.** Your aircraft can do 100 mph. The wind is 25 mph. **Why is that still a problem even though you
 are faster than the wind?**
 
-**26. Running question:** what would make you cancel a flight?
+## Turbulence
 
----
-
-# Part 4 (Thursday): Turbulence and severe weather
-
-**7.6.11, 7.6.12**
-
-**27.** Name the four causes of turbulence: **mechanical, thermal, frontal, windshear.** Give a one-line
+**26.** Name the four causes of turbulence: **mechanical, thermal, frontal, windshear.** Give a one-line
 example of each.
 
-**28.** Which type do you get flying near a building? Which do you get over a parking lot on a hot
+**27.** Which type do you get flying near a building? Which do you get over a parking lot on a hot
 afternoon?
 
 ### Thunderstorms
 
-**29.** The three stages are **cumulus, mature, dissipating.** What is the air doing in each?
+**28.** The three stages are **cumulus, mature, dissipating.** What is the air doing in each?
 
-**30.** Which stage is the most dangerous, and why?
+**29.** Which stage is the most dangerous, and why?
 
-**31.** A thunderstorm is 15 miles away and you are on the ground, ready to launch. **Is that far
+**30.** A thunderstorm is 15 miles away and you are on the ground, ready to launch. **Is that far
 enough? Why or why not?**
 
 ### Microbursts
 
-**32.** A **microburst** is a column of rapidly sinking air that spreads out violently when it hits the
+**31.** A **microburst** is a column of rapidly sinking air that spreads out violently when it hits the
 ground. **Why is this the worst item on this page for a small aircraft?**
 
-**33.** What visible signs might warn you one is near?
+**32.** What visible signs might warn you one is near?
 
-**34.** Tornadoes and hurricanes are obvious no-go conditions. **Name one way each affects flying even
+**33.** Tornadoes and hurricanes are obvious no-go conditions. **Name one way each affects flying even
 when it is not directly overhead.**
 
-**35. Running question, final version:** what would make you cancel a flight? **Write the full list.**
+**34. Running question, final version:** what would make you cancel a flight? **Write the full list**,
+with numbers where you can. **Bring this outside tomorrow.**
+
+---
+
+# Part 4 (Thursday): Outside
+
+**No written work during flight time.** Answer these when you come back in, or Friday.
+
+**35.** What was the actual weather today? Pull the numbers: wind, temperature, visibility, ceiling.
+
+**36.** Using your list from question 34, **was today a go or a no-go?** Name the deciding number.
+
+**37.** Did you feel anything in the aircraft that this week explains? Thermal bumps over pavement, a
+gust around a building corner, sluggishness in warm air. **Say what you felt and which part of the
+worksheet it was.**
 
 ---
 
 # Part 5 (Friday): After the quiz
 
-**36.** Finish anything you skipped.
+**38.** Finish anything you skipped. **This is what Friday's time after the quiz is for.**
 
-**37.** Go back to your **personal minimums card** from Week 5. Having learned this, **change one number
+**39.** Go back to your **personal minimums card** from Week 5. Having learned this, **change one number
 on it** and say why.
 
-**38.** Pick the one condition on this worksheet you think most pilots underestimate. Defend your pick.
+**40.** Pick the one condition on this worksheet you think most pilots underestimate. Defend your pick.
 
 ---
 
@@ -186,8 +204,8 @@ on it** and say why.
 
 ## Grading
 
-**On the explanations, not the definitions.** Questions 5, 7, 8, 17, 23, 25, 31 and 32 are the ones that
-show whether you can apply this to an actual flight.
+**On the explanations, not the definitions.** Questions 5, 7, 8, 17, 23, 25, 29, 30, 31, 36 and 37 are
+the ones that show whether you can apply this to an actual flight.
 
-**The running question is the point of the whole week.** By Thursday your list should be specific and
-include numbers.
+**The running question is the point of the whole week.** By Wednesday your list should be specific and
+include numbers, and on Thursday you use it outside.

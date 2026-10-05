@@ -10,8 +10,8 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance | Storyboard check, **detach audio and layer** | **Meteorology opens.** Why air moves | Lists that change | Next assignment |
 | **Tue** | Exposure and tone | Assemble the edit | Air masses and fronts | The collection game | Shoot |
-| **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind** | **Project planning** | Shoot |
-| **Thu** | **Color.** HSL | **Cutaways and layering** | Turbulence and severe weather | Finish the plan, start building | Shoot |
+| **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Shoot |
+| **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Shoot |
 | **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the worksheet | Keep building | Shoot |
 
 ---
@@ -37,6 +37,15 @@
   numbers.
 - **Friday's Aviation quiz covers everything through last Friday and no meteorology.** Said on Monday,
   so nobody studies the wrong thing.
+- **Aviation is three days of weather, then flight Thursday, then the quiz.** Monday through Wednesday is
+  the worksheet, Thursday is outside on the orbit and figure-eight drills from last week, and Friday is
+  the quiz with the leftover time used to finish whatever is unfinished in the worksheet.
+- **Wednesday carries the heavy load on purpose.** Wind effects, turbulence and severe weather together,
+  because they are all answers to the same question: what can stop you flying. That makes it the natural
+  place for the running question's final version.
+- **Thursday is where the week pays off.** Students bring their own go or no-go list outside and use it
+  on whatever the actual weather is, then write down the real numbers and whether it was a go. Three
+  questions get answered after flying rather than during.
 - **V&S: detaching audio and layering video are taught as one idea.** A timeline has layers, and picture
   and sound do not have to travel together. Once that lands, **a cutaway is just a clip on the track
   above**, and the J-cuts and L-cuts they already planned become mechanical.
@@ -56,7 +65,8 @@
   week because white balance was deliberately held back.
 - **V&S: building the edit.** The storyboard gate opens the editor. Detaching audio, split edits, then
   cutaways and layering.
-- **Aviation: Unit 2.1 Meteorology**, four days of content and a quiz Friday on the previous material.
+- **Aviation: Unit 2.1 Meteorology**, three days of content, flight Thursday, quiz Friday on the
+  previous material. Friday's leftover time is for finishing the worksheet, not new work.
 - **MS CS: list mutation, then project planning.** The collection game Tuesday, planning Wednesday and
   Thursday, building from Thursday into next week.
 - **Yearbook: needs the next assignment decided.** Last week's photos and check-in were due Friday.

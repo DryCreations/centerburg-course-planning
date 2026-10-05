@@ -51,12 +51,17 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `3-aviation-uas/handouts/meteorology-worksheet.md` | **Assignment, post Monday, make-a-copy.** One part per day |
+| 1 | `3-aviation-uas/handouts/meteorology-worksheet.md` | **Assignment, post Monday, make-a-copy.** Parts 1 to 3 are Mon, Tue, Wed |
 | 2 | `3-aviation-uas/outline.md` | Material. The week and the quiz scope |
-| 3 | Quiz from `week-7/quiz-bank.csv` or a fresh cut | **Quiz Friday.** Everything through last Friday |
+| 3 | Quiz from the Week 6 bank, or a fresh cut | **Quiz Friday.** Everything through last Friday |
 
-**Say Monday:** the quiz covers forces, motors, hardware, airspace, charts and Part 107. **No
-meteorology from this week.**
+**Thursday is flight.** Bring `still-in-use/aviation-orbit-drill.md` outside. Same two drills as last
+week: orbit a fixed target, or figure eight in open air, assigned by name at the briefing.
+
+**Friday's leftover time after the quiz is for finishing the worksheet**, not for new material.
+
+**Say Monday:** three days of weather, we fly Thursday, quiz Friday. The quiz covers forces, motors,
+hardware, airspace, charts and Part 107. **No meteorology from this week.**
 
 **The Gimkit kit from Week 7** (`week-7/gimkit-review.csv`, 75 questions) is the review for Friday's
 quiz. Worth replaying Thursday.

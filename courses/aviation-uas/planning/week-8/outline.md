@@ -20,10 +20,13 @@ underneath: **why the air does what it does, and what each condition costs you a
 | Day | Focus | Competency |
 |-----|-------|-----------|
 | Mon Oct 5 | **Temperature, pressure, and why air moves at all** | 7.6.3 |
-| Tue Oct 6 | **Air masses and fronts.** What each front brings with it | 7.6.9 |
-| Wed Oct 7 | **Wind.** Crosswind, tailwind, windshear, mountain wave | 7.6.6, 7.6.13 |
-| Thu Oct 8 | **Turbulence and severe weather.** Thunderstorms, microbursts | 7.6.11, 7.6.12 |
+| Tue Oct 6 | **Air masses and fronts**, and the wind patterns they create | 7.6.9, 7.6.6 |
+| Wed Oct 7 | **Wind effects, turbulence, and severe weather.** The big one | 7.6.13, 7.6.11, 7.6.12 |
+| Thu Oct 8 | **FLIGHT.** Orbit a target or figure eight, same drills as last week | 7.12, 2.1 |
 | Fri Oct 9 | **QUIZ**, then finish the worksheet | |
+
+**Three days of weather, then you fly, then the quiz.** Thursday you bring your own go or no-go list
+outside and use it on a real day.
 
 ## What You'll Be Able to Do
 
@@ -34,6 +37,7 @@ underneath: **why the air does what it does, and what each condition costs you a
 - Name the three stages of a thunderstorm and say which one is most dangerous
 - Explain what a **microburst** is and why it is the worst thing on this list
 - Look at a forecast and make a **go or no-go** call with the deciding number named
+- **Use your own list outside on Thursday**, on whatever the weather actually is
 
 ## Friday's Quiz
 
@@ -50,3 +54,8 @@ hardware, batteries, airspace classes, chart symbols, weather reports, and the P
 - **7.6.11** Describe the types, conditions and factors of turbulence
 - **7.6.13** Describe wind and wind effects (crosswind, tailwind, windshear, mountain wave)
 - **7.6.12** Describe the types and impact of thunderstorms, tornados, microbursts and hurricanes
+
+**Thursday also covers:**
+
+- **7.12** Perform takeoff, flight, and landing operations
+- **2.1** Apply safety practices

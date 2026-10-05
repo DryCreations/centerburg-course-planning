@@ -226,11 +226,12 @@ does. Say it in those words, because they just learned the payload version.
 ### Slide 2: The week, and the quiz
 
 > Create one agenda slide for a high school aviation class titled "This Week." A day plan: MONDAY,
-> temperature, pressure, and why air moves at all. TUESDAY, air masses and fronts. WEDNESDAY, wind:
-> crosswind, tailwind, windshear, mountain wave. THURSDAY, turbulence and severe weather. FRIDAY, QUIZ,
-> then finish the worksheet. Then a box in large text: "Friday's quiz covers everything through LAST
-> Friday: forces, motors, hardware, airspace, charts, Part 107. NO meteorology from this week is on it."
-> One slide.
+> temperature, pressure, and why air moves at all. TUESDAY, air masses and fronts and the wind patterns
+> they create. WEDNESDAY, wind effects, turbulence and severe weather, the big one. THURSDAY, WE FLY,
+> same drills as last week. FRIDAY, QUIZ, then finish the worksheet. Then a box in large text: "Friday's
+> quiz covers everything through LAST Friday: forces, motors, hardware, airspace, charts, Part 107. NO
+> meteorology from this week is on it." Add a line: "Thursday you bring your own go or no-go list outside
+> and use it on whatever the weather actually is." One slide.
 
 ### Slide 3: You can already read it
 
@@ -273,10 +274,13 @@ THIS WEEK: METEOROLOGY (leave up all week)
           tornados, microbursts and hurricanes
 
   MON temperature + pressure: why air moves
-  TUE air masses and fronts
-  WED wind: crosswind / tailwind / windshear / mountain wave
-  THU turbulence + severe weather
+  TUE air masses, fronts, and the wind they create
+  WED wind effects + turbulence + severe weather  <- the big one
+  THU * WE FLY *  same drills as last week
   FRI QUIZ, then finish the worksheet
+
+  thursday you bring your own go/no-go list OUTSIDE
+  and use it on whatever the weather actually is.
 
 QUIZ FRIDAY = everything through LAST friday.
   forces / motors / hardware / airspace / charts / part 107
