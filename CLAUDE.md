@@ -24,25 +24,25 @@ editing a file.
 ## Career-tech classes open with standards
 
 **Design Techniques, Video & Sound, and Aviation UAS are career-tech courses.** Every day's slide deck for
-those three **opens with the standards or competencies being covered that day**, written out, not just
-numbered.
+those three **opens with one slide holding both the standards and the agenda.**
 
-- It goes in the **first two slides**, and it is meant to **stay visible** or be posted on the board.
-- Anyone walking into the room mid-lesson should be able to see what is being covered.
-- **Write the full text of the standard**, not just `7.6`. A number alone tells a visitor nothing.
+### One slide, not two
+
+**Standards and agenda go on the same slide.** Not two slides back to back.
+
+- **Standards at the top**, in their **exact text**, not numbered. A number alone tells a visitor nothing.
+- **The agenda underneath**, with each activity named as serving one of those standards.
+- It is **slide 1**, and it is meant to **stay visible** or be posted on the board.
+- Anyone walking into the room mid-lesson should be able to see what is being covered and what the class
+  is doing about it, from one slide.
 - Middle School CS and Yearbook do not need this, though naming the focus area is still good practice.
 
-### Standards come first, and activities are tied to them
+### Activities stay tied to the standards
 
-This applies to **agenda slides, presentation slides, and worksheets**, not just the opening slide.
-
-- **The standards go first, before the agenda.** What are we covering today, in its own words, before
-  anything about what we are doing.
-- **Quote the exact text of the standard.** Not a paraphrase, not a number.
-- **Then the activities, named as serving those standards.** A worksheet says which standard each section
-  is for. A slide deck returns to them rather than stating them once and moving on.
+- A slide deck **returns to them** rather than stating them once and moving on.
 - **Every student-facing worksheet for a career-tech class carries its standards**, in full text, at or
-  near the top.
+  near the top, with each section labeled by the standard it serves.
+- **Quote the exact text.** Not a paraphrase.
 
 ## Worksheets
 

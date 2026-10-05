@@ -16,6 +16,16 @@
 
 ---
 
+## Slide convention changed
+
+**Standards and agenda now go on one slide, not two back to back.** Standards at the top in their exact
+text, the agenda underneath with each activity paired to the standard it serves.
+
+Updated in `CLAUDE.md` and applied to this week's deck. The three career-tech classes each open with one
+combined slide that stays on the board.
+
+---
+
 ## Decisions made this week
 
 - **DT runs one slider group per day, slowly.** Monday is white balance **only**. The temptation is to

@@ -2,13 +2,14 @@
 
 Every block is **one prompt, for one slide.** Board versions included.
 
-**Standards come first, before the agenda, in every career-tech class.** Full text, not numbers.
+**Career-tech classes open with ONE slide holding both the standards and the agenda.** Full text, not
+numbers, standards at the top, the agenda underneath with each activity tied to one.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 5 | **The editor.** White balance, one period |
 | Video & Sound | 4 | Storyboard check, then detach audio and layer |
-| Aviation UAS | 5 | **New unit: meteorology.** Why air moves |
+| Aviation UAS | 4 | **New unit: meteorology.** Why air moves |
 | Middle School CS | 3 | Lists that change, then practice problems |
 | Yearbook | 1 | Next assignment |
 
@@ -25,14 +26,18 @@ could be either. Confirm it so you can say one thing instead of two.
 **The payoff is Part 4:** RAW gives Kelvin, JPEG gives a relative scale with much less room. Students
 who grabbed JPEGs will see the limit rather than being told about it.
 
-### Slide 1: Competencies today
+### Slide 1: Standards and agenda
 
-> Create one standards slide for a high school design class. Title: "Today's Competencies." List these
-> with their FULL text, not just the numbers, in large readable type: 7.9.5 Use International Standards
-> Organization (ISO), shutter speed, aperture, and white balance settings to shoot manual photographs.
-> 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.9.7 Identify differences
-> between film photographs and digital images. Add a short line: "Today that means white balance, and
-> finding out what a RAW file gives you that a JPEG does not." One slide.
+> Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
+> "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
+> numbers: 7.9.5 Use International Standards Organization (ISO), shutter speed, aperture, and white
+> balance settings to shoot manual photographs. 7.9.6 Edit photographs (e.g., color corrections,
+> cropping, enhancements). 7.9.7 Identify differences between film photographs and digital images. Bottom
+> half, headed "What we are doing," is a short two-column list pairing each activity with its competency:
+> "Open your RAW files in the editor" with 7.9.6; "Temperature and tint, pushed to both ends" with 7.9.5
+> and 7.9.6; "RAW versus JPEG, how much room each one gives you" with 7.9.7; "Shoot one new photo under
+> bad light on purpose" with 7.9.5. Keep both halves readable from the back of the room. Design it to
+> stay on the board all period. One slide.
 
 ### Slide 2: Getting in
 
@@ -129,12 +134,15 @@ cleared students build and the rest finish planning.
 **The framing that ties it together:** detaching audio and layering video are the same idea. A timeline
 has layers, and picture and sound do not have to move together.
 
-### Slide 1: Standards today
+### Slide 1: Standards and agenda
 
-> Create one standards slide for a high school video production class. Title: "Today's Standards." List
-> these with their FULL text, not just the numbers, in large readable type: 7.3.7 Edit video footage.
-> 7.7.6 Add transitions (dissolves, wipes, cuts), titles, special effects, and digital effects. 7.8.8
-> Perform audio mixing. One slide.
+> Create ONE slide for a high school video production class that holds both the standards and the agenda.
+> Title: "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
+> numbers: 7.3.7 Edit video footage. 7.7.6 Add transitions (dissolves, wipes, cuts), titles, special
+> effects, and digital effects. 7.8.8 Perform audio mixing. Bottom half, headed "What we are doing,"
+> pairs each activity with its standard: "Storyboard check. A complete one unlocks the editor" with
+> 7.3.7; "Detach a clip's audio from its picture" with 7.8.8; "Build a J-cut and an L-cut" with 7.7.6;
+> "Layer video. Top covers bottom" with 7.7.6. Design it to stay on the board all period. One slide.
 
 ### Slide 2: The gate
 
@@ -213,34 +221,30 @@ CAN'T SEE SOMETHING? something above it is in the way.
 does. Say it in those words, because they just learned the payload version.
 **Quiz Friday covers everything through last Friday. No meteorology on it.** Say that too.
 
-### Slide 1: Competencies for the week
+### Slide 1: Standards and agenda
 
-> Create one standards slide for a high school aviation and drone class. Title: "This Week: Meteorology."
-> List these with their FULL text, not just the numbers, in large readable type: 7.6.3 Explain the effects
-> of temperature on weather. 7.6.9 Describe weather system formation, including air masses and fronts.
-> 7.6.6 Identify wind patterns based on weather systems. 7.6.13 Describe wind and wind effects
-> (crosswind, tailwind, windshear, mountain wave). 7.6.11 Describe the types, conditions and factors of
-> turbulence. 7.6.12 Describe the types and impact of thunderstorms, tornados, microbursts and
-> hurricanes. Design it to stay readable on the board all week. One slide.
+> Create ONE slide for a high school aviation and drone class that holds both the competencies and the
+> week plan. Title: "This Week: Meteorology." Top half, headed "What we are covering," lists these with
+> their FULL text, not just the numbers: 7.6.3 Explain the effects of temperature on weather. 7.6.9
+> Describe weather system formation, including air masses and fronts. 7.6.6 Identify wind patterns based
+> on weather systems. 7.6.13 Describe wind and wind effects (crosswind, tailwind, windshear, mountain
+> wave). 7.6.11 Describe the types, conditions and factors of turbulence. 7.6.12 Describe the types and
+> impact of thunderstorms, tornados, microbursts and hurricanes. Bottom half, headed "The week," is a day
+> plan pairing each day with its competencies: MONDAY, temperature, pressure and why air moves, 7.6.3.
+> TUESDAY, air masses, fronts and the wind they create, 7.6.9 and 7.6.6. WEDNESDAY, wind effects,
+> turbulence and severe weather, 7.6.13, 7.6.11 and 7.6.12. THURSDAY, we fly, 7.12 and 2.1. FRIDAY, quiz
+> then finish the worksheet. Then one line at the bottom in bold: "Friday's quiz covers everything
+> through LAST Friday. No meteorology from this week is on it." Design it to stay on the board all week.
+> One slide.
 
-### Slide 2: The week, and the quiz
-
-> Create one agenda slide for a high school aviation class titled "This Week." A day plan: MONDAY,
-> temperature, pressure, and why air moves at all. TUESDAY, air masses and fronts and the wind patterns
-> they create. WEDNESDAY, wind effects, turbulence and severe weather, the big one. THURSDAY, WE FLY,
-> same drills as last week. FRIDAY, QUIZ, then finish the worksheet. Then a box in large text: "Friday's
-> quiz covers everything through LAST Friday: forces, motors, hardware, airspace, charts, Part 107. NO
-> meteorology from this week is on it." Add a line: "Thursday you bring your own go or no-go list outside
-> and use it on whatever the weather actually is." One slide.
-
-### Slide 3: You can already read it
+### Slide 2: You can already read it
 
 > Create one slide for a high school aviation class. In very large text: "You can already read a METAR.
 > This week is what the numbers mean." Below, smaller: "Back in Week 5 you learned to pull visibility,
 > ceiling, wind and temperature out of a report. None of that told you WHY the air was doing it, or what
 > it was about to do next. That is this week." One slide.
 
-### Slide 4: Why air moves
+### Slide 3: Why air moves
 
 > Create one concept slide for a high school aviation class titled "Why Air Moves At All." A simple
 > three-step chain in large text: "1. The sun heats the ground unevenly. 2. Warm air is less dense, so it
@@ -248,7 +252,7 @@ does. Say it in those words, because they just learned the payload version.
 > is air moving from high pressure toward low pressure." Then a small example: "Asphalt heats faster than
 > grass. Fly across the edge of the parking lot at 20 feet and you will feel it." One slide.
 
-### Slide 5: Density altitude
+### Slide 4: Density altitude
 
 > Create one slide for a high school drone class titled "Thin Air." Explain density altitude: how thin
 > the air behaves, regardless of your actual altitude, and that three things make air thinner: HEAT,
