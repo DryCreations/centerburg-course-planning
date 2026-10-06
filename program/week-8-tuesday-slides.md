@@ -7,7 +7,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 15 | **Taught off the slides.** The histogram, clipping live, then two versions out |
+| Design Techniques | 16 | **Taught off the slides.** The histogram, clipping live, then WB, tone, two exports |
 | Video & Sound | 3 | Ten minutes on rough assembly, then **work time** |
 | Aviation UAS | 10 | **Section 1 reviewed together**, new content, then half the period to work |
 | Middle School CS | 3 | The bug, then **planning takes the back half** |
@@ -31,7 +31,8 @@ from), **`week-8/teacher-notes.md` (the run of show, read it first)**
 recognize is drawn on a slide, so you are pointing at a diagram and they are comparing it to their own
 screen. **You do not have to drive Camera Raw while explaining.**
 **Shape of the period:** ten minutes finishing Monday, then everyone downloads a photo, then Part 1
-together off these slides, then they break out and build two versions.
+together off these slides, then they break out and edit in three stages: **Temperature first as a review
+of yesterday, then Exposure and Contrast, then the four region sliders.**
 **Part 1 is call-and-response.** Each prompt slide tells them to do one thing, look at their screen, and
 report what they see. **Wait for answers.** The clipping demo only works if they are the ones who caused
 it.
@@ -39,19 +40,24 @@ it.
 about reading their own graph rather than matching your result, different photos are fine.
 **Two exports due:** `LastName_Tone_A_01` after Exposure and Contrast, `LastName_Tone_B_01` after the
 four region sliders.
-**Hold the line on which sliders are allowed.** Exposure, Contrast, Highlights, Shadows, Whites, Blacks.
-**No color today.** Somebody will find Saturation and the photo will become a different assignment.
+**Hold the line on which sliders are allowed**, in this order: **Temperature and Tint**, then **Exposure
+and Contrast**, then **Highlights, Shadows, Whites, Blacks.** **No Saturation, Vibrance, Clarity or
+HSL** today, or somebody finds Saturation and the photo becomes a different assignment.
+**White balance first is not just review, it is the right order.** A color cast makes every tone decision
+after it a guess, because a dark area and a blue area look the same.
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
 > "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
-> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.4.7 Optimize and
+> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.9.5 Use
+> International Standards Organization (ISO), shutter speed, aperture, and white balance settings to
+> shoot manual photographs. 7.4.7 Optimize and
 > export graphics files for intended use. Bottom half, headed "What we are doing," is a short two-column
 > list pairing each activity with its competency: "First ten minutes: finish yesterday's four files" with
-> 7.4.7; "Pick a photo and download it" with 7.4.7; "Read the histogram together" with 7.9.6; "Version A:
-> Exposure and Contrast only" with 7.9.6; "Version B: add Highlights, Shadows, Whites, Blacks" with
-> 7.9.6; "Export both" with 7.4.7. Keep both halves readable from the back of the room. Design it to stay
+> 7.4.7; "Pick a photo and download it" with 7.4.7; "Read the histogram together" with 7.9.6; "White
+> balance first, same as yesterday" with 7.9.5; "Version A: then Exposure and Contrast" with 7.9.6;
+> "Version B: add Highlights, Shadows, Whites, Blacks" with 7.9.6; "Export both" with 7.4.7. Keep both halves readable from the back of the room. Design it to stay
 > on the board all period. One slide.
 
 ### Slide 2: Finish yesterday first
@@ -158,28 +164,39 @@ four region sliders.
 ### Slide 13: The target
 
 > Create one slide for a high school design class titled "What You Are Aiming For." A numbered checklist
-> in large text, five items: "1. The graph reaches toward both ends. 2. No tall spike jammed against
-> either wall. 3. No red or blue, except a bulb, a window, or sun off chrome. 4. The subject sits in the
-> middle, not at an edge. 5. Toggle the edits off and on, and the difference is obvious." Then a box in
-> very large text: "Check your photo against this list BEFORE you export. Both times." One slide.
+> in large text, six items: "1. White things look white. No color cast. 2. The graph reaches toward both
+> ends. 3. No tall spike jammed against either wall. 4. No red or blue, except a bulb, a window, or sun
+> off chrome. 5. The subject sits in the middle, not at an edge. 6. Toggle the edits off and on, and the
+> difference is obvious." Then a box in very large text: "Check your photo against this list BEFORE you
+> export. Both times." One slide.
 
-### Slide 14: Version A
+### Slide 14: White balance first
+
+> Create one slide for a high school photography class titled "Start With Yesterday." One idea in very
+> large text: "White balance comes FIRST. Always." Then the reason, in two short lines: "A color cast
+> makes every tone decision after it a guess." and "You cannot tell a dark area from a blue one." Then
+> three numbered steps: "1. Find something in the photo you KNOW should be white or grey. 2. Fix the cast
+> with TEMPERATURE. Use Tint if you need it. 3. Write down the Kelvin you landed on, and which way you had
+> to move it." Then a box: "Nothing in there yet that you know is white? Say so on your sheet and go by
+> what looks right." One slide.
+
+### Slide 15: Version A
 
 > Create one task slide for a high school photography class titled "Version A: Two Sliders." In very
-> large text: "EXPOSURE and CONTRAST only. Nothing else." Then three numbered tasks: "1. Get as close to
-> the five goals as you can. 2. Write down your Exposure and your Contrast. 3. Go through the goals list.
+> large text: "EXPOSURE and CONTRAST. Leave Temperature where you set it." Then three numbered tasks: "1.
+> Get as close to the six goals as you can. 2. Write down your Exposure and your Contrast. 3. Go through the goals list.
 > Which ones can you tick, and which one is STILL OFF? Name it, and say where in the photo." Then a box:
 > "Then export: Save Image, JPEG, LastName_Tone_A_01. Upload it." One slide.
 
-### Slide 15: Version B
+### Slide 16: Version B
 
 > Create one task slide for a high school photography class titled "Version B: Add Four More." In large
 > text: "Highlights, Shadows, Whites and Blacks are now allowed. LEAVE Exposure and Contrast where they
 > are." Then three numbered tasks: "1. Fix the thing you named at the end of Version A. 2. Go through the
 > goals list one more time. 3. In one sentence: what were you able to do that Exposure and Contrast could
 > not?" Then a box: "Then export: Save Image, JPEG, LastName_Tone_B_01. Upload it." Then a final line in
-> large text: "Still no color today. No Temperature, no Saturation, no Clarity. That is the rest of the
-> week." One slide.
+> large text: "Still no Saturation, no Vibrance, no Clarity, no HSL today. That is the rest of the week."
+> One slide.
 
 ### Board version
 
@@ -189,7 +206,10 @@ TODAY'S COMPETENCIES (leave on the board)
          enhancements)
   7.4.7  optimize and export graphics files for
          intended use
-  -> today: read the HISTOGRAM. two versions out:
+  7.9.5  use ISO, shutter speed, aperture, and white
+         balance settings to shoot manual photographs
+  -> today: read the HISTOGRAM, then edit in three
+     stages. two versions out:
      LastName_Tone_A_01  and  LastName_Tone_B_01
 
 FIRST TEN MINUTES: FINISH YESTERDAY
@@ -279,30 +299,50 @@ ONE SLIDER PER REGION
   shadows + highlights move what sits INSIDE them.
 
 WHAT YOU'RE AIMING FOR  (check BEFORE each export)
-  1. the graph reaches toward both ends
-  2. no tall spike jammed against either wall
-  3. no red or blue - except a bulb, a window,
+  1. white things look WHITE. no color cast.
+  2. the graph reaches toward both ends
+  3. no tall spike jammed against either wall
+  4. no red or blue - except a bulb, a window,
      sun off chrome
-  4. the subject sits in the MIDDLE, not at an edge
-  5. toggle the edits off/on: the difference is obvious
+  5. the subject sits in the MIDDLE, not at an edge
+  6. toggle the edits off/on: the difference is obvious
 
-VERSION A: EXPOSURE + CONTRAST ONLY
-  1. get as close to the five goals as you can
+START WITH YESTERDAY: WHITE BALANCE FIRST. ALWAYS.
+  a color cast makes every tone decision after it
+  a GUESS. you can't tell a dark area from a blue one.
+
+  1. find something you KNOW should be white or grey
+  2. fix the cast with TEMPERATURE (tint if needed)
+  3. write the Kelvin you landed on, and which way
+     you moved it
+
+  nothing in there you know is white? say so on your
+  sheet and go by what looks right.
+
+THEN VERSION A: EXPOSURE + CONTRAST
+  leave temperature where you set it.
+  1. get as close to the six goals as you can
   2. write down both numbers
   3. goals list: which can you tick? which is STILL OFF?
      name it. say WHERE in the photo.
   -> export  LastName_Tone_A_01
 
 VERSION B: ADD HIGHLIGHTS / SHADOWS / WHITES / BLACKS
-  leave exposure + contrast where they are.
+  leave everything else where it is.
   1. fix the thing you named
   2. goals list again
   3. one sentence: what could you do that exposure and
      contrast could not?
   -> export  LastName_Tone_B_01
 
-  *** NO COLOR TODAY. no temperature, no saturation,
-      no clarity. that's the rest of the week. ***
+  *** NO saturation, vibrance, clarity or HSL today.
+      that's the rest of the week. ***
+
+TODAY'S SLIDER ORDER
+  1. TEMPERATURE / TINT      (review of yesterday)
+  2. EXPOSURE / CONTRAST     -> export A
+  3. HIGHLIGHTS / SHADOWS / WHITES / BLACKS
+                             -> export B
 ```
 
 ---

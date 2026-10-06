@@ -29,7 +29,7 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/handouts/tone-lab.md` | **Assignment, make-a-copy.** Due before they leave |
-| 1b | **A set of 6-8 photos to choose from** | **Post it with the sheet.** They pick one |
+| 1b | **A set of 6-8 downloaded RAW files** | **Post it with the sheet.** They pick one. **Test one first** |
 | 2 | `4-middle-school-cs/handouts/list-practice-day-2.md` | **Material.** The bug, then the plan |
 
 **Do these yourself:**
@@ -40,11 +40,14 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
   and why the two concepts did not land Monday
 - **A lot of DT students did not get four files out Monday.** Give the first ten minutes to it and
   **demo Save Image once more on the projector.** They are behind on clicks, not on concept
-- **Post a set of 6-8 photos for DT and let them pick one.** Each needs a bright area and a dark area in
-  the same frame, something slightly wrong rather than broken, and real detail in the bright part.
-  **Include one that is clipped at capture**, with red showing the moment it opens: that photo carries
-  the whole permanence explanation. **Your own photos are the safe source**, since you know they open in
-  this Camera Raw. Ten minutes with a Rebel shooting the same window at several exposures gets the set
+- **Download a set of 6-8 RAW files for DT and let them pick one.** Start at
+  [raw.pixls.us](https://raw.pixls.us/) **filtered to a Canon Rebel body**: CC0 public domain, and
+  filtering by camera model removes the compatibility risk. Fill the set out from
+  [Lapse of the Shutter](https://www.lapseoftheshutter.com/free-raw-landscape-images-for-retouching/)
+  if the pixls files are too plain. **Prefer CR2 from 2010 to 2016 bodies**, since an older Camera Raw
+  cannot open a newer camera's RAW, and **CR3 is the most likely thing to fail**
+- **Open one of those files on a student machine before you post the link.** This is the step that saves
+  the period. Full sourcing notes and what each file needs are in `1-design-techniques/teacher-notes.md`
 - **Check whether hovering over the histogram names the slider** on your machine. If it does, use it
 - **Start building the Mood Photos folder** for Week 9. Six to eight decent RAW landscapes or similar,
   nothing already graded. Sourcing and what to pick is in `1-design-techniques/week-9-mood-TEACHER.md`
@@ -56,7 +59,7 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
-| 2 | `1-design-techniques/handouts/tone-lab.md` | **Assignment, post Tuesday.** 11 questions, **two files out** |
+| 2 | `1-design-techniques/handouts/tone-lab.md` | **Assignment, post Tuesday.** 13 questions, **two files out** |
 | 3 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Wednesday.** Wed through Fri, renumbered 1-21 |
 | 4 | `1-design-techniques/outline.md` | Material |
 | 5 | `1-design-techniques/week-9-mood-project.md` | **Assignment, Week 9.** Hold until the photo folder exists |
@@ -83,15 +86,23 @@ because the camera lost it at capture. And exporting a clipped JPEG makes it per
 downstream. Do not say clipping is simply irreversible: inside Camera Raw on a RAW file it is not, and a
 student will catch you.
 
-**They get a target, not a taste test.** Five goals, on a slide and on the sheet, checked before each
-export: the graph reaches toward both ends, no spike against either wall, no red or blue except speculars,
-the subject in the middle, and an obvious difference on toggle.
+**They get a target, not a taste test.** Six goals, on a slide and on the sheet, checked before each
+export: white things look white, the graph reaches toward both ends, no spike against either wall, no red
+or blue except speculars, the subject in the middle, and an obvious difference on toggle.
 
-**Two exports:** `LastName_Tone_A_01` after Exposure and Contrast only, then `LastName_Tone_B_01` after
-adding Highlights, Shadows, Whites and Blacks. **Nobody is asked which they like better.**
+**They edit in three stages, in this order:**
 
-**Hold the slider list and say the restriction is temporary.** No color today. Run of show, the photo set
-spec, and the call-and-response table are in `1-design-techniques/teacher-notes.md`.
+| | |
+|---|---|
+| **1. Temperature and Tint** | **Review of yesterday**, and the right order anyway: a cast makes every tone decision after it a guess |
+| **2. Exposure and Contrast** | The coarse controls. Then **name which goal is still off.** Export `LastName_Tone_A_01` |
+| **3. Highlights, Shadows, Whites, Blacks** | For what is left over, which is what stage 2 made them name. Export `LastName_Tone_B_01` |
+
+**Nobody is asked which version they like better.**
+
+**Hold the slider list and the order, and say the restriction is temporary.** No Saturation, Vibrance,
+Clarity or HSL today. Run of show, the photo set spec and sourcing, and the call-and-response table are
+in `1-design-techniques/teacher-notes.md`.
 
 **Mood moved to Wednesday**, next to Saturation. The big lab is now the Wednesday-to-Friday sheet,
 renumbered 1 to 21, and they can go back to their own RAW files from Wednesday on.

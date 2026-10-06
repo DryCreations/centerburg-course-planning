@@ -9,7 +9,7 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
-| **Tue** | **Catch-up**, then the histogram taught off slides. **Two versions exported** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
+| **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Mood**, then clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
 | **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
 | **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
@@ -99,18 +99,47 @@ re-editing each time. **No re-teaching white balance.** They are behind on click
 **DT Tuesday was rebuilt again, and this is the version to use.** Monday ran out of time, so Tuesday has
 one goal, a hard finish, and **the slides carry the teaching rather than Camera Raw.** Every histogram
 shape they need to recognize is drawn on a slide, so he points at a diagram while they compare it to
-their own screen instead of driving the editor and explaining at the same time. **15 thin slides.**
+their own screen instead of driving the editor and explaining at the same time. **16 thin slides.**
 
 **The period:** ten minutes finishing Monday, five to pick a photo and download it, about twenty on Part
 1 together, then they build and export two versions.
 
-**They pick from a set of 6 to 8 photos** rather than all working one file. Choice keeps them invested,
-and because the lesson is reading their own graph rather than matching a result, different photos are
-fine. The set has to be built on purpose: a bright area and a dark area in the same frame, something
-slightly wrong rather than broken, real detail in the bright part. **One of them should be clipped at
-capture**, with red the moment it opens, because that is the only case where the loss is permanent.
-**Ten minutes with a Rebel shooting the same window at several exposures produces the whole set**, and
-same-scene files make the comparison clean.
+**They pick from a set of 6 to 8 downloaded RAW files** rather than all working one file, and the files
+come from online rather than from his own camera. Choice keeps them invested, and because the lesson is
+reading their own graph rather than matching a result, different photos are fine.
+
+**The real risk with downloaded RAW files is not licensing, it is compatibility.** An older Camera Raw
+cannot open a RAW file from a camera newer than itself, so **the recommendation is Canon CR2 from bodies
+roughly 2010 to 2016**, the same era as the room's Rebels, and **CR3 from Canon's newer bodies is the most
+likely thing to fail.** Test one on a student machine first.
+
+**Ranked sources, with the honest caveat that none of the pages could be opened from here** because
+outbound fetching is blocked, so this comes from search descriptions:
+
+1. **[raw.pixls.us](https://raw.pixls.us/)** is the pick. Searchable and sortable by exact camera model,
+   so filtering to a Rebel-era Canon removes the compatibility risk, and everything is **CC0 public
+   domain**, which removes the licensing question entirely in a classroom. Built for software developers,
+   so many files are plain test shots. Do not clone the dataset, it is about 65GB
+2. **[Lapse of the Shutter](https://www.lapseoftheshutter.com/free-raw-landscape-images-for-retouching/)**,
+   described as one-click with no email or signup. Landscapes, so sky plus ground, which suits all six
+   goals. No faces
+3. **[Shotkit](https://shotkit.com/free-raw-photos/)**, about 138 files organized by camera brand, so the
+   Canon section is directly reachable
+4. **[Signature Edits](https://www.signatureedits.com/free-raw-photos/)**, the biggest and best looking,
+   mostly CR2, free for any use, but the most likely of the four to want an email address
+
+**The set has to be built on purpose**, not just eight nice photos: a bright area and a dark area in the
+same frame, something slightly wrong rather than broken, real detail in the bright part, and nothing
+already graded and re-exported. **Include one with a visible color cast** so stage 1 has real work in it,
+**one clipped at capture** so slide 9 has its permanent-loss example, and **one with a person in it**,
+because a face at the far left of the histogram reads as a dark photo in a way a dark barn does not.
+
+**The editing happens in three stages, in a deliberate order.** **Temperature and Tint first**, as a
+review of Monday and because it is the right order anyway: a color cast makes every tone decision after it
+a guess, since a dark area and a blue area look the same. **Then Exposure and Contrast**, the coarse
+controls, ending in a named complaint against the goals list, and export A. **Then Highlights, Shadows,
+Whites and Blacks**, which are for what is left over, which is exactly what stage 2 makes them name, and
+export B. **The order is stated to the students rather than just imposed.**
 
 **Part 1 is call and response.** Each prompt slide says do one thing, look at your screen, report what
 you see. Four shapes, which is yours. Warnings on, any red or blue already. **Everybody push Exposure to
@@ -125,10 +154,11 @@ watches it return will catch it. Saying what is actually true makes the lesson s
 know which of the two situations they are in. The teacher notes say to flag whoever reports red at 0 on
 slide 7 and use their photo as the example on slide 9.
 
-**They get a target, not a taste test.** Five goals, on a slide and on the sheet, checked before each
-export: the graph reaches toward both ends; no tall spike jammed against either wall; no red or blue
-except a bulb, a window or sun off chrome; the subject in the middle rather than at an edge; an obvious
-difference when the edits toggle. Two new teaching slides support them: **gaps versus walls** (a gap is a
+**They get a target, not a taste test.** Six goals, on a slide and on the sheet, checked before each
+export: white things look white; the graph reaches toward both ends; no tall spike jammed against either
+wall; no red or blue except a bulb, a window or sun off chrome; the subject in the middle rather than at
+an edge; an obvious difference when the edits toggle. **Goal 1 is Monday's lesson carried forward**, which
+is what makes the Temperature stage feel like part of the work rather than a detour. Two new teaching slides support them: **gaps versus walls** (a gap is a
 wasted opportunity, a wall is lost information) and **what Exposure and Contrast actually do to the
 graph**, which is also where too much Contrast clipping both ends at once comes from.
 
@@ -137,9 +167,10 @@ Highlights, Shadows, Whites and Blacks. **Nobody is asked which version they pre
 more of the goals; that is the finding and it does not need a preference attached. The last question is
 what the four could do that two could not.
 
-**Six sliders only, no color, and the restriction is stated as temporary.** Exposure, Contrast,
-Highlights, Shadows, Whites, Blacks. Somebody will find Saturation otherwise and the photo becomes a
-different assignment. Camera Raw has no separate midtone slider: **Exposure is the midtones.**
+**Eight sliders, in order, and the restriction is stated as temporary.** Temperature and Tint, then
+Exposure and Contrast, then Highlights, Shadows, Whites, Blacks. **No Saturation, Vibrance, Clarity or
+HSL**, or somebody finds Saturation and the photo becomes a different assignment. Camera Raw has no
+separate midtone slider: **Exposure is the midtones.**
 
 **Exemplars got demoted.** The goals list does the job better, because a target they can check themselves
 beats a picture of someone's taste. If there is time for one thing, the goals list goes on the board.
