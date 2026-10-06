@@ -4,9 +4,21 @@
 posted), **`handouts/tone-lab.md` (Tuesday, the one-pager)** and `handouts/editing-week-lab.md`
 (Wednesday to Friday).
 
-**Tuesday is a one-page follow-along, not a section of the big lab.** Eight questions, one photo,
-everyone the same photo, one file out before they leave. Monday ran out of time, so today has one goal
-and a hard finish.
+**Tuesday is taught off the slides, not off Camera Raw.** Every histogram shape they need to recognize
+is drawn on a slide, so you point at a diagram and they compare it to their own screen. **You are not
+driving the editor and explaining at the same time.**
+
+**The shape of the period:**
+
+| | |
+|---|---|
+| **~10 min** | Finish Monday's four files |
+| **~5 min** | Everyone picks a photo from the set and downloads it |
+| **~20 min** | **Part 1 together**, off the slides. Call and response |
+| **Rest** | They build and export **two versions** |
+
+**Two files due before they leave:** `LastName_Tone_A_01` after Exposure and Contrast, and
+`LastName_Tone_B_01` after adding the four region sliders.
 
 ---
 
@@ -32,131 +44,128 @@ without talking through anything else. Then they work. Then you start Tuesday's 
 
 ## Tuesday's actual goal
 
-**Not "the rest of the sliders."** The goal is that they can look at the Camera Raw screen and know what
-a slider is going to do **before** they drag it. That means the histogram is the lesson and the sliders
-are the practice.
+**Not "the rest of the sliders."** The goal is that they can look at a histogram and say what is wrong
+with the photo, **and know why clipping is the thing to avoid.** The sliders are how they act on that.
 
-### Teach it in this order
+**They get a target, not a taste test.** The five goals are on slide 13 and on the worksheet, and they
+check against the list before each export:
 
-**1. The histogram is a map, not a score.** Top right. **Left is dark, right is bright, height is how
-much of the photo is that bright.** That is the whole thing. Do not say "exposure value" or "stops."
+1. **The graph reaches toward both ends.** A photo using only the middle looks washed out and dull
+2. **No tall spike jammed against either wall.** That is detail gone, not dark or bright
+3. **No red or blue**, except a bulb, a window, or sun off chrome
+4. **The subject sits in the middle**, not at an edge
+5. **Toggle off and on** and the difference is obvious
 
-**2. Turn on the clipping warnings before anything else.** The two small triangles in the histogram's
-top corners. **Blue overlay means shadow detail is gone. Red means highlight detail is gone.** Leave
-them on all week. This single step is what turns "that looks about right" into something checkable.
-
-**3. The five regions, left to right, one slider each.**
-
-| Region | Slider |
-|---|---|
-| Far left | **Blacks** |
-| Left | **Shadows** |
-| Middle | **Exposure** |
-| Right | **Highlights** |
-| Far right | **Whites** |
-
-**In most Camera Raw versions, hovering over a histogram region names its slider.** Check on your
-machine before class. If it does, use it: drag the mouse across the graph and let them watch the names
-appear. That one demo does more than any explanation of the five.
-
-**4. Exposure moves the whole graph. Contrast stretches or squeezes it.** Show both while watching the
-histogram rather than the photo. Say it as: **Exposure slides it, Contrast pulls the ends apart.**
-
-**5. The other four move one region and leave the rest.** That is the entire point, and Round 1 below
-proves it better than you can say it.
-
-### The distinctions they will get wrong
-
-| They confuse | The line that fixes it |
-|---|---|
-| **Whites and Highlights** | Whites decides **where white begins.** Highlights adjusts what is already bright, without moving the end |
-| **Blacks and Shadows** | Same thing at the other end. Blacks sets the floor, Shadows lifts what is sitting above it |
-| **Exposure and Brightness** | Exposure works from the midtones outward. There is no separate Brightness slider here, do not mention one |
-| **Contrast and Clarity** | Contrast is the whole image. Clarity is edges and texture. **Clarity is Wednesday**, do not let it in today |
+**Nobody is asked which version they like better.** Version B is the one that meets more of the goals;
+that is the finding, and it does not need a preference attached to it.
 
 ---
 
-## The two rounds: "within limitation"
+## Part 1, together: the call-and-response
+
+**Every prompt slide tells them to do one thing, look at their screen, and report.** Wait for answers.
+The clipping lesson only lands because they caused it themselves.
+
+| Slide | You say | They do | What you are listening for |
+|-------|---------|---------|---------------------------|
+| **5** | Four shapes. Which is yours? | Look at their histogram | "Dark," "flat," and so on. **Get several out loud**, it costs nothing and it starts the talking |
+| **7** | Warnings on. Any red or blue already? | Click both triangles | Whoever says yes has a camera-clipped file. **Flag that student**, you will come back to them on slide 9 |
+| **8** | Everybody Exposure to +2 | Push it | Red in the sky, on a wall, on a white shirt. **Do not explain yet** |
+| **9** | Now bring it back to 0 | Pull it back | "It came back." Then the distinction below |
+| **10** | Blacks to −100 | Push it | Blue in the shadows. Then put it back |
+
+### The distinction on slide 9, which is the lesson of the day
+
+**Red that appeared when they pushed comes back.** Nothing was thrown away: they asked the file to show
+more than it holds in that spot, and backing off returns it. **Camera Raw is not destroying the RAW
+file.**
+
+**Red that was there at 0 does not come back.** The camera lost it at capture. No slider recovers it.
+**This is why the student you flagged on slide 7 matters:** use their photo as the example, because it is
+the one case where clipping is permanent and it is sitting right there in the room.
+
+**And exporting a clipped JPEG makes it permanent for everyone downstream.** That is the line to end on:
+the editor forgives, the export does not.
+
+**Do not say "clipping is irreversible" flatly.** It is not, inside Camera Raw on a RAW file, and a
+student who pushes a slider and watches it come back will catch you. **Say what is actually true** and
+the lesson gets stronger, because now they know which of the two situations they are in.
+
+---
+
+## The two versions: "within limitation"
 
 This is the structure for the back half, and it is the part worth protecting.
 
-**Round 1: Exposure and Contrast only.** Make the photo as good as you can. **Then name what is still
-wrong.** (Questions 4 and 5.)
+**Version A: Exposure and Contrast only.** Get as close to the five goals as possible, write both
+numbers, then **name which goal is still off and where in the photo it is.** Export
+`LastName_Tone_A_01`. (Questions 7 and 8.)
 
-**Round 2: unlock Blacks, Shadows, Highlights, Whites. Exposure and Contrast are frozen.** Fix the thing
-they named. (Questions 6 to 8.)
+**Version B: add Highlights, Shadows, Whites, Blacks. Exposure and Contrast stay put.** Fix the thing
+they named, re-check the goals, and say in one sentence what the four could do that two could not. Export
+`LastName_Tone_B_01`. (Questions 9 to 11.)
 
 **Why the limitation is the lesson:** handed all six sliders, a student drags everything until it looks
-okay and learns nothing about which slider did what. Round 1 produces a **specific complaint**: the sky
-is blown, or the shadows are muddy, or it went flat. Round 2 then has a target, and question 14 asks them
-to say what Round 1 proved. **That is the understanding, not the finished photo.**
+okay and learns nothing about which slider did what. **Version A produces a specific complaint** against
+the goals list: the sky is still blown, or the shadows are muddy, or there is a gap at the right end.
+Version B then has a target.
 
-**Circulate during Round 1 asking one question:** what is the histogram telling you that you are ignoring?
+**Circulate during Version A asking one question:** what is the histogram telling you that you are
+ignoring?
 
-**The common Round 1 outcome**, worth knowing in advance: they raise Exposure to open the shadows and
-blow the highlights, or raise Contrast for punch and clip both ends. Both land them exactly where Round 2
-is useful. **Let it happen.**
+**The common Version A outcome**, worth knowing in advance: they raise Exposure to open the shadows and
+blow the highlights, or raise Contrast for punch and clip both ends. **Both land them exactly where
+Version B is useful.** Let it happen, and point at the warnings rather than telling them the answer.
 
----
-
-## The one photo everyone works on
-
-**Pick ONE file and post a download link in Classroom.** The whole sheet is a follow-along, and that only
-works if the photo on your screen is the photo on theirs. Step 1 of the worksheet is downloading it into
-their own folder, which is also where you check that they can do it.
-
-**Use one of your own photos.** It is the zero-risk option: you know it opens in this version of Camera
-Raw, you know it is a format the Rebels produce, and there is no licensing question. **A free-gallery
-file may be from a camera an older Camera Raw cannot open**, and I could not test any of them from here.
-
-**Pick it on purpose.** The photo has to have:
-
-- **A bright area and a dark area in the same frame.** Something sky-ish and something shadowed. If the
-  photo is all midtones, Highlights and Shadows have nothing to do and Round 1 has no complaint to
-  produce
-- **Something slightly wrong.** A touch dark, or a touch flat. **Not broken**, just not finished. A
-  perfect photo gives them nowhere to go
-- **Real detail in the bright part**, so that pulling Highlights down visibly recovers something. That
-  moment is the one they remember
-
-**A shot out a window, or anything with sky above and ground below, works.** A flat indoor snapshot does
-not.
-
-**Shoot it in the first five minutes of your prep if you do not have one.** Point a Rebel at a window
-from inside the room, meter for the inside, and you will have exactly the file this lesson wants:
-bright window blown or near it, dark interior, nothing a single slider can fix.
-
-**If you would rather download one**, sourcing is in `week-9/handouts/mood-project-TEACHER.md`, and
-**open it on a student machine before you post the link.** Same folder serves the Week 9 assignment, so
-it is one job either way.
-
-**Say "everyone has the same photo" out loud.** It is the thing that makes the comparison at the end
-real: the only difference between their result and their neighbor's is decisions.
+**Hold the slider list.** Exposure, Contrast, Highlights, Shadows, Whites, Blacks. **No color today**:
+somebody will find Saturation and the photo stops being this assignment. Camera Raw has no separate
+midtone slider, so if they ask, **Exposure is the midtones.**
 
 ---
 
-## Exemplars: if you want one
+## The photo set
 
-You said you were not set on this. **Here is the cheap version**, five minutes, and it is useful mostly
-as a target to argue with.
+**Post a set and let them pick one.** Choice keeps them invested, and because the lesson is reading their
+own graph rather than matching your result, different photos are fine. **Six to eight is plenty.**
 
-**Make one before/after pair from a file they all have access to**, and **screenshot the histogram in
-both**. The histogram is what makes it teachable: without it you are showing them your taste, and with
-it you are showing them a measurable claim.
+**Each one has to earn its place.** What the lesson needs:
 
-**What makes an edit defensible**, which is also the rubric to put on the board:
+- **A bright area and a dark area in the same frame.** If a photo is all midtones, Exposure and Contrast
+  have nothing to fail at and Version A produces no complaint. That kills the structure
+- **Something slightly wrong.** A touch dark, a touch flat, a bright window. **Not broken**, just not
+  finished
+- **Real detail in the bright part**, so pulling Highlights down visibly recovers something
+- **Not already edited.** Some free files were exported after grading. If it opens looking finished the
+  student has nowhere to go
 
-1. **The histogram reaches both ends** without piling against either wall. Using the full range
-2. **No red or blue** except on specular highlights: a bulb, sun glint off chrome, a window. **Those are
-   allowed to clip**, they have no detail to protect
-3. **The subject's midtones sit near the middle.** If a face reads at the far left, the photo is dark no
-   matter how good the sky looks
-4. **The toggle test:** turning the edits off and on shows an obvious difference, but a stranger could
-   not name which sliders you moved
+**Try to include one that is clipped at capture**, with red showing the moment it opens at 0. **That
+photo is worth the whole slide-9 explanation**, because it is the one case where the loss is permanent.
+Overexposed sky out a window does it every time.
 
-**Say the limitation out loud when you show it:** this one is defensible, it is not the only defensible
-one. **Then show a second version you also like**, so nobody tries to match your numbers. If you only
-have time for one, say the rubric and skip the exemplar: the rubric is the part that transfers.
+**Your own photos are the safe source.** You know they open in this version of Camera Raw, you know the
+format, and there is no licensing question. **A free-gallery file may come from a camera an older Camera
+Raw cannot read**, and none of them could be tested from here.
+
+**Ten minutes with a Rebel gets you the whole set:** shoot the same window from inside the room at
+several exposures. One correct, one two stops under, one blown, one flat. That is four files that each
+teach something different, and they are all the same scene so the comparison is clean.
+
+**If you download instead**, sourcing is in `week-9/handouts/mood-project-TEACHER.md`, and **open one on
+a student machine before you post the link.** Same folder serves the Week 9 assignment either way.
+
+---
+
+## Exemplars
+
+**You probably do not need one now.** The five goals do the job an exemplar was going to do, and they do
+it better: a target they can check themselves beats a picture of your taste.
+
+**If you want one anyway**, five minutes: take one photo from the set to a finished state and
+**screenshot the histogram alongside it.** The histogram is what makes it teachable, because without it
+you are showing them a result instead of a reason.
+
+**Then show a second version you also like**, so nobody tries to match your numbers. **If there is only
+time for one thing, put the goals list on the board and skip the exemplar.**
 
 ---
 
@@ -167,7 +176,7 @@ Wednesday, not today.
 
 | Day | What |
 |-----|------|
-| **Wed** | **Mood** (questions 1 to 3), then Clarity, Vibrance and Saturation. **Before and after exported** |
+| **Wed** | **Mood** (questions 1 to 3), then Clarity, Vibrance and Saturation. **Color opens up** |
 | **Thu** | **HSL.** One color at a time, then color theory applied |
 | **Fri** | Catch up, pick the best edit, export and submit |
 
@@ -175,8 +184,9 @@ Wednesday, not today.
 rounds on a single page, and that is already full. Mood sits better next to Saturation anyway, since they
 are the same kind of decision.
 
-**Wednesday onward they can use their own RAW files again.** The shared photo is only so today's
-follow-along stays in step.
+**Wednesday onward they can use their own RAW files again**, and **color opens up.** Today's restriction
+to six tone sliders is deliberate and temporary; say so, or the ones who found Saturation will think they
+got away with something.
 
 **Week 9 is Three Moods**, on supplied photos. See `week-9/handouts/mood-project.md`.
 
@@ -184,9 +194,9 @@ follow-along stays in step.
 
 ## What to collect
 
-**`LastName_Tone_01` and the one-pager, before they leave.** Plus Monday's four files from whoever owes
-them.
+**`LastName_Tone_A_01`, `LastName_Tone_B_01` and the sheet, before they leave.** Plus Monday's four files
+from whoever owes them.
 
-**Questions 5 and 8 are the ones to read.** Question 5 cannot be faked: a student who cannot say what
-Exposure and Contrast failed to fix was not looking at the graph. Question 8 is where you find out
-whether the limitation taught anything.
+**Questions 4, 8 and 11 are the ones to read.** Question 4 is the clipping distinction and it is the
+lesson of the day. Question 8 cannot be faked: a student who cannot name which goal is still off was not
+checking against the list. Question 11 is where you find out whether the limitation taught anything.

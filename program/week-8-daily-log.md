@@ -9,7 +9,7 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
-| **Tue** | **Catch-up**, then a guided one-pager: histogram, two rounds, one file out | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
+| **Tue** | **Catch-up**, then the histogram taught off slides. **Two versions exported** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Mood**, then clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
 | **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
 | **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
@@ -96,49 +96,53 @@ ten minutes to it** with the export demoed once more on the projector, including
 **the slider positions stay put between exports**, so you move Temperature and save again rather than
 re-editing each time. **No re-teaching white balance.** They are behind on clicks, not concept.
 
-**Tuesday is a one-page follow-along, not a section of the big lab.** Monday ran out of time, so today
-gets a single goal and a hard finish: `handouts/tone-lab.md`, **eight questions, one page, one file out
-before they leave.** The big lab was cut back to Wednesday through Friday and renumbered 1 to 21.
+**DT Tuesday was rebuilt again, and this is the version to use.** Monday ran out of time, so Tuesday has
+one goal, a hard finish, and **the slides carry the teaching rather than Camera Raw.** Every histogram
+shape they need to recognize is drawn on a slide, so he points at a diagram while they compare it to
+their own screen instead of driving the editor and explaining at the same time. **15 thin slides.**
 
-**Everyone works the same photo**, downloaded in step 1, because a follow-along only works if the photo on
-the teacher's screen is the photo on theirs. **The recommendation is one of his own photos**, since that
-guarantees it opens in this version of Camera Raw and raises no licensing question, where a free-gallery
-file might come from a camera an older Camera Raw cannot read. The spec: a bright area and a dark area in
-the same frame, something slightly wrong rather than broken, and real detail in the bright part so pulling
-Highlights down visibly recovers something. **A shot out a window from inside the room, metered for the
-interior, is exactly that file** and takes five minutes to make.
+**The period:** ten minutes finishing Monday, five to pick a photo and download it, about twenty on Part
+1 together, then they build and export two versions.
 
-**DT Tuesday is the histogram, not "the rest of the sliders."** The goal is that they can look at the
-Camera Raw screen and know what a slider will do **before** they drag it, which makes the histogram the
-lesson and the sliders the practice. Three facts and nothing more: left is dark, right is bright, height
-is how much. **Clipping warnings on in the first two minutes** (the two triangles in the histogram's top
-corners) and left on all week, because that is what turns "looks about right" into something checkable.
-Then the five regions left to right, one slider each: Blacks, Shadows, Exposure, Highlights, Whites.
-**Check before class whether hovering a histogram region names its slider** on these machines; if it
-does, dragging the mouse across the graph teaches the five faster than explaining them.
+**They pick from a set of 6 to 8 photos** rather than all working one file. Choice keeps them invested,
+and because the lesson is reading their own graph rather than matching a result, different photos are
+fine. The set has to be built on purpose: a bright area and a dark area in the same frame, something
+slightly wrong rather than broken, real detail in the bright part. **One of them should be clipped at
+capture**, with red the moment it opens, because that is the only case where the loss is permanent.
+**Ten minutes with a Rebel shooting the same window at several exposures produces the whole set**, and
+same-scene files make the comparison clean.
 
-**The back half is two constrained rounds**, which is the "within limitation" structure. **Round 1 is
-Exposure and Contrast only**, make it as good as possible, then **name specifically what is still
-wrong**. **Round 2 unlocks Blacks, Shadows, Highlights and Whites with Exposure and Contrast frozen**,
-and they fix the thing they named. The last question asks what Round 1 proved about why the other four
-sliders exist. **Handed all six at once, a student drags everything until it looks okay and learns
-nothing about which slider did what.** Round 1 producing a complaint is the entire point, and the common
-outcome, blowing highlights while opening shadows, lands them exactly where Round 2 is useful.
+**Part 1 is call and response.** Each prompt slide says do one thing, look at your screen, report what
+you see. Four shapes, which is yours. Warnings on, any red or blue already. **Everybody push Exposure to
++2**, what turned red and where. Then bring it back. Then Blacks to minus 100.
 
-**Mood moved from Tuesday to Wednesday**, next to Saturation, since they are the same kind of decision
-and Tuesday is already full. The lab was rewritten and **renumbered 1 to 36**.
+**The clipping distinction is the lesson of the day, and it had to be stated correctly.** Red that
+appeared when they pushed **comes back**: nothing was thrown away, they asked the file for more than it
+holds in that spot. Red that was there **at 0 does not come back**, because the camera lost it at
+capture. **And exporting a clipped JPEG makes it permanent for everyone downstream.** The flat claim that
+clipping is irreversible is false inside Camera Raw on a RAW file, and a student who pushes a slider and
+watches it return will catch it. Saying what is actually true makes the lesson stronger, because now they
+know which of the two situations they are in. The teacher notes say to flag whoever reports red at 0 on
+slide 7 and use their photo as the example on slide 9.
 
-**From Wednesday on they go back to their own RAW files.** The shared photo is only so Tuesday's
-follow-along stays in step. A supplied pool is still needed for the Week 9 assignment, so that folder
-remains one job.
+**They get a target, not a taste test.** Five goals, on a slide and on the sheet, checked before each
+export: the graph reaches toward both ends; no tall spike jammed against either wall; no red or blue
+except a bulb, a window or sun off chrome; the subject in the middle rather than at an edge; an obvious
+difference when the edits toggle. Two new teaching slides support them: **gaps versus walls** (a gap is a
+wasted opportunity, a wall is lost information) and **what Exposure and Contrast actually do to the
+graph**, which is also where too much Contrast clipping both ends at once comes from.
 
-**Exemplar: offered as optional, with the rubric as the part that matters.** A before/after pair from a
-file everyone has, **with the histogram screenshotted in both**, because without the histogram you are
-showing them your taste instead of a measurable claim. The rubric: the histogram reaches both ends without
-piling against either wall; no red or blue except on specular highlights, which are allowed to clip; the
-subject's midtones sit near the middle; and the toggle test shows an obvious difference that a stranger
-could not attribute to specific sliders. **If there is only time for one, say the rubric and skip the
-exemplar.** Guidance is in the new `courses/design-techniques/planning/week-8/teacher-notes.md`.
+**Two exports:** `LastName_Tone_A_01` after Exposure and Contrast only, `LastName_Tone_B_01` after adding
+Highlights, Shadows, Whites and Blacks. **Nobody is asked which version they prefer.** Version B meets
+more of the goals; that is the finding and it does not need a preference attached. The last question is
+what the four could do that two could not.
+
+**Six sliders only, no color, and the restriction is stated as temporary.** Exposure, Contrast,
+Highlights, Shadows, Whites, Blacks. Somebody will find Saturation otherwise and the photo becomes a
+different assignment. Camera Raw has no separate midtone slider: **Exposure is the midtones.**
+
+**Exemplars got demoted.** The goals list does the job better, because a target they can check themselves
+beats a picture of someone's taste. If there is time for one thing, the goals list goes on the board.
 
 **DT Week 9 switched from the Repair Clinic to Three Moods.** The clinic needed four RAW files each broken
 exactly one way, and a free gallery posts its good photos, not its failures. Building that set meant
