@@ -38,8 +38,8 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 - **Read `3-aviation-uas/teacher-notes.md`.** It has Tuesday's run of show, the turn-and-talk protocol,
   and why the two concepts did not land Monday
 - **Check Monday's four DT exports actually landed** before starting Tuesday. Export was new
-- **Start building the Repair Clinic folder** for Week 9. Four RAW files, one problem each. Sourcing and
-  what to pick is in `1-design-techniques/week-9-repair-clinic-TEACHER.md`
+- **Start building the Mood Photos folder** for Week 9. Six to eight decent RAW landscapes or similar,
+  nothing already graded. Sourcing and what to pick is in `1-design-techniques/week-9-mood-TEACHER.md`
 
 ---
 
@@ -50,16 +50,22 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
 | 2 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Tuesday.** Tue through Fri, one section per day |
 | 3 | `1-design-techniques/outline.md` | Material |
-| 4 | `1-design-techniques/week-9-repair-clinic.md` | **Assignment, Week 9.** Hold until the file folder exists |
+| 4 | `1-design-techniques/week-9-mood-project.md` | **Assignment, Week 9.** Hold until the photo folder exists |
 
 **Due Monday, out of the white balance lab:** `LastName_WB_Cold_01`, `LastName_WB_Warm_01`,
 `LastName_WB_Fixed_01`, and `LastName_ColorPop_01`.
 
 **Due Friday:** both sheets, plus `LastName_Before_01`, `LastName_After_01`, and `LastName_Best_01`.
 
-**Week 9 is the Repair Clinic**, not the 6-8 image photo essay. Four supplied RAW files, each broken one
-way, graded on the diagnosis. **It needs a class folder of four files before Monday.** Sourcing, what to
-pick, and answer sketches are in `week-9-repair-clinic-TEACHER.md`.
+**The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
+Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays
+as is.
+
+**Week 9 is Three Moods.** One supplied RAW photo, three versions: neutral and correct, then two moods
+they pick, then they argue for one. **Not the repair clinic**, because a free gallery will not hand you
+four files each broken exactly one way, and the mood version puts the grade on the decision instead of
+the repair. **It needs a class folder of six to eight RAW photos before Monday.** Sourcing, what to pick
+and what to listen for are in `week-9-mood-TEACHER.md`.
 
 ---
 

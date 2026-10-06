@@ -51,68 +51,88 @@ Blacks. **Write down what you set each one to.**
 **9.** Toggle your edits off and on. If you cannot see a difference, go further. If it looks fake, back
 off. **Which way did you have to go?**
 
+### Mood: correct versus chosen
+
+**Yesterday you made a photo correct. Correct is a measurement. Mood is a decision.**
+
+Three decisions carry most of it, and you already have all three sliders:
+
+| The decision | The slider | One way | The other way |
+|---|---|---|---|
+| **Where the shadows sit** | Shadows, Blacks | **Lifted:** soft, open, modern | **Crushed:** heavy, serious, cinematic |
+| **How far apart dark and light are** | Contrast | **High:** hard, loud, energetic | **Low:** calm, faded, nostalgic |
+| **Which way the color leans** | Temperature | **Warm:** inviting, late afternoon | **Cool:** lonely, clinical, early morning |
+
+**10.** Take the photo you just fixed. **Without touching Exposure**, make it feel **heavier.** Which
+sliders did you move, and which direction?
+
+**11.** Undo that. Make the same photo feel **lighter and more open.** Same question.
+
+**12.** Which of your two versions is more honest about what the room actually looked like? **And does
+that make it the better photo?** Answer both parts.
+
 ---
 
 # Wednesday: Clarity, vibrance, saturation
 
 Same photo, or a new one.
 
-**10. Clarity.** Push it up hard, then down hard. What is it doing to the edges and texture?
+**13. Clarity.** Push it up hard, then down hard. What is it doing to the edges and texture?
 
-**11.** Too much Clarity does something specific and ugly to faces and skies. Try it. **Describe it.**
+**14.** Too much Clarity does something specific and ugly to faces and skies. Try it. **Describe it.**
 
-**12. Saturation.** Push it to +100. Which colors got worst first?
+**15. Saturation.** Push it to +100. Which colors got worst first?
 
-**13.** Pull Saturation to −100. What is the photo now?
+**16.** Pull Saturation to −100. What is the photo now?
 
-**14. Vibrance.** Push it to +100 on the same photo. **How is this different from Saturation?** Look
+**17. Vibrance.** Push it to +100 on the same photo. **How is this different from Saturation?** Look
 especially at skin tones and at already-bright colors.
 
-**15.** In one sentence: **when would you reach for Vibrance instead of Saturation?**
+**18.** In one sentence: **when would you reach for Vibrance instead of Saturation?**
 
-**16.** Set all three to something you would actually keep. Write down the numbers.
+**19.** Set all three to something you would actually keep. Write down the numbers.
 
 ### Before and after
 
-**17.** Export two versions of one photo as JPEG: the untouched original and your edit. Name them
+**20.** Export two versions of one photo as JPEG: the untouched original and your edit. Name them
 `LastName_Before_01` and `LastName_After_01`. **Upload both.**
 
 ---
 
 # Thursday: Color
 
-Find the **HSL** panel, sometimes called HSL / Color / B&W. Three tabs: **Hue, Saturation,
+In Camera Raw, find the **HSL / Color** panel, below Basic. Three tabs: **Hue, Saturation,
 Luminance**, each with a row of color sliders.
 
-**18.** Pick one color that actually appears in your photo. Move its **Hue** slider. What happens?
+**21.** Pick one color that actually appears in your photo. Move its **Hue** slider. What happens?
 
-**19.** Move that color's **Saturation** down to −100. Everything else keeps its color. **Why is this
+**22.** Move that color's **Saturation** down to −100. Everything else keeps its color. **Why is this
 more useful than the global Saturation slider?**
 
-**20.** Move its **Luminance**. What is this changing that Saturation did not?
+**23.** Move its **Luminance**. What is this changing that Saturation did not?
 
-**21.** Make a deliberate choice: pick **one** color in your photo and make it the thing the eye goes to
+**24.** Make a deliberate choice: pick **one** color in your photo and make it the thing the eye goes to
 first, by adjusting the others down. **Say what you did and why it works.**
 
 ### Color theory, applied
 
-**22.** Look at your photo. Are the main colors **complementary** (opposite on the wheel),
+**25.** Look at your photo. Are the main colors **complementary** (opposite on the wheel),
 **analogous** (next to each other), or basically **monochromatic**?
 
-**23.** Using HSL, push your photo toward one of those three on purpose. **Which did you pick, and what
+**26.** Using HSL, push your photo toward one of those three on purpose. **Which did you pick, and what
 did it do to the feel of the image?**
 
 ---
 
 # Friday: Catch up and submit
 
-**24.** Finish any question you skipped.
+**27.** Finish any question you skipped.
 
-**25.** Pick your **best edit of the week.** Export it as a JPEG named `LastName_Best_01`.
+**28.** Pick your **best edit of the week.** Export it as a JPEG named `LastName_Best_01`.
 
-**26.** In three sentences: what the photo looked like before, what you changed, and why.
+**29.** In three sentences: what the photo looked like before, what you changed, and why.
 
-**27.** One slider still confuses you. Name it and say what you do not understand about it.
+**30.** One slider still confuses you. Name it and say what you do not understand about it.
 
 ---
 
@@ -140,6 +160,7 @@ did it do to the feel of the image?**
 | **Saturation** | Intensity of all colors, equally |
 | **Vibrance** | Intensity of the duller colors, leaving already-strong ones mostly alone |
 | **HSL** | Hue, Saturation, Luminance. Controls colors one at a time |
+| **Mood** | The feeling a photo gives off. A choice you make, not a thing you measure |
 | **Hue** | Which color it is |
 | **Luminance** | How bright that one color is |
 
@@ -149,4 +170,7 @@ did it do to the feel of the image?**
 
 **On the written answers, not on whether the photos are pretty.**
 
-Questions 2, 7, 14, 19 and 21 are the ones that separate understanding a slider from having moved it.
+Questions 2, 7, 12, 17, 22 and 24 are the ones that separate understanding a slider from having moved it.
+
+**Question 12 is the one that matters most.** There is no single right answer and you still have to pick
+one and defend it.

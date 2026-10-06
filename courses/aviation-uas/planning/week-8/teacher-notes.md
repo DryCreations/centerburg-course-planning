@@ -12,13 +12,17 @@ does not know they do not have one. Neither do you.
 
 **Tuesday's fix is structural, not motivational:**
 
-1. **One idea per slide, and nothing else on it.** If a slide has two ideas, it gets split.
-2. **No stretch of teacher talk longer than six minutes.** Every beat ends in a question they answer,
+1. **The first third is going through Monday's answers together**, out loud, as a conversation. The
+   re-teach is not a separate segment: the two concepts that failed are two of those questions.
+2. **One idea per slide, and nothing else on it.** If a slide has two ideas, it gets split.
+3. **No stretch of teacher talk longer than six minutes.** Every beat ends in a question they answer,
    not a question you answer.
-3. **Predict before reveal.** On all four fronts they commit to a guess from what they already know
+4. **Half the period is theirs to work.** Monday was all front-of-room and they had nothing to show for
+   it. Today they finish Section 2 in class, with you circulating.
+5. **Predict before reveal.** On all four fronts they commit to a guess from what they already know
    about dense air, then find out. A wrong prediction they wrote down teaches more than a correct slide.
-4. **You put the real data on the projector.** Monday, hunting for a METAR ate time that was supposed to
-   be spent thinking. Today the TAF and the map are already up.
+6. **You put the real data on the projector.** Monday, hunting for a METAR ate time that was supposed to
+   be spent thinking. Today the TAF and the map are already up, and they stay up through work time.
 
 ### The turn-and-talk protocol, every time
 
@@ -41,25 +45,48 @@ beat for exactly this reason.
 
 ## Tuesday run of show
 
-Minutes are a guide. **The beats matter, the clock does not.**
+**Half the period is review and new content. Half is work time.** Minutes are a guide; the split is not.
 
 | Min | Beat | What you do | What they do |
 |-----|------|-------------|--------------|
-| 0-4 | **Do Now** | Standards and agenda slide up, stays up. Today's METAR and TAF already on screen | Write the answer to the density altitude Do Now |
-| 4-8 | **Why air moves, again** | One slide, three lines. Then the parking lot question | Turn and talk. Two named shares |
-| 8-13 | **Density altitude, again** | One slide. Then the 40-degree versus 95-and-humid question | Turn and talk. Two named shares |
-| 13-18 | **Air masses** | One slide: air takes the character of the ground it sat over | Turn and talk on Gulf air versus Canadian air. Fill Q16 |
-| 18-23 | **Cold front** | **Predict first.** Then reveal | Fill Q11 |
-| 23-28 | **Warm front** | **Predict first.** Then reveal | Fill Q12 |
-| 28-32 | **Stationary and occluded** | Both on one slide, they are the leftovers | Fill Q13 and Q14, then Q15 |
-| 32-38 | **Lows and highs** | One slide. Circulation, and what each one means for your week | Turn and talk. Fill Q17 |
-| 38-45 | **The real TAF** | Work today's actual TAF and map on the projector, out loud, as a crew | Fill Q9 and Q10 |
-| 45-end | **Verdict** | Silent. Collect it | **Q18, the Section 2 verdict.** This is the exit ticket |
+| 0-3 | **Do Now** | Standards and agenda slide up, stays up. Today's METAR, TAF and surface map already on screen | Answer the Do Now in writing |
+| 3-15 | **Section 1, together** | **Go through Monday's questions out loud, Q1 through Q8.** Take answers from the room. Fix them as you go | Correct and finish their own Section 1 |
+| 15-18 | **Settle: why air moves** | The parking lot question. This is the re-teach, inside the review | Turn and talk. Two named shares |
+| 18-22 | **Settle: density altitude** | The 40 versus 95 question | Turn and talk. Two named shares |
+| 22-25 | **Air masses** | One slide. Air takes the character of the ground it sat over | Turn and talk on Gulf versus Canada |
+| 25-29 | **Fronts: predict** | Four setups on one slide. **No answers.** They commit in writing | Write a prediction in rows Q11 to Q14 |
+| 29-34 | **Fronts: reveal** | The table. Go front by front against what they guessed | Correct their rows. Write Q15 |
+| 34-37 | **Lows and highs** | One slide. Two facts, one consequence | Turn and talk. Fill Q17 |
+| 37-end | **WORK TIME** | Circulate. The TAF and map stay on screen | **Q9, Q10, Q16, Q18.** Section 2 finished |
 
-**If you run short:** stationary and occluded can be read off the slide in two minutes. **Do not cut the
-front predictions or the verdict.**
+**The verdict, Q18, is the exit ticket.** Collect it at the door.
 
-**If you run long:** Q9 and Q10 become the start of Wednesday. The verdict still happens.
+**If the Section 1 review runs long**, that is fine, it is the highest-value part of the day. Cut lows
+and highs to the board summary and keep the work time.
+
+**If you run short on work time**, Q9 and Q10 start Wednesday. Still collect a verdict.
+
+---
+
+## Section 1 review: what to listen for
+
+**Run it as a conversation, not a key read-aloud.** Ask, take an answer, ask the room whether they agree,
+then land it. **Two of these are the concepts that failed Monday**, which is why the review and the
+re-teach are the same twelve minutes.
+
+| Q | Ask | What you are listening for | If it goes wrong |
+|---|-----|----------------------------|------------------|
+| **1** | Read me your METAR, one piece at a time | Wind, visibility, ceiling, temp, dew point, pressure, pulled correctly | Do it on the projector with today's. Week 5 material, should be fast |
+| **2** | How close are temperature and dew point today? | The **number**, then "close means near saturation, so fog or low cloud is on the table" | If they say "close" with no number, push for the spread |
+| **3** | **In one sentence, what is wind?** | Air moving from high pressure to low pressure, because something had to replace the air that rose | **This is the one that failed.** Go to the parking lot question |
+| **4** | Which surfaces at our site heat fastest? | Pavement, then buildings, then grass. Dark and hard beats light and soft | Easy win. Use it to build momentum |
+| **5** | Where is the bumpy air on a sunny afternoon? | Over and just downwind of the pavement, and at the edges where surfaces change | Pull it back to Q4: the air over the hot surface is going up |
+| **6** | Thicker or thinner than a cool dry day, and how do you know? | Thinner, because it is warm and the dew point is up. Both thin it | **This is the other one that failed.** Go to the 40 versus 95 question |
+| **7** | How is today's air doing what a payload does? | Both reduce your margin. Less lift available for the same motor effort | **The line to say:** you chose the payload. You did not choose the weather |
+| **8** | Read me a verdict | Two sentences, and it names something specific | "The air is fine" is not a verdict. Make them name a number |
+
+**Do not read all eight at the same speed.** Questions 1, 4 and 5 are quick confirmations. **Questions 3,
+6 and 7 are the lesson**, and they get the turn-and-talks.
 
 ---
 
@@ -148,5 +175,5 @@ afternoon is the window" is.
 ## Wednesday is the heavy day
 
 Wind effects, turbulence and severe weather together, and it ends in **their own go or no-go numbers**,
-which they take outside Thursday. **Run Wednesday the same way as Tuesday.** The beats are shorter and
-there are more of them, because there are more items.
+which they take outside Thursday. **Run Wednesday the same way as Tuesday:** review Section 2 together first, then new content, then half
+the period to work. The beats are shorter and there are more of them, because there are more hazards.

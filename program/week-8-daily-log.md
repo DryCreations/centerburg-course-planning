@@ -9,7 +9,7 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
-| **Tue** | Exposure and tone. **Week 9 named** | 10 min on rough assembly, then **work** | Air masses and fronts, **rebuilt interactive** | The bug, then **planning** | Keep working |
+| **Tue** | Exposure and tone, then **mood** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
 | **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
 | **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
@@ -76,15 +76,38 @@ thinking time. Full run of show in `courses/aviation-uas/planning/week-8/teacher
   Lead with "how thin the air is behaving, no matter where you are standing," and do not say "pressure
   altitude" at all this week. Hang it on last week's payload lesson, which they understood
 
-**DT Week 9 is the Repair Clinic, not the photo essay.** The unit's own artifact is a 6-8 image annotated
-edit suite, which is Q2-sized, and Week 9 already carries a quiz and BPA selection. The clinic is the
-same competencies at a quarter of the size: four supplied RAW files, each broken one way (too dark, wrong
-white balance, flat, one color off), fixed and diagnosed. **Everyone works identical files**, so a student
-with four weak photos is not graded on their photos. **The files are not in the repo**, because outbound
-file downloads are blocked from this environment. Sourcing is in
-`week-9/handouts/repair-clinic-TEACHER.md`: [signatureedits.com/free-raw-photos](https://www.signatureedits.com/free-raw-photos/)
-is the best match, mostly Canon CR2, same format the Rebels shoot. **Shooting the four yourself in five
-minutes is the reliable option**, and the teacher sheet says how to break each one on purpose.
+**Aviation Tuesday reshaped again: Section 1 gets reviewed out loud first, and half the period is work
+time.** Monday they left with nothing finished. Now the first twelve minutes are Monday's questions 1
+through 8 taken from the room as a conversation, and **the re-teach lives inside that review** rather
+than beside it: questions 3, 6 and 7 *are* why air moves and density altitude. Those three get the
+turn-and-talks; 1, 4 and 5 are quick confirmations. Then air masses, the four fronts predict-then-reveal,
+and lows and highs, compressed to about twelve minutes. **The back half of the period they finish Section
+2 with the TAF and map still on screen.** A per-question answer guide for the review is in
+`teacher-notes.md`.
+
+**The DT editor is confirmed as Adobe Camera Raw.** Tuesday's handout and slides no longer hedge.
+Monday's white balance sheet still names both paths and **is already out to students, so it was left
+alone.**
+
+**DT Tuesday gained a mood block.** Temperature and tint plus six tone sliders is mechanics; the thing
+worth teaching is that **correct is a measurement and mood is a decision.** Three decisions carry it:
+where the shadows sit (Shadows, Blacks), how far apart dark and light are (Contrast), and which way the
+color leans (Temperature). They take their corrected photo, make it heavier without touching Exposure,
+then make it lighter, then answer whether the honest version is the better photo. **That last question
+has no right answer and it is the highest-value item on the sheet.** Questions renumbered to 1 through 30.
+
+**DT Week 9 switched from the Repair Clinic to Three Moods.** The clinic needed four RAW files each broken
+exactly one way, and a free gallery posts its good photos, not its failures. Building that set meant
+shooting all four. **Three Moods needs only decent RAW files**, which is a download instead of a shoot,
+and it puts the grade on the decision rather than the repair. One photo, three versions: neutral and
+correct, then two moods from a list of four starting points, then they argue for one and name the
+audience. **The diagnostic muscle is not lost**, it is Tuesday through Thursday in the editing lab where
+they cause clipping on purpose. Sourcing is in `week-9/handouts/mood-project-TEACHER.md`:
+[lapseoftheshutter.com](https://www.lapseoftheshutter.com/free-raw-landscape-images-for-retouching/) is
+the best fit, no signup and landscapes, which have sky, shadow and a horizon so all three mood decisions
+have something to act on. [signatureedits.com](https://www.signatureedits.com/free-raw-photos/) for more
+variety and mostly Canon CR2. **None of those pages could be opened from here**, so budget ten minutes to
+check them.
 
 **V&S Tuesday is ten minutes then work time.** The ten minutes is **rough assembly**: the whole edit,
 badly, end to end, before anything gets good. Day one of an edit is where people sink a period into three
@@ -160,12 +183,11 @@ sheet (19 and 20) that feed the plan rather than the practice.
 
 ## Flagged
 
-- **Which editor is on the DT machines is unconfirmed.** "The Lightroom that opens with the older
-  Photoshop" is most likely **Adobe Camera Raw**, the raw dialog that opens from inside Photoshop or
-  Bridge, rather than standalone Lightroom. **The handout gives both click paths**, so it works either
-  way, but **open a RAW file yourself before first period** so you can say one thing instead of two.
-- **DT Week 9 needs a folder of four RAW files before Monday.** The Repair Clinic depends on it and the
-  files could not be downloaded from here. See `week-9/handouts/repair-clinic-TEACHER.md`.
+- **Resolved: the DT editor is Adobe Camera Raw**, the raw dialog that opens from inside Photoshop.
+  Everything from Tuesday forward says Camera Raw only. Monday's white balance sheet still gives both
+  click paths and is already posted, so it was not changed.
+- **DT Week 9 needs a folder of six to eight RAW photos before Monday.** Three Moods depends on it and
+  nothing could be downloaded from here. See `week-9/handouts/mood-project-TEACHER.md`.
 - **BPA event selection is due this week or next**, across all courses. Hard deadline is the end of Week
   9. See `program/bpa-selection-plan.md`, which still has three open decisions.
 - **Unit 1.3 Audio is still owed in V&S**, roughly 16% of the WebXam with nothing covered. The layering

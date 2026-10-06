@@ -7,15 +7,15 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 4 | Exposure and tone. **Next assignment named** |
+| Design Techniques | 5 | Exposure and tone, then **mood.** Week 9 named |
 | Video & Sound | 3 | Ten minutes on rough assembly, then **work time** |
-| Aviation UAS | 10 | **Thin slides, turn-and-talks.** Fronts by prediction |
+| Aviation UAS | 10 | **Section 1 reviewed together**, new content, then half the period to work |
 | Middle School CS | 3 | The bug, then **planning takes the back half** |
 | Yearbook | 1 | Keep working |
 
-> **Aviation has the most slides and the least text on each.** That is the point. See
-> `courses/aviation-uas/planning/week-8/teacher-notes.md` for the run of show and the turn-and-talk
-> protocol.
+> **Aviation has the most slides and the least text on each.** That is the point, and they move fast:
+> the back half of the period is work time. See `courses/aviation-uas/planning/week-8/teacher-notes.md`
+> for the run of show, the Section 1 answer guide, and the turn-and-talk protocol.
 
 ---
 
@@ -24,22 +24,29 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 **Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Tuesday section)
 **Monday produced four files.** Check that they actually landed before starting, because the export step
 is new and it is where things get lost.
-**Run it as:** one photo, all period, one slider at a time. Questions 1 through 9.
-**Name the next assignment today** so the slider work has a destination: the **Repair Clinic** in Week 9,
-four supplied RAW files each broken a different way. **You have to build that folder first**, see
-`week-9/handouts/repair-clinic-TEACHER.md`.
-**Question 2 is the one that matters** on this section. Clipping is permanent, and they find that out by
-doing it rather than being warned.
+**The editor is Adobe Camera Raw**, confirmed. The handouts no longer hedge between it and Lightroom.
+**Run it as:** one photo, all period, one slider at a time. Questions 1 through 9, then the mood block,
+questions 10 through 12.
+**The mood block is the new piece** and it is the point of the day: correct is a measurement, mood is a
+decision. They make the same photo heavier, then lighter, then say which is honest and whether honest is
+better.
+**Name the next assignment today** so the slider work has a destination: **Three Moods** in Week 9, on
+supplied RAW photos. **You have to build that folder first**, see `week-9/handouts/mood-project-TEACHER.md`.
+**Question 2 is the one that matters** in the slider section. Clipping is permanent, and they find that
+out by doing it rather than being warned. **Question 12 is the one that matters** in the mood block, and
+it has no right answer on purpose.
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
 > "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
-> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.4.7 Optimize and
+> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.2.7 Select colors
+> based on color theory and psychology. 7.4.7 Optimize and
 > export graphics files for intended use. Bottom half, headed "What we are doing," is a short
 > two-column list pairing each activity with its competency: "Exposure and Contrast, pushed to both ends"
 > with 7.9.6; "Highlights, Shadows, Whites and Blacks" with 7.9.6; "Fix one photo properly, in order, and
-> write down your numbers" with 7.9.6; "Next assignment: the Repair Clinic" with 7.4.7. Keep both halves
+> write down your numbers" with 7.9.6; "Mood: make the same photo heavier, then lighter" with 7.2.7;
+> "Next assignment: Three Moods" with 7.4.7. Keep both halves
 > readable from the back of the room. Design it to stay on the board all period. One slide.
 
 ### Slide 2: One photo, one slider
@@ -59,14 +66,26 @@ doing it rather than being warned.
 > get it back." Then a box: "This is the one mistake in editing you cannot undo later. Everything else is
 > a decision. This is damage." One slide.
 
-### Slide 4: Where this is going
+### Slide 4: Correct versus chosen
 
-> Create one slide for a high school design class titled "Next: The Repair Clinic." Body: next week you
-> get four RAW files that are each broken a different way, and you fix them. Then the four, listed
-> plainly: one is too dark; one has the wrong white balance; one is flat and lifeless; one has a single
-> color wrong. Then a box in large text: "Everyone works the SAME four files. So the only difference
-> between your version and theirs is your decisions." Add a line: "You are graded on the diagnosis. Saying
-> what is wrong, before you touch a slider." One slide.
+> Create one concept slide for a high school design class titled "Correct Is Not The Goal." Open with two
+> short lines in very large text: "CORRECT is a measurement." and "MOOD is a decision." Below that,
+> explain in one line that yesterday they made a photo correct, which is the floor and not the goal. Then
+> a three-row table headed "Three decisions make mood," with columns for the decision, the slider, and the
+> two directions. Row one: "Where the shadows sit" / "Shadows, Blacks" / "LIFTED: soft, open, modern" vs
+> "CRUSHED: heavy, serious, cinematic". Row two: "How far apart dark and light are" / "Contrast" / "HIGH:
+> hard, loud, energetic" vs "LOW: calm, faded, nostalgic". Row three: "Which way the color leans" /
+> "Temperature" / "WARM: inviting, late afternoon" vs "COOL: lonely, clinical, early morning". One slide.
+
+### Slide 5: Do it, then defend it
+
+> Create one task slide for a high school photography class titled "Same Photo. Two Feelings." Three
+> numbered tasks in large text: "1. Take the photo you just fixed. WITHOUT touching Exposure, make it feel
+> HEAVIER. Write down which sliders and which direction. 2. Undo that. Make the same photo feel LIGHTER
+> AND MORE OPEN. Same question. 3. Which of your two is more honest about what the room actually looked
+> like?" Then a box in very large text: "And does that make it the better photo? Pick one. Defend it."
+> Then a line at the bottom in smaller text: "Next week: Three Moods. One supplied photo, three versions,
+> and you argue for one of them." One slide.
 
 ### Board version
 
@@ -76,7 +95,9 @@ TODAY'S COMPETENCIES (leave on the board)
          enhancements)
   7.4.7  optimize and export graphics files for
          intended use
-  -> today: exposure and tone. questions 1-9.
+  7.2.7  select colors based on color theory and
+         psychology
+  -> today: exposure and tone (1-9), then MOOD (10-12).
 
 ONE PHOTO. ALL PERIOD.
 
@@ -101,18 +122,35 @@ CLIPPING  (once it's white, it's gone)
   this is the one mistake you can't undo later.
   everything else is a decision. this is DAMAGE.
 
-NEXT WEEK: THE REPAIR CLINIC
-  four RAW files, each broken a different way:
-    one too dark
-    one with the wrong white balance
-    one flat and lifeless
-    one with a single color wrong
+CORRECT IS NOT THE GOAL
+  CORRECT is a measurement.
+  MOOD is a decision.
 
-  everyone works the SAME four files.
-  the only difference is your DECISIONS.
+  three decisions make mood:
+    WHERE THE SHADOWS SIT     shadows, blacks
+      lifted  -> soft, open, modern
+      crushed -> heavy, serious, cinematic
+    HOW FAR APART DARK + LIGHT ARE    contrast
+      high -> hard, loud, energetic
+      low  -> calm, faded, nostalgic
+    WHICH WAY THE COLOR LEANS         temperature
+      warm -> inviting, late afternoon
+      cool -> lonely, clinical, early morning
 
-  graded on the DIAGNOSIS. say what's wrong
-  BEFORE you touch a slider.
+SAME PHOTO. TWO FEELINGS.
+  1. the photo you just fixed. WITHOUT touching
+     exposure, make it feel HEAVIER.
+     which sliders? which direction?
+  2. undo. make it LIGHTER AND MORE OPEN. same question.
+  3. which of the two is more HONEST about what the
+     room actually looked like?
+
+  *** and does that make it the BETTER photo?
+      pick one. defend it. ***
+
+NEXT WEEK: THREE MOODS
+  one supplied photo, three versions,
+  and you argue for one of them.
 ```
 
 ---
@@ -198,117 +236,135 @@ TWO THINGS OR YOU LOSE YOUR WORK
 
 ---
 
-## 3. Aviation UAS: The system moving through
+## 3. Aviation UAS: Settle Section 1, then the system moving through
 
-**Documents:** `week-8/handouts/weather-brief-project.md` (Section 2, questions 9 to 18),
-**`week-8/teacher-notes.md` (the run of show, read it first)**
-**This is the rebuilt version of Monday.** Ten slides instead of four, one idea each, and **every slide
-ends in a question they answer.** No stretch of talking longer than six minutes.
-**Before class:** put today's METAR, today's TAF, and a current surface map on screen. **You supply the
-data today.** Monday they hunted for it and that ate the thinking time.
-**Beats 2 and 3 are re-teaches** of why air moves and density altitude, which did not land Monday. They
-are not review slides, they are the same ideas asked as questions instead of told as facts.
-**The four fronts are predict-then-reveal.** They already know dense air sinks. Every front follows.
+**Documents:** `week-8/handouts/weather-brief-project.md` (Section 1 review, then Section 2),
+**`week-8/teacher-notes.md` (the run of show and the Section 1 answer guide, read it first)**
+**The shape of the day: first third is Monday's answers, out loud, together. Second third is new content.
+The last half of the period is theirs to work.** Monday was all front-of-room and they left with nothing
+finished.
+**The re-teach is inside the review, not next to it.** Questions 3, 6 and 7 of Section 1 *are* why air
+moves and density altitude. Go slowly on those three and quickly on 1, 4 and 5.
+**Before class:** today's METAR, TAF and a current surface map on screen. **They stay up through work
+time.**
+**The four fronts are predict-then-reveal.** They commit a guess in writing before they see anything.
 **Collect Q18 at the door.**
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school aviation and drone class that holds both the competencies and the
 > agenda. Title: "Today: The System Moving Through." Top half, headed "What we are covering," lists these
-> with their FULL text, not just the numbers: 7.6.9 Describe weather system formation, including air
-> masses and fronts. 7.6.6 Identify wind patterns based on weather systems. Bottom half, headed "What we
-> are doing," is a short two-column list pairing each activity with its competency: "Why air moves, and
-> density altitude, again" with 7.6.3; "Where our air came from" with 7.6.9; "The four fronts: you
-> predict, then we find out" with 7.6.9; "Lows and highs, and which one is a flyable day" with 7.6.6;
-> "Today's real TAF, worked as a crew" with 7.6.6; "Section 2 verdict, before you leave" with 7.6.9.
-> Keep both halves readable from the back. Design it to stay on the board all period. One slide.
+> with their FULL text, not just the numbers: 7.6.3 Explain the effects of temperature on weather. 7.6.9
+> Describe weather system formation, including air masses and fronts. 7.6.6 Identify wind patterns based
+> on weather systems. Bottom half, headed "What we are doing," is a short two-column list pairing each
+> activity with its competency: "Section 1 answers, out loud, together" with 7.6.3; "Where our air came
+> from" with 7.6.9; "The four fronts: you predict, then we find out" with 7.6.9; "Lows and highs, and
+> which one is a flyable day" with 7.6.6; "Then HALF THE PERIOD to finish Section 2" with 7.6.9. Keep both
+> halves readable from the back. Design it to stay on the board all period. One slide.
 
 ### Slide 2: How we are doing this today
 
-> Create one slide for a high school class titled "Turn And Talk." Three steps in large text, numbered:
-> "1. THIRTY SECONDS alone. Write something down. No talking. 2. SIXTY SECONDS with your partner. Both of
-> you say your answer out loud. 3. I call on two people BY NAME. Not hands." Then a box in very large
-> text: "When I call on you, I might ask for YOUR PARTNER'S answer. That is why you both say it out loud."
-> One slide.
+> Create one slide for a high school class titled "Two Rules For Today." First, headed "TURN AND TALK,"
+> three numbered steps in large text: "1. THIRTY SECONDS alone. Write something down. No talking. 2. SIXTY
+> SECONDS with your partner. Both of you say your answer out loud. 3. I call on two people BY NAME. Not
+> hands." With a box under it: "When I call on you, I might ask for YOUR PARTNER'S answer. That is why you
+> both say it out loud." Second, headed "THE LAST HALF OF THE PERIOD IS YOURS": "Section 2 gets finished
+> in here today, not at home. Which means the first half moves." One slide.
 
-### Slide 3: Why air moves (the part that is actually new)
+### Slide 3: Section 1, out loud
 
-> Create one very simple slide for a high school aviation class titled "Why Air Moves." Only three short
-> lines, large: "The ground heats unevenly." "Warm air is less dense, so it rises." "Something has to take
-> its place." Then, in the largest text on the slide: "That taking-its-place IS wind." Then a question box
-> headed "TURN AND TALK": "The asphalt is 130 degrees. The grass beside it is 85. The air over the asphalt
-> goes up. What takes its place, and where did it come from?" Then smaller, headed "If you finish early":
-> "So which direction is the wind blowing at the edge of the lot?" Nothing else on the slide. One slide.
+> Create one slide for a high school aviation class titled "Section 1: Let's Settle It." Body: we are going
+> through yesterday's questions together, out loud. Fix your own answers as we go. Then a simple numbered
+> list of what is coming, short: "1 and 2. Your METAR, and how close temperature and dew point are. 3.
+> What wind actually is. 4 and 5. Which surfaces heat fastest, and where the bumpy air is. 6 and 7. Is
+> today's air thick or thin, and what that costs you. 8. Your verdict." Then a box in large text: "Three
+> of these are the ones that did not land yesterday. We are going to stop on those." One slide.
 
-### Slide 4: Density altitude (the part that did not land)
+### Slide 4: Settle it: why air moves
 
-> Create one very simple slide for a high school drone class titled "Density Altitude." One definition
-> only, in very large text: "How THIN the air is behaving. No matter where you are standing." Then three
-> short words stacked: "Heat. Humidity. Altitude." with the line "All three make it thinner." Then a
-> question box headed "TURN AND TALK": "Same drone, same battery, same pilot. One flight on a 40-degree
-> morning, one on a 95-degree humid afternoon. Which one gives you fewer minutes in the air, and WHY?"
-> Then smaller, headed "If you finish early": "Last week a payload ate your margin. What is the hot day
-> doing that is the same?" Nothing else on the slide. One slide.
-
-### Slide 5: Where our air came from
-
-> Create one simple slide for a high school aviation class titled "Air Masses." One idea in large text:
-> "A big body of air takes on the character of the ground it sat over." Then four short examples in a
-> plain list: sat over the Gulf, so warm and wet; sat over Canada, so cold and dry; sat over the Pacific,
-> so cool and damp; sat over the desert southwest, so hot and dry. Then a question box headed "TURN AND
-> TALK": "Air that spent three days over the Gulf of Mexico, versus air that spent three days over
-> Canada. What is different about it when it gets to Ohio?" Then smaller, headed "If you finish early":
-> "Which one of those would you rather fly in, and why?" One slide.
-
-### Slide 6: Cold front (predict first)
-
-> Create one slide for a high school aviation class titled "Cold Front: You Tell Me First." The top of the
-> slide holds only the setup, in large text: "Cold, dense air arrives at a wall of warm air. They meet."
-> Then a question box headed "PREDICT, THEN TURN AND TALK, THEN WRITE IT DOWN": "Which air goes up? Is it
-> gentle or steep? Does this pass quickly or slowly?" Then at the bottom, in smaller text, a line for the
-> teacher's eyes: "Reveal only after they have written a prediction." Do NOT put the answer on this
+> Create one very simple slide for a high school aviation class titled "Question 3: What Is Wind?" Only
+> three short lines, large: "The ground heats unevenly." "Warm air is less dense, so it rises." "Something
+> has to take its place." Then, in the largest text on the slide: "That taking-its-place IS wind." Then a
+> question box headed "TURN AND TALK": "The asphalt is 130 degrees. The grass beside it is 85. The air
+> over the asphalt goes up. What takes its place, and where did it come from?" Then smaller, headed "If you
+> finish early": "So which direction is the wind blowing at the edge of the lot?" Nothing else on the
 > slide. One slide.
 
-### Slide 7: Cold front (the reveal)
+### Slide 5: Settle it: density altitude
 
-> Create one slide for a high school aviation class titled "Cold Front." Four short lines, large: "The
-> warm air gets SHOVED up, steeply." "Tall clouds. Short, violent weather." "It passes fast." "Behind it:
-> cooler, gusty, clearing." Then a box in very large text headed "WHAT IT MEANS FOR YOU": "Your flight
-> window is BEFORE it, or about two hours after it. Not during." One slide.
+> Create one very simple slide for a high school drone class titled "Questions 6 and 7: Density Altitude."
+> One definition only, in very large text: "How THIN the air is behaving. No matter where you are
+> standing." Then three short words stacked: "Heat. Humidity. Altitude." with the line "All three make it
+> thinner." Then a question box headed "TURN AND TALK": "Same drone, same battery, same pilot. One flight
+> on a 40-degree morning, one on a 95-degree humid afternoon. Which one gives you fewer minutes in the air,
+> and WHY?" Then a box at the bottom in large text: "Last week a payload ate your margin. You CHOSE the
+> payload. You did not choose the weather." Nothing else on the slide. One slide.
 
-### Slide 8: Warm front (predict, then reveal, one slide)
+### Slide 6: Where our air came from
 
-> Create one slide for a high school aviation class titled "Warm Front." The top holds the setup and the
-> question together, in large text: "Warm, light air arrives behind cold air that is already sitting on
-> the ground. CAN it push that cold air out of the way?" with a note under it: "Predict. Write it down.
-> Then we go on." Then, visually separated by a strong rule, the reveal in four short lines: "No. It rides
-> up OVER the top." "A long, shallow slope." "Hours of low cloud, drizzle, bad visibility." "It moves
-> slowly." Then a small box: "What it means for you: today is scrubbed. Probably tomorrow morning too."
+> Create one simple slide for a high school aviation class titled "Air Masses." One idea in large text: "A
+> big body of air takes on the character of the ground it sat over." Then four short examples in a plain
+> list: sat over the Gulf, so warm and wet; sat over Canada, so cold and dry; sat over the Pacific, so cool
+> and damp; sat over the desert southwest, so hot and dry. Then a question box headed "TURN AND TALK": "Air
+> that spent three days over the Gulf of Mexico, versus air that spent three days over Canada. What is
+> different about it when it gets to Ohio?" Then smaller, headed "If you finish early": "Which one of those
+> would you rather fly in, and why?" One slide.
+
+### Slide 7: The four fronts: you go first
+
+> Create one slide for a high school aviation class titled "Predict First. Write It Down." Explain in one
+> line at the top: "You already know that dense air sinks and less dense air rises. Everything below
+> follows from that." Then four short numbered setups, each as a question with NO answer: "1. COLD FRONT.
+> Cold, dense air arrives at a wall of warm air. Which air goes up? Gentle or steep? Fast or slow?" "2.
+> WARM FRONT. Warm, light air arrives behind cold air already sitting on the ground. Can it push that cold
+> air out of the way?" "3. STATIONARY FRONT. Neither one is winning. What does your week look like?" "4.
+> OCCLUDED FRONT. A cold front catches up to a warm front. Where does the warm air go?" Then a box in very
+> large text: "Write a guess in all four rows on your sheet BEFORE the next slide. A wrong guess you wrote
+> down is worth more than a right answer you were handed." Do NOT put any answers on this slide. One slide.
+
+### Slide 8: The four fronts: now the answers
+
+> Create one slide for a high school aviation class titled "The Four Fronts." A four-row table. Row 1,
+> COLD: "Warm air gets SHOVED up, steeply. Tall clouds, short violent weather, passes fast, clears to cool
+> and gusty." and in a "what it means for you" column: "Fly BEFORE it, or about two hours after. Not
+> during." Row 2, WARM: "It cannot push the cold air. It rides UP OVER the top on a long shallow slope.
+> Hours of low cloud, drizzle, bad visibility. Slow." and: "Today is scrubbed. Probably tomorrow morning
+> too." Row 3, STATIONARY: "Nothing moves for days. Whatever weather you have, you keep." and: "Plan around
+> it, do not wait it out." Row 4, OCCLUDED: "The warm air gets lifted clean off the ground. Messy, mixed,
+> the worst of both." and: "Do not plan a flight inside one." Then a box in very large text: "The sentence
+> to write down for question 15: COLD FRONTS BRING SHORT AND VIOLENT. WARM FRONTS BRING LONG AND DREARY."
 > One slide.
 
-### Slide 9: The other two
-
-> Create one slide for a high school aviation class titled "Stationary and Occluded." Two short blocks.
-> First, "STATIONARY: neither one is winning. Nothing moves for days. Whatever weather you have, you
-> keep." Second, "OCCLUDED: a cold front catches up to a warm front. The warm air gets lifted completely
-> off the ground. Messy, mixed, the worst of both." Then a box in very large text: "The sentence to write
-> down: cold fronts bring SHORT AND VIOLENT. Warm fronts bring LONG AND DREARY." One slide.
-
-### Slide 10: Lows and highs
+### Slide 9: Lows and highs
 
 > Create one slide for a high school aviation class titled "Lows and Highs." Two short blocks, side by
 > side. "LOW: air spirals IN, counterclockwise, and RISES in the middle. Rising air makes clouds. A LOW
-> MEANS WEATHER." and "HIGH: air spirals OUT, clockwise, and SINKS in the middle. Sinking air kills
-> clouds. A HIGH MEANS A FLYABLE DAY." Then a question box headed "TURN AND TALK": "There is a low on the
-> map, upwind of us, two days out. Is that information or is it a deadline?" One slide.
+> MEANS WEATHER." and "HIGH: air spirals OUT, clockwise, and SINKS in the middle. Sinking air kills clouds.
+> A HIGH MEANS A FLYABLE DAY." Then a question box headed "TURN AND TALK": "There is a low on the map,
+> upwind of us, two days out. Is that information, or is it a deadline?" One slide.
+
+### Slide 10: Work time
+
+> Create one work slide for a high school drone class titled "Rest Of The Period: Finish Section 2." A
+> short numbered list of exactly what to do, in large text: "9. Today's TAF is on the screen. Paste it.
+> What is changing, and when? 10. The map is on the screen too. Is there a front near us? Which kind,
+> which direction? 16. Where did the air over us come from, and what does that explain? 18. YOUR VERDICT.
+> Two sentences: what is coming, and does your flight window need to move?" Then a box in very large text:
+> "Question 18 is your ticket out the door." Then smaller: "A verdict names something specific. 'It might
+> rain' is not a verdict. 'The TAF drops the ceiling to 1,200 after 1800, so Thursday afternoon is the
+> window' is." One slide.
 
 ### Board version
 
 ```
 TODAY: THE SYSTEM MOVING THROUGH
+  7.6.3  explain the effects of temperature on weather
   7.6.9  describe weather system formation, including
          air masses and fronts
   7.6.6  identify wind patterns based on weather systems
+
+  first half: section 1 answers + new content
+  SECOND HALF: YOURS. section 2 gets finished in here.
 
 TURN AND TALK (every time)
   30 sec  ALONE. write something down. no talking.
@@ -316,22 +372,33 @@ TURN AND TALK (every time)
   share   I call TWO PEOPLE BY NAME. not hands.
   ** I might ask for your PARTNER'S answer. **
 
-WHY AIR MOVES
+SECTION 1, OUT LOUD  (fix your own as we go)
+  1,2  your METAR. how close are temp + dew point?
+  3    what IS wind?                    <- we stop here
+  4,5  which surfaces heat fastest? where's the bump?
+  6,7  thick or thin air today? what's it cost you?
+                                        <- we stop here
+  8    your verdict
+
+Q3: WHAT IS WIND?
   the ground heats unevenly
   warm air is less dense, so it RISES
   something has to TAKE ITS PLACE
      -> that taking-its-place IS WIND
 
-  T&T: asphalt 130. grass 85. air over the asphalt
+  T&T: asphalt 130. grass 85. the air over the asphalt
        goes up. WHAT takes its place, and from WHERE?
 
-DENSITY ALTITUDE
+Q6,Q7: DENSITY ALTITUDE
   = how THIN the air is behaving.
     no matter where you're standing.
   heat. humidity. altitude. all three thin it.
 
   T&T: same drone, same battery. 40-degree morning vs
        95-and-humid afternoon. fewer minutes WHICH day? WHY?
+
+  ** you CHOSE the payload.
+     you didn't choose the weather. **
 
 AIR MASSES
   a big body of air takes on the character of the
@@ -342,26 +409,38 @@ AIR MASSES
   T&T: 3 days over the gulf vs 3 days over canada.
        what's different when it gets here?
 
-THE FOUR FRONTS  (predict BEFORE the reveal)
+PREDICT FIRST. WRITE IT DOWN.
+  (you know dense air sinks. it all follows.)
+  1 COLD      cold dense air hits a wall of warm air.
+              which goes up? gentle or steep? fast or slow?
+  2 WARM      warm light air arrives behind cold air on
+              the ground. CAN it push it out of the way?
+  3 STATIONARY neither wins. what's your week look like?
+  4 OCCLUDED  cold catches warm. where does the warm go?
 
-  COLD   cold dense air hits warm air.
-         -> warm air SHOVED up, steeply
-         -> tall clouds, short violent weather, passes fast
-         -> window: BEFORE it, or ~2 hrs after
+  *** guess in all four rows BEFORE the answers. ***
 
-  WARM   warm light air arrives behind cold air on the ground.
-         can't push it -> rides UP OVER the top
-         -> long shallow slope, hours of low cloud + drizzle
+THE FOUR FRONTS
+  COLD   warm air SHOVED up, steeply. tall clouds,
+         short violent weather, passes fast, clears
+         cool + gusty.
+         -> fly BEFORE it, or ~2 hrs after. not during.
+
+  WARM   can't push the cold air. rides UP OVER the top,
+         long shallow slope. hours of low cloud + drizzle,
+         bad visibility. slow.
          -> today's scrubbed. probably tomorrow am too.
 
-  STATIONARY  neither wins. nothing moves for days.
-              what you have, you keep.
+  STATIONARY  nothing moves for days. what you have,
+         you keep.
+         -> plan around it, don't wait it out.
 
-  OCCLUDED    cold catches warm. warm air lifted clean off
-              the ground. messy. worst of both.
+  OCCLUDED  cold catches warm. warm air lifted clean off
+         the ground. messy. worst of both.
+         -> don't plan a flight inside one.
 
-  *** cold = SHORT AND VIOLENT
-      warm = LONG AND DREARY ***
+  *** Q15: cold = SHORT AND VIOLENT
+            warm = LONG AND DREARY ***
 
 LOWS AND HIGHS
   LOW   air spirals IN, counterclockwise, RISES
@@ -372,10 +451,16 @@ LOWS AND HIGHS
   T&T: a low upwind, two days out.
        information, or a DEADLINE?
 
-BEFORE YOU LEAVE: Q18. the section 2 verdict.
-  two sentences. what's coming, and does the
-  flight window need to move.
+REST OF THE PERIOD: FINISH SECTION 2
+  9   the TAF is on screen. paste it. what changes, when?
+  10  the map's up too. front near us? kind? direction?
+  16  where did our air come from? what's that explain?
+  18  YOUR VERDICT. two sentences.
+
+  *** Q18 IS YOUR TICKET OUT THE DOOR. ***
   "it might rain" is not a verdict.
+  "the TAF drops the ceiling to 1,200 after 1800, so
+   thursday afternoon is the window" is.
 ```
 
 ---
