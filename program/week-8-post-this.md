@@ -37,7 +37,11 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
   Monday they hunted for it and it ate the thinking time
 - **Read `3-aviation-uas/teacher-notes.md`.** It has Tuesday's run of show, the turn-and-talk protocol,
   and why the two concepts did not land Monday
-- **Check Monday's four DT exports actually landed** before starting Tuesday. Export was new
+- **A lot of DT students did not get four files out Monday.** Give the first ten minutes to it and
+  **demo Save Image once more on the projector.** They are behind on clicks, not on concept
+- **Pick one photo of yours for the DT histogram demo:** bright sky, dark foreground, so the clipping
+  warnings actually fire. A flat indoor snapshot will not show anything
+- **Check whether hovering over the histogram names the slider** on your machine. If it does, use it
 - **Start building the Mood Photos folder** for Week 9. Six to eight decent RAW landscapes or similar,
   nothing already graded. Sourcing and what to pick is in `1-design-techniques/week-9-mood-TEACHER.md`
 
@@ -48,7 +52,7 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
-| 2 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Tuesday.** Tue through Fri, one section per day |
+| 2 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Tuesday.** Tue through Fri, one section per day. **Renumbered to 1-36** |
 | 3 | `1-design-techniques/outline.md` | Material |
 | 4 | `1-design-techniques/week-9-mood-project.md` | **Assignment, Week 9.** Hold until the photo folder exists |
 
@@ -60,6 +64,16 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays
 as is.
+
+**Tuesday's goal is the histogram**, not "the rest of the sliders." They should be able to look at the
+Camera Raw screen and know what a slider will do before dragging it. **Turn on the clipping warnings in
+the first two minutes and leave them on all week.** The back half is two constrained rounds: Exposure and
+Contrast only, name what is still wrong, then unlock the other four and fix it. **Round 1 producing a
+specific complaint is the point.** Run of show, the distinctions they get wrong, and an exemplar rubric
+are in `1-design-techniques/teacher-notes.md`.
+
+**Mood moved to Wednesday**, next to Saturation, because Tuesday now carries the catch-up plus the
+histogram plus both rounds.
 
 **Week 9 is Three Moods.** One supplied RAW photo, three versions: neutral and correct, then two moods
 they pick, then they argue for one. **Not the repair clinic**, because a free gallery will not hand you

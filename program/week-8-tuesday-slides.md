@@ -7,7 +7,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | Exposure and tone, then **mood.** Week 9 named |
+| Design Techniques | 8 | **Catch-up**, the histogram, then two constrained rounds |
 | Video & Sound | 3 | Ten minutes on rough assembly, then **work time** |
 | Aviation UAS | 10 | **Section 1 reviewed together**, new content, then half the period to work |
 | Middle School CS | 3 | The bug, then **planning takes the back half** |
@@ -19,73 +19,101 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 ---
 
-## 1. Design Techniques: Exposure and tone
+## 1. Design Techniques: The histogram, then tone
 
-**Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Tuesday section)
-**Monday produced four files.** Check that they actually landed before starting, because the export step
-is new and it is where things get lost.
-**The editor is Adobe Camera Raw**, confirmed. The handouts no longer hedge between it and Lightroom.
-**Run it as:** one photo, all period, one slider at a time. Questions 1 through 9, then the mood block,
-questions 10 through 12.
-**The mood block is the new piece** and it is the point of the day: correct is a measurement, mood is a
-decision. They make the same photo heavier, then lighter, then say which is honest and whether honest is
-better.
-**Name the next assignment today** so the slider work has a destination: **Three Moods** in Week 9, on
-supplied RAW photos. **You have to build that folder first**, see `week-9/handouts/mood-project-TEACHER.md`.
-**Question 2 is the one that matters** in the slider section. Clipping is permanent, and they find that
-out by doing it rather than being warned. **Question 12 is the one that matters** in the mood block, and
-it has no right answer on purpose.
+**Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Tuesday section),
+**`week-8/teacher-notes.md` (the run of show, the exemplar rubric, read it first)**
+**First ten minutes is catch-up.** A lot of people did not get four files out Monday, and the place they
+stalled is almost certainly the export, not white balance. **Demo Save Image once more on the projector,
+start to finish, and say out loud that the slider positions stay put between exports.** Then they work.
+**Do not re-teach white balance.** They are behind on clicks, not on concept.
+**The goal today is not "the rest of the sliders."** It is that they can look at the Camera Raw screen and
+know what a slider will do **before** they drag it. **The histogram is the lesson, the sliders are the
+practice.**
+**Turn on the clipping warnings in the first two minutes** and leave them on all week. The two small
+triangles in the histogram's top corners. That one step turns "looks about right" into something
+checkable.
+**Check before class whether hovering over the histogram names the slider** on your machine. If it does,
+drag the mouse across the graph and let them watch the names appear. That demo beats any explanation.
+**Protect the two rounds.** Exposure and Contrast only, then name what is still wrong, then unlock the
+other four. **Round 1 producing a specific complaint is the whole point.**
+**Photos:** their own RAW files from last week. **Put one of yours on the projector** for the demo, and
+pick it on purpose: bright sky, dark foreground, so the clipping warnings actually fire.
+**Mood moved to Wednesday.** Today is full.
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
 > "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
-> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.2.7 Select colors
-> based on color theory and psychology. 7.4.7 Optimize and
-> export graphics files for intended use. Bottom half, headed "What we are doing," is a short
-> two-column list pairing each activity with its competency: "Exposure and Contrast, pushed to both ends"
-> with 7.9.6; "Highlights, Shadows, Whites and Blacks" with 7.9.6; "Fix one photo properly, in order, and
-> write down your numbers" with 7.9.6; "Mood: make the same photo heavier, then lighter" with 7.2.7;
-> "Next assignment: Three Moods" with 7.4.7. Keep both halves
-> readable from the back of the room. Design it to stay on the board all period. One slide.
+> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.4.7 Optimize and
+> export graphics files for intended use. Bottom half, headed "What we are doing," is a short two-column
+> list pairing each activity with its competency: "First ten minutes: finish yesterday's four files" with
+> 7.4.7; "Read the histogram, and turn on the clipping warnings" with 7.9.6; "The five regions, left to
+> right, one slider each" with 7.9.6; "Round 1: Exposure and Contrast ONLY" with 7.9.6; "Round 2: unlock
+> the other four and fix what Round 1 could not" with 7.9.6. Keep both halves readable from the back of
+> the room. Design it to stay on the board all period. One slide.
 
-### Slide 2: One photo, one slider
+### Slide 2: Finish yesterday first
 
-> Create one slide for a high school photography class titled "One Photo. All Period." Body: pick one of
-> your RAW files and stay on it. Then the rule in very large text: "Change ONE slider at a time, all the
-> way to both ends, before you decide what it does." Below it: "You cannot learn a control by nudging it.
-> Push it until the photo looks wrong, then come back. WRONG TELLS YOU MORE THAN SUBTLE." Then the order
-> for today, as a simple list: Exposure, Contrast, Highlights, Shadows, Whites, Blacks. One slide.
+> Create one slide for a high school design class titled "Four Files. Yesterday's." Body: if your three
+> white balance exports and your color one are not turned in, that is the next ten minutes. Then the
+> export steps in large numbered text: "1. Open the RAW file. 2. SAVE IMAGE, bottom left. 3. Format:
+> JPEG. 4. Pick your folder, name it, Save." Then a box in very large text: "Your slider positions STAY
+> PUT between exports. You do not re-edit for each one. Move Temperature, save again." Add a line:
+> "Already done? Go to Part 1 and read your histogram." One slide.
 
-### Slide 3: Clipping
+### Slide 3: The graph in the corner
 
-> Create one concept slide for a high school photography class titled "Once It's White, It's Gone."
-> Explain clipping: when you push the bright parts to pure white, there is no detail left there to bring
-> back, and pulling the slider down again gives you grey, not detail. Same at the dark end with pure
-> black. Then in very large text: "Try it. Push Exposure up until something goes pure white, then try to
-> get it back." Then a box: "This is the one mistake in editing you cannot undo later. Everything else is
-> a decision. This is damage." One slide.
+> Create one concept slide for a high school photography class titled "The Histogram." Explain it is the
+> graph at the top right of Camera Raw. Then only three short facts, in large text: "LEFT is dark. RIGHT
+> is bright." "HEIGHT is how much of the photo is that bright." "Piled against a wall means detail is
+> gone: black with nothing in it, or white with nothing in it." Then a box in very large text: "This is
+> the only honest opinion in the room. Your eyes adjust to a bad photo. The graph does not." Nothing else
+> on the slide. One slide.
 
-### Slide 4: Correct versus chosen
+### Slide 4: Turn the warnings on
 
-> Create one concept slide for a high school design class titled "Correct Is Not The Goal." Open with two
-> short lines in very large text: "CORRECT is a measurement." and "MOOD is a decision." Below that,
-> explain in one line that yesterday they made a photo correct, which is the floor and not the goal. Then
-> a three-row table headed "Three decisions make mood," with columns for the decision, the slider, and the
-> two directions. Row one: "Where the shadows sit" / "Shadows, Blacks" / "LIFTED: soft, open, modern" vs
-> "CRUSHED: heavy, serious, cinematic". Row two: "How far apart dark and light are" / "Contrast" / "HIGH:
-> hard, loud, energetic" vs "LOW: calm, faded, nostalgic". Row three: "Which way the color leans" /
-> "Temperature" / "WARM: inviting, late afternoon" vs "COOL: lonely, clinical, early morning". One slide.
+> Create one slide for a high school photography class titled "Do This Before Anything Else." Body: find
+> the two small triangles in the top corners of the histogram, and click both. Then what they do, in large
+> text: "BLUE overlay on the photo = shadow detail is GONE." and "RED overlay = highlight detail is GONE."
+> Then a box: "Leave them on all week. This is the difference between 'that looks about right' and
+> actually knowing." Add a smaller line at the bottom: "Some red is fine on a light bulb, a window, or sun
+> off chrome. There was never any detail there to save." One slide.
 
-### Slide 5: Do it, then defend it
+### Slide 5: Five regions, five sliders
 
-> Create one task slide for a high school photography class titled "Same Photo. Two Feelings." Three
-> numbered tasks in large text: "1. Take the photo you just fixed. WITHOUT touching Exposure, make it feel
-> HEAVIER. Write down which sliders and which direction. 2. Undo that. Make the same photo feel LIGHTER
-> AND MORE OPEN. Same question. 3. Which of your two is more honest about what the room actually looked
-> like?" Then a box in very large text: "And does that make it the better photo? Pick one. Defend it."
-> Then a line at the bottom in smaller text: "Next week: Three Moods. One supplied photo, three versions,
-> and you argue for one of them." One slide.
+> Create one slide for a high school photography class titled "One Slider Per Zone." Show the histogram
+> split left to right into five labeled regions, as a simple horizontal diagram going from dark on the
+> left to bright on the right, with the slider name under each: far left "BLACKS: where black begins";
+> left "SHADOWS: the dark areas, without touching black"; middle "EXPOSURE: the midtones, and overall
+> brightness"; right "HIGHLIGHTS: the bright areas, without touching white"; far right "WHITES: where
+> white begins." Then two lines in large text underneath: "EXPOSURE slides the whole graph." and
+> "CONTRAST pulls the ends apart, or squeezes them together." One slide.
+
+### Slide 6: The two that get confused
+
+> Create one slide for a high school photography class titled "Whites Is Not Highlights." Two side-by-side
+> comparisons. First: "WHITES decides WHERE WHITE BEGINS. It moves the end of the graph." versus
+> "HIGHLIGHTS adjusts what is already bright, and leaves the end alone." Second, below it: "BLACKS sets
+> the floor." versus "SHADOWS lifts what is sitting above the floor." Then a box in large text: "Push each
+> one to both ends and WATCH THE HISTOGRAM, not the photo. You will see which end moves." One slide.
+
+### Slide 7: Round 1
+
+> Create one task slide for a high school photography class titled "Round 1: Two Sliders. That's It."
+> In very large text: "EXPOSURE and CONTRAST only. Nothing else. Make the photo as good as you can get
+> it." Then two numbered tasks: "1. Write down your Exposure and your Contrast. 2. Then name what is STILL
+> WRONG that those two could not fix. Be specific, and say WHERE in the photo." Then a box in very large
+> text: "If you think nothing is wrong, look at the histogram again." One slide.
+
+### Slide 8: Round 2
+
+> Create one task slide for a high school photography class titled "Round 2: Now Fix It." In large text:
+> "Blacks, Shadows, Highlights and Whites are now allowed. EXPOSURE AND CONTRAST STAY WHERE YOU LEFT THEM.
+> No going back." Then three numbered tasks: "1. Fix the thing you named in Round 1. Which sliders, which
+> direction? 2. Compare your histogram to how it looked when you started. What changed about the shape? 3.
+> Round 1 or Round 2, which photo is better, and WHY?" Then a box in very large text: "Last question: what
+> did Round 1 prove about why those other four sliders exist?" One slide.
 
 ### Board version
 
@@ -95,62 +123,77 @@ TODAY'S COMPETENCIES (leave on the board)
          enhancements)
   7.4.7  optimize and export graphics files for
          intended use
-  7.2.7  select colors based on color theory and
-         psychology
-  -> today: exposure and tone (1-9), then MOOD (10-12).
+  -> today: read the HISTOGRAM, then tone. questions 1-15.
 
-ONE PHOTO. ALL PERIOD.
+FIRST TEN MINUTES: FINISH YESTERDAY
+  1. open the RAW file
+  2. SAVE IMAGE, bottom left
+  3. Format: JPEG
+  4. pick folder, name it, Save
 
-  change ONE slider at a time,
-  ALL THE WAY TO BOTH ENDS,
-  before you decide what it does.
+  ** your slider positions STAY PUT between exports.
+     you don't re-edit for each one.
+     move temperature, save again. **
 
-  wrong tells you more than subtle.
+  already done? -> part 1, read your histogram.
 
-  today's order:
-    EXPOSURE -> CONTRAST -> HIGHLIGHTS
-    -> SHADOWS -> WHITES -> BLACKS
+THE HISTOGRAM  (top right)
+  LEFT is dark.  RIGHT is bright.
+  HEIGHT is how much of the photo is that bright.
+  piled against a wall = detail is GONE.
 
-CLIPPING  (once it's white, it's gone)
-  push bright to pure white -> no detail left there
-  pull the slider back -> you get GREY, not detail
-  same at the dark end with pure black
+  ** the only honest opinion in the room.
+     your eyes adjust to a bad photo. the graph doesn't. **
 
-  *** try it. push exposure till something goes pure
-      white, then try to get it back. ***
+DO THIS FIRST: the two small triangles,
+  top corners of the histogram. click both.
+    BLUE on the photo = shadow detail GONE
+    RED  on the photo = highlight detail GONE
+  leave them on all week.
 
-  this is the one mistake you can't undo later.
-  everything else is a decision. this is DAMAGE.
+  (some red is fine on a bulb, a window, chrome.
+   there was never detail there to save.)
 
-CORRECT IS NOT THE GOAL
-  CORRECT is a measurement.
-  MOOD is a decision.
+ONE SLIDER PER ZONE
+  dark <------------------------------------> bright
+  BLACKS   SHADOWS   EXPOSURE   HIGHLIGHTS   WHITES
+  where    the dark  the mid-   the bright   where
+  black    areas,    tones +    areas,       white
+  begins   not black overall    not white    begins
 
-  three decisions make mood:
-    WHERE THE SHADOWS SIT     shadows, blacks
-      lifted  -> soft, open, modern
-      crushed -> heavy, serious, cinematic
-    HOW FAR APART DARK + LIGHT ARE    contrast
-      high -> hard, loud, energetic
-      low  -> calm, faded, nostalgic
-    WHICH WAY THE COLOR LEANS         temperature
-      warm -> inviting, late afternoon
-      cool -> lonely, clinical, early morning
+  EXPOSURE slides the whole graph.
+  CONTRAST pulls the ends apart / squeezes them in.
 
-SAME PHOTO. TWO FEELINGS.
-  1. the photo you just fixed. WITHOUT touching
-     exposure, make it feel HEAVIER.
-     which sliders? which direction?
-  2. undo. make it LIGHTER AND MORE OPEN. same question.
-  3. which of the two is more HONEST about what the
-     room actually looked like?
+WHITES IS NOT HIGHLIGHTS
+  WHITES     decides where WHITE BEGINS. moves the end.
+  HIGHLIGHTS adjusts what's already bright. end stays.
 
-  *** and does that make it the BETTER photo?
-      pick one. defend it. ***
+  BLACKS   sets the floor.
+  SHADOWS  lifts what sits above the floor.
 
-NEXT WEEK: THREE MOODS
-  one supplied photo, three versions,
-  and you argue for one of them.
+  push each to both ends and WATCH THE HISTOGRAM.
+  you'll see which end moves.
+
+ROUND 1: TWO SLIDERS. THAT'S IT.
+  EXPOSURE + CONTRAST only. nothing else.
+  make it as good as you can get it.
+
+  1. write down both numbers.
+  2. name what's STILL WRONG that those two can't fix.
+     be specific. say WHERE in the photo.
+
+  think nothing's wrong? look at the histogram again.
+
+ROUND 2: NOW FIX IT.
+  blacks / shadows / highlights / whites unlocked.
+  EXPOSURE + CONTRAST STAY PUT. no going back.
+
+  1. fix what you named. which sliders? which direction?
+  2. histogram now vs. when you started. what changed?
+  3. round 1 or round 2 - which is better, and why?
+
+  *** what did ROUND 1 prove about why those other
+      four sliders exist? ***
 ```
 
 ---

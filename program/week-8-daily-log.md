@@ -9,8 +9,8 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
-| **Tue** | Exposure and tone, then **mood** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
-| **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
+| **Tue** | **Catch-up**, the histogram, two constrained rounds | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
+| **Wed** | **Mood**, then clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
 | **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
 | **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
@@ -89,12 +89,46 @@ and lows and highs, compressed to about twelve minutes. **The back half of the p
 Monday's white balance sheet still names both paths and **is already out to students, so it was left
 alone.**
 
-**DT Tuesday gained a mood block.** Temperature and tint plus six tone sliders is mechanics; the thing
-worth teaching is that **correct is a measurement and mood is a decision.** Three decisions carry it:
-where the shadows sit (Shadows, Blacks), how far apart dark and light are (Contrast), and which way the
-color leans (Temperature). They take their corrected photo, make it heavier without touching Exposure,
-then make it lighter, then answer whether the honest version is the better photo. **That last question
-has no right answer and it is the highest-value item on the sheet.** Questions renumbered to 1 through 30.
+**Monday's DT period did not finish, and that is pacing, not students.** One worksheet and four exported
+files in one period was too much, and the place they stalled is almost certainly **the export**, which
+was brand new and is four separate trips through Save Image rather than one. **Tuesday gives the first
+ten minutes to it** with the export demoed once more on the projector, including the part nobody guesses:
+**the slider positions stay put between exports**, so you move Temperature and save again rather than
+re-editing each time. **No re-teaching white balance.** They are behind on clicks, not concept.
+
+**DT Tuesday is now the histogram, not "the rest of the sliders."** The goal is that they can look at the
+Camera Raw screen and know what a slider will do **before** they drag it, which makes the histogram the
+lesson and the sliders the practice. Three facts and nothing more: left is dark, right is bright, height
+is how much. **Clipping warnings on in the first two minutes** (the two triangles in the histogram's top
+corners) and left on all week, because that is what turns "looks about right" into something checkable.
+Then the five regions left to right, one slider each: Blacks, Shadows, Exposure, Highlights, Whites.
+**Check before class whether hovering a histogram region names its slider** on these machines; if it
+does, dragging the mouse across the graph teaches the five faster than explaining them.
+
+**The back half is two constrained rounds**, which is the "within limitation" structure. **Round 1 is
+Exposure and Contrast only**, make it as good as possible, then **name specifically what is still
+wrong**. **Round 2 unlocks Blacks, Shadows, Highlights and Whites with Exposure and Contrast frozen**,
+and they fix the thing they named. The last question asks what Round 1 proved about why the other four
+sliders exist. **Handed all six at once, a student drags everything until it looks okay and learns
+nothing about which slider did what.** Round 1 producing a complaint is the entire point, and the common
+outcome, blowing highlights while opening shadows, lands them exactly where Round 2 is useful.
+
+**Mood moved from Tuesday to Wednesday**, next to Saturation, since they are the same kind of decision
+and Tuesday is already full. The lab was rewritten and **renumbered 1 to 36**.
+
+**Photos: today runs on their own RAW files.** There was no time to build a supplied pool before first
+period, and everyone already has a folder from last week. **One photo of yours goes on the projector** for
+the demo, picked on purpose: bright sky and dark foreground so the clipping warnings actually fire. A
+backup pool is still worth building for the students whose own photos are thin, and the Week 9 assignment
+needs one anyway, so **it is one folder serving both jobs.**
+
+**Exemplar: offered as optional, with the rubric as the part that matters.** A before/after pair from a
+file everyone has, **with the histogram screenshotted in both**, because without the histogram you are
+showing them your taste instead of a measurable claim. The rubric: the histogram reaches both ends without
+piling against either wall; no red or blue except on specular highlights, which are allowed to clip; the
+subject's midtones sit near the middle; and the toggle test shows an obvious difference that a stranger
+could not attribute to specific sliders. **If there is only time for one, say the rubric and skip the
+exemplar.** Guidance is in the new `courses/design-techniques/planning/week-8/teacher-notes.md`.
 
 **DT Week 9 switched from the Repair Clinic to Three Moods.** The clinic needed four RAW files each broken
 exactly one way, and a free gallery posts its good photos, not its failures. Building that set meant
