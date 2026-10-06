@@ -9,7 +9,7 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
-| **Tue** | **Catch-up**, the histogram, two constrained rounds | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
+| **Tue** | **Catch-up**, then a guided one-pager: histogram, two rounds, one file out | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Mood**, then clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
 | **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
 | **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
@@ -96,7 +96,19 @@ ten minutes to it** with the export demoed once more on the projector, including
 **the slider positions stay put between exports**, so you move Temperature and save again rather than
 re-editing each time. **No re-teaching white balance.** They are behind on clicks, not concept.
 
-**DT Tuesday is now the histogram, not "the rest of the sliders."** The goal is that they can look at the
+**Tuesday is a one-page follow-along, not a section of the big lab.** Monday ran out of time, so today
+gets a single goal and a hard finish: `handouts/tone-lab.md`, **eight questions, one page, one file out
+before they leave.** The big lab was cut back to Wednesday through Friday and renumbered 1 to 21.
+
+**Everyone works the same photo**, downloaded in step 1, because a follow-along only works if the photo on
+the teacher's screen is the photo on theirs. **The recommendation is one of his own photos**, since that
+guarantees it opens in this version of Camera Raw and raises no licensing question, where a free-gallery
+file might come from a camera an older Camera Raw cannot read. The spec: a bright area and a dark area in
+the same frame, something slightly wrong rather than broken, and real detail in the bright part so pulling
+Highlights down visibly recovers something. **A shot out a window from inside the room, metered for the
+interior, is exactly that file** and takes five minutes to make.
+
+**DT Tuesday is the histogram, not "the rest of the sliders."** The goal is that they can look at the
 Camera Raw screen and know what a slider will do **before** they drag it, which makes the histogram the
 lesson and the sliders the practice. Three facts and nothing more: left is dark, right is bright, height
 is how much. **Clipping warnings on in the first two minutes** (the two triangles in the histogram's top
@@ -116,11 +128,9 @@ outcome, blowing highlights while opening shadows, lands them exactly where Roun
 **Mood moved from Tuesday to Wednesday**, next to Saturation, since they are the same kind of decision
 and Tuesday is already full. The lab was rewritten and **renumbered 1 to 36**.
 
-**Photos: today runs on their own RAW files.** There was no time to build a supplied pool before first
-period, and everyone already has a folder from last week. **One photo of yours goes on the projector** for
-the demo, picked on purpose: bright sky and dark foreground so the clipping warnings actually fire. A
-backup pool is still worth building for the students whose own photos are thin, and the Week 9 assignment
-needs one anyway, so **it is one folder serving both jobs.**
+**From Wednesday on they go back to their own RAW files.** The shared photo is only so Tuesday's
+follow-along stays in step. A supplied pool is still needed for the Week 9 assignment, so that folder
+remains one job.
 
 **Exemplar: offered as optional, with the rubric as the part that matters.** A before/after pair from a
 file everyone has, **with the histogram screenshotted in both**, because without the histogram you are

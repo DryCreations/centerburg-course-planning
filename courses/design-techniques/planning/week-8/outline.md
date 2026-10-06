@@ -12,7 +12,7 @@
 | Day | Focus |
 |-----|-------|
 | Mon Oct 5 | **White balance, exporting, and isolating a color.** Four files out by the end |
-| Tue Oct 6 | **Reading the histogram**, then exposure, contrast, and the four region sliders |
+| Tue Oct 6 | **Reading the histogram**, then two rounds of tone. One page, one file out |
 | Wed Oct 7 | **Mood**, then clarity, vibrance, saturation. **Before and after exported** |
 | Thu Oct 8 | **Color.** HSL, and color theory applied to a real photo |
 | Fri Oct 9 | Catch up, pick your best, submit |
@@ -35,6 +35,7 @@
 
 - The white balance sheet, answered
 - `LastName_WB_Cold_01`, `LastName_WB_Warm_01`, `LastName_WB_Fixed_01`, `LastName_ColorPop_01` **(Monday)**
+- `LastName_Tone_01` and the tone one-pager **(Tuesday, before you leave)**
 - The editing sheet, answered
 - `LastName_Before_01` and `LastName_After_01`
 - `LastName_Best_01`, plus three sentences on what changed and why

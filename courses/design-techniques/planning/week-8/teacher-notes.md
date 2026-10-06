@@ -1,7 +1,12 @@
 # Week 8 Teacher Notes: Design Techniques
 
 **Teacher-only.** Student docs are `outline.md`, `handouts/white-balance-lab.md` (Monday, already
-posted) and `handouts/editing-week-lab.md` (Tuesday to Friday).
+posted), **`handouts/tone-lab.md` (Tuesday, the one-pager)** and `handouts/editing-week-lab.md`
+(Wednesday to Friday).
+
+**Tuesday is a one-page follow-along, not a section of the big lab.** Eight questions, one photo,
+everyone the same photo, one file out before they leave. Monday ran out of time, so today has one goal
+and a hard finish.
 
 ---
 
@@ -76,10 +81,10 @@ proves it better than you can say it.
 This is the structure for the back half, and it is the part worth protecting.
 
 **Round 1: Exposure and Contrast only.** Make the photo as good as you can. **Then name what is still
-wrong.** (Questions 10 and 11.)
+wrong.** (Questions 4 and 5.)
 
 **Round 2: unlock Blacks, Shadows, Highlights, Whites. Exposure and Contrast are frozen.** Fix the thing
-they named. (Questions 12 to 14.)
+they named. (Questions 6 to 8.)
 
 **Why the limitation is the lesson:** handed all six sliders, a student drags everything until it looks
 okay and learns nothing about which slider did what. Round 1 produces a **specific complaint**: the sky
@@ -94,28 +99,39 @@ is useful. **Let it happen.**
 
 ---
 
-## Photos to work on
+## The one photo everyone works on
 
-**Today runs on their own RAW files.** Everyone shot RAW last week and everyone has a folder. **Do not
-make Tuesday depend on a download that does not exist yet**, and there is not time to build a pool before
-first period.
+**Pick ONE file and post a download link in Classroom.** The whole sheet is a follow-along, and that only
+works if the photo on your screen is the photo on theirs. Step 1 of the worksheet is downloading it into
+their own folder, which is also where you check that they can do it.
 
-**Put one photo of yours on the projector** for the histogram demo, and pick it on purpose: something
-with **a bright sky and a dark foreground**, so the clipping warnings actually fire and all five regions
-have something in them. A photo out a window works. A flat indoor snapshot does not.
+**Use one of your own photos.** It is the zero-risk option: you know it opens in this version of Camera
+Raw, you know it is a format the Rebels produce, and there is no licensing question. **A free-gallery
+file may be from a camera an older Camera Raw cannot open**, and I could not test any of them from here.
 
-**A backup pool is still worth building** for the students whose own photos are thin, and for the Week 9
-assignment, which needs one anyway. Six to eight files, in a read-only folder, and sourcing is in
-`week-9/handouts/mood-project-TEACHER.md`. **Same folder serves both**, so it is one job.
+**Pick it on purpose.** The photo has to have:
 
-**What makes a file good for this lesson**, specifically:
+- **A bright area and a dark area in the same frame.** Something sky-ish and something shadowed. If the
+  photo is all midtones, Highlights and Shadows have nothing to do and Round 1 has no complaint to
+  produce
+- **Something slightly wrong.** A touch dark, or a touch flat. **Not broken**, just not finished. A
+  perfect photo gives them nowhere to go
+- **Real detail in the bright part**, so that pulling Highlights down visibly recovers something. That
+  moment is the one they remember
 
-- **Range in one frame.** Something bright and something dark. A photo that is all midtones gives
-  Highlights and Shadows nothing to do
-- **Not already edited.** Some free files were exported after grading. If it opens looking finished, the
-  student has nowhere to go
-- **One real problem is a bonus, not a requirement.** A slightly dark or slightly flat file makes Round 1
-  more interesting. It does not need to be broken
+**A shot out a window, or anything with sky above and ground below, works.** A flat indoor snapshot does
+not.
+
+**Shoot it in the first five minutes of your prep if you do not have one.** Point a Rebel at a window
+from inside the room, meter for the inside, and you will have exactly the file this lesson wants:
+bright window blown or near it, dark interior, nothing a single slider can fix.
+
+**If you would rather download one**, sourcing is in `week-9/handouts/mood-project-TEACHER.md`, and
+**open it on a student machine before you post the link.** Same folder serves the Week 9 assignment, so
+it is one job either way.
+
+**Say "everyone has the same photo" out loud.** It is the thing that makes the comparison at the end
+real: the only difference between their result and their neighbor's is decisions.
 
 ---
 
@@ -146,15 +162,21 @@ have time for one, say the rubric and skip the exemplar: the rubric is the part 
 
 ## The rest of the week
 
+**`handouts/editing-week-lab.md` is now the Wednesday-to-Friday sheet**, renumbered 1 to 21. Post it
+Wednesday, not today.
+
 | Day | What |
 |-----|------|
-| **Wed** | **Mood** (questions 16 to 18), then Clarity, Vibrance and Saturation. **Before and after exported** |
+| **Wed** | **Mood** (questions 1 to 3), then Clarity, Vibrance and Saturation. **Before and after exported** |
 | **Thu** | **HSL.** One color at a time, then color theory applied |
 | **Fri** | Catch up, pick the best edit, export and submit |
 
 **Mood moved from Tuesday to Wednesday.** Tuesday now carries the catch-up, the histogram and both
-rounds, and that is already full. Mood sits better next to Saturation anyway, since they are the same
-kind of decision.
+rounds on a single page, and that is already full. Mood sits better next to Saturation anyway, since they
+are the same kind of decision.
+
+**Wednesday onward they can use their own RAW files again.** The shared photo is only so today's
+follow-along stays in step.
 
 **Week 9 is Three Moods**, on supplied photos. See `week-9/handouts/mood-project.md`.
 
@@ -162,7 +184,9 @@ kind of decision.
 
 ## What to collect
 
-**Nothing new today.** Monday's four files, from whoever owes them.
+**`LastName_Tone_01` and the one-pager, before they leave.** Plus Monday's four files from whoever owes
+them.
 
-**Questions 11 and 14 are the ones to read** when you grade this sheet. Question 11 cannot be faked, and
-question 14 is where you find out whether the limitation taught anything.
+**Questions 5 and 8 are the ones to read.** Question 5 cannot be faked: a student who cannot say what
+Exposure and Contrast failed to fix was not looking at the graph. Question 8 is where you find out
+whether the limitation taught anything.

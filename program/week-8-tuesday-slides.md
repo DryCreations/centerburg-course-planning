@@ -7,7 +7,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 8 | **Catch-up**, the histogram, then two constrained rounds |
+| Design Techniques | 9 | **One-pager, guided.** Catch-up, the histogram, two rounds, one file out |
 | Video & Sound | 3 | Ten minutes on rough assembly, then **work time** |
 | Aviation UAS | 10 | **Section 1 reviewed together**, new content, then half the period to work |
 | Middle School CS | 3 | The bug, then **planning takes the back half** |
@@ -21,8 +21,15 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 ## 1. Design Techniques: The histogram, then tone
 
-**Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Tuesday section),
-**`week-8/teacher-notes.md` (the run of show, the exemplar rubric, read it first)**
+**Documents:** **`week-8/handouts/tone-lab.md`** (today's one-pager, post it with a download link to one
+photo), **`week-8/teacher-notes.md` (the run of show and which photo to pick, read it first)**
+**Today is a one-page follow-along, eight questions, one file out before they leave.** Monday ran out of
+time, so today has a single goal and a hard finish. The big lab is now Wednesday to Friday.
+**Pick ONE photo and post a download link.** The follow-along only works if the photo on your screen is
+the photo on theirs, and step 1 is them downloading it into their own folder. **Use one of your own**: it
+is guaranteed to open in this version of Camera Raw. Bright area and dark area in the same frame,
+something slightly wrong, real detail in the bright part. **A shot out a window from inside the room is
+exactly right** and takes five minutes to make.
 **First ten minutes is catch-up.** A lot of people did not get four files out Monday, and the place they
 stalled is almost certainly the export, not white balance. **Demo Save Image once more on the projector,
 start to finish, and say out loud that the slider positions stay put between exports.** Then they work.
@@ -37,8 +44,8 @@ checkable.
 drag the mouse across the graph and let them watch the names appear. That demo beats any explanation.
 **Protect the two rounds.** Exposure and Contrast only, then name what is still wrong, then unlock the
 other four. **Round 1 producing a specific complaint is the whole point.**
-**Photos:** their own RAW files from last week. **Put one of yours on the projector** for the demo, and
-pick it on purpose: bright sky, dark foreground, so the clipping warnings actually fire.
+**Say "everyone has the same photo" out loud.** It is what makes the comparison at the end real: the only
+difference between their result and their neighbor's is decisions.
 **Mood moved to Wednesday.** Today is full.
 
 ### Slide 1: Standards and agenda
@@ -48,9 +55,10 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.4.7 Optimize and
 > export graphics files for intended use. Bottom half, headed "What we are doing," is a short two-column
 > list pairing each activity with its competency: "First ten minutes: finish yesterday's four files" with
-> 7.4.7; "Read the histogram, and turn on the clipping warnings" with 7.9.6; "The five regions, left to
-> right, one slider each" with 7.9.6; "Round 1: Exposure and Contrast ONLY" with 7.9.6; "Round 2: unlock
-> the other four and fix what Round 1 could not" with 7.9.6. Keep both halves readable from the back of
+> 7.4.7; "Download today's photo. Everyone works the same one" with 7.4.7; "Read the histogram, and turn
+> on the clipping warnings" with 7.9.6; "The five regions, left to right, one slider each" with 7.9.6;
+> "Round 1: Exposure and Contrast ONLY" with 7.9.6; "Round 2: unlock the other four and fix what Round 1
+> could not" with 7.9.6; "Export LastName_Tone_01 before you leave" with 7.4.7. Keep both halves readable from the back of
 > the room. Design it to stay on the board all period. One slide.
 
 ### Slide 2: Finish yesterday first
@@ -60,9 +68,17 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > export steps in large numbered text: "1. Open the RAW file. 2. SAVE IMAGE, bottom left. 3. Format:
 > JPEG. 4. Pick your folder, name it, Save." Then a box in very large text: "Your slider positions STAY
 > PUT between exports. You do not re-edit for each one. Move Temperature, save again." Add a line:
-> "Already done? Go to Part 1 and read your histogram." One slide.
+> "Already done? Download today's photo and go to Step 2." One slide.
 
-### Slide 3: The graph in the corner
+### Slide 3: Today's photo
+
+> Create one slide for a high school design class titled "Everyone Works The Same Photo." Three numbered
+> steps in large text: "1. Click the link in Google Classroom. 2. Save it into YOUR OWN folder. Not the
+> desktop. 3. Open it in Camera Raw." Then a box in very large text: "We are doing this one together,
+> step by step. Same photo on my screen and yours." Then a smaller line: "Which means at the end, the only
+> difference between your version and your neighbor's is your decisions." One slide.
+
+### Slide 4: The graph in the corner
 
 > Create one concept slide for a high school photography class titled "The Histogram." Explain it is the
 > graph at the top right of Camera Raw. Then only three short facts, in large text: "LEFT is dark. RIGHT
@@ -71,7 +87,7 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > the only honest opinion in the room. Your eyes adjust to a bad photo. The graph does not." Nothing else
 > on the slide. One slide.
 
-### Slide 4: Turn the warnings on
+### Slide 5: Turn the warnings on
 
 > Create one slide for a high school photography class titled "Do This Before Anything Else." Body: find
 > the two small triangles in the top corners of the histogram, and click both. Then what they do, in large
@@ -80,7 +96,7 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > actually knowing." Add a smaller line at the bottom: "Some red is fine on a light bulb, a window, or sun
 > off chrome. There was never any detail there to save." One slide.
 
-### Slide 5: Five regions, five sliders
+### Slide 6: Five regions, five sliders
 
 > Create one slide for a high school photography class titled "One Slider Per Zone." Show the histogram
 > split left to right into five labeled regions, as a simple horizontal diagram going from dark on the
@@ -90,7 +106,7 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > white begins." Then two lines in large text underneath: "EXPOSURE slides the whole graph." and
 > "CONTRAST pulls the ends apart, or squeezes them together." One slide.
 
-### Slide 6: The two that get confused
+### Slide 7: The two that get confused
 
 > Create one slide for a high school photography class titled "Whites Is Not Highlights." Two side-by-side
 > comparisons. First: "WHITES decides WHERE WHITE BEGINS. It moves the end of the graph." versus
@@ -98,7 +114,7 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > the floor." versus "SHADOWS lifts what is sitting above the floor." Then a box in large text: "Push each
 > one to both ends and WATCH THE HISTOGRAM, not the photo. You will see which end moves." One slide.
 
-### Slide 7: Round 1
+### Slide 8: Round 1
 
 > Create one task slide for a high school photography class titled "Round 1: Two Sliders. That's It."
 > In very large text: "EXPOSURE and CONTRAST only. Nothing else. Make the photo as good as you can get
@@ -106,14 +122,15 @@ pick it on purpose: bright sky, dark foreground, so the clipping warnings actual
 > WRONG that those two could not fix. Be specific, and say WHERE in the photo." Then a box in very large
 > text: "If you think nothing is wrong, look at the histogram again." One slide.
 
-### Slide 8: Round 2
+### Slide 9: Round 2
 
 > Create one task slide for a high school photography class titled "Round 2: Now Fix It." In large text:
 > "Blacks, Shadows, Highlights and Whites are now allowed. EXPOSURE AND CONTRAST STAY WHERE YOU LEFT THEM.
 > No going back." Then three numbered tasks: "1. Fix the thing you named in Round 1. Which sliders, which
 > direction? 2. Compare your histogram to how it looked when you started. What changed about the shape? 3.
 > Round 1 or Round 2, which photo is better, and WHY?" Then a box in very large text: "Last question: what
-> did Round 1 prove about why those other four sliders exist?" One slide.
+> did Round 1 prove about why those other four sliders exist?" Then a final line headed "THEN EXPORT":
+> "Save Image, bottom left. JPEG. Name it LastName_Tone_01. Upload it before you leave." One slide.
 
 ### Board version
 
@@ -123,7 +140,8 @@ TODAY'S COMPETENCIES (leave on the board)
          enhancements)
   7.4.7  optimize and export graphics files for
          intended use
-  -> today: read the HISTOGRAM, then tone. questions 1-15.
+  -> today: read the HISTOGRAM, then tone. 8 questions,
+     one file out: LastName_Tone_01
 
 FIRST TEN MINUTES: FINISH YESTERDAY
   1. open the RAW file
@@ -135,7 +153,16 @@ FIRST TEN MINUTES: FINISH YESTERDAY
      you don't re-edit for each one.
      move temperature, save again. **
 
-  already done? -> part 1, read your histogram.
+  already done? -> download today's photo, go to step 2.
+
+EVERYONE WORKS THE SAME PHOTO
+  1. click the link in Google Classroom
+  2. save it into YOUR OWN folder. not the desktop.
+  3. open it in Camera Raw
+
+  ** we're doing this one together, step by step. **
+  at the end, the only difference between your version
+  and your neighbor's is your DECISIONS.
 
 THE HISTOGRAM  (top right)
   LEFT is dark.  RIGHT is bright.
@@ -194,6 +221,11 @@ ROUND 2: NOW FIX IT.
 
   *** what did ROUND 1 prove about why those other
       four sliders exist? ***
+
+THEN EXPORT
+  SAVE IMAGE, bottom left. JPEG.
+  name it  LastName_Tone_01
+  upload it BEFORE YOU LEAVE.
 ```
 
 ---
