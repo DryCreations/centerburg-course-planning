@@ -43,4 +43,4 @@
   settings to shoot manual photographs. **This completes 7.9.5**, which was partial last week
 - **7.9.7** Identify differences between film photographs and digital images
 - **7.2.7** Select colors based on color theory and psychology
-- **7.4.7** Optimize and export graphics files for a specified use
+- **7.4.7** Optimize and export graphics files for intended use

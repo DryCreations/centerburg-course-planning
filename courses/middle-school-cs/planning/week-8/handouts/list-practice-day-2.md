@@ -7,6 +7,9 @@ running over it**, which is where it gets interesting.
 
 Questions continue from yesterday's worksheet. **Start at 9.**
 
+**First half of the period is these problems. Second half is planning your project.** Get as far as you
+can on the problems; they are not homework-sized.
+
 ---
 
 ## Problem 3: the bug
@@ -67,42 +70,32 @@ not `forever`?
 
 ---
 
-## Build it: the collection game
-
-**One sprite that collects things. The list is what it has collected.**
-
-Required:
-
-1. A list that starts **empty**
-2. Something the player can pick up, with **at least four kinds**
-3. When the player overlaps one, **add it to the list** and destroy the sprite
-4. A display showing **how many** things are in the list
-5. **A win condition** based on the list: all four kinds collected, or the list reaching a certain length
-
-### Then one of these
-
-| | |
-|---|---|
-| **A** | Something that **removes** an item from the list when you touch it. A thief, a trap, a timer |
-| **B** | Check whether a specific thing is **already in the list**, and do something different if it is |
-| **C** | Show the list contents on screen, not just the count |
-| **D** | A limit: the list can hold only five things, and picking up a sixth refuses or drops the oldest |
-
----
-
 ## When it breaks
 
 | What you see | What it probably is |
 |---|---|
-| The count skips numbers | You are adding more than once per overlap. Destroy the sprite immediately |
+| The length jumps by more than one | You are adding more than once. Check what triggers the add |
 | Removing an item removes the wrong one | Everything after it shifted. Re-check your index |
 | The program stops partway through a loop | You changed the list's length while looping over it |
-| The count never goes up | You created a new list instead of adding to the existing one |
+| The length never goes up | You created a new list instead of adding to the existing one |
 | It says the list is empty when it is not | You are checking a different list than the one you filled |
+
+---
+
+## Then: back to your plan
+
+**The rest of the period is your project plan.** You have everything you need for Part 1 and Part 2 of
+`project-plan.md` now: you know what a list can do, and you know which loop blocks exist.
+
+**19.** Look at your six requirements. **Which one of them is a list?** Say what it holds, and say what
+the game reads it for.
+
+**20.** Which one are you least sure you can build? That is the one to ask about today.
 
 ---
 
 ## Grading
 
 Questions 9, 10 and 11 are worth the most. **The bug in Problem 3 is the actual lesson** of the week.
-The collection game is graded on the five required items plus the one you chose.
+
+Questions 19 and 20 are graded as part of your plan, not as practice.

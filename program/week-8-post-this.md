@@ -24,6 +24,25 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 ---
 
+## Tuesday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Tue through Fri, one section per day |
+| 2 | `4-middle-school-cs/handouts/list-practice-day-2.md` | **Material.** The bug, then the plan |
+
+**Do these yourself:**
+
+- **Put today's METAR, TAF and a surface map on screen before Aviation.** You supply the data today.
+  Monday they hunted for it and it ate the thinking time
+- **Read `3-aviation-uas/teacher-notes.md`.** It has Tuesday's run of show, the turn-and-talk protocol,
+  and why the two concepts did not land Monday
+- **Check Monday's four DT exports actually landed** before starting Tuesday. Export was new
+- **Start building the Repair Clinic folder** for Week 9. Four RAW files, one problem each. Sourcing and
+  what to pick is in `1-design-techniques/week-9-repair-clinic-TEACHER.md`
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
@@ -31,11 +50,16 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
 | 2 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Tuesday.** Tue through Fri, one section per day |
 | 3 | `1-design-techniques/outline.md` | Material |
+| 4 | `1-design-techniques/week-9-repair-clinic.md` | **Assignment, Week 9.** Hold until the file folder exists |
 
 **Due Monday, out of the white balance lab:** `LastName_WB_Cold_01`, `LastName_WB_Warm_01`,
 `LastName_WB_Fixed_01`, and `LastName_ColorPop_01`.
 
 **Due Friday:** both sheets, plus `LastName_Before_01`, `LastName_After_01`, and `LastName_Best_01`.
+
+**Week 9 is the Repair Clinic**, not the 6-8 image photo essay. Four supplied RAW files, each broken one
+way, graded on the diagnosis. **It needs a class folder of four files before Monday.** Sourcing, what to
+pick, and answer sketches are in `week-9-repair-clinic-TEACHER.md`.
 
 ---
 
@@ -84,7 +108,7 @@ quiz. Worth replaying Thursday.
 |------|------|------|
 | 1 | `4-middle-school-cs/handouts/list-practice.md` | **Material, post Monday.** Two problems only |
 | 2 | `4-middle-school-cs/handouts/project-plan.md` | **Assignment, post Monday, make-a-copy.** Due Thursday |
-| 3 | `4-middle-school-cs/handouts/list-practice-day-2.md` | **Material, post Tuesday.** The larger set and the collection game |
+| 3 | `4-middle-school-cs/handouts/list-practice-day-2.md` | **Material, post Tuesday.** The bug, then planning |
 | 4 | `4-middle-school-cs/outline.md` | Material |
 | 5 | Quiz from `quiz-bank.csv` | **Quiz Friday.** 31 questions, cut to 20 |
 
@@ -98,7 +122,8 @@ not in the student zip).
 
 ## Yearbook
 
-**Needs an assignment.** Nothing to post until that is decided.
+**Nothing to post.** The Week 9 check-in is already out and the expectations are unchanged: photos and
+spreads, same cadence. They keep working.
 
 ---
 

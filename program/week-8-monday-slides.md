@@ -38,7 +38,7 @@ who grabbed JPEGs will see the limit rather than being told about it.
 > numbers: 7.9.5 Use International Standards Organization (ISO), shutter speed, aperture, and white
 > balance settings to shoot manual photographs. 7.9.6 Edit photographs (e.g., color corrections,
 > cropping, enhancements). 7.9.7 Identify differences between film photographs and digital images. 7.4.7
-> Optimize and export graphics files for a specified use. Bottom
+> Optimize and export graphics files for intended use. Bottom
 > half, headed "What we are doing," is a short two-column list pairing each activity with its competency:
 > "Temperature and tint, pushed to both ends" with 7.9.5 and 7.9.6; "Export three JPEGs: cold, warm, and
 > your corrected version" with 7.4.7; "RAW versus JPEG, how much room each one gives you" with 7.9.7;

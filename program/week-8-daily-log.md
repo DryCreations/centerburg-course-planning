@@ -9,10 +9,10 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
-| **Tue** | Exposure and tone | Assemble the edit | Air masses and fronts | The larger set, the bug, the collection game | Shoot |
-| **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Shoot |
-| **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Shoot |
-| **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Shoot |
+| **Tue** | Exposure and tone. **Week 9 named** | 10 min on rough assembly, then **work** | Air masses and fronts, **rebuilt interactive** | The bug, then **planning** | Keep working |
+| **Wed** | Clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
+| **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
+| **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
 ---
 
@@ -52,6 +52,51 @@ combined slide that stays on the board.
   the game still plays the same it was not meaningful. `forever` is explicitly excluded, since it is the
   game loop every project already has. Students must answer "what breaks if I remove it?" for all six
   requirements, and "nothing really" means the design changes, not the answer.
+
+---
+
+## Tuesday
+
+**Aviation Monday went poorly and got rebuilt.** Two failures, same root: a long stretch of teacher talk,
+and the concepts not landing. A student who has not had to produce an answer does not know they do not
+have one, and neither do you. Tuesday is **ten thin slides instead of four**, one idea each, with a
+turn-and-talk ending every beat and nothing longer than six minutes of talking. The four fronts are
+**predict then reveal**: they already know dense air sinks, so every front follows from something they
+have. The protocol is written on the board, including the rule that **you may be asked for your
+partner's answer**, which is why both partners say it out loud. The teacher also **supplies the data**
+today, with the METAR, TAF and surface map already on screen, because Monday's hunting for it ate the
+thinking time. Full run of show in `courses/aviation-uas/planning/week-8/teacher-notes.md`.
+
+**The two concepts that did not land, and the diagnosis:**
+
+- **Why air moves.** "Warm air rises" is something they heard in elementary school, so it sounds
+  finished. The new part is that something has to **replace** it, and the replacing is the wind. Push on
+  the hole, not the rising
+- **Density altitude.** The name points the wrong way and they tried to make it mean how high they are.
+  Lead with "how thin the air is behaving, no matter where you are standing," and do not say "pressure
+  altitude" at all this week. Hang it on last week's payload lesson, which they understood
+
+**DT Week 9 is the Repair Clinic, not the photo essay.** The unit's own artifact is a 6-8 image annotated
+edit suite, which is Q2-sized, and Week 9 already carries a quiz and BPA selection. The clinic is the
+same competencies at a quarter of the size: four supplied RAW files, each broken one way (too dark, wrong
+white balance, flat, one color off), fixed and diagnosed. **Everyone works identical files**, so a student
+with four weak photos is not graded on their photos. **The files are not in the repo**, because outbound
+file downloads are blocked from this environment. Sourcing is in
+`week-9/handouts/repair-clinic-TEACHER.md`: [signatureedits.com/free-raw-photos](https://www.signatureedits.com/free-raw-photos/)
+is the best match, mostly Canon CR2, same format the Rebels shoot. **Shooting the four yourself in five
+minutes is the reliable option**, and the teacher sheet says how to break each one on purpose.
+
+**V&S Tuesday is ten minutes then work time.** The ten minutes is **rough assembly**: the whole edit,
+badly, end to end, before anything gets good. Day one of an edit is where people sink a period into three
+perfect seconds. Plus the two housekeeping items that actually lose work: name the project, and do not
+move the footage folder after importing.
+
+**MS CS cut the collection game.** Their own project is the build now, and a second collection game
+competes for the same time. Tuesday is the problems in the first half and the plan in the second, said
+out loud at the start so nobody paces for a full period of problems. Two questions added to the day-2
+sheet (19 and 20) that feed the plan rather than the practice.
+
+**Yearbook keeps working.** The Week 9 check-in is already posted, expectations unchanged.
 
 ---
 
@@ -108,7 +153,8 @@ combined slide that stays on the board.
   previous material. Friday's leftover time is for finishing the worksheet, not new work.
 - **MS CS: list mutation, then project planning.** The collection game Tuesday, planning Wednesday and
   Thursday, building from Thursday into next week.
-- **Yearbook: needs the next assignment decided.** Last week's photos and check-in were due Friday.
+- **Yearbook: resolved.** The Week 9 check-in is already posted, same expectations as last time: photos
+  and spreads. They keep working, nothing new introduced.
 
 ---
 
@@ -118,13 +164,14 @@ combined slide that stays on the board.
   Photoshop" is most likely **Adobe Camera Raw**, the raw dialog that opens from inside Photoshop or
   Bridge, rather than standalone Lightroom. **The handout gives both click paths**, so it works either
   way, but **open a RAW file yourself before first period** so you can say one thing instead of two.
-- **Yearbook has no assignment for this week yet.** The Monday slide has a blank for it. The pattern that
-  has worked is a two week window with a mid-point check-in.
+- **DT Week 9 needs a folder of four RAW files before Monday.** The Repair Clinic depends on it and the
+  files could not be downloaded from here. See `week-9/handouts/repair-clinic-TEACHER.md`.
 - **BPA event selection is due this week or next**, across all courses. Hard deadline is the end of Week
   9. See `program/bpa-selection-plan.md`, which still has three open decisions.
 - **Unit 1.3 Audio is still owed in V&S**, roughly 16% of the WebXam with nothing covered. The layering
   work touches audio levels, which is a soft on-ramp, but it is not the unit.
-- **Next week is the last week of the quarter.** MS CS is building their project. Worth deciding what the
-  other four courses are doing with that week, and whether anything needs to close out for grades.
+- **Next week is the last week of the quarter.** MS CS is building their project and DT has the Repair
+  Clinic. **V&S, Aviation and Yearbook are still undecided for Week 9**, and so is whatever has to close
+  out for grades.
 - **DT course map is still behind the room.** Unit 1.4 was scheduled for weeks 8 to 9 and finished in
   week 7, and 2.1 Photography has started early.
