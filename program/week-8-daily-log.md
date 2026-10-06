@@ -172,8 +172,9 @@ Exposure and Contrast, then Highlights, Shadows, Whites, Blacks. **No Saturation
 HSL**, or somebody finds Saturation and the photo becomes a different assignment. Camera Raw has no
 separate midtone slider: **Exposure is the midtones.**
 
-**Exemplars got demoted.** The goals list does the job better, because a target they can check themselves
-beats a picture of someone's taste. If there is time for one thing, the goals list goes on the board.
+**No exemplars.** There is not time to build them, and the goals list is the better instrument anyway: a
+target a student checks their own photo against beats a picture of someone else's result, and it costs no
+prep.
 
 **DT Week 9 switched from the Repair Clinic to Three Moods.** The clinic needed four RAW files each broken
 exactly one way, and a free gallery posts its good photos, not its failures. Building that set meant

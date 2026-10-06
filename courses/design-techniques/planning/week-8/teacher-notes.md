@@ -47,8 +47,10 @@ without talking through anything else. Then they work. Then you start Tuesday's 
 **Not "the rest of the sliders."** The goal is that they can look at a histogram and say what is wrong
 with the photo, **and know why clipping is the thing to avoid.** The sliders are how they act on that.
 
-**They get a target, not a taste test.** The six goals are on slide 13 and on the worksheet, and they
-check against the list before each export:
+**They get a target, not a taste test, and they check it themselves.** The six goals are on slide 13 and
+on the worksheet, and they go through the list before each export. **That is deliberately in place of a
+teacher exemplar:** a target a student can check their own photo against does the job better than a
+picture of someone else's result, and it costs no prep.
 
 1. **White things look white.** No color cast. This is yesterday's lesson, carried forward
 2. **The graph reaches toward both ends.** A photo using only the middle looks washed out and dull
@@ -202,20 +204,6 @@ the far left of the histogram is an obviously dark photo in a way a dark barn is
 1. **Read-only folder** on the shared drive, or just the files attached to the Classroom post
 2. **Tell them to copy or download into their own folder.** Someone will edit in place
 3. **Open one on a student machine first.** This is the step that saves the period
-
----
-
-## Exemplars
-
-**You probably do not need one now.** The five goals do the job an exemplar was going to do, and they do
-it better: a target they can check themselves beats a picture of your taste.
-
-**If you want one anyway**, five minutes: take one photo from the set to a finished state and
-**screenshot the histogram alongside it.** The histogram is what makes it teachable, because without it
-you are showing them a result instead of a reason.
-
-**Then show a second version you also like**, so nobody tries to match your numbers. **If there is only
-time for one thing, put the goals list on the board and skip the exemplar.**
 
 ---
 
