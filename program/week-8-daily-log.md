@@ -10,7 +10,7 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
-| **Wed** | **The whole process in order**, + dehaze, clarity, vibrance, saturation | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
+| **Wed** | **Two photos.** Silent review, discussion, dehaze, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
 | **Thu** | **Color.** HSL, then **mood and grading** | **Cutaways and layering** | **FLIGHT.** Same drills as last week | **Plan due.** Start building if approved | Keep working |
 | **Fri** | **One more photo, start to finish, alone** | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
@@ -210,39 +210,55 @@ blue" produces grey, timid photos. **What is true:** a clipped area is a solid b
 detail or texture, and the warnings say **where** that is happening rather than that a mistake was made.
 **Most good photos have at least one thing that is solid black**, and without a true black anywhere an
 image reads washed out and foggy. The rule they get instead: **push until the warning just barely
-appears, then stop**, never clip a large area or the subject, and **aesthetics come first.** Stated as a
+appears, then stop**, never a large area or the subject, and **aesthetics come first.** Stated as a
 question: not *is anything clipped*, but ***is anything I care about clipped.***
 
-**DT Wednesday is the whole process in order on a new photo**, which is the ramp-up. Eight steps:
-Temperature and Tint, Exposure, Contrast, **Whites then Blacks** (where the black point gets made),
-Highlights then Shadows, **Dehaze**, **Clarity**, **Vibrance then Saturation**. The principle, said out
-loud because it is what makes it stick: **coarse before fine, global before local, color last**, since
-each step leaves less for the next one to do. **Vibrance before Saturation is the same idea one level
-down**: Vibrance lifts the dull colors and protects skin, so set it first and add Saturation only if it
-still needs it, which most photos do not.
+**DT Wednesday is two photos, not six, because there is no time for more.** Two RAW files attached to the
+assignment: **a hazy cityscape** and **a backlit portrait**, person in front of grass with sun behind them
+and cloud in the sky. **They edit both all period**, opened together by shift-selecting and using Open
+With Photoshop, which puts both in the Camera Raw filmstrip.
 
-**Dehaze may not exist on these machines.** It is in Basic in newer Camera Raw, in the **FX panel** in
-older ones, and **absent entirely before 2015.** Flagged as a before-class check, because "find the
-Dehaze slider" with no Dehaze slider burns ten minutes. If it is missing they skip step 6 and note it;
-Contrast and Blacks do part of the same job less precisely.
+**The period runs in four parts.** **Slide 1 is up before the bell** with the download and open
+instructions so the room starts without him. **Ten silent minutes** of everything from Monday and
+Tuesday, on both photos, their own calls, **with no worksheet questions attached to that stage at all**,
+because the point is finding out what they can do unassisted before Friday asks them to do a whole photo
+alone. **Then the discussion**, then **Dehaze on both**, then **Saturation against Vibrance.**
 
-**Six photos to add to the DT set, each one making a different slider visible:** a **hazy or misty
-distance** (without it Dehaze looks like contrast and teaches nothing), **heavy texture** like brick or
-rust or bark (Clarity is invisible on smooth subjects), **a portrait** (the counter-example, and what
-Clarity does to skin is the thing they remember), **clouds with edges** (Clarity halos them, which is how
-they learn to spot over-processing elsewhere), **one strong but dull color** like a faded barn (the
-Vibrance photo), and **something already very saturated** like a sunset (Saturation +100 turns it to
-mush, which answers "which colors broke first"). **The haze photo and the portrait matter most.**
+**Question 2 is the best question on the sheet and it comes out of the photo pairing.** The same slider
+at the same value does two visibly different things, because **only one of those photos has real haze in
+it.** On the cityscape there is genuine atmosphere between camera and buildings, so Dehaze separates the
+distance and looks like the photo was waiting for it. **On the backlit portrait the milky wash is veiling
+glare**, light scattering inside the lens from shooting toward the sun. Dehaze cannot tell the difference,
+so it attacks anyway: **the glow around the subject dies**, the sky goes unnaturally heavy, the grass goes
+dark and over-saturated. **The photo's best feature is the thing Dehaze removes.**
 
-**Managing the period:** the risk is drift, since there are four new sliders and they are the fun ones.
-Two things hold it: **make them write the numbers down** at each new slider, because a number is a
-decision and a drag is not; and **circulate asking only "what step are you on?"** A student who cannot
-answer is not working in order, which is the whole lesson.
+**Negative Dehaze is the payoff.** Below zero it adds a milky lift, which on the cityscape just looks like
+the problem came back, but **on the backlit portrait can be genuinely good**, exaggerating the glow into
+something intentional. **So the artistically correct move on that photo may be the opposite of what the
+slider is named for.** Worth naming as a finding if a student lands on it.
+
+**The portrait carries the Vibrance lesson because it has all three cases in one frame.** Saturation +60
+sends the already-strong sky first (banding, cloud edges breaking up), pushes the grass to electric green,
+and **turns skin orange, visibly from the back of the room.** Vibrance +60 barely moves the sky, brings
+the grass up plausibly, and **mostly protects the skin.** Demo it on the projector in that order and point
+at the three places.
+
+**Questions are deliberately minimal and none are per-slider.** Seven on Wednesday, and **the deliverable
+is both finished JPEGs plus one short paragraph per photo**: what they were going for, the two or three
+decisions that mattered most, and anything that fought them. **Not an account of every slider.** The lab
+is renumbered 1 to 20.
+
+**Two things that will go wrong, flagged:** double-click may not open Photoshop if the file association
+is something else, which is why the slide says **Open With**; and **the filmstrip offers to sync settings
+across both images**, which would give both photos the cityscape's treatment. **Say not to, twice.**
+
+**Clarity got cut.** No room, and it is not on the sheet. It belongs next to the portrait since Clarity on
+skin is the same lesson as Saturation on skin, **so it can ride along Thursday with HSL** or be dropped
+entirely. Nothing later depends on it.
 
 **Mood moved to Thursday and Friday was rewritten.** Grading is the last thing you do to a photo, so mood
-sits after HSL rather than before it. **Friday is no longer catch-up**: it is a list of photos, pick one
-untouched, take it all the way through alone, no new techniques. `LastName_Final_01`. That is where it
-shows whether anything stuck. The lab is renumbered 1 to 31.
+sits after HSL. **Friday is no longer catch-up**: a list of photos, pick one untouched, all the way
+through alone, `LastName_Final_01`. That is where it shows whether anything stuck.
 
 **MS CS Wednesday is dialogue**, which is for their projects, not for Friday's quiz. Four blocks from the
 Game drawer: **`splash` and `show long text` say things; `ask` and `ask for string` hand something back**,
@@ -269,9 +285,9 @@ here. **The treeline is their mountain wave**, which answers 22 and 23 together.
 numbers. "Not too windy" is not a limit. **They hold themselves to these outside on Thursday**, and
 saying that is what makes them write honest ones.
 
-**Flagged:** these notes and slides are written against **Section 3 as it stands in the repo**, questions
-19 to 30. A revised version was mentioned but not received. **If that section has been edited, the
-slides and teacher notes need re-cutting against it.**
+**Flagged:** the Aviation slides and notes are written against **Section 3 as it stands in the repo**,
+questions 19 to 30. A revised version was mentioned but not received. **If that section has been edited,
+the slides and teacher notes need re-cutting against it.**
 
 ---
 

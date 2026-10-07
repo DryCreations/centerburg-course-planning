@@ -7,7 +7,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 10 | **The whole process in order**, then dehaze, clarity, vibrance, saturation |
+| Design Techniques | 7 | **Two photos.** Ten silent minutes, discussion, dehaze, vibrance |
 | Video & Sound | 3 | Split edits: three J-cuts, three L-cuts, logged |
 | Aviation UAS | 9 | **Vocab and the two things they cannot infer**, then half the period on Section 3 |
 | Middle School CS | 4 | Dialogue blocks, then **parallel lists**, then project work |
@@ -18,119 +18,96 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 ---
 
-## 1. Design Techniques: The whole process, in order
+## 1. Design Techniques: Two photos
 
 **Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Wednesday section),
 `week-8/teacher-notes.md`
-**Yesterday was well paced. Same shape today.**
-**The first thing to do is walk back yesterday's clipping rule**, which was too strict. Slide 2 does it.
-**Aesthetics come first**, the warnings are information, and **most good photos want one thing to be
-solid black.** The rule is: push until the warning *just barely* appears, then stop, and never clip the
-subject.
-**They start on a NEW photo** and take it all the way through in order. That is the ramp: they now have
-eight steps, and the order is the lesson.
-**The order is coarse before fine, global before local, color last.** Say the reason, because it is what
-makes it stick: **each step leaves less for the next one to do.**
-**Dehaze may not exist in your version.** It is in Basic in newer Camera Raw and in the **FX panel** in
-older ones. **Check before class.** If it is absent, they skip step 6 and note it; Contrast and Blacks do
-part of the same job.
-**Question 9 needs the portrait** from the photo set. Clarity on skin is the demonstration that sells the
-whole slider.
+**Attach both RAW files to today's Classroom assignment.** A hazy cityscape and a backlit portrait with
+grass and cloud behind. **Slide 1 goes up before the bell** and holds the download and open instructions,
+so the room starts working without you.
+**The first ten minutes are theirs, with no questions attached.** Everything from Monday and Tuesday, on
+both photos, in order, making their own calls. **Do not walk them through it.** The point is finding out
+what they can do unassisted.
+**Then the discussion**, which is the middle of the period: look-fors, artistic choices, and reading the
+histogram shape rather than centering it.
+**Then Dehaze**, on both photos, which is the one real experiment of the day. **The same slider at the
+same value does two different things**, and question 2 asks why. That is the question worth the most.
+**Then Saturation against Vibrance** on the portrait, where skin and grass and sky all respond
+differently.
+**Questions are deliberately few, and none are tied to the review stage.** They hand in both finished
+JPEGs plus one short paragraph per photo about their own choices. **Not a slider-by-slider account.**
+**Warn them not to sync settings** between the two files. The filmstrip offers it and the photos need
+different treatment.
 
-### Slide 1: Standards and agenda
+### Slide 1: As you come in
 
-> Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
-> "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
-> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.2.7 Select colors
-> based on color theory and psychology. 7.4.7 Optimize and export graphics files for intended use. Bottom
-> half, headed "What we are doing," is a short two-column list pairing each activity with its competency:
-> "A correction about clipping" with 7.9.6; "A new photo, taken through all eight steps in order" with
-> 7.9.6; "Dehaze and Clarity" with 7.9.6; "Vibrance and Saturation" with 7.2.7; "Export a before and an
-> after" with 7.4.7. Keep both halves readable from the back of the room. One slide.
+> Create one instruction slide for a high school design class titled "Start Without Me." Four numbered
+> steps in large, very readable text, designed to be followed with no explanation: "1. Download BOTH files
+> attached to today's assignment, into your own folder. 2. Select both: click one, hold SHIFT, click the
+> other. 3. Right-click, Open With, Photoshop. 4. Both photos open in Camera Raw, with thumbnails in a
+> FILMSTRIP down the left side. Click a thumbnail to switch between them." Then a box in very large text:
+> "You are editing BOTH photos today. They need different things. DO NOT sync settings between them."
+> One slide.
 
-### Slide 2: I was too strict yesterday
+### Slide 2: Ten minutes. Everything you already know.
 
-> Create one slide for a high school photography class titled "About Clipping. I Was Too Strict." Open
-> with the correction in large text: "Yesterday the rule was avoid red and blue. That was too strict."
-> Then the actual idea: "A clipped area is a solid block of one color. No detail, no texture. The warnings
-> tell you WHERE that is happening. They do not tell you that you made a mistake." Then in very large
-> text: "Most good photos have at least ONE thing that is solid black." With a line under it: "A photo
-> with no true black anywhere looks washed out, foggy and weak." Then a box: "AESTHETICS COME FIRST. The
-> warning is information you are choosing with, not a rule you are obeying." One slide.
+> Create one task slide for a high school photography class titled "Ten Minutes. On Your Own." Body:
+> everything from Monday and Tuesday, on both photos, in order. Nobody is walking you through it. Then a
+> checklist in large text: "Clipping warnings ON, both triangles. TEMPERATURE, and Tint if it needs it.
+> EXPOSURE. CONTRAST. WHITES, then BLACKS, to set your two ends. HIGHLIGHTS, then SHADOWS, to recover what
+> is inside them." Then a box: "Look at the histogram on each one. Decide whether the shape is WHAT YOU
+> WANT. Not whether it is centered." Then a line in very large text: "Make your own calls. Then we talk
+> about them. There are no worksheet questions for this part." One slide.
 
-### Slide 3: So what is the actual rule
+### Slide 3: The histogram has no correct shape
 
-> Create one slide for a high school photography class titled "The Actual Rule." A three-row table. Row
-> one, "WHAT YOU WANT": "Push until the warning JUST BARELY appears, then stop. A few pixels. Not a
-> spreading patch." Row two, "WHAT YOU DO NOT WANT": "A large area clipped, or clipping ON THE SUBJECT. A
-> blown-out face is a mistake. A blown-out light bulb is not." Row three, "WHO DECIDES": "You do." Then a
-> box in very large text: "The question is never 'is anything clipped.' It is 'is anything I CARE ABOUT
-> clipped.'" One slide.
+> Create one concept slide for a high school photography class titled "There Is No Correct Histogram."
+> Show three small histogram diagrams in a row with captions. First, data piled to the left, captioned "A
+> low-key photo SHOULD look like this." Second, data piled to the right, captioned "A snow scene SHOULD
+> look like this." Third, data spread across the middle reaching both ends, captioned "And so should a
+> normal daylight shot." Then in very large text: "The question is whether the shape matches what the
+> photo is ABOUT. Not whether it is centered." Then a box: "A GAP at either end means you are not using
+> that part of the range. The photo looks dull, and that is usually worth fixing. A WALL means detail is
+> gone, and that is a decision you are making." One slide.
 
-### Slide 4: Eight steps, in this order
+### Slide 4: Look-fors
 
-> Create one slide for a high school photography class titled "The Order." A numbered list of eight steps,
-> each with a short reason, in large readable text: "1. TEMPERATURE, TINT. Fix the cast first, or every
-> decision after it is a guess. 2. EXPOSURE. Overall brightness. 3. CONTRAST. Coarse separation. 4.
-> WHITES, then BLACKS. Set the two ends. This is where your black point gets made. 5. HIGHLIGHTS, then
-> SHADOWS. Recover what is inside those ends. 6. DEHAZE. Strong and global, so it goes before the fine
-> work. 7. CLARITY. Texture and edges. 8. VIBRANCE, then SATURATION. Last, because everything above
-> changes color." Then a box in very large text: "COARSE BEFORE FINE. GLOBAL BEFORE LOCAL. COLOR LAST."
-> Add a line: "Each step leaves less for the next one to do. Skip ahead and you will do it twice." One
-> slide.
+> Create one slide for a high school design class titled "What To Actually Look For." A short list of
+> questions in large text, each on its own line: "Where does your eye go first? Did your edit help that,
+> or fight it?" "Is there one thing that is properly black? An image with no true black reads foggy."
+> "Is anything you CARE ABOUT clipped? A bulb or a sun glint is free. A face is not." "Toggle the edits
+> off and on. Can you see the difference from across the room?" Then a box in very large text: "Go too
+> far, then come back about twenty percent. Almost everyone under-edits the first pass and over-edits the
+> second." One slide.
 
-### Slide 5: Start here
+### Slide 5: Dehaze, on both
 
-> Create one task slide for a high school photography class titled "A New Photo. All Eight Steps." Three
-> numbered tasks in large text: "1. Pick a NEW photo from the set. Not yesterday's. 2. Run steps 1
-> through 5, in order. 3. Write down your six numbers: Temperature, Exposure, Contrast, Whites, Blacks,
-> and whichever of Highlights or Shadows you used." Then a prompt box headed "AT STEP 4, STOP AND NOTICE":
-> "Did you take Blacks far enough to JUST trigger the blue warning? Where did it appear first? Did you
-> keep it?" One slide.
+> Create one task slide for a high school photography class titled "Dehaze. Try It On Both." Explain in
+> one line that Dehaze is built to cut through atmospheric haze, and that it lives in the Basic panel, or
+> the FX panel in older versions. Then three numbered tasks: "1. Push it UP on the CITYSCAPE. What
+> happened? Look at the distance, not the foreground. 2. Push it up the SAME AMOUNT on the PORTRAIT. It
+> does not behave the same way. Describe the difference. 3. Take it BELOW ZERO on both. What does it add?
+> Which photo does that actually suit?" Then a box in very large text: "The same slider, at the same
+> number, doing two different things. Question 2 asks WHY. That one is worth the most." One slide.
 
-### Slide 6: Dehaze
+### Slide 6: Saturation against Vibrance
 
-> Create one concept slide for a high school photography class titled "Dehaze." Explain what it does:
-> cuts through atmospheric haze, the grey veil over things that are far away. Then where to find it, in
-> two lines: "Newer Camera Raw: in the Basic panel." and "Older Camera Raw: in the FX panel, the tab with
-> the fx icon." Then a note in a box: "Cannot find it at all? Your version does not have it. Write that on
-> your sheet and skip step 6." Then a prompt box headed "PUSH IT BOTH WAYS": "What is it doing? Look at
-> the DISTANCE, not the foreground. And it changes something other than contrast. What?" One slide.
+> Create one task slide for a high school photography class titled "Saturation vs Vibrance." Use the
+> portrait. Two numbered steps in large text: "1. SATURATION to +60. Look at three places: the sky, the
+> grass, and the person's skin. What happened to each? 2. Undo. VIBRANCE to +60 instead. Same three
+> places. What is different?" Then the explanation underneath, in two short lines: "SATURATION pushes
+> every color equally. The strong ones go first, and they go to mush." and "VIBRANCE pushes the DULL
+> colors and mostly leaves strong ones alone. It also protects skin." Then a box in large text: "Reach for
+> Vibrance first. Add Saturation only if it still needs it. Most photos do not." One slide.
 
-### Slide 7: Clarity
+### Slide 7: Finish and hand in
 
-> Create one concept slide for a high school photography class titled "Clarity." Explain it is midtone
-> contrast: it works on edges and texture rather than on the whole image, which is what makes brick, rust,
-> bark and rock pop. Then a prompt box headed "PUSH IT UP HARD": "What is it doing to edges? Where in YOUR
-> photo is it most obvious?" Then a second box in very large text headed "NOW OPEN THE PORTRAIT": "Clarity
-> to +100 on a face. Describe exactly what it does to skin." Then a line: "This is why over-clarified
-> photos look terrible, and why people can always tell." One slide.
-
-### Slide 8: Vibrance is not Saturation
-
-> Create one slide for a high school photography class titled "Vibrance Is Not Saturation." Two columns.
-> Left, "SATURATION": "Pushes EVERY color harder, equally. The colors that were already strong go first,
-> and they go to mush." Right, "VIBRANCE": "Pushes the DULL colors harder and mostly leaves the strong
-> ones alone. Also protects skin tones." Then a prompt box headed "TRY BOTH, AT +100, ON THE SAME PHOTO":
-> "Which colors broke first under Saturation? What does 'broke' actually look like?" Then a box in large
-> text: "Reach for Vibrance first. Then add Saturation only if it still needs it. Most photos do not." One
-> slide.
-
-### Slide 9: Finish and export
-
-> Create one task slide for a high school design class titled "Finish It." Two numbered tasks in large
-> text: "1. Go back to the clipping rule. Is anything you CARE ABOUT clipped? Fix it, or say what you
-> decided to leave and why. 2. Export TWO JPEGs of this photo: the untouched original, and your finished
-> edit." Then the file names in monospace: "LastName_Before_01" and "LastName_After_01". Then a box:
-> "Upload both. The before is not optional, it is how I see what you did." One slide.
-
-### Slide 10: Where this goes
-
-> Create one slide for a high school design class titled "The Rest Of The Week." Two short blocks.
-> "THURSDAY: HSL and color grading. One color at a time, instead of all of them at once. Then MOOD, which
-> is the last decision: correct is a measurement, mood is a choice." and "FRIDAY: a list of photos. Pick
-> one you have not touched, and take it all the way through by yourself. No new techniques. This is where
-> you find out what stuck." One slide.
+> Create one task slide for a high school design class titled "Finish Both. Then Tell Me Why." Body: set
+> everything where you actually want it, on both photos, and you may go back and change earlier
+> decisions. Then the exports, in monospace: "LastName_City_01" and "LastName_Portrait_01". Then the
+> written part in a box, in large text: "ONE SHORT PARAGRAPH PER PHOTO. Not a list of sliders. What were
+> you going for, and which two or three decisions mattered most to getting there? If something fought
+> you, say what." One slide.
 
 ### Board version
 
@@ -140,84 +117,85 @@ TODAY'S COMPETENCIES (leave on the board)
          enhancements)
   7.2.7  select colors based on color theory and psychology
   7.4.7  optimize and export graphics files for intended use
-  -> today: the WHOLE process in order, + dehaze,
-     clarity, vibrance, saturation
+  -> today: TWO photos. dehaze, saturation, vibrance.
 
-ABOUT CLIPPING - I WAS TOO STRICT
-  a clipped area = a SOLID BLOCK of one color.
-  no detail, no texture.
-  the warnings tell you WHERE. not that you were wrong.
+START WITHOUT ME
+  1. download BOTH files from today's assignment
+  2. select both: click one, SHIFT, click the other
+  3. right-click > Open With > Photoshop
+  4. both open in camera raw. FILMSTRIP down the left.
+     click a thumbnail to switch.
 
-  ** most good photos have at least ONE thing that is
-     solid black. no true black anywhere = washed out,
-     foggy, weak. **
+  ** both photos, all class. they need different things.
+     DO NOT SYNC SETTINGS between them. **
 
-  AESTHETICS COME FIRST.
+TEN MINUTES. ON YOUR OWN. (no worksheet questions here)
+  [ ] clipping warnings ON (both triangles)
+  [ ] TEMPERATURE (+ tint if needed)
+  [ ] EXPOSURE
+  [ ] CONTRAST
+  [ ] WHITES then BLACKS     <- your two ends
+  [ ] HIGHLIGHTS then SHADOWS <- recover what's inside
 
-THE ACTUAL RULE
-  WANT      push till the warning JUST BARELY appears,
-            then stop. a few pixels. not a patch.
-  DON'T     a LARGE area clipped, or clipping ON THE
-            SUBJECT. blown-out face = mistake.
-            blown-out light bulb = not.
-  WHO       you decide.
+  look at each histogram. is the SHAPE what you want?
+  not: is it centered.
 
-  the question is never "is anything clipped."
-  it's "is anything I CARE ABOUT clipped."
+THERE IS NO CORRECT HISTOGRAM
+  a low-key photo SHOULD pile left.
+  a snow scene SHOULD pile right.
+  -> does the shape match what the photo is ABOUT?
 
-THE ORDER  (coarse->fine, global->local, color last)
-  1 TEMPERATURE / TINT   fix the cast first
-  2 EXPOSURE             overall brightness
-  3 CONTRAST             coarse separation
-  4 WHITES then BLACKS   set the two ends
-                         <- your black point
-  5 HIGHLIGHTS then SHADOWS  recover what's inside
-  6 DEHAZE               strong + global
-  7 CLARITY              texture + edges
-  8 VIBRANCE then SATURATION   color last
+  a GAP at an end = you're not using that range.
+                    dull. usually worth fixing.
+  a WALL at an end = detail is gone.
+                     that's a DECISION you're making.
 
-  each step leaves LESS for the next one to do.
-  skip ahead and you'll do it twice.
+WHAT TO LOOK FOR
+  where does your eye go first? did the edit help
+    that, or fight it?
+  is ONE thing properly black? no true black = foggy.
+  is anything you CARE ABOUT clipped?
+    a bulb or a sun glint is free. a face is not.
+  toggle off/on: can you see it from across the room?
 
-START: a NEW photo. steps 1-5. write six numbers.
-  at step 4: did blacks JUST trigger the blue warning?
-  where first? did you keep it?
+  ** go too far, then come back about 20%.
+     everyone under-edits pass one and over-edits
+     pass two. **
 
-DEHAZE  (cuts the grey veil on far-away things)
-  newer camera raw -> BASIC panel
-  older camera raw -> FX panel (the fx tab)
-  not there at all -> your version lacks it. note it,
-                      skip step 6.
-  push both ways: look at the DISTANCE, not the
-  foreground. it changes something besides contrast - what?
+DEHAZE - TRY IT ON BOTH  (basic panel, or FX panel)
+  1. UP on the CITYSCAPE. what happened?
+     look at the DISTANCE, not the foreground.
+  2. up the SAME AMOUNT on the PORTRAIT.
+     it does NOT behave the same. describe it.
+  3. BELOW ZERO on both. what does it add?
+     which photo does that actually suit?
 
-CLARITY = midtone contrast (edges + texture)
-  brick / rust / bark / rock love it
-  ** now open the PORTRAIT. clarity +100 on a face.
-     describe what it does to skin. **
-  that's why over-clarified photos look terrible.
+  *** same slider, same number, two different results.
+      Q2 asks WHY. worth the most. ***
 
-VIBRANCE IS NOT SATURATION
-  SATURATION  every color harder, equally.
-              the already-strong ones go first, to mush.
-  VIBRANCE    the DULL colors harder, strong ones mostly
-              alone. protects skin tones.
+SATURATION vs VIBRANCE  (use the portrait)
+  1. SATURATION +60. look at the SKY, the GRASS,
+     and the SKIN. what happened to each?
+  2. undo. VIBRANCE +60. same three places.
+     what's different?
 
-  reach for VIBRANCE first. add saturation only if it
+  SATURATION  every color equally. strong ones go
+              first, and go to mush.
+  VIBRANCE    the DULL ones. leaves strong ones alone.
+              protects skin.
+
+  reach for VIBRANCE first. saturation only if it
   still needs it. most photos don't.
 
-FINISH
-  1. is anything you CARE ABOUT clipped? fix it, or say
-     what you left and why.
-  2. export TWO jpegs:
-       LastName_Before_01   (untouched original)
-       LastName_After_01    (your edit)
-     the BEFORE is not optional. it's how I see what
-     you did.
+FINISH BOTH, THEN TELL ME WHY
+  export:  LastName_City_01
+           LastName_Portrait_01
 
-THU  HSL + color grading, one color at a time. then MOOD.
-FRI  a list of photos. one you haven't touched. all the
-     way through, by yourself. no new techniques.
+  *** ONE SHORT PARAGRAPH PER PHOTO.
+      not a list of sliders.
+      what were you going for, and which 2-3
+      decisions mattered most?
+      if something fought you, say what. ***
 ```
 
 ---

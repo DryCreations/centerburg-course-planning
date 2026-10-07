@@ -207,110 +207,121 @@ the far left of the histogram is an obviously dark photo in a way a dark barn is
 
 ---
 
-## Wednesday: the whole process, in order
+## Wednesday: two photos
 
-**Tuesday's pacing worked, so keep the shape:** teach off the slides, prompts that make them look at
-their own screen, then break out.
+**Two files, attached to the Classroom assignment:** a **hazy cityscape** and a **backlit portrait**,
+person in front of grass with sun behind them and cloud in the sky. **They edit both, all period.**
 
-### First, walk back the clipping rule
-
-**Yesterday it was stated too strictly as "avoid red and blue."** Slides 2 and 3 correct it, and the
-correction is worth the two minutes because the strict version produces grey, timid photos.
-
-**What is actually true:** a clipped area is a solid block of one color with no detail or texture. The
-warnings say **where** that is happening. **They do not say you made a mistake.**
-
-**Most good photos have at least one thing that is solid black.** Without a true black anywhere, an image
-reads washed out, foggy and weak. **That black point is doing real work.**
-
-**The rule to give them:**
+### The period
 
 | | |
 |---|---|
-| **Want** | Push until the warning **just barely appears**, then stop. A few pixels, not a spreading patch |
-| **Do not want** | A **large area** clipped, or clipping **on the subject**. A blown-out face is a mistake, a blown-out bulb is not |
-| **Who decides** | They do. **Aesthetics come first** |
+| **Before the bell** | **Slide 1 is up.** Download both, shift-select, right-click, Open With, Photoshop |
+| **~10 min** | **Silent review.** Monday and Tuesday, both photos, their own calls. **No worksheet questions** |
+| **~12 min** | **Discussion.** Look-fors, artistic choices, histogram shape |
+| **~10 min** | **Dehaze**, on both, and below zero |
+| **~8 min** | **Saturation against Vibrance** on the portrait |
+| **Rest** | Finish both, export both, write the two paragraphs |
 
-**Say it as a question:** not *is anything clipped*, but ***is anything I care about clipped.***
+**The ten minutes is the point of the day's first third.** Do not help unless someone is stuck on a
+click. **You are finding out what they can do unassisted**, and that is information you need before
+Friday, when they do a whole photo alone.
 
-### The sequence, and why the order is the lesson
+**Put the checklist on the board and timebox it out loud.** Anyone shaky from Tuesday stalls otherwise,
+and you want them all arriving at the discussion together.
 
-**They start on a NEW photo** and take it all the way through. Eight steps:
+### Opening them both at once
 
-| | Step | Why here |
+**Shift-select both files, right-click, Open With, Photoshop.** Camera Raw opens with **both as thumbnails
+in a filmstrip down the left side**, and they click a thumbnail to switch. It is not a true side-by-side
+view in most versions, it is a switcher, so say "click between them" rather than "compare them side by
+side."
+
+**Two things will go wrong:**
+
+1. **Double-click may not open Photoshop** if the file association is something else. **Open With is the
+   reliable path**, which is why the slide says it that way
+2. **The filmstrip offers to sync settings across selected images.** Somebody will use it, and then both
+   photos get the cityscape's treatment. **Say not to, on slide 1 and again out loud**
+
+### What Dehaze will actually do, differently, on your two photos
+
+**This is question 2 and it is the best question on the sheet.** The same slider at the same value does
+two visibly different things, and the reason is that **only one of those photos has real haze in it.**
+
+**On the cityscape:** there is genuine atmosphere between the camera and the far buildings. Dehaze is
+built for exactly this. Expect **the distance to separate and gain contrast and color**, buildings to
+come forward out of the grey, the sky to deepen. **It will look like the photo was waiting for it.**
+
+**On the backlit portrait:** the milky wash is **not** atmospheric haze. It is **veiling glare**, light
+scattering inside the lens because they shot toward the sun. Dehaze does not know the difference, so it
+attacks it anyway, and the result is harsher and often worse: **the glow around the subject dies**, the
+sky goes heavy and can turn almost unnaturally deep, **the grass goes dark and over-saturated**, and
+contrast lands hardest right where the backlight was doing the nice thing. **The photo's best feature is
+the thing Dehaze removes.**
+
+**The answer you are listening for on question 2:** one photo has haze between the camera and the
+subject, the other has glare from shooting into the sun. **Dehaze cannot tell them apart.** Anyone who
+gets near that has understood the slider better than most adults who use it.
+
+**Negative Dehaze is the payoff of question 3.** Below zero it **adds** a milky lift: shadows come up,
+color mutes, everything softens. **On the cityscape that just looks like the problem came back.** On the
+backlit portrait it can be genuinely good, exaggerating the glow into something dreamy and intentional.
+**So the artistically correct move on that photo may be the opposite of what the slider is named for.**
+That is a real finding and worth naming as one if a student lands on it.
+
+### Saturation against Vibrance, on the portrait
+
+**That photo has all three cases in one frame**, which is why it is the right one for this:
+
+| Where to look | What Saturation +60 does | What Vibrance +60 does |
 |---|---|---|
-| 1 | **Temperature, Tint** | A cast makes every later decision a guess |
-| 2 | **Exposure** | Get the midtones roughly right |
-| 3 | **Contrast** | Coarse separation |
-| 4 | **Whites, then Blacks** | **Set the two ends.** The black point gets made here |
-| 5 | **Highlights, then Shadows** | Recover what is inside those ends |
-| 6 | **Dehaze** | Strong and global. After it, everything fine would need redoing |
-| 7 | **Clarity** | Midtone contrast. Texture and edges |
-| 8 | **Vibrance, then Saturation** | Everything above changes color, so color goes last |
+| **The sky** | Already a strong blue, so it goes first. Banding, and the cloud edges start to break up | Barely moves |
+| **The grass** | Pushed hard, often to an unreal electric green | Comes up, and stays plausible |
+| **Their skin** | **Orange.** Obvious from the back of the room | Mostly protected. Still looks like a person |
 
-**The one sentence that makes it stick:** *coarse before fine, global before local, color last*, because
-**each step leaves less for the next one to do.** A student who starts at Clarity will do it twice.
+**Do it on the projector yourself first**, in that order, and point at the three places. Thirty seconds
+and it lands harder than the explanation.
 
-**Vibrance before Saturation is the same principle one level down.** Vibrance lifts the dull colors and
-protects skin, so set it first and add Saturation only if it still needs it. **Most photos do not.**
+**The line:** reach for Vibrance first, add Saturation only if it still needs it. **Most photos do not.**
 
-### Check Dehaze exists before class
+### Content for the discussion in the middle
 
-**Dehaze is in the Basic panel in newer Camera Raw and in the FX panel in older ones**, the tab with the
-**fx** icon. **Your install may predate it entirely**, since it arrived in Camera Raw in 2015. **Open the
-editor and look**, because "find the Dehaze slider" with no Dehaze slider will burn ten minutes.
+**Four things, in this order:**
 
-**If it is not there:** they skip step 6, note it on the sheet, and you say the honest version, which is
-that Contrast and Blacks do part of the same job less precisely. Nothing else in the lesson depends on it.
+1. **The histogram has no correct shape.** A low-key photo should pile left, a snow scene should pile
+   right. **The question is whether the shape matches what the photo is about**, not whether it is
+   centered
+2. **A gap at an end is not the same as a wall.** A gap means unused range: dull, usually worth fixing. A
+   wall means detail is gone: a decision, and sometimes the right one
+3. **Where does the eye go, and did the edit help or fight it?** The artistic question, and the graph
+   cannot answer it. Good moment to say the histogram is a tool, not a judge
+4. **Go too far, then come back about twenty percent.** Almost everyone under-edits the first pass and
+   over-edits the second. **Naming it in advance saves you saying it thirty times**
 
-### Managing the period
+### What they hand in
 
-**The danger today is drift**, because there are four new sliders and they are the fun ones. Two things
-hold it together:
+**Both JPEGs**, `LastName_City_01` and `LastName_Portrait_01`, **plus one short paragraph per photo.**
 
-- **Make them write the numbers down** at step 2 and again at each new slider. A number is a decision; a
-  drag is not
-- **Circulate asking one question:** *what step are you on?* A student who cannot answer is not working in
-  order, which is the whole lesson
+**Not a slider-by-slider account.** What they were going for, the two or three decisions that mattered
+most, and anything that fought them. **That paragraph is the assignment**, and it is where you find out
+whether the ten silent minutes taught anything.
 
-**Question 9 needs the portrait** from the set. Clarity at +100 on skin is the demonstration that sells
-the slider, and it is the one they will remember. **Make sure everyone actually does it**, even on a
-photo that is not theirs.
+### Clarity got cut
 
----
-
-## Wednesday's photo set: what to add
-
-**They need a new photo today**, and the sliders are different ones, so the set needs different things in
-it. **Six will cover everything**, and each of these exists to make one slider visible:
-
-| Add | Why | What it teaches |
-|---|---|---|
-| **A hazy or misty distance.** Fog over a field, a distant ridge, a skyline in haze | **Without one, Dehaze teaches nothing.** On a clear photo it just looks like contrast | Step 6 |
-| **Heavy texture.** Brick, rust, peeling paint, tree bark, rock, old machinery | Clarity is invisible on smooth subjects and obvious here | Step 7 |
-| **A portrait, or anyone's face** | **The counter-example, and the one they remember.** Clarity wrecks skin, Saturation makes it orange | Question 9 |
-| **Clouds with edges** | Clarity halos cloud edges, which is how they learn to spot over-processing in other people's work | Step 7 |
-| **One strong but dull color.** A faded barn, a washed-out door, a muted sign | **The Vibrance photo.** It lifts without wrecking anything else | Step 8 |
-| **Something already very saturated.** A sunset, flowers, a mural | Saturation at +100 makes it go to mush, which answers "which colors broke first" | Question 11 |
-
-**The haze photo and the portrait are the two that matter most.** Without them, two of the four new
-sliders are abstractions.
-
-**Keep yesterday's requirements too:** a bright area and a dark area in the same frame, not already
-graded, and nothing from a camera newer than this Camera Raw can open. Sourcing is unchanged, above.
-
-**Say "pick a new one" out loud.** Someone will keep editing yesterday's file and miss the point of
-working in order from scratch.
+**There is no room for it today** and it is not on the sheet. It belongs with the portrait, since Clarity
+on skin is the same lesson as Saturation on skin, **so pick it up Thursday alongside HSL** if you want it,
+or let it go. Nothing later depends on it.
 
 ---
 
 ## The rest of the week
 
-**`handouts/editing-week-lab.md` is the Wednesday-to-Friday sheet**, renumbered 1 to 31.
+**`handouts/editing-week-lab.md` is the Wednesday-to-Friday sheet**, renumbered 1 to 20.
 
 | Day | What |
 |-----|------|
-| **Wed** | **The whole process in order**, plus Dehaze, Clarity, Vibrance, Saturation. Before and after exported |
+| **Wed** | **Two photos.** Silent review, discussion, Dehaze on both, Vibrance vs Saturation. Both exported |
 | **Thu** | **HSL**, one color at a time, color theory applied, **then mood and grading as the last step** |
 | **Fri** | **A list of photos.** Pick one untouched, take it all the way through alone. `LastName_Final_01` |
 
@@ -328,8 +339,9 @@ got away with something.
 
 ## What to collect
 
-**`LastName_Tone_A_01`, `LastName_Tone_B_01` and the sheet, before they leave.** Plus Monday's four files
-from whoever owes them.
+**Tuesday:** `LastName_Tone_A_01`, `LastName_Tone_B_01` and the sheet, before they leave.
+
+**Wednesday:** `LastName_City_01`, `LastName_Portrait_01`, and the two paragraphs.
 
 **Questions 4, 10 and 13 are the ones to read.** Question 4 is the clipping distinction and it is the
 lesson of the day. Question 10 cannot be faked: a student who cannot name which goal is still off was not

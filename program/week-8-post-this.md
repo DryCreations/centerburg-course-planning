@@ -59,20 +59,23 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Wed through Fri |
-| 1b | **More photos added to the DT set** | **Post with it.** See the list below |
+| 1b | **Two RAW files attached to that assignment** | **A hazy cityscape and a backlit portrait.** They download both |
 | 2 | `4-middle-school-cs/handouts/dialogue-lists.md` | **Material.** Dialogue, then project work |
 
 **Do these yourself:**
 
 - **Check whether Camera Raw has Dehaze**, and where. Basic panel in newer versions, **FX panel** in
   older ones, **absent entirely before 2015.** "Find the Dehaze slider" with no Dehaze slider burns ten
-  minutes
-- **Add six photos to the DT set.** A hazy distance, heavy texture, **a portrait**, clouds with edges,
-  one strong dull color, one already very saturated. **The haze photo and the portrait matter most**:
-  without them, Dehaze and the Clarity-on-skin demo are abstractions
-- **Walk back the clipping rule at the start of DT.** Slides 2 and 3. Aesthetics come first, and most
-  good photos want one thing solid black
-- **Say "pick a NEW photo" out loud.** Someone will keep editing yesterday's and miss the point
+  minutes, and question 2 depends on it
+- **Attach both RAW files to the DT assignment**: the hazy cityscape and the backlit portrait. **Open
+  them yourself first**, shift-select, right-click, Open With, Photoshop, and confirm both land in the
+  filmstrip
+- **Put slide 1 up before the bell.** It holds the download and open instructions, so the room starts
+  without you
+- **Tell them not to sync settings** between the two files. The filmstrip offers it and someone will use
+  it
+- **Put the ten-minute checklist on the board and timebox it out loud.** Anyone shaky from Tuesday stalls
+  otherwise, and you want them arriving at the discussion together
 
 ---
 
@@ -91,8 +94,10 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 **Due Monday, out of the white balance lab:** `LastName_WB_Cold_01`, `LastName_WB_Warm_01`,
 `LastName_WB_Fixed_01`, and `LastName_ColorPop_01`.
 
-**Due Friday:** all three sheets, plus `LastName_Before_01` and `LastName_After_01` (Wednesday) and
-`LastName_Final_01` (Friday, a photo they had not touched before).
+**Due Wednesday:** `LastName_City_01`, `LastName_Portrait_01`, and **one short paragraph per photo**
+about their own choices. Not a slider-by-slider account.
+
+**Due Friday:** all three sheets, plus `LastName_Final_01` from a photo they had not touched before.
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays

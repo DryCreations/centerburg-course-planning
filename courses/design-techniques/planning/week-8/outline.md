@@ -13,7 +13,7 @@
 |-----|-------|
 | Mon Oct 5 | **White balance, exporting, and isolating a color.** Four files out by the end |
 | Tue Oct 6 | **Reading the histogram**, clipping, then white balance, tone, two exports |
-| Wed Oct 7 | **The whole process in order**, plus dehaze, clarity, vibrance, saturation |
+| Wed Oct 7 | **Two photos.** Everything so far on your own, then dehaze, vibrance, saturation |
 | Thu Oct 8 | **Color.** HSL, color theory, **then mood and grading as the last step** |
 | Fri Oct 9 | **One more photo, start to finish, alone.** `LastName_Final_01` |
 
@@ -33,7 +33,8 @@
 - Adjust one color independently of the others using HSL
 - Identify whether a photo's colors are complementary, analogous or monochromatic
 - **Edit in order:** coarse before fine, global before local, color last
-- Say what Dehaze and Clarity each do, and where each one ruins a photo
+- Say what Dehaze does, **and why it behaves differently on two different photos**
+- Tell real haze from **veiling glare**, and say why one slider cannot
 - Decide **what to let clip, and what never to**
 
 ## Due Friday
@@ -42,7 +43,7 @@
 - `LastName_WB_Cold_01`, `LastName_WB_Warm_01`, `LastName_WB_Fixed_01`, `LastName_ColorPop_01` **(Monday)**
 - `LastName_Tone_A_01`, `LastName_Tone_B_01` and the tone sheet **(Tuesday, before you leave)**
 - The editing sheet, answered
-- `LastName_Before_01` and `LastName_After_01` **(Wednesday)**
+- `LastName_City_01` and `LastName_Portrait_01`, plus a paragraph on each **(Wednesday)**
 - `LastName_Final_01`, from a photo you had not touched before **(Friday)**
 
 ## Standards Covered
