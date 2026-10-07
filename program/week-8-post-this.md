@@ -54,13 +54,35 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 ---
 
+## Wednesday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Wed through Fri |
+| 1b | **More photos added to the DT set** | **Post with it.** See the list below |
+| 2 | `4-middle-school-cs/handouts/dialogue-lists.md` | **Material.** Dialogue, then project work |
+
+**Do these yourself:**
+
+- **Check whether Camera Raw has Dehaze**, and where. Basic panel in newer versions, **FX panel** in
+  older ones, **absent entirely before 2015.** "Find the Dehaze slider" with no Dehaze slider burns ten
+  minutes
+- **Add six photos to the DT set.** A hazy distance, heavy texture, **a portrait**, clouds with edges,
+  one strong dull color, one already very saturated. **The haze photo and the portrait matter most**:
+  without them, Dehaze and the Clarity-on-skin demo are abstractions
+- **Walk back the clipping rule at the start of DT.** Slides 2 and 3. Aesthetics come first, and most
+  good photos want one thing solid black
+- **Say "pick a NEW photo" out loud.** Someone will keep editing yesterday's and miss the point
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
 |------|------|------|
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
 | 2 | `1-design-techniques/handouts/tone-lab.md` | **Assignment, post Tuesday.** 13 questions, **two files out** |
-| 3 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Wednesday.** Wed through Fri, renumbered 1-21 |
+| 3 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Wednesday.** Wed through Fri, 31 questions |
 | 4 | `1-design-techniques/outline.md` | Material |
 | 5 | `1-design-techniques/week-9-mood-project.md` | **Assignment, Week 9.** Hold until the photo folder exists |
 
@@ -69,7 +91,8 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 **Due Monday, out of the white balance lab:** `LastName_WB_Cold_01`, `LastName_WB_Warm_01`,
 `LastName_WB_Fixed_01`, and `LastName_ColorPop_01`.
 
-**Due Friday:** both sheets, plus `LastName_Before_01`, `LastName_After_01`, and `LastName_Best_01`.
+**Due Friday:** all three sheets, plus `LastName_Before_01` and `LastName_After_01` (Wednesday) and
+`LastName_Final_01` (Friday, a photo they had not touched before).
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays
@@ -136,6 +159,17 @@ and what to listen for are in `week-9-mood-TEACHER.md`.
 | 2 | `3-aviation-uas/outline.md` | Material. The week and the quiz scope |
 | 3 | Quiz from the Week 6 bank, or a fresh cut | **Quiz Friday.** Everything through last Friday |
 
+**Wednesday is the heaviest content day of the week**, and it still runs Tuesday's shape: front-load the
+two things they cannot work out alone, then half the period on Section 3. Those two are **the three
+thunderstorm stages** (mature is rising and falling at once, and that is the dangerous one) and **the
+twenty mile rule** (question 28 asks if 15 miles is enough with clear sky overhead; it is not, and nobody
+guesses the number). Everything else is vocabulary plus their own site: give the word, then ask where it
+happens here.
+
+**Question 30 is the deliverable.** Their own go or no-go numbers, and **grade it on whether they are
+numbers.** "Not too windy" is not a limit. Say why it matters: they hold themselves to these outside
+tomorrow.
+
 **Thursday is flight.** Bring `still-in-use/aviation-orbit-drill.md` outside. Same two drills as last
 week: orbit a fixed target, or figure eight in open air, assigned by name at the briefing.
 
@@ -161,10 +195,19 @@ quiz. Worth replaying Thursday.
 | 1 | `4-middle-school-cs/handouts/list-practice.md` | **Material, post Monday.** Two problems only |
 | 2 | `4-middle-school-cs/handouts/project-plan.md` | **Assignment, post Monday, make-a-copy.** Due Thursday |
 | 3 | `4-middle-school-cs/handouts/list-practice-day-2.md` | **Material, post Tuesday.** The bug, then planning |
+| 3b | `4-middle-school-cs/handouts/dialogue-lists.md` | **Material, post Wednesday.** Dialogue and parallel lists |
 | 4 | `4-middle-school-cs/outline.md` | Material |
 | 5 | Quiz from `quiz-bank.csv` | **Quiz Friday.** 31 questions, cut to 20 |
 
-**No code on the project until the plan is approved.**
+**No code on the project until the plan is approved. The plan is due Thursday**, so say that at the start
+of Wednesday.
+
+**Wednesday is dialogue**, which is for their projects rather than for the quiz. Four blocks from the
+Game drawer: `splash` and `show long text` say things, `ask` and `ask for string` **hand something back**.
+`ask` returns true or false, so it drops straight into an `if`, and that connection is worth making out
+loud: they have written conditions all month, and this is the first one where **the answer comes from the
+player**. Then **parallel lists**: questions and answers in two lists, same order, same index. They break
+it on purpose, and **the wrong-position version is worse than the missing one, because nothing errors.**
 
 **Quiz Friday**, which is new for this class. Lists, loops, conditionals, variables, and the planning
 language from the project sheet. Bank and coverage are in `4-middle-school-cs/quiz.md` (teacher-only,

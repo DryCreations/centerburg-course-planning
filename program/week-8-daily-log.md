@@ -10,9 +10,9 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
-| **Wed** | **Mood**, then clarity, vibrance, saturation | **Split edits**, logged | **Wind, turbulence, severe weather** | **Project planning** | Keep working |
-| **Thu** | **Color.** HSL | **Cutaways and layering** | **FLIGHT.** Same drills as last week | Finish the plan, start building | Keep working |
-| **Fri** | Catch up and submit | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
+| **Wed** | **The whole process in order**, + dehaze, clarity, vibrance, saturation | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
+| **Thu** | **Color.** HSL, then **mood and grading** | **Cutaways and layering** | **FLIGHT.** Same drills as last week | **Plan due.** Start building if approved | Keep working |
+| **Fri** | **One more photo, start to finish, alone** | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
 ---
 
@@ -200,6 +200,78 @@ out loud at the start so nobody paces for a full period of problems. Two questio
 sheet (19 and 20) that feed the plan rather than the practice.
 
 **Yearbook keeps working.** The Week 9 check-in is already posted, expectations unchanged.
+
+---
+
+## Wednesday
+
+**Yesterday's clipping rule was too strict and gets walked back at the start of DT.** "Avoid red and
+blue" produces grey, timid photos. **What is true:** a clipped area is a solid block of one color with no
+detail or texture, and the warnings say **where** that is happening rather than that a mistake was made.
+**Most good photos have at least one thing that is solid black**, and without a true black anywhere an
+image reads washed out and foggy. The rule they get instead: **push until the warning just barely
+appears, then stop**, never clip a large area or the subject, and **aesthetics come first.** Stated as a
+question: not *is anything clipped*, but ***is anything I care about clipped.***
+
+**DT Wednesday is the whole process in order on a new photo**, which is the ramp-up. Eight steps:
+Temperature and Tint, Exposure, Contrast, **Whites then Blacks** (where the black point gets made),
+Highlights then Shadows, **Dehaze**, **Clarity**, **Vibrance then Saturation**. The principle, said out
+loud because it is what makes it stick: **coarse before fine, global before local, color last**, since
+each step leaves less for the next one to do. **Vibrance before Saturation is the same idea one level
+down**: Vibrance lifts the dull colors and protects skin, so set it first and add Saturation only if it
+still needs it, which most photos do not.
+
+**Dehaze may not exist on these machines.** It is in Basic in newer Camera Raw, in the **FX panel** in
+older ones, and **absent entirely before 2015.** Flagged as a before-class check, because "find the
+Dehaze slider" with no Dehaze slider burns ten minutes. If it is missing they skip step 6 and note it;
+Contrast and Blacks do part of the same job less precisely.
+
+**Six photos to add to the DT set, each one making a different slider visible:** a **hazy or misty
+distance** (without it Dehaze looks like contrast and teaches nothing), **heavy texture** like brick or
+rust or bark (Clarity is invisible on smooth subjects), **a portrait** (the counter-example, and what
+Clarity does to skin is the thing they remember), **clouds with edges** (Clarity halos them, which is how
+they learn to spot over-processing elsewhere), **one strong but dull color** like a faded barn (the
+Vibrance photo), and **something already very saturated** like a sunset (Saturation +100 turns it to
+mush, which answers "which colors broke first"). **The haze photo and the portrait matter most.**
+
+**Managing the period:** the risk is drift, since there are four new sliders and they are the fun ones.
+Two things hold it: **make them write the numbers down** at each new slider, because a number is a
+decision and a drag is not; and **circulate asking only "what step are you on?"** A student who cannot
+answer is not working in order, which is the whole lesson.
+
+**Mood moved to Thursday and Friday was rewritten.** Grading is the last thing you do to a photo, so mood
+sits after HSL rather than before it. **Friday is no longer catch-up**: it is a list of photos, pick one
+untouched, take it all the way through alone, no new techniques. `LastName_Final_01`. That is where it
+shows whether anything stuck. The lab is renumbered 1 to 31.
+
+**MS CS Wednesday is dialogue**, which is for their projects, not for Friday's quiz. Four blocks from the
+Game drawer: **`splash` and `show long text` say things; `ask` and `ask for string` hand something back**,
+and that distinction is the first question on the sheet. **`ask` returns true or false**, so it drops
+straight into an `if`, and the connection is worth saying out loud: they have written conditions all
+month and this is the first one where **the answer comes from the player**.
+
+**Then parallel lists, which is the real lesson and ties straight to this week.** Questions in one list,
+answers in another, same order, read with the same index. **Then they break it on purpose:** add a
+question without its answer, then put an answer in at the wrong position. **The second is worse, because
+nothing errors** and the program runs happily and is simply wrong. Same failure shape as Tuesday's
+remove-while-looping bug: the list changed and nothing announced it. First half the sheet, second half
+the project plan, **which is due Thursday.**
+
+**Aviation Wednesday keeps Tuesday's shape**, front-loading only what they cannot work out alone and
+leaving half the period for Section 3. **Two things they genuinely cannot infer:** the three thunderstorm
+stages, where **mature is rising and falling at the same time and that is the dangerous one** (the line
+that lands: it is not the rain that takes an aircraft, it is air going two directions at once), and
+**twenty miles**, the standard separation from a thunderstorm, which question 28 asks about and nobody
+guesses. Everything else is vocabulary plus their own site: give the word, then ask where it happens
+here. **The treeline is their mountain wave**, which answers 22 and 23 together.
+
+**Question 30 is the week's deliverable:** their own go or no-go numbers, graded on whether they are
+numbers. "Not too windy" is not a limit. **They hold themselves to these outside on Thursday**, and
+saying that is what makes them write honest ones.
+
+**Flagged:** these notes and slides are written against **Section 3 as it stands in the repo**, questions
+19 to 30. A revised version was mentioned but not received. **If that section has been edited, the
+slides and teacher notes need re-cutting against it.**
 
 ---
 

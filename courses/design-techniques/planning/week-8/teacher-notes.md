@@ -207,20 +207,116 @@ the far left of the histogram is an obviously dark photo in a way a dark barn is
 
 ---
 
+## Wednesday: the whole process, in order
+
+**Tuesday's pacing worked, so keep the shape:** teach off the slides, prompts that make them look at
+their own screen, then break out.
+
+### First, walk back the clipping rule
+
+**Yesterday it was stated too strictly as "avoid red and blue."** Slides 2 and 3 correct it, and the
+correction is worth the two minutes because the strict version produces grey, timid photos.
+
+**What is actually true:** a clipped area is a solid block of one color with no detail or texture. The
+warnings say **where** that is happening. **They do not say you made a mistake.**
+
+**Most good photos have at least one thing that is solid black.** Without a true black anywhere, an image
+reads washed out, foggy and weak. **That black point is doing real work.**
+
+**The rule to give them:**
+
+| | |
+|---|---|
+| **Want** | Push until the warning **just barely appears**, then stop. A few pixels, not a spreading patch |
+| **Do not want** | A **large area** clipped, or clipping **on the subject**. A blown-out face is a mistake, a blown-out bulb is not |
+| **Who decides** | They do. **Aesthetics come first** |
+
+**Say it as a question:** not *is anything clipped*, but ***is anything I care about clipped.***
+
+### The sequence, and why the order is the lesson
+
+**They start on a NEW photo** and take it all the way through. Eight steps:
+
+| | Step | Why here |
+|---|---|---|
+| 1 | **Temperature, Tint** | A cast makes every later decision a guess |
+| 2 | **Exposure** | Get the midtones roughly right |
+| 3 | **Contrast** | Coarse separation |
+| 4 | **Whites, then Blacks** | **Set the two ends.** The black point gets made here |
+| 5 | **Highlights, then Shadows** | Recover what is inside those ends |
+| 6 | **Dehaze** | Strong and global. After it, everything fine would need redoing |
+| 7 | **Clarity** | Midtone contrast. Texture and edges |
+| 8 | **Vibrance, then Saturation** | Everything above changes color, so color goes last |
+
+**The one sentence that makes it stick:** *coarse before fine, global before local, color last*, because
+**each step leaves less for the next one to do.** A student who starts at Clarity will do it twice.
+
+**Vibrance before Saturation is the same principle one level down.** Vibrance lifts the dull colors and
+protects skin, so set it first and add Saturation only if it still needs it. **Most photos do not.**
+
+### Check Dehaze exists before class
+
+**Dehaze is in the Basic panel in newer Camera Raw and in the FX panel in older ones**, the tab with the
+**fx** icon. **Your install may predate it entirely**, since it arrived in Camera Raw in 2015. **Open the
+editor and look**, because "find the Dehaze slider" with no Dehaze slider will burn ten minutes.
+
+**If it is not there:** they skip step 6, note it on the sheet, and you say the honest version, which is
+that Contrast and Blacks do part of the same job less precisely. Nothing else in the lesson depends on it.
+
+### Managing the period
+
+**The danger today is drift**, because there are four new sliders and they are the fun ones. Two things
+hold it together:
+
+- **Make them write the numbers down** at step 2 and again at each new slider. A number is a decision; a
+  drag is not
+- **Circulate asking one question:** *what step are you on?* A student who cannot answer is not working in
+  order, which is the whole lesson
+
+**Question 9 needs the portrait** from the set. Clarity at +100 on skin is the demonstration that sells
+the slider, and it is the one they will remember. **Make sure everyone actually does it**, even on a
+photo that is not theirs.
+
+---
+
+## Wednesday's photo set: what to add
+
+**They need a new photo today**, and the sliders are different ones, so the set needs different things in
+it. **Six will cover everything**, and each of these exists to make one slider visible:
+
+| Add | Why | What it teaches |
+|---|---|---|
+| **A hazy or misty distance.** Fog over a field, a distant ridge, a skyline in haze | **Without one, Dehaze teaches nothing.** On a clear photo it just looks like contrast | Step 6 |
+| **Heavy texture.** Brick, rust, peeling paint, tree bark, rock, old machinery | Clarity is invisible on smooth subjects and obvious here | Step 7 |
+| **A portrait, or anyone's face** | **The counter-example, and the one they remember.** Clarity wrecks skin, Saturation makes it orange | Question 9 |
+| **Clouds with edges** | Clarity halos cloud edges, which is how they learn to spot over-processing in other people's work | Step 7 |
+| **One strong but dull color.** A faded barn, a washed-out door, a muted sign | **The Vibrance photo.** It lifts without wrecking anything else | Step 8 |
+| **Something already very saturated.** A sunset, flowers, a mural | Saturation at +100 makes it go to mush, which answers "which colors broke first" | Question 11 |
+
+**The haze photo and the portrait are the two that matter most.** Without them, two of the four new
+sliders are abstractions.
+
+**Keep yesterday's requirements too:** a bright area and a dark area in the same frame, not already
+graded, and nothing from a camera newer than this Camera Raw can open. Sourcing is unchanged, above.
+
+**Say "pick a new one" out loud.** Someone will keep editing yesterday's file and miss the point of
+working in order from scratch.
+
+---
+
 ## The rest of the week
 
-**`handouts/editing-week-lab.md` is now the Wednesday-to-Friday sheet**, renumbered 1 to 21. Post it
-Wednesday, not today.
+**`handouts/editing-week-lab.md` is the Wednesday-to-Friday sheet**, renumbered 1 to 31.
 
 | Day | What |
 |-----|------|
-| **Wed** | **Mood** (questions 1 to 3), then Clarity, Vibrance and Saturation. **Color opens up** |
-| **Thu** | **HSL.** One color at a time, then color theory applied |
-| **Fri** | Catch up, pick the best edit, export and submit |
+| **Wed** | **The whole process in order**, plus Dehaze, Clarity, Vibrance, Saturation. Before and after exported |
+| **Thu** | **HSL**, one color at a time, color theory applied, **then mood and grading as the last step** |
+| **Fri** | **A list of photos.** Pick one untouched, take it all the way through alone. `LastName_Final_01` |
 
-**Mood moved from Tuesday to Wednesday.** Tuesday now carries the catch-up, the histogram and both
-rounds on a single page, and that is already full. Mood sits better next to Saturation anyway, since they
-are the same kind of decision.
+**Mood moved to Thursday**, where it belongs: grading is the last thing you do to a photo, so it sits
+after HSL rather than before it. **Friday is no longer catch-up**, it is one more full pass start to
+finish, which is where you find out what actually stuck.
 
 **Wednesday onward they can use their own RAW files again**, and the rest of the color panel opens up.
 Today's restriction is deliberate and temporary; say so, or the ones who found Saturation will think they

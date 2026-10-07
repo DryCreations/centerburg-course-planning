@@ -12,9 +12,9 @@
 | Day | Focus |
 |-----|-------|
 | Mon Oct 5 | Adding and removing from a list. **Two problems**, then the project is introduced |
-| Tue Oct 6 | The larger problem set, the bug, and the collection game |
-| Wed Oct 7 | **Final project planning.** Scope, requirements, breakdown, risk |
-| Thu Oct 8 | Finish the plan and get it approved. Start the first piece if it is |
+| Tue Oct 6 | The larger problem set and the bug, then project planning |
+| Wed Oct 7 | **Dialogue and parallel lists**, then project planning |
+| Thu Oct 8 | **Plan due.** Get it approved, start the first piece if it is |
 | Fri Oct 9 | **QUIZ**, then keep planning or building |
 
 ## What You'll Be Able to Do
@@ -23,6 +23,8 @@
 - Explain what happens to the other items when you remove one
 - Say why removing items while looping through a list breaks
 - Use a list to track what a player has collected
+- Ask the player a question and use the answer to decide what happens
+- **Keep two lists in step with each other**, and say what breaks when they are not
 - Plan a program before writing it, and say what you will build first
 
 ## Due This Week

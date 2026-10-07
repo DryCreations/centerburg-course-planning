@@ -175,5 +175,61 @@ afternoon is the window" is.
 ## Wednesday is the heavy day
 
 Wind effects, turbulence and severe weather together, and it ends in **their own go or no-go numbers**,
-which they take outside Thursday. **Run Wednesday the same way as Tuesday:** review Section 2 together first, then new content, then half
-the period to work. The beats are shorter and there are more of them, because there are more hazards.
+which they take outside Thursday. **Run Wednesday the same way as Tuesday:** front-load what they cannot work out alone, then half the
+period to work. The beats are shorter and there are more of them, because there are more hazards.
+
+### The two things they genuinely cannot infer
+
+**Everything else on Section 3 is vocabulary plus their own site**, and they can reason it out once they
+have the word. **These two they cannot:**
+
+**1. The three thunderstorm stages, and which one is dangerous.** Cumulus is air rising and the cloud
+building. **Mature is rising and falling at the same time, hard, right next to each other**, with rain,
+hail and lightning. Dissipating is mostly sinking and still raining on you. **The line that makes it
+land:** it is not the rain that takes an aircraft, it is air going two directions at once.
+
+**2. Twenty miles.** Question 28 asks whether 15 miles is far enough with clear sky overhead. **It is
+not, and nobody guesses the number.** Standard aviation guidance is to stay twenty miles from a
+thunderstorm, because **the gust front runs out ahead of the storm well beyond the rain**, lightning
+strikes outside the cloud, and the storm is moving, possibly at them.
+
+### Everything else: give the word, then ask where it happens here
+
+**Wind has three names and the name depends on where you are going, not on the wind.** Headwind slows you
+and is the safe direction to be surprised in. Tailwind makes you faster than you think with less control
+stopping. **Crosswind makes the aircraft tilt into it just to fly straight**, which is crabbing, and that
+tilt costs battery and lift.
+
+**Question 20 is the tailwind trap**, and it is worth doing as a turn and talk: flying out with a
+tailwind feels great, and that is exactly what strands people. The way back is into the wind, slower, on
+a battery you already spent.
+
+**Windshear versus steady wind** is the distinction to push on. Steady 20 mph is plannable, the aircraft
+trims for it and holds. **20 mph that appears in one second is what drops an aircraft**, because nothing
+had time to correct. Then ask where at their site you fly from still air straight into moving air:
+corners of buildings, gaps between them, the edge of the treeline. **That answers question 22 and
+question 23 at the same time**, because the treeline is their mountain wave.
+
+**The four turbulence causes are a vocabulary list**, and the examples are all on site: mechanical by the
+gym, thermal over the lot at 2pm, frontal from yesterday, windshear from above.
+
+**Microburst** needs the mechanic spelled out once: you hit the headwind side and get lifted, you correct
+down, and seconds later you are through it into the tailwind side already pointed at the ground.
+
+### The break point
+
+**Once they have the thunderstorm stages and the twenty mile number, send them.** Questions 19 to 30 are
+doable alone after that, and the work time is where question 30 actually gets written.
+
+**Question 30 is the deliverable and it is the week's point:** their own go or no-go numbers. Wind speed,
+gust, visibility, ceiling, temperature. **Collect it.**
+
+**Grade it on one thing: are they numbers?** "Not too windy" is not a limit. And say out loud why it
+matters, which is that **they are holding themselves to these tomorrow**, outside, on whatever the day
+actually is.
+
+### If the worksheet has been edited
+
+These notes are written against **Section 3 as it stands in `handouts/weather-brief-project.md`**,
+questions 19 to 30. **If you have revised that section, send the new version** and the slides and this
+page can be re-cut against it.
