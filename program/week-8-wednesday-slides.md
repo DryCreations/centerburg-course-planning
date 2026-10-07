@@ -7,7 +7,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 7 | **Two photos.** Ten silent minutes, discussion, dehaze, vibrance |
+| Design Techniques | 8 | **Two photos.** Silent review, discussion, dehaze, clarity, vibrance |
 | Video & Sound | 3 | Split edits: three J-cuts, three L-cuts, logged |
 | Aviation UAS | 9 | **Vocab and the two things they cannot infer**, then half the period on Section 3 |
 | Middle School CS | 4 | Dialogue blocks, then **parallel lists**, then project work |
@@ -32,6 +32,8 @@ what they can do unassisted.
 histogram shape rather than centering it.
 **Then Dehaze**, on both photos, which is the one real experiment of the day. **The same slider at the
 same value does two different things**, and question 2 asks why. That is the question worth the most.
+**Then Clarity on both**, which is cheap to add because both files are already open: the cityscape is
+Clarity's best case and the portrait is its worst.
 **Then Saturation against Vibrance** on the portrait, where skin and grass and sky all respond
 differently.
 **Questions are deliberately few, and none are tied to the review stage.** They hand in both finished
@@ -90,7 +92,18 @@ different treatment.
 > Which photo does that actually suit?" Then a box in very large text: "The same slider, at the same
 > number, doing two different things. Question 2 asks WHY. That one is worth the most." One slide.
 
-### Slide 6: Saturation against Vibrance
+### Slide 6: Clarity, on both
+
+> Create one task slide for a high school photography class titled "Clarity." Explain in one line that
+> Clarity is midtone contrast: it works on edges and texture rather than on the whole image. Then three
+> numbered tasks: "1. Push it UP HARD on the CITYSCAPE. What is it doing, and where is it most obvious?
+> 2. Now Clarity to +100 on the PERSON. Describe exactly what it does to skin. Then try it well BELOW
+> ZERO on the same photo. 3. Dehaze and Clarity both make a photo look punchier. How are they DIFFERENT?"
+> Then a box in very large text: "Watch the edges against the sky. That bright outline along a roofline or
+> around hair is called a HALO, and it is how you spot an over-processed photo from across the room." One
+> slide.
+
+### Slide 7: Saturation against Vibrance
 
 > Create one task slide for a high school photography class titled "Saturation vs Vibrance." Use the
 > portrait. Two numbered steps in large text: "1. SATURATION to +60. Look at three places: the sky, the
@@ -100,7 +113,7 @@ different treatment.
 > colors and mostly leaves strong ones alone. It also protects skin." Then a box in large text: "Reach for
 > Vibrance first. Add Saturation only if it still needs it. Most photos do not." One slide.
 
-### Slide 7: Finish and hand in
+### Slide 8: Finish and hand in
 
 > Create one task slide for a high school design class titled "Finish Both. Then Tell Me Why." Body: set
 > everything where you actually want it, on both photos, and you may go back and change earlier
@@ -117,7 +130,8 @@ TODAY'S COMPETENCIES (leave on the board)
          enhancements)
   7.2.7  select colors based on color theory and psychology
   7.4.7  optimize and export graphics files for intended use
-  -> today: TWO photos. dehaze, saturation, vibrance.
+  -> today: TWO photos. dehaze, clarity, saturation,
+     vibrance.
 
 START WITHOUT ME
   1. download BOTH files from today's assignment
@@ -172,6 +186,20 @@ DEHAZE - TRY IT ON BOTH  (basic panel, or FX panel)
 
   *** same slider, same number, two different results.
       Q2 asks WHY. worth the most. ***
+
+CLARITY = midtone contrast (edges + texture, not the
+          whole image)
+  1. UP HARD on the CITYSCAPE. what's it doing?
+     where is it most obvious?
+  2. +100 on the PERSON. describe what it does to SKIN.
+     then try it well BELOW ZERO on that same photo.
+  3. dehaze and clarity both make a photo punchier.
+     how are they DIFFERENT?
+
+  ** watch the edges against the sky. that bright
+     outline along a roofline or around hair is a HALO.
+     it's how you spot an over-processed photo from
+     across the room. **
 
 SATURATION vs VIBRANCE  (use the portrait)
   1. SATURATION +60. look at the SKY, the GRASS,

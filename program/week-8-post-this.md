@@ -97,6 +97,9 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 **Due Wednesday:** `LastName_City_01`, `LastName_Portrait_01`, and **one short paragraph per photo**
 about their own choices. Not a slider-by-slider account.
 
+**Wednesday covers Dehaze, Clarity, Saturation and Vibrance**, on both photos. **The period has no
+slack**: if something gives, shorten the discussion, not the silent review or the finishing time.
+
 **Due Friday:** all three sheets, plus `LastName_Final_01` from a photo they had not touched before.
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and

@@ -218,10 +218,15 @@ person in front of grass with sun behind them and cloud in the sky. **They edit 
 |---|---|
 | **Before the bell** | **Slide 1 is up.** Download both, shift-select, right-click, Open With, Photoshop |
 | **~10 min** | **Silent review.** Monday and Tuesday, both photos, their own calls. **No worksheet questions** |
-| **~12 min** | **Discussion.** Look-fors, artistic choices, histogram shape |
-| **~10 min** | **Dehaze**, on both, and below zero |
-| **~8 min** | **Saturation against Vibrance** on the portrait |
+| **~10 min** | **Discussion.** Look-fors, artistic choices, histogram shape |
+| **~8 min** | **Dehaze**, on both, and below zero |
+| **~6 min** | **Clarity**, on both, and below zero |
+| **~7 min** | **Saturation against Vibrance** on the portrait |
 | **Rest** | Finish both, export both, write the two paragraphs |
+
+**That is a full period with no slack.** If something has to give, **shorten the discussion**, not the
+silent ten minutes and not the finishing time. The two paragraphs are the assignment and they cannot be
+rushed at the bell.
 
 **The ten minutes is the point of the day's first third.** Do not help unless someone is stuck on a
 click. **You are finding out what they can do unassisted**, and that is information you need before
@@ -270,6 +275,38 @@ backlit portrait it can be genuinely good, exaggerating the glow into something 
 **So the artistically correct move on that photo may be the opposite of what the slider is named for.**
 That is a real finding and worth naming as one if a student lands on it.
 
+### Clarity, on both
+
+**Cheap to add, because both files are already open**, and the two photos happen to be Clarity's best
+case and its worst case.
+
+**On the cityscape, this is what Clarity is for.** Building edges, window grids, brick and stonework,
+texture sitting in the midtones. It will look good quickly. **Two things to point out:** the **halo**
+that appears along the roofline against the sky when it goes too far, and that **Clarity makes the haze
+look grungier** rather than clearing it, because it is boosting local contrast inside the murk rather
+than cutting through it.
+
+**On the portrait, this is the demo they remember.** Clarity at +100 on skin exaggerates every pore,
+blemish and line, deepens the shadows under the eyes, and **ages the person by about fifteen years.**
+There will also be a halo around the hair against the bright background. **Let them do it to a real
+face.** It is the fastest way anyone learns why over-clarified photos look wrong.
+
+**Then send them below zero on that same photo**, because **slight negative Clarity is a real portrait
+technique.** It softens skin without blurring the eyes. That pairs with negative Dehaze on the same
+photo, and the two together make a point worth saying out loud: **on this portrait, both sliders are
+better run backwards than forwards.**
+
+**Question 6 is the synthesis question:** Dehaze and Clarity both make a photo look punchier, so how are
+they different? **What you are listening for:**
+
+| | Dehaze | Clarity |
+|---|---|---|
+| **What it targets** | The haze itself. Atmosphere between camera and subject | Local contrast at **edges**, anywhere in the frame |
+| **Color** | Changes it noticeably. Deepens and saturates | Mostly leaves color alone |
+| **The giveaway when overdone** | Skies go unnaturally heavy, shadows crush | **Halos** along hard edges |
+
+**Anyone who says "Dehaze is about distance, Clarity is about edges" has it.**
+
 ### Saturation against Vibrance, on the portrait
 
 **That photo has all three cases in one frame**, which is why it is the right one for this:
@@ -307,21 +344,15 @@ and it lands harder than the explanation.
 most, and anything that fought them. **That paragraph is the assignment**, and it is where you find out
 whether the ten silent minutes taught anything.
 
-### Clarity got cut
-
-**There is no room for it today** and it is not on the sheet. It belongs with the portrait, since Clarity
-on skin is the same lesson as Saturation on skin, **so pick it up Thursday alongside HSL** if you want it,
-or let it go. Nothing later depends on it.
-
 ---
 
 ## The rest of the week
 
-**`handouts/editing-week-lab.md` is the Wednesday-to-Friday sheet**, renumbered 1 to 20.
+**`handouts/editing-week-lab.md` is the Wednesday-to-Friday sheet**, renumbered 1 to 23.
 
 | Day | What |
 |-----|------|
-| **Wed** | **Two photos.** Silent review, discussion, Dehaze on both, Vibrance vs Saturation. Both exported |
+| **Wed** | **Two photos.** Silent review, discussion, Dehaze, Clarity, Vibrance vs Saturation. Both exported |
 | **Thu** | **HSL**, one color at a time, color theory applied, **then mood and grading as the last step** |
 | **Fri** | **A list of photos.** Pick one untouched, take it all the way through alone. `LastName_Final_01` |
 

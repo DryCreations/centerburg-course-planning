@@ -10,7 +10,7 @@
 |-----|----|-----|----------|-------|----------|
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
-| **Wed** | **Two photos.** Silent review, discussion, dehaze, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
+| **Wed** | **Two photos.** Silent review, discussion, dehaze, clarity, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
 | **Thu** | **Color.** HSL, then **mood and grading** | **Cutaways and layering** | **FLIGHT.** Same drills as last week | **Plan due.** Start building if approved | Keep working |
 | **Fri** | **One more photo, start to finish, alone** | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
@@ -243,18 +243,35 @@ and **turns skin orange, visibly from the back of the room.** Vibrance +60 barel
 the grass up plausibly, and **mostly protects the skin.** Demo it on the projector in that order and point
 at the three places.
 
-**Questions are deliberately minimal and none are per-slider.** Seven on Wednesday, and **the deliverable
+**Questions are deliberately minimal and none are per-slider.** Ten on Wednesday, and **the deliverable
 is both finished JPEGs plus one short paragraph per photo**: what they were going for, the two or three
 decisions that mattered most, and anything that fought them. **Not an account of every slider.** The lab
-is renumbered 1 to 20.
+is renumbered 1 to 23.
 
 **Two things that will go wrong, flagged:** double-click may not open Photoshop if the file association
 is something else, which is why the slide says **Open With**; and **the filmstrip offers to sync settings
 across both images**, which would give both photos the cityscape's treatment. **Say not to, twice.**
 
-**Clarity got cut.** No room, and it is not on the sheet. It belongs next to the portrait since Clarity on
-skin is the same lesson as Saturation on skin, **so it can ride along Thursday with HSL** or be dropped
-entirely. Nothing later depends on it.
+**Clarity is in after all**, which is cheap because both files are already open, and the two photos
+happen to be its best case and its worst. **On the cityscape it is what Clarity is for**: building edges,
+window grids, brickwork. Two things to point out there, the **halo** along the roofline against the sky
+when it goes too far, and that **Clarity makes the haze look grungier** rather than clearing it, since it
+boosts local contrast inside the murk instead of cutting through. **On the portrait it is the demo they
+remember**: +100 on skin exaggerates every pore and line and **ages the person about fifteen years**,
+with a halo around the hair against the bright background.
+
+**Then below zero on the portrait, because slight negative Clarity is a real technique** for softening
+skin without blurring the eyes. Paired with negative Dehaze on the same photo, that makes a point worth
+saying out loud: **on this portrait both sliders are better run backwards than forwards.**
+
+**Question 6 is the synthesis question:** both sliders make a photo punchier, so how are they different?
+Listening for **Dehaze targets the haze and changes color noticeably; Clarity targets edges anywhere in
+the frame and mostly leaves color alone, and gives away overuse with halos.** "Dehaze is about distance,
+Clarity is about edges" has it.
+
+**The period now has no slack.** If something has to give it is the discussion, **not the silent ten
+minutes and not the finishing time**, because the two paragraphs are the assignment and cannot be rushed
+at the bell.
 
 **Mood moved to Thursday and Friday was rewritten.** Grading is the last thing you do to a photo, so mood
 sits after HSL. **Friday is no longer catch-up**: a list of photos, pick one untouched, all the way

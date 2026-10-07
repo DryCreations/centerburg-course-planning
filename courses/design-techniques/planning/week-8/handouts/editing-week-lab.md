@@ -81,14 +81,29 @@ actually suit?**
 
 ---
 
+## Clarity
+
+**Clarity is midtone contrast.** It works on edges and texture rather than on the whole image.
+
+**4.** Push Clarity up hard on **the cityscape.** What is it doing, and **where in the photo is it most
+obvious?**
+
+**5.** Now Clarity to **+100** on **the person.** **Describe exactly what it does to skin.** Then try it
+well **below zero** on the same photo.
+
+**6.** Dehaze and Clarity both make a photo look punchier. **From what you just saw, how are they
+different?**
+
+---
+
 ## Saturation and Vibrance
 
-**4.** On the photo with the person: **Saturation to +60.** Look at the sky, the grass, and the person's
+**7.** On the photo with the person: **Saturation to +60.** Look at the sky, the grass, and the person's
 skin. What happened to each?
 
-**5.** Undo that. **Vibrance to +60** instead. **What is different?** Same three places.
+**8.** Undo that. **Vibrance to +60** instead. **What is different?** Same three places.
 
-**6.** Which of the two would you keep on that photo, and **what is the thing that decided it for you?**
+**9.** Which of the two would you keep on that photo, and **what is the thing that decided it for you?**
 
 ---
 
@@ -99,7 +114,7 @@ decisions.
 
 **Export both as JPEG.** `LastName_City_01` and `LastName_Portrait_01`.
 
-**7. One short paragraph per photo.** Not a list of sliders. **What were you going for, and which two or
+**10. One short paragraph per photo.** Not a list of sliders. **What were you going for, and which two or
 three decisions mattered most to getting there?** If something fought you, say what.
 
 ---
@@ -109,22 +124,22 @@ three decisions mattered most to getting there?** If something fought you, say w
 In Camera Raw, find the **HSL / Color** panel, below Basic. Three tabs: **Hue, Saturation,
 Luminance**, each with a row of color sliders.
 
-**8.** Pick one color that actually appears in your photo. Move its **Hue** slider. What happens?
+**11.** Pick one color that actually appears in your photo. Move its **Hue** slider. What happens?
 
-**9.** Move that color's **Saturation** down to −100. Everything else keeps its color. **Why is this more
+**12.** Move that color's **Saturation** down to −100. Everything else keeps its color. **Why is this more
 useful than the global Saturation slider you used yesterday?**
 
-**10.** Move its **Luminance**. What is this changing that Saturation did not?
+**13.** Move its **Luminance**. What is this changing that Saturation did not?
 
-**11.** Make a deliberate choice: pick **one** color and make it the thing the eye goes to first, by
+**14.** Make a deliberate choice: pick **one** color and make it the thing the eye goes to first, by
 adjusting the others down. **Say what you did and why it works.**
 
 ## Color theory, applied
 
-**12.** Look at your photo. Are the main colors **complementary** (opposite on the wheel),
+**15.** Look at your photo. Are the main colors **complementary** (opposite on the wheel),
 **analogous** (next to each other), or basically **monochromatic**?
 
-**13.** Using HSL, push your photo toward one of those three on purpose. **Which did you pick, and what
+**16.** Using HSL, push your photo toward one of those three on purpose. **Which did you pick, and what
 did it do to the feel of the image?**
 
 ## Mood is the last decision
@@ -138,12 +153,12 @@ Grading is choosing what it says.
 | **How far apart dark and light are** | Contrast | **High:** hard, loud, energetic | **Low:** calm, faded, nostalgic |
 | **Which way the color leans** | Temperature | **Warm:** inviting, late afternoon | **Cool:** lonely, clinical, early morning |
 
-**14.** Take one of your photos and make it feel **heavier**, using only those sliders. Which did you
+**17.** Take one of your photos and make it feel **heavier**, using only those sliders. Which did you
 move, and which direction?
 
-**15.** Undo that, and make it feel **lighter and more open.** Same question.
+**18.** Undo that, and make it feel **lighter and more open.** Same question.
 
-**16.** Which of the two is more honest about what the scene actually looked like? **Does that make it the
+**19.** Which of the two is more honest about what the scene actually looked like? **Does that make it the
 better photo?** Answer both parts.
 
 ---
@@ -155,14 +170,14 @@ better photo?** Answer both parts.
 **Take it all the way through by yourself.** No new techniques today. This is the one where you find out
 what stuck.
 
-**17.** Which photo, and what was wrong with it when it opened?
+**20.** Which photo, and what was wrong with it when it opened?
 
-**18.** Which step mattered most on this photo, and which one barely did anything? **Why?**
+**21.** Which step mattered most on this photo, and which one barely did anything? **Why?**
 
-**19.** Export it as `LastName_Final_01`. Then, in one paragraph: **what would you do differently if you
+**22.** Export it as `LastName_Final_01`. Then, in one paragraph: **what would you do differently if you
 started over?**
 
-**20.** One slider still confuses you. Name it and say what you do not understand about it.
+**23.** One slider still confuses you. Name it and say what you do not understand about it.
 
 ---
 
@@ -182,6 +197,7 @@ started over?**
 |---|---|
 | **Dehaze** | Cuts through atmospheric haze in the distance. Also deepens color |
 | **Clarity** | Midtone contrast. Affects texture and edges rather than the whole image |
+| **Halo** | A bright or dark outline along a hard edge. What too much Clarity leaves behind |
 | **Saturation** | Intensity of all colors, equally |
 | **Vibrance** | Intensity of the duller colors, leaving already-strong ones mostly alone |
 | **Black point** | The darkest point in the image. Most photos want one real one |
@@ -195,7 +211,8 @@ started over?**
 
 **On the written answers, not on whether the photos are pretty.**
 
-**Question 2 and question 7 are worth the most.** Question 2 is the one that cannot be guessed: the same
-slider at the same value does two different things, and you have to say why.
+**Questions 2, 6 and 10 are worth the most.** Question 2 cannot be guessed: the same slider at the same
+value does two different things, and you have to say why. **Question 6 is the one that makes you compare**
+rather than just report.
 
-**Question 7 is the assignment.** Two short paragraphs about your own decisions.
+**Question 10 is the assignment.** Two short paragraphs about your own decisions.
