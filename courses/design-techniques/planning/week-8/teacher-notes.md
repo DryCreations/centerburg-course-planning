@@ -1,8 +1,13 @@
 # Week 8 Teacher Notes: Design Techniques
 
-**Teacher-only.** Student docs are `outline.md`, `handouts/white-balance-lab.md` (Monday, already
-posted), **`handouts/tone-lab.md` (Tuesday, the one-pager)** and `handouts/editing-week-lab.md`
-(Wednesday to Friday).
+**Teacher-only.** Student docs are `outline.md` and one sheet per day:
+
+| Day | Sheet | Questions |
+|-----|-------|-----------|
+| Mon | `handouts/white-balance-lab.md` | Already posted |
+| Tue | `handouts/tone-lab.md` | 13 |
+| **Wed** | **`handouts/two-photos.md`** | **5** |
+| Thu, Fri | `handouts/editing-week-lab.md` | 13 |
 
 **Tuesday is taught off the slides, not off Camera Raw.** Every histogram shape they need to recognize
 is drawn on a slide, so you point at a diagram and they compare it to their own screen. **You are not
@@ -251,7 +256,7 @@ side."
 
 ### What Dehaze will actually do, differently, on your two photos
 
-**This is question 2 and it is the best question on the sheet.** The same slider at the same value does
+**This is question 1 and it is the best question on the sheet.** The same slider at the same value does
 two visibly different things, and the reason is that **only one of those photos has real haze in it.**
 
 **On the cityscape:** there is genuine atmosphere between the camera and the far buildings. Dehaze is
@@ -265,11 +270,11 @@ sky goes heavy and can turn almost unnaturally deep, **the grass goes dark and o
 contrast lands hardest right where the backlight was doing the nice thing. **The photo's best feature is
 the thing Dehaze removes.**
 
-**The answer you are listening for on question 2:** one photo has haze between the camera and the
+**The answer you are listening for on question 1:** one photo has haze between the camera and the
 subject, the other has glare from shooting into the sun. **Dehaze cannot tell them apart.** Anyone who
 gets near that has understood the slider better than most adults who use it.
 
-**Negative Dehaze is the payoff of question 3.** Below zero it **adds** a milky lift: shadows come up,
+**Negative Dehaze is the payoff of question 1's second half.** Below zero it **adds** a milky lift: shadows come up,
 color mutes, everything softens. **On the cityscape that just looks like the problem came back.** On the
 backlit portrait it can be genuinely good, exaggerating the glow into something dreamy and intentional.
 **So the artistically correct move on that photo may be the opposite of what the slider is named for.**
@@ -296,7 +301,7 @@ technique.** It softens skin without blurring the eyes. That pairs with negative
 photo, and the two together make a point worth saying out loud: **on this portrait, both sliders are
 better run backwards than forwards.**
 
-**Question 6 is the synthesis question:** Dehaze and Clarity both make a photo look punchier, so how are
+**Question 3 is the synthesis question:** Dehaze and Clarity both make a photo look punchier, so how are
 they different? **What you are listening for:**
 
 | | Dehaze | Clarity |
@@ -336,6 +341,15 @@ and it lands harder than the explanation.
 4. **Go too far, then come back about twenty percent.** Almost everyone under-edits the first pass and
    over-edits the second. **Naming it in advance saves you saying it thirty times**
 
+### The sheet is five questions
+
+**One page, four steps.** Step 1 opens both files. **Step 2 is the silent review with no questions
+attached to it at all.** Step 3 is the four new sliders, pushed both ways on both photos, with four
+reflection questions. Step 4 is deciding final values across both photos and exporting.
+
+**Say "all the way up, then all the way down, then back to zero" out loud** before step 3. The answers
+only exist if they actually went to both ends, and left to themselves they will nudge.
+
 ### What they hand in
 
 **Both JPEGs**, `LastName_City_01` and `LastName_Portrait_01`, **plus one short paragraph per photo.**
@@ -348,7 +362,8 @@ whether the ten silent minutes taught anything.
 
 ## The rest of the week
 
-**`handouts/editing-week-lab.md` is the Wednesday-to-Friday sheet**, renumbered 1 to 23.
+**`handouts/editing-week-lab.md` is now the Thursday-and-Friday sheet**, 13 questions, numbered from 1.
+Wednesday has its own one-pager.
 
 | Day | What |
 |-----|------|

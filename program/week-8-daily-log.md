@@ -243,10 +243,18 @@ and **turns skin orange, visibly from the back of the room.** Vibrance +60 barel
 the grass up plausibly, and **mostly protects the skin.** Demo it on the projector in that order and point
 at the three places.
 
-**Questions are deliberately minimal and none are per-slider.** Ten on Wednesday, and **the deliverable
-is both finished JPEGs plus one short paragraph per photo**: what they were going for, the two or three
-decisions that mattered most, and anything that fought them. **Not an account of every slider.** The lab
-is renumbered 1 to 23.
+**Wednesday got its own one-page sheet, `handouts/two-photos.md`, with five questions.** The four-day
+lab was too much structure for a day that is mostly doing. **Four steps:** open both files; **the silent
+review, with no questions attached to it at all**; push all four new sliders both ways on both photos and
+answer four reflection questions; then decide final values across both and export. **The deliverable is
+both JPEGs plus one short paragraph per photo**, which is question 5. **Not an account of every slider.**
+
+**`editing-week-lab.md` is now the Thursday-and-Friday sheet**, 13 questions, numbered from 1. Every day
+of the week now has its own short sheet, which is the pattern Monday and Tuesday already used.
+
+**One thing to say out loud before step 3:** all the way up, then all the way down, then back to zero.
+Left to themselves they will nudge, and the reflection questions only have answers if they went to both
+ends.
 
 **Two things that will go wrong, flagged:** double-click may not open Photoshop if the file association
 is something else, which is why the slide says **Open With**; and **the filmstrip offers to sync settings

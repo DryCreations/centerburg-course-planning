@@ -58,7 +58,7 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Wed through Fri |
+| 1 | `1-design-techniques/handouts/two-photos.md` | **Assignment, make-a-copy.** One page, 5 questions, due today |
 | 1b | **Two RAW files attached to that assignment** | **A hazy cityscape and a backlit portrait.** They download both |
 | 2 | `4-middle-school-cs/handouts/dialogue-lists.md` | **Material.** Dialogue, then project work |
 
@@ -85,7 +85,8 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 |------|------|------|
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
 | 2 | `1-design-techniques/handouts/tone-lab.md` | **Assignment, post Tuesday.** 13 questions, **two files out** |
-| 3 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Wednesday.** Wed through Fri, 31 questions |
+| 3 | `1-design-techniques/handouts/two-photos.md` | **Assignment, post Wednesday.** One page, 5 questions |
+| 3b | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Thursday.** Thu and Fri, 13 questions |
 | 4 | `1-design-techniques/outline.md` | Material |
 | 5 | `1-design-techniques/week-9-mood-project.md` | **Assignment, Week 9.** Hold until the photo folder exists |
 
@@ -97,8 +98,14 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 **Due Wednesday:** `LastName_City_01`, `LastName_Portrait_01`, and **one short paragraph per photo**
 about their own choices. Not a slider-by-slider account.
 
-**Wednesday covers Dehaze, Clarity, Saturation and Vibrance**, on both photos. **The period has no
-slack**: if something gives, shorten the discussion, not the silent review or the finishing time.
+**Wednesday is one page and five questions.** Step 1 opens both files, **step 2 is the silent review with
+no questions attached**, step 3 is pushing Dehaze, Clarity, Saturation and Vibrance both ways on both
+photos with four reflection questions, step 4 is deciding final values and exporting. **Say "all the way
+up, then all the way down, then back to zero" out loud** before step 3, or they will nudge and have
+nothing to write.
+
+**The period has no slack**: if something gives, shorten the discussion, not the silent review or the
+finishing time.
 
 **Due Friday:** all three sheets, plus `LastName_Final_01` from a photo they had not touched before.
 

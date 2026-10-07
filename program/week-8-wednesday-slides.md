@@ -20,8 +20,11 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 ## 1. Design Techniques: Two photos
 
-**Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Wednesday section),
+**Documents:** **`week-8/handouts/two-photos.md`** (today's sheet, post it with both RAW files attached),
 `week-8/teacher-notes.md`
+**Five questions, four steps, one page.** Step 1 opens both files, step 2 is the silent review with no
+questions attached, step 3 is push all four new sliders both ways and answer four reflection questions,
+step 4 is decide final values on both and export. **The Thursday and Friday work is a separate sheet.**
 **Attach both RAW files to today's Classroom assignment.** A hazy cityscape and a backlit portrait with
 grass and cloud behind. **Slide 1 goes up before the bell** and holds the download and open instructions,
 so the room starts working without you.
@@ -31,13 +34,15 @@ what they can do unassisted.
 **Then the discussion**, which is the middle of the period: look-fors, artistic choices, and reading the
 histogram shape rather than centering it.
 **Then Dehaze**, on both photos, which is the one real experiment of the day. **The same slider at the
-same value does two different things**, and question 2 asks why. That is the question worth the most.
+same value does two different things**, and question 1 asks why. That is the question worth the most.
 **Then Clarity on both**, which is cheap to add because both files are already open: the cityscape is
 Clarity's best case and the portrait is its worst.
 **Then Saturation against Vibrance** on the portrait, where skin and grass and sky all respond
 differently.
 **Questions are deliberately few, and none are tied to the review stage.** They hand in both finished
 JPEGs plus one short paragraph per photo about their own choices. **Not a slider-by-slider account.**
+**Say "push it all the way up, then all the way down, then back to zero" out loud** before step 3. The
+answers only exist if they actually went to both ends.
 **Warn them not to sync settings** between the two files. The filmstrip offers it and the photos need
 different treatment.
 
@@ -90,7 +95,7 @@ different treatment.
 > happened? Look at the distance, not the foreground. 2. Push it up the SAME AMOUNT on the PORTRAIT. It
 > does not behave the same way. Describe the difference. 3. Take it BELOW ZERO on both. What does it add?
 > Which photo does that actually suit?" Then a box in very large text: "The same slider, at the same
-> number, doing two different things. Question 2 asks WHY. That one is worth the most." One slide.
+> number, doing two different things. QUESTION 1 asks why. That one is worth the most." One slide.
 
 ### Slide 6: Clarity, on both
 
@@ -98,7 +103,8 @@ different treatment.
 > Clarity is midtone contrast: it works on edges and texture rather than on the whole image. Then three
 > numbered tasks: "1. Push it UP HARD on the CITYSCAPE. What is it doing, and where is it most obvious?
 > 2. Now Clarity to +100 on the PERSON. Describe exactly what it does to skin. Then try it well BELOW
-> ZERO on the same photo. 3. Dehaze and Clarity both make a photo look punchier. How are they DIFFERENT?"
+> ZERO on the same photo. What is that good for? 3. Dehaze and Clarity both make a photo look punchier.
+> How are they DIFFERENT?"
 > Then a box in very large text: "Watch the edges against the sky. That bright outline along a roofline or
 > around hair is called a HALO, and it is how you spot an over-processed photo from across the room." One
 > slide.
@@ -118,7 +124,7 @@ different treatment.
 > Create one task slide for a high school design class titled "Finish Both. Then Tell Me Why." Body: set
 > everything where you actually want it, on both photos, and you may go back and change earlier
 > decisions. Then the exports, in monospace: "LastName_City_01" and "LastName_Portrait_01". Then the
-> written part in a box, in large text: "ONE SHORT PARAGRAPH PER PHOTO. Not a list of sliders. What were
+> written part in a box, in large text: "QUESTION 5: ONE SHORT PARAGRAPH PER PHOTO. Not a list of sliders. What were
 > you going for, and which two or three decisions mattered most to getting there? If something fought
 > you, say what." One slide.
 
@@ -131,7 +137,7 @@ TODAY'S COMPETENCIES (leave on the board)
   7.2.7  select colors based on color theory and psychology
   7.4.7  optimize and export graphics files for intended use
   -> today: TWO photos. dehaze, clarity, saturation,
-     vibrance.
+     vibrance. FIVE questions. two JPEGs out.
 
 START WITHOUT ME
   1. download BOTH files from today's assignment
@@ -185,7 +191,7 @@ DEHAZE - TRY IT ON BOTH  (basic panel, or FX panel)
      which photo does that actually suit?
 
   *** same slider, same number, two different results.
-      Q2 asks WHY. worth the most. ***
+      Q1 asks WHY. worth the most. ***
 
 CLARITY = midtone contrast (edges + texture, not the
           whole image)
@@ -219,7 +225,7 @@ FINISH BOTH, THEN TELL ME WHY
   export:  LastName_City_01
            LastName_Portrait_01
 
-  *** ONE SHORT PARAGRAPH PER PHOTO.
+  *** Q5: ONE SHORT PARAGRAPH PER PHOTO.
       not a list of sliders.
       what were you going for, and which 2-3
       decisions mattered most?

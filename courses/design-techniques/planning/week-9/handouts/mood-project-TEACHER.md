@@ -15,7 +15,7 @@ well, and galleries post their good ones. Building it meant shooting all four yo
 some range in them. That makes it a download instead of a shoot, and it puts the lesson on the decision
 rather than the repair, which is the harder skill anyway.
 
-**The diagnostic muscle is not lost.** It is Tuesday through Thursday in `week-8/handouts/editing-week-lab.md`,
+**The diagnostic muscle is not lost.** It is Tuesday's `tone-lab.md` and Wednesday's `two-photos.md`,
 where they push every slider to both ends and find clipping by causing it.
 
 ## Where to get the photos
