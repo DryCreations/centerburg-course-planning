@@ -43,9 +43,25 @@ distance to it is obvious from the pilot's position.
 |---|---|
 | **Altitude** | 15 feet, same all the way around |
 | **Radius** | About 20 feet. **Constant** is what matters, not the exact number |
-| **Nose** | Pointed the same direction the whole lap. **Do not yaw yet** |
+| **Nose** | **Pointed at the object the whole way around.** See below |
 | **Speed** | Slow. A slow round orbit beats a fast oval |
 | **Laps** | One each direction |
+
+### The standard changed this week: keep it centered
+
+**The target stays in the middle of the camera frame the whole way around.** That is the goal now, not a
+bonus.
+
+**Which means the aircraft has to rotate as it circles.** Flying a circle with the nose fixed is not
+enough: the object will slide out of frame within a quarter lap. They are now mixing **roll, pitch and
+yaw continuously**, and the controls reverse through the far half.
+
+**This is genuinely hard and the first laps will wobble.** It is also the single best orientation drill
+there is, and it is the real job: photographers and inspectors fly this constantly.
+
+**Scaffold it if someone is drowning:** let them fly one lap nose-fixed first, just to get the circle
+round, then add the rotation on the second lap. **Do not let them stop at nose-fixed**, though. The
+centering is the assignment.
 
 ### Why a target helps
 
@@ -58,6 +74,7 @@ Immediate feedback, no instruments.
 
 ### Judged on
 
+- **Centered:** the object stays in the middle of the frame, all the way around
 - **Round:** the gap to the object does not change
 - **Level:** the far side is the same height as the near side
 - **Continuous:** no stopping and restarting
@@ -70,11 +87,9 @@ Immediate feedback, no instruments.
 
 ### When the orbit is clean
 
-**Add the yaw.** Nose stays pointed at the object the whole way around. Now they are mixing roll, pitch
-and yaw continuously, and the controls reverse through the far half.
-
-**This is genuinely hard.** It is also the single best orientation drill there is, and it is the real
-job: photographers and inspectors fly this constantly.
+**Record it.** A student who thinks they have it films a lap, and the videos get played back and watched
+as a group. **That is the submission**, and it is worth more than your judgement from the ground because
+the frame does not lie about whether the target stayed centered.
 
 ---
 
@@ -86,7 +101,7 @@ job: photographers and inspectors fly this constantly.
 |---|---|
 | **Altitude** | 15 feet, constant through both loops |
 | **Size** | Loops roughly even. If one is visibly bigger, that is the note |
-| **Nose** | Fixed, not yawing |
+| **Nose** | Fixed, not yawing. **There is no single target to center on a figure eight** |
 | **Crossover** | **This is the whole drill** |
 
 ### What you are looking for

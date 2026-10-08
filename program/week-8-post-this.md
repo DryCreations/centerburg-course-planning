@@ -79,6 +79,27 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 ---
 
+## Thursday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Thu and Fri, 13 questions |
+| 2 | `4-middle-school-cs/handouts/bell-ringer-thu.md` | **Material.** Search a list |
+
+**Do these yourself:**
+
+- **Demo the cutaway in CapCut on the projector**, under five minutes: clip on the track above, **mute
+  its audio**, trim to one or two seconds. Then send them to cover their own worst cut
+- **Flight day.** One slide, split: pre-check on the left, the goal on the right. **The centering
+  standard is new**, see `3-aviation-uas/orbit-drill.md`
+- **Say a no-go is a real answer** before anyone goes outside. If today exceeds the limits they wrote
+  yesterday, saying so is the correct call and it gets logged
+- **Collect MS CS project plans.** Walk the room and ask the one question that is the whole rubric: what
+  breaks if I remove it?
+- **Trojan time.** `program/trojan-time-oct.md`. Count To Twenty, then Werewolf. **Nothing to print**
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
@@ -185,7 +206,7 @@ happens here.
 numbers.** "Not too windy" is not a limit. Say why it matters: they hold themselves to these outside
 tomorrow.
 
-**Thursday is flight.** Bring `still-in-use/aviation-orbit-drill.md` outside. Same two drills as last
+**Thursday is flight.** Bring `week-7/handouts/orbit-drill.md` outside. Same two drills as last
 week: orbit a fixed target, or figure eight in open air, assigned by name at the briefing.
 
 **Friday's leftover time after the quiz is for finishing the brief**, not for new material.

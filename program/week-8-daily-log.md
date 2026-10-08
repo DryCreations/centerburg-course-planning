@@ -11,7 +11,7 @@
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Two photos.** Silent review, discussion, dehaze, clarity, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
-| **Thu** | **Color.** HSL, then **mood and grading** | **Cutaways and layering** | **FLIGHT.** Same drills as last week | **Plan due.** Start building if approved | Keep working |
+| **Thu** | **HSL**, then mood and grading | **Cutaways.** Cover your worst cut | **FLIGHT.** Orbit, now **centered in frame** | **Plan due.** Bell ringer: search a list | Keep working |
 | **Fri** | **One more photo, start to finish, alone** | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
 ---
@@ -313,6 +313,77 @@ saying that is what makes them write honest ones.
 **Flagged:** the Aviation slides and notes are written against **Section 3 as it stands in the repo**,
 questions 19 to 30. A revised version was mentioned but not received. **If that section has been edited,
 the slides and teacher notes need re-cutting against it.**
+
+---
+
+## Thursday
+
+**DT is HSL, and the whole idea is one sentence:** yesterday every color slider moved **all** the colors,
+today each one moves **one.** Three tabs, and the pair worth separating is **Saturation versus
+Luminance**, because they sound similar and look nothing alike: saturation down on blue gives a pale
+washed grey-blue at the same brightness, luminance down on blue gives a deep dark blue that is still
+fully blue. **Try both on the sky** is the demo.
+
+**Question 2 is the hinge:** why is dropping one color's saturation more useful than dropping all of
+them? If they can answer that, HSL has landed.
+
+**Grading comes last and the ordering is the lesson.** Everything from Monday to now was making the
+photo honest. **Mood is choosing what it says, and it only works once the photo is correct underneath.**
+Question 9 has no right answer and they still have to pick one and defend it.
+
+**V&S Thursday was already on the books as cutaways and layering**, and the CapCut demo is three steps:
+main clip stays on the bottom track with its audio, cutaway goes on the track above, **mute the
+cutaway's audio.** Then trim to one or two seconds, because a long cutaway stops being a cover and
+becomes a scene.
+
+**The question that matters is why the audio gets muted**, which is question 5 on the layering handout:
+**video tracks cover each other, audio tracks mix.** Leave it in and you hear two rooms at once, and the
+moment the audience hears a second room the cutaway stops hiding the cut and starts pointing at it.
+
+**Then they find their worst cut and cover it**, which is question 4 and the actual assignment.
+**Circulate for one thing:** is the cutaway something a person in that scene could plausibly be looking
+at? A random shot does not hide a cut, it announces one.
+
+**Aviation is flight, so one slide, split down the middle.** Pre-check on the left, the goal on the
+right, and it stays up while they get ready. **They already wrote their limits yesterday** in Section 3
+question 30, and today those numbers get used, which is the whole reason for having written them. **A
+no-go is a real outcome** and gets logged and graded as a correct call: said before anyone goes outside.
+
+**The orbit standard changed and `orbit-drill.md` was updated to match.** The target now **stays centered
+in the camera frame the whole way around**, which means **the aircraft has to rotate as it circles.**
+Flying a circle nose-fixed is no longer enough: the object slides out of frame within a quarter lap. That
+is roll, pitch and yaw mixed continuously with the controls reversing through the far half, so **expect
+the first laps to wobble.** A scaffold is in the drill sheet: one lap nose-fixed to get the circle round,
+then add the rotation, **but not stopping at nose-fixed.**
+
+**The figure eight has no single target to center on**, so its standard stays even loops, constant
+altitude and a clean crossover. **Worth saying out loud** so that group does not think it is being let
+off.
+
+**Recording is the submission.** Anyone who thinks they have it films a lap, and the videos get played
+back and watched as a group. **The frame does not lie** about whether the target stayed centered, which
+is more reliable than a judgement from the ground.
+
+**MS CS bell ringer is searching a list**, which is new rather than a variation: write a loop that finds
+the index of a value and gives back **−1** when it is not there. **The −1 convention is worth two
+minutes**: 0 cannot mean "not found" because 0 is a real index, the first item, and −1 is never a real
+index. Every language does it this way and now they know why. **Then point them at the `index of` block**
+in the Arrays drawer, so they meet a built-in by having already written it.
+
+**The payoff to say out loud:** `remove value at index` needs an index, and until today they had no way
+to find one. That is what makes this immediately useful in their projects, along with checking whether
+the player already has something.
+
+**Project plans are due today.** Walk the room asking the one question that is the entire rubric: **what
+breaks if I remove it?** Approved plan means they start building today.
+
+**Trojan time is also today**, 17 students, about 25 minutes, monthly, no academic obligation.
+`program/trojan-time-oct.md` holds a **no-setup plan**: five minutes of **Count To Twenty** (count to
+twenty as a group, anybody can say the next number, two people at once means starting over), then
+**twenty minutes of Werewolf** with role counts for 17, a run-of-show, and the five things that go wrong
+with fixes. **Drawing Telephone is the paper-and-pencil backup** if moderating is unappealing. The
+argument for Werewolf: it gets the quiet kids talking **because the game requires it**, which is work
+that "tell us a fun fact" never does.
 
 ---
 
