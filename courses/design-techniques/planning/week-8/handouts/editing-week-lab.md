@@ -1,4 +1,4 @@
-# Color, and Finishing
+# One Color At A Time
 
 **Design Techniques | Unit 2.1 Photography | Thursday and Friday**
 
@@ -6,51 +6,118 @@ Monday's white balance sheet, Tuesday's tone lab and Wednesday's two photos are 
 
 **7.9.6** Edit photographs (e.g., color corrections, cropping, enhancements).
 **7.2.7** Select colors based on color theory and psychology.
-**7.4.7** Optimize and export graphics files for intended use.
 
 ---
 
-# Thursday: One color at a time, then mood
+# Thursday
 
-In Camera Raw, find the **HSL / Color** panel, below Basic. Three tabs: **Hue, Saturation, Luminance**,
-each with a row of color sliders.
+**Every color slider you have used so far moved all the colors at once. Today each one moves one.**
 
-**Use one of yesterday's photos.**
+Find the **HSL / Color** panel, below Basic. Three tabs:
 
-**1.** Pick a color that actually appears in it. Move that color's **Hue** slider. What happens?
+| Tab | What it changes about that one color |
+|---|---|
+| **Hue** | **Which** color it is. Slide the green toward yellow, or toward blue |
+| **Saturation** | How **strong** it is |
+| **Luminance** | How **bright** it is |
 
-**2.** Move that color's **Saturation** down to −100. Everything else keeps its color. **Why is this more
-useful than the global Saturation slider you used yesterday?**
+**Open the photo for today.** You will use one photo for all of this.
 
-**3.** Move its **Luminance.** What is this changing that Saturation did not?
+---
 
-**4.** Pick **one** color and make it the thing the eye goes to first, by pulling the others down. **Say
-what you did and why it works.**
+## Step 1: Look before you touch
 
-## Color theory, applied
+**1.** Name the **three** colors that take up the most space in this photo.
 
-**5.** Are the main colors in your photo **complementary** (opposite on the wheel), **analogous** (next to
-each other), or basically **monochromatic**?
+---
 
-**6.** Push the photo toward one of those three on purpose. **Which, and what did it do to the feel?**
+## Step 2: Find out which slider actually owns what
 
-## Mood is the last decision
+**Pick one of your three. Drag its Saturation to −100.**
 
-**Correct is a measurement. Mood is a decision.** Everything until now was getting the photo honest.
-Grading is choosing what it says.
+**2.** What went grey, and **what did you expect to go grey that did not?**
 
-| The decision | The slider | One way | The other way |
+> **Most things in a photo are not one color.** A sky is usually blue **and** aqua. Grass is green **and**
+> yellow. Skin is orange **and** red. **One slider rarely owns a whole object**, which is why you will
+> often need two of them to do one job.
+
+**3.** Put it back. Now find the **second** slider that your object also lives in. Which one is it?
+
+---
+
+## Step 3: The three moves
+
+**Each tab is good at a different job.** Try all three on your photo.
+
+### Hue is for fixing and separating
+
+Use it when a color is **wrong** (sickly, muddy) or when **two colors are too close together** and mush
+into each other.
+
+**4.** Find a color you can improve by shifting its Hue. **Which color, which direction, and what did it
+fix?**
+
+### Saturation is for subtracting
+
+**The way to emphasize one color is to take the others away.** Pulling nine sliders down is usually
+better than pushing one up.
+
+### Luminance is for drama
+
+Darkening a color makes it **heavier and more serious**. Brightening it makes it **lift off the page.**
+
+**5.** Drop the **Luminance** of your sky, or your darkest large color, to about −40. **What happened,
+and why does this look different from dropping its Saturation?**
+
+---
+
+## Step 4: Make one color win
+
+**Pick one color and make it the first thing the eye lands on.** Use all three tabs. Pull the others
+down, shift anything that competes with it out of the way, and adjust its brightness.
+
+**6.** Which color did you pick, and **what are the three specific moves you made?** Then: **where did
+the eye go before, and where does it go now?**
+
+---
+
+## Export
+
+**Save Image**, JPEG, named `LastName_Color_01`. Upload it.
+
+---
+
+## Extension: color grading
+
+**Finished early? This is where the look of a photo comes from.**
+
+Scroll past HSL. You are looking for a panel called **Color Grading**, with color wheels for Shadows,
+Midtones and Highlights. **In older versions of Camera Raw it is called Split Toning instead**, with a
+Hue and Saturation pair for Highlights, the same for Shadows, and a Balance slider between them. **Either
+one does the same job: putting a different color into the bright parts than into the dark parts.**
+
+**The rule that keeps this from looking terrible: keep Saturation low.** Somewhere around **5 to 15.**
+Split toning at 60 looks like a broken television. The good version is almost subtle enough to miss.
+
+### Four looks worth trying
+
+| Look | Highlights | Shadows | Where you have seen it |
 |---|---|---|---|
-| **Where the shadows sit** | Shadows, Blacks | **Lifted:** soft, open, modern | **Crushed:** heavy, cinematic |
-| **How far apart dark and light are** | Contrast | **High:** hard, energetic | **Low:** calm, faded |
-| **Which way the color leans** | Temperature | **Warm:** inviting, late afternoon | **Cool:** lonely, clinical |
+| **Teal and orange** | Warm, orange or gold | Cool, teal or blue | Every action movie poster of the last twenty years |
+| **Golden hour, faked** | Warm gold | Warm, slightly brown | Travel photography, nostalgia, adverts |
+| **Cold and cinematic** | Leave neutral | Blue, and push it a little further than feels safe | Thrillers, night scenes, anything lonely |
+| **Faded film** | Pale yellow | Soft green | Old photographs, anything meant to feel like a memory |
 
-**7.** Make the photo feel **heavier**, using only those sliders. Which did you move, and which way?
+### What to notice while you do it
 
-**8.** Undo that. Make it feel **lighter and more open.** Same question.
+- **Shadows take color much more easily than highlights.** You will need less than you think
+- **The Balance slider decides where "shadow" stops and "highlight" starts.** Move it and the whole look
+  changes without touching a hue
+- **Watch the skin, if there is any.** Teal shadows on a face can read as cold and ill very quickly
+- **Toggle it off and on.** If you cannot see it, go further. If you notice it before you notice the
+  photo, go back
 
-**9.** Which version is more honest about what the scene actually looked like? **Does that make it the
-better photo?** Answer both parts.
+**Export your favourite as `LastName_Grade_01`** and say in one sentence what you were going for.
 
 ---
 
@@ -60,32 +127,25 @@ better photo?** Answer both parts.
 
 **Take it all the way through by yourself.** No new techniques. This is where you find out what stuck.
 
-**10.** Which photo, and what was wrong with it when it opened?
+**7.** Which photo, and what was wrong with it when it opened?
 
-**11.** Which step mattered most on this one, and which barely did anything? **Why?**
+**8.** Which step mattered most on this one, and which barely did anything? **Why?**
 
-**12.** Export it as `LastName_Final_01`. Then, in one paragraph: **what would you do differently if you
+**9.** Export it as `LastName_Final_01`. Then, in one paragraph: **what would you do differently if you
 started over?**
 
-**13.** One slider still confuses you. Name it and say what you do not understand about it.
+**10.** One slider still confuses you. Name it and say what you do not understand about it.
 
 ---
 
 ## Turn in
 
 - This sheet
+- **`LastName_Color_01`** (Thursday)
 - **`LastName_Final_01`** (Friday)
-
-## Words
-
-| Term | Meaning |
-|---|---|
-| **HSL** | Hue, Saturation, Luminance. Controls colors one at a time |
-| **Hue** | Which color it is |
-| **Luminance** | How bright that one color is |
-| **Grading** | Choosing the mood. The last step, after the photo is honest |
+- **`LastName_Grade_01`** if you did the extension
 
 ## Grading
 
-**Questions 4, 9 and 11 are worth the most.** Question 9 has no right answer and you still have to pick
-one and defend it.
+**Questions 2 and 6 are worth the most.** Question 2 is the one nobody expects: the thing you thought was
+one color is two.

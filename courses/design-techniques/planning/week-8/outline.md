@@ -14,7 +14,7 @@
 | Mon Oct 5 | **White balance, exporting, and isolating a color.** Four files out by the end |
 | Tue Oct 6 | **Reading the histogram**, clipping, then white balance, tone, two exports |
 | Wed Oct 7 | **Two photos.** Everything so far on your own, then dehaze, clarity, vibrance, saturation |
-| Thu Oct 8 | **Color.** HSL, color theory, **then mood and grading as the last step** |
+| Thu Oct 8 | **HSL.** One color at a time, with **color grading** as the extension |
 | Fri Oct 9 | **One more photo, start to finish, alone.** `LastName_Final_01` |
 
 ## What You'll Be Able to Do
@@ -31,6 +31,8 @@
 - Say what each slider in the Basic panel does, having pushed it to both ends
 - Tell the difference between Saturation and Vibrance, and when to use each
 - Adjust one color independently of the others using HSL
+- Say why **one slider rarely owns a whole object**
+- Put one color in the shadows and a different one in the highlights, without it looking broken
 - Identify whether a photo's colors are complementary, analogous or monochromatic
 - **Edit in order:** coarse before fine, global before local, color last
 - Say what Dehaze does, **and why it behaves differently on two different photos**
@@ -45,6 +47,7 @@
 - `LastName_Tone_A_01`, `LastName_Tone_B_01` and the tone sheet **(Tuesday, before you leave)**
 - The editing sheet, answered
 - `LastName_City_01` and `LastName_Portrait_01`, plus a paragraph on each **(Wednesday)**
+- `LastName_Color_01` **(Thursday)**, and `LastName_Grade_01` if you do the extension
 - `LastName_Final_01`, from a photo you had not touched before **(Friday)**
 
 ## Standards Covered

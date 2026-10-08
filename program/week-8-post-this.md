@@ -83,7 +83,8 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Thu and Fri, 13 questions |
+| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Thu and Fri, 10 questions plus an extension |
+| 1b | **One photo for the HSL activity** | Yesterday's portrait works. **One with a strong accent color is better** |
 | 2 | `4-middle-school-cs/handouts/bell-ringer-thu.md` | **Material.** Search a list |
 
 **Do these yourself:**
@@ -96,6 +97,9 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
   yesterday, saying so is the correct call and it gets logged
 - **Collect MS CS project plans.** Walk the room and ask the one question that is the whole rubric: what
   breaks if I remove it?
+- **Check which grading panel Camera Raw has.** Newer versions call it **Color Grading** with three
+  wheels, older ones **Split Toning** with hue and saturation pairs. The extension covers both, but name
+  the one they will actually see
 - **Trojan time.** `program/trojan-time-oct.md`. Count To Twenty, then Werewolf. **Nothing to print**
 
 ---
@@ -128,7 +132,9 @@ nothing to write.
 **The period has no slack**: if something gives, shorten the discussion, not the silent review or the
 finishing time.
 
-**Due Friday:** all three sheets, plus `LastName_Final_01` from a photo they had not touched before.
+**Due Thursday:** `LastName_Color_01`, plus `LastName_Grade_01` from anyone who did the extension.
+
+**Due Friday:** all the sheets, plus `LastName_Final_01` from a photo they had not touched before.
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays

@@ -7,7 +7,7 @@
 | Mon | `handouts/white-balance-lab.md` | Already posted |
 | Tue | `handouts/tone-lab.md` | 13 |
 | **Wed** | **`handouts/two-photos.md`** | **5** |
-| Thu, Fri | `handouts/editing-week-lab.md` | 13 |
+| Thu, Fri | `handouts/editing-week-lab.md` | 10, plus an extension |
 
 **Tuesday is taught off the slides, not off Camera Raw.** Every histogram shape they need to recognize
 is drawn on a slide, so you point at a diagram and they compare it to their own screen. **You are not
@@ -360,6 +360,86 @@ whether the ten silent minutes taught anything.
 
 ---
 
+## Thursday: picking the HSL photo
+
+**One photo for the whole activity.** HSL is per-color, so the photo is doing more work than usual: if
+the colors are not clearly separated, the sliders have nothing to separate.
+
+### What the photo needs
+
+| Must have | Why |
+|---|---|
+| **Three or four clearly distinct hues**, in large areas | A slider that moves a tiny sign teaches nothing. They need to see it from across the room |
+| **A blue sky** | **Blue Luminance is the single most satisfying demo in HSL.** The sky goes deep and dramatic and nothing else in the photo moves. Nearly every landscape photographer leans on it |
+| **Green foliage** | Green Hue is the most visible Hue move there is. Shift it toward yellow and the scene goes autumnal, toward blue and it goes cold and lush |
+| **One strong warm accent** | A red door, a yellow sign, an orange jacket. **This is the "make one color win" subject.** Without it, step 4 has no obvious candidate |
+| **Colors that do not blend into each other** | A sunset gradient is useless here: you cannot tell which slider did what |
+
+**The classic picture:** a red barn in a green field under a blue sky. Also works: a yellow taxi on a
+grey street with a tree in frame, a red door on a pale building with greenery beside it, a person in a
+red jacket on a trail.
+
+**Do not use:** anything monochromatic or muted, sunsets, night shots, or anything already graded.
+
+### The cheap option
+
+**Yesterday's backlit portrait already has sky, grass and skin**, which covers blue, green and orange.
+**That is three separable colors with no new download**, and the sheet says to use one photo, so it fits.
+**What it lacks is a strong accent color** for step 4, so "make one color win" becomes "make the sky win"
+or "make the person's clothing win," which is weaker but workable.
+
+**If you have ten minutes, find one new photo with an accent.** It makes step 4 land properly. **If you
+do not, reuse the portrait** and nothing breaks.
+
+### If you want a second photo
+
+**The best second photo is one where HSL is the fix, not the flourish:** foliage with a **sickly
+yellow-green cast**, which is extremely common in free RAW files. Shifting green Hue a few points toward
+blue makes it instantly look professional, and that is a genuine "oh" moment.
+
+**A portrait is the other good second photo**, because the orange and red sliders control skin, so it
+teaches the caution at the same time as the technique.
+
+### Why step 2 is the best thing on the sheet
+
+**Students assume one slider owns one object. It does not.** A sky sits in **blue and aqua**, grass in
+**green and yellow**, skin in **orange and red**. So their first attempt at a dramatic sky half works,
+and they cannot see why.
+
+**Step 2 makes them discover it** by pulling one slider to −100 and noticing what did *not* go grey.
+**Once they have that, HSL makes sense.** Before it, HSL feels broken.
+
+### The three jobs, which is the framing that makes the tabs distinct
+
+Without this, the three tabs feel like the same slider three times.
+
+| Tab | Job | When |
+|---|---|---|
+| **Hue** | **Fix and separate** | A color is wrong, sickly or muddy, or two colors are so close they mush together |
+| **Saturation** | **Subtract to emphasize** | You want one color to dominate. **Pull the other nine down rather than pushing one up** |
+| **Luminance** | **Add drama** | Darker is heavier and more serious. Brighter lifts off the page |
+
+**Say the subtraction point out loud.** Every student's instinct is to push their favorite color up, which
+produces a neon mess. Taking the others away produces a photograph.
+
+### The extension: check which panel you have
+
+**It is written at the bottom of the sheet**, with four named looks and a hard rule about saturation.
+
+**Newer Camera Raw has Color Grading**, three wheels for Shadows, Midtones and Highlights. **Older
+versions have Split Toning instead**, a Hue and Saturation pair for highlights, the same for shadows, and
+a **Balance** slider. **Both do the same job** and the sheet covers both, but **look before class** so
+you can name the one they will see.
+
+**The rule that keeps it from being a disaster: saturation around 5 to 15.** At 60 it looks like a broken
+television, and a student who tries it at 60 first will conclude the whole panel is useless.
+
+**Two things worth saying while they work:** shadows take color far more easily than highlights, so they
+will need less than they think; and **watch any skin**, because teal shadows on a face read as cold and
+ill very quickly.
+
+---
+
 ## The rest of the week
 
 **`handouts/editing-week-lab.md` is now the Thursday-and-Friday sheet**, 13 questions, numbered from 1.
@@ -368,7 +448,7 @@ Wednesday has its own one-pager.
 | Day | What |
 |-----|------|
 | **Wed** | **Two photos.** Silent review, discussion, Dehaze, Clarity, Vibrance vs Saturation. Both exported |
-| **Thu** | **HSL**, one color at a time, color theory applied, **then mood and grading as the last step** |
+| **Thu** | **HSL**, one color at a time, with a **color grading extension** at the bottom of the sheet |
 | **Fri** | **A list of photos.** Pick one untouched, take it all the way through alone. `LastName_Final_01` |
 
 **Mood moved to Thursday**, where it belongs: grading is the last thing you do to a photo, so it sits

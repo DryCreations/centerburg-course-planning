@@ -7,7 +7,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 7 | **HSL.** One color at a time, then grading |
+| Design Techniques | 8 | **HSL.** One color at a time, with a grading extension |
 | Video & Sound | 4 | **Cutaways**, demoed in CapCut, then work time |
 | Aviation UAS | 1 | **FLIGHT.** One slide, split: pre-check and the goal |
 | Middle School CS | 3 | Bell ringer: search a list. Then **plan due** |
@@ -19,17 +19,24 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 
 ## 1. Design Techniques: One color at a time
 
-**Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Thursday section is questions 1 to 9)
-**They use one of yesterday's two photos.** The portrait is the better choice for HSL, because skin,
-grass and sky all respond differently, but either works.
-**The whole idea in one sentence:** yesterday every color slider moved **all** the colors. Today each one
-moves **one.**
-**Question 2 is the hinge.** Why is dropping one color's saturation more useful than dropping all of
-them? If they can answer that, HSL has landed.
-**Grading comes last, and that ordering is the point.** Everything until now was making the photo
-honest. Mood is choosing what it says, and it only works once the photo is correct underneath.
-**Nobody is graded on which mood they pick.** Question 9 has no right answer and they still have to pick
-one and defend it.
+**Documents:** `week-8/handouts/editing-week-lab.md` (post it today, Thursday is questions 1 to 6 plus
+the extension)
+**One photo for the whole activity.** Yesterday's portrait works if you want to save time, since it
+already has sky, grass and skin. **A photo with a strong warm accent is better**, see the teacher notes.
+**The whole idea in one sentence:** every color slider so far moved **all** the colors, today each moves
+**one.**
+**Step 2 is the part nobody expects and it is the best thing on the sheet.** Drag one color's Saturation
+to −100 and **something you expected to go grey will not**, because a sky is blue *and* aqua, grass is
+green *and* yellow, skin is orange *and* red. **One slider rarely owns a whole object.** That discovery
+is what makes HSL click, and it is also why their first attempt at "make the sky dramatic" half works.
+**Then three jobs, one per tab:** Hue **fixes and separates**, Saturation **subtracts to emphasize**,
+Luminance **adds drama.** Say those three words, because otherwise the three tabs feel like the same
+slider three times.
+**The emphasis trick is subtraction.** Pulling nine sliders down beats pushing one up. Worth saying out
+loud, because every student's instinct is the opposite.
+**The extension is color grading**, written at the bottom of the sheet with four named looks. **Check
+which panel you have before class:** newer Camera Raw has **Color Grading** with three wheels, older has
+**Split Toning** with hue and saturation pairs. Both do the same job.
 
 ### Slide 1: Standards and agenda
 
@@ -37,68 +44,77 @@ one and defend it.
 > "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
 > numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.2.7 Select colors
 > based on color theory and psychology. Bottom half, headed "What we are doing," is a short two-column
-> list pairing each activity with its competency: "Find the HSL panel, and its three tabs" with 7.9.6;
-> "Move ONE color without touching the others" with 7.9.6; "Make one color the thing the eye goes to
-> first" with 7.2.7; "Complementary, analogous, monochromatic: which is your photo?" with 7.2.7;
-> "Grading: mood is the last decision" with 7.2.7. Keep both halves readable from the back of the room.
-> One slide.
+> list pairing each activity with its competency: "Name the three colors that fill your photo" with
+> 7.2.7; "Find out which slider actually owns what" with 7.9.6; "Hue fixes, Saturation subtracts,
+> Luminance adds drama" with 7.9.6; "Make ONE color win" with 7.2.7; "Extension: color grading" with
+> 7.2.7. Keep both halves readable from the back of the room. One slide.
 
 ### Slide 2: Yesterday moved all of them. Today, one.
 
 > Create one concept slide for a high school photography class titled "One Color At A Time." Two
-> contrasting blocks. Left, headed "YESTERDAY": "Saturation and Vibrance moved EVERY color in the photo.
-> You got one decision for the whole image." Right, headed "TODAY": "HSL gives you a separate slider for
-> each color. You can change the blue and leave the green exactly where it was." Then a box in very large
-> text: "That is the entire idea. Everything else today is practice." One slide.
+> contrasting blocks. Left, headed "EVERY SLIDER SO FAR": "Saturation and Vibrance moved EVERY color in
+> the photo. One decision for the whole image." Right, headed "TODAY": "HSL gives you a separate slider
+> for each color. Change the blue, leave the green exactly where it was." Then the three tabs as a short
+> table: "HUE: which color it is." "SATURATION: how strong it is." "LUMINANCE: how bright it is." Then a
+> box in very large text: "That is the entire idea. Everything else today is practice." One slide.
 
-### Slide 3: Finding it, and the three tabs
+### Slide 3: Look before you touch
 
-> Create one slide for a high school photography class titled "The HSL Panel." Explain it sits below the
-> Basic panel in Camera Raw and may be labeled HSL, or Color, or Color Mixer depending on the version.
-> Then the three tabs, each with a plain definition in large text: "HUE: WHICH color it is. Slide the
-> green toward yellow, or toward blue." "SATURATION: how STRONG that one color is." "LUMINANCE: how
-> BRIGHT that one color is." Then a box: "Each tab has a row of color sliders. You are picking a color
-> first, then deciding what to do to it." One slide.
+> Create one task slide for a high school photography class titled "Step 1: Name Three." One instruction
+> in very large text: "Before you touch anything: name the THREE colors that take up the most space in
+> your photo." Then a line underneath: "Write them down. You are about to find out you were wrong about
+> at least one of them." One slide.
 
-### Slide 4: Saturation is not Luminance
+### Slide 4: Which slider actually owns what
+
+> Create one slide for a high school photography class titled "Step 2: It Is Never Just One Slider."
+> First the task: "Pick one of your three colors. Drag its SATURATION to minus 100." Then a prompt box
+> headed "TELL ME": "What went grey? And what did you EXPECT to go grey that did not?" Then, visually
+> separated, the explanation in large text: "Most things in a photo are not one color." Then three short
+> examples stacked: "A sky is usually BLUE and AQUA." "Grass is GREEN and YELLOW." "Skin is ORANGE and
+> RED." Then a box in very large text: "One slider rarely owns a whole object. That is why your first try
+> at a dramatic sky only half works." One slide.
+
+### Slide 5: Three tabs, three jobs
+
+> Create one concept slide for a high school photography class titled "Three Tabs, Three Jobs." A
+> three-row table, each row a tab with its job and when to use it. "HUE: FIXING and SEPARATING. Use it
+> when a color is wrong, sickly or muddy, or when two colors are so close they mush into each other."
+> "SATURATION: SUBTRACTING. The way to emphasize one color is to take the others away." "LUMINANCE:
+> DRAMA. Darker makes a color heavier and more serious. Brighter makes it lift off the page." Then a box
+> in very large text: "Pulling nine sliders DOWN beats pushing one UP. Your instinct is the opposite of
+> this." One slide.
+
+### Slide 6: Saturation is not Luminance
 
 > Create one slide for a high school photography class titled "Strong Is Not Bright." Use the sky as the
-> example. Two blocks. "SATURATION down on blue: the sky becomes a PALE, WASHED grey-blue. Still as
-> bright as it was, just drained of color." and "LUMINANCE down on blue: the sky becomes a DEEP, DARK
-> blue. Still fully blue, just darker." Then a prompt box headed "TRY BOTH ON YOUR SKY": "They look
-> nothing alike. Which one do photographers use to make a dramatic sky?" Then smaller, the answer is
-> deliberately withheld: "Decide, then tell me." One slide.
+> example. Two blocks side by side. "BLUE SATURATION DOWN: the sky becomes a pale, washed, grey-blue.
+> Exactly as bright as it was, just drained of color." and "BLUE LUMINANCE DOWN: the sky becomes a deep,
+> dark blue. Still completely blue, just darker." Then a prompt box headed "TRY BOTH ON YOUR SKY": "They
+> look nothing alike. Which one do photographers use to make a dramatic sky? Decide, then tell me." One
+> slide.
 
-### Slide 5: Make one thing win
+### Slide 7: Make one color win
 
-> Create one task slide for a high school design class titled "Make One Color Win." Body: pick ONE color
-> in your photo and make it the thing the eye goes to first, by pulling the others down. Then the
-> methods, as a short list: "Drop the Saturation of every color except yours." "Or drop the Luminance of
-> the ones crowding it." "Or push the Hue of a competing color away from yours so they stop fighting."
-> Then a box in very large text: "Then say WHY it works. 'It looks better' is not an answer. Where does
-> the eye go now, and where did it go before?" One slide.
+> Create one task slide for a high school design class titled "Step 4: Make One Color Win." Body: pick
+> one color and make it the first thing the eye lands on. Then the methods as a short list: "Pull the
+> OTHER colors' Saturation down." "Shift the Hue of anything competing with it out of the way." "Adjust
+> its Luminance so it sits forward or sits back." Then a box in very large text: "Then tell me three
+> specific moves you made, where the eye went BEFORE, and where it goes NOW." Then a line: "Export it as
+> LastName_Color_01." One slide.
 
-### Slide 6: Three ways colors get along
+### Slide 8: Extension, if you finish
 
-> Create one concept slide for a high school design class titled "Complementary, Analogous,
-> Monochromatic." Show a simple color wheel three times, small, with the relationship marked on each.
-> First, "COMPLEMENTARY: opposite sides of the wheel. Blue and orange, red and green. Maximum contrast,
-> high energy, and the reason every movie poster is teal and orange." Second, "ANALOGOUS: next-door
-> neighbors on the wheel. Calm, harmonious, easy to look at." Third, "MONOCHROMATIC: one color, many
-> brightnesses. Quiet, unified, a bit serious." Then a prompt box: "Which one is your photo already?
-> Then push it further toward that, on purpose." One slide.
-
-### Slide 7: Grading is last
-
-> Create one slide for a high school design class titled "Mood Is The Last Decision." Open with two short
-> lines in very large text: "CORRECT is a measurement." and "MOOD is a decision." Then: "Everything from
-> Monday to now was making the photo honest. Grading is choosing what it SAYS, and it only works once the
-> photo is correct underneath." Then a three-row table of decisions: "Where the shadows sit / Shadows,
-> Blacks / LIFTED: soft, open, modern vs CRUSHED: heavy, cinematic." "How far apart dark and light are /
-> Contrast / HIGH: hard, energetic vs LOW: calm, faded." "Which way the color leans / Temperature / WARM:
-> inviting, late afternoon vs COOL: lonely, clinical." Then a box in large text: "Make it heavier. Then
-> make it lighter. Then tell me which is more honest, and whether that makes it better. There is no right
-> answer and you still have to pick one." One slide.
+> Create one slide for a high school design class titled "Extension: Color Grading." Explain that below
+> HSL there is a panel called Color Grading, with wheels for Shadows, Midtones and Highlights, and that in
+> older versions it is called Split Toning instead, with Hue and Saturation pairs plus a Balance slider.
+> Both do the same job: putting one color into the bright parts and a different color into the dark parts.
+> Then the rule in very large text: "KEEP SATURATION LOW. Around 5 to 15. At 60 it looks like a broken
+> television." Then four named looks as a short list: "TEAL AND ORANGE: warm highlights, cool shadows.
+> Every action movie poster." "FAKED GOLDEN HOUR: warm highlights, warm shadows." "COLD AND CINEMATIC:
+> neutral highlights, blue shadows." "FADED FILM: pale yellow highlights, soft green shadows." Then a
+> box: "Shadows take color much more easily than highlights. And watch any skin: teal shadows on a face
+> read as cold and ill, fast." One slide.
 
 ### Board version
 
@@ -107,60 +123,80 @@ TODAY'S COMPETENCIES (leave on the board)
   7.9.6  edit photographs (color corrections, cropping,
          enhancements)
   7.2.7  select colors based on color theory and psychology
-  -> today: HSL. questions 1-9. use one of yesterday's
-     photos (the portrait is the better one).
+  -> today: HSL. questions 1-6, then the extension.
+     ONE photo all period.
 
-YESTERDAY -> all colors at once.
-TODAY     -> ONE color at a time.
-  that's the whole idea. the rest is practice.
+EVERY SLIDER SO FAR -> moved ALL the colors.
+TODAY               -> each one moves ONE.
+  HUE         which color it is
+  SATURATION  how strong it is
+  LUMINANCE   how bright it is
 
-THE HSL PANEL  (below Basic. "HSL" / "Color" /
-                "Color Mixer")
-  HUE         WHICH color it is
-  SATURATION  how STRONG that color is
-  LUMINANCE   how BRIGHT that color is
+STEP 1: NAME THREE
+  before touching anything, name the three colors that
+  take up the most space. write them down.
+  (you're wrong about at least one of them.)
 
-  pick a COLOR first, then decide what to do to it.
+STEP 2: IT'S NEVER JUST ONE SLIDER
+  pick one. drag its SATURATION to -100.
+  what went grey? what did you EXPECT to and it didn't?
+
+  most things in a photo are NOT one color:
+    a sky is BLUE and AQUA
+    grass is GREEN and YELLOW
+    skin is ORANGE and RED
+
+  *** one slider rarely owns a whole object.
+      that's why your first dramatic sky only
+      half works. ***
+
+STEP 3: THREE TABS, THREE JOBS
+  HUE         FIXING + SEPARATING
+              (a color is wrong / two colors mush)
+  SATURATION  SUBTRACTING
+              (emphasize one by taking the others away)
+  LUMINANCE   DRAMA
+              (darker = heavier. brighter = lifts off.)
+
+  ** pulling nine sliders DOWN beats pushing one UP.
+     your instinct is the opposite of this. **
 
 STRONG IS NOT BRIGHT  (try both on your sky)
   blue SATURATION down -> pale washed grey-blue.
                           same brightness, no color.
   blue LUMINANCE  down -> deep DARK blue.
                           fully blue, just darker.
+  which makes a dramatic sky? decide, then tell me.
 
-  which one makes a dramatic sky? decide, then tell me.
+STEP 4: MAKE ONE COLOR WIN
+  pull the OTHER colors' saturation down
+  shift a competing HUE out of the way
+  set its LUMINANCE so it sits forward or back
 
-MAKE ONE COLOR WIN
-  drop the SATURATION of every color except yours
-  or drop the LUMINANCE of the ones crowding it
-  or push a competing HUE away from yours
+  -> three specific moves. where did the eye go BEFORE?
+     where does it go NOW?
+  -> export  LastName_Color_01
 
-  *** then say WHY it works.
-      "it looks better" is not an answer.
-      where does the eye go NOW vs before? ***
+EXTENSION: COLOR GRADING  (below HSL)
+  newer camera raw: "Color Grading", three wheels
+  older camera raw: "Split Toning", hue+sat pairs
+                    plus a BALANCE slider
+  both: one color in the BRIGHTS, a different one
+        in the DARKS.
 
-THREE WAYS COLORS GET ALONG
-  COMPLEMENTARY  opposite sides of the wheel.
-                 blue/orange. max contrast, high energy.
-                 (why every movie poster is teal + orange)
-  ANALOGOUS      next-door neighbors. calm, harmonious.
-  MONOCHROMATIC  one color, many brightnesses.
-                 quiet, unified, serious.
+  *** KEEP SATURATION LOW. around 5-15.
+      at 60 it looks like a broken television. ***
 
-  which is your photo already? push it further on purpose.
+  TEAL + ORANGE      warm highs, cool shadows
+                     (every action movie poster)
+  FAKED GOLDEN HOUR  warm highs, warm shadows
+  COLD + CINEMATIC   neutral highs, BLUE shadows
+  FADED FILM         pale yellow highs, soft green shadows
 
-MOOD IS THE LAST DECISION
-  CORRECT is a measurement.  MOOD is a decision.
-  everything until now was making the photo HONEST.
-  grading is choosing what it SAYS - and it only
-  works once the photo is correct underneath.
-
-  shadows sit     lifted = soft/open    crushed = heavy
-  dark vs light   high   = hard/loud    low     = calm
-  color leans     warm   = inviting     cool    = lonely
-
-  make it heavier. then lighter. which is more HONEST?
-  does that make it BETTER? no right answer, still pick.
+  shadows take color MUCH more easily than highlights.
+  watch any skin: teal shadows on a face read as
+  cold and ill, fast.
+  -> export  LastName_Grade_01
 ```
 
 ---

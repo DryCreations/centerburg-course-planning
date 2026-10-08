@@ -11,7 +11,7 @@
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Two photos.** Silent review, discussion, dehaze, clarity, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
-| **Thu** | **HSL**, then mood and grading | **Cutaways.** Cover your worst cut | **FLIGHT.** Orbit, now **centered in frame** | **Plan due.** Bell ringer: search a list | Keep working |
+| **Thu** | **HSL**, four steps, **grading as the extension** | **Cutaways.** Cover your worst cut | **FLIGHT.** Orbit, now **centered in frame** | **Plan due.** Bell ringer: search a list | Keep working |
 | **Fri** | **One more photo, start to finish, alone** | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
 ---
@@ -318,18 +318,37 @@ the slides and teacher notes need re-cutting against it.**
 
 ## Thursday
 
-**DT is HSL, and the whole idea is one sentence:** yesterday every color slider moved **all** the colors,
-today each one moves **one.** Three tabs, and the pair worth separating is **Saturation versus
-Luminance**, because they sound similar and look nothing alike: saturation down on blue gives a pale
-washed grey-blue at the same brightness, luminance down on blue gives a deep dark blue that is still
-fully blue. **Try both on the sky** is the demo.
+**DT is HSL, and the whole idea is one sentence:** every color slider so far moved **all** the colors,
+today each one moves **one.** The sheet was restructured into four steps on **one photo**, with the
+color grading extension written at the bottom.
 
-**Question 2 is the hinge:** why is dropping one color's saturation more useful than dropping all of
-them? If they can answer that, HSL has landed.
+**Step 2 is the best thing on the sheet and it is a discovery, not an explanation.** Students assume one
+slider owns one object, and it does not: a sky sits in **blue and aqua**, grass in **green and yellow**,
+skin in **orange and red**. They pull one slider to −100 and notice **what did not go grey.** That is why
+their first attempt at a dramatic sky only half works, and once they have it HSL makes sense. Before it,
+HSL feels broken.
 
-**Grading comes last and the ordering is the lesson.** Everything from Monday to now was making the
-photo honest. **Mood is choosing what it says, and it only works once the photo is correct underneath.**
-Question 9 has no right answer and they still have to pick one and defend it.
+**The three tabs get three jobs, because otherwise they feel like the same slider three times.** **Hue
+fixes and separates** (a color is wrong, or two colors mush together). **Saturation subtracts to
+emphasize**, and **pulling nine sliders down beats pushing one up**, which is worth saying out loud since
+every student's instinct is the opposite and produces a neon mess. **Luminance adds drama.**
+
+**Saturation versus Luminance stays as its own slide**, since they sound alike and look nothing alike:
+saturation down on blue gives a pale washed grey-blue at the same brightness, luminance down gives a deep
+dark blue still fully blue.
+
+**Photo requirements for HSL are tighter than usual**, because the sliders are per-color: three or four
+distinct hues in large areas, a blue sky (blue Luminance is the most satisfying demo there is), green
+foliage, and **one strong warm accent** to be the subject of "make one color win." The classic is a red
+barn in a green field under blue sky. **Nothing monochromatic, no sunsets, no gradients**, since you
+cannot tell which slider did what. **Yesterday's portrait is the cheap option** and covers blue, green
+and orange, but lacks an accent, which weakens step 4.
+
+**The extension is color grading**, with four named looks and one hard rule: **keep saturation around 5
+to 15.** At 60 it looks like a broken television, and a student who tries it at 60 first concludes the
+panel is useless. **Newer Camera Raw calls it Color Grading with three wheels, older calls it Split
+Toning with hue and saturation pairs plus a Balance slider.** Both are covered, but flagged to check
+before class so he can name the one they will see.
 
 **V&S Thursday was already on the books as cutaways and layering**, and the CapCut demo is three steps:
 main clip stays on the bottom track with its audio, cutaway goes on the track above, **mute the
