@@ -7,7 +7,9 @@
 | Mon | `handouts/white-balance-lab.md` | Already posted |
 | Tue | `handouts/tone-lab.md` | 13 |
 | **Wed** | **`handouts/two-photos.md`** | **5** |
-| Thu, Fri | `handouts/editing-week-lab.md` | 10, plus an extension |
+| **Thu** | **`handouts/color-lab.md`** | **5** |
+| Thu/Fri extra | `handouts/color-grading-extension.md` | **Separate assignment, ungraded, due Friday** |
+| Fri | No new sheet. **Catch-up day** | |
 
 **Tuesday is taught off the slides, not off Camera Raw.** Every histogram shape they need to recognize
 is drawn on a slide, so you point at a diagram and they compare it to their own screen. **You are not
@@ -360,96 +362,99 @@ whether the ten silent minutes taught anything.
 
 ---
 
-## Thursday: picking the HSL photo
+## Thursday: three photos, five questions
 
-**One photo for the whole activity.** HSL is per-color, so the photo is doing more work than usual: if
-the colors are not clearly separated, the sliders have nothing to separate.
+**Three RAW files, attached to the assignment. They edit all three, and the editing is the period.** The
+sheet is five questions and one of them is just their notes from the presentation.
 
-### What the photo needs
+### The period
 
-| Must have | Why |
+| | |
 |---|---|
-| **Three or four clearly distinct hues**, in large areas | A slider that moves a tiny sign teaches nothing. They need to see it from across the room |
-| **A blue sky** | **Blue Luminance is the single most satisfying demo in HSL.** The sky goes deep and dramatic and nothing else in the photo moves. Nearly every landscape photographer leans on it |
-| **Green foliage** | Green Hue is the most visible Hue move there is. Shift it toward yellow and the scene goes autumnal, toward blue and it goes cold and lush |
-| **One strong warm accent** | A red door, a yellow sign, an orange jacket. **This is the "make one color win" subject.** Without it, step 4 has no obvious candidate |
-| **Colors that do not blend into each other** | A sunset gradient is useless here: you cannot tell which slider did what |
+| **Before the bell** | **Slide 1 is up.** Standards, agenda, and the download steps |
+| **~10 min** | Get all three to a decent base, in order. **No questions attached** |
+| **~12 min** | The color lesson: three definitions, three jobs, and the one-slider discovery |
+| **Rest** | **Make one color win on each photo**, then submit all three |
 
-**The classic picture:** a red barn in a green field under a blue sky. Also works: a yellow taxi on a
-grey street with a tree in frame, a red door on a pale building with greenery beside it, a person in a
-red jacket on a trail.
+**They need Finder open, not the download bar.** Shift-click to select all three, right-click, Open With,
+Photoshop, **any version listed.** All three land in the Camera Raw filmstrip.
 
-**Do not use:** anything monochromatic or muted, sunsets, night shots, or anything already graded.
+**Say the base-first reason out loud:** a photo that is still too dark will not be saved by changing its
+greens. Otherwise somebody will skip to HSL in minute two.
 
-### The cheap option
+### The order for the first ten minutes
 
-**Yesterday's backlit portrait already has sky, grass and skin**, which covers blue, green and orange.
-**That is three separable colors with no new download**, and the sheet says to use one photo, so it fits.
-**What it lacks is a strong accent color** for step 4, so "make one color win" becomes "make the sky win"
-or "make the person's clothing win," which is weaker but workable.
+**Temperature and Tint → Contrast, then Exposure → Highlights, Shadows, Whites, Blacks → Vibrance,
+Saturation, Clarity, Dehaze → final tweaks.**
 
-**If you have ten minutes, find one new photo with an accent.** It makes step 4 land properly. **If you
-do not, reuse the portrait** and nothing breaks.
+**They have done every one of these already**, Monday through Wednesday. This is the first time they run
+the whole chain unassisted, which is worth noticing: **it tells you who is ready for Friday.**
 
-### If you want a second photo
+### Picking the three photos
 
-**The best second photo is one where HSL is the fix, not the flourish:** foliage with a **sickly
-yellow-green cast**, which is extremely common in free RAW files. Shifting green Hue a few points toward
-blue makes it instantly look professional, and that is a genuine "oh" moment.
+**HSL is per-color, so the photos have to have separated colors.** Across the three, you want:
 
-**A portrait is the other good second photo**, because the orange and red sliders control skin, so it
-teaches the caution at the same time as the technique.
+| Trait | Why |
+|---|---|
+| **A blue sky in at least one** | **Blue Luminance is the most satisfying demo in HSL.** The sky goes deep and dramatic and nothing else moves |
+| **Green foliage in at least one** | Green Hue is the most visible Hue move there is. Toward yellow goes autumnal, toward blue goes cold and lush |
+| **One strong warm accent somewhere** | A red door, a yellow sign, an orange jacket. **This is the obvious candidate for "make one color win"** |
+| **Three or four distinct hues per photo, in large areas** | A slider that moves a tiny sign teaches nothing |
+| **One with a face, if you can** | Orange and red control skin, so it teaches the caution while they work |
 
-### Why step 2 is the best thing on the sheet
+**The classic single picture:** a red barn in a green field under blue sky. **Avoid** anything
+monochromatic, sunsets, gradients and night shots: you cannot tell which slider did what.
 
-**Students assume one slider owns one object. It does not.** A sky sits in **blue and aqua**, grass in
-**green and yellow**, skin in **orange and red**. So their first attempt at a dramatic sky half works,
-and they cannot see why.
+**Three photos that are different from each other is better than three good ones that are similar**,
+because question 4 asks which needed the most color work and that only has an answer if they differ.
 
-**Step 2 makes them discover it** by pulling one slider to −100 and noticing what did *not* go grey.
-**Once they have that, HSL makes sense.** Before it, HSL feels broken.
+### The two things worth teaching carefully
 
-### The three jobs, which is the framing that makes the tabs distinct
+**1. Three tabs, three jobs.** Without this framing the tabs feel like the same slider three times.
+**Hue fixes and separates. Saturation subtracts to emphasize. Luminance adds drama.** Question 1 is them
+writing these down, so give it a beat.
 
-Without this, the three tabs feel like the same slider three times.
+**The subtraction point needs saying out loud.** Every student's instinct is to push their favorite color
+up, which makes a neon mess. **Pulling the other nine down makes a photograph.**
 
-| Tab | Job | When |
-|---|---|---|
-| **Hue** | **Fix and separate** | A color is wrong, sickly or muddy, or two colors are so close they mush together |
-| **Saturation** | **Subtract to emphasize** | You want one color to dominate. **Pull the other nine down rather than pushing one up** |
-| **Luminance** | **Add drama** | Darker is heavier and more serious. Brighter lifts off the page |
+**2. One slider rarely owns a whole object.** A sky sits in **blue and aqua**, grass in **green and
+yellow**, skin in **orange and red**. **Students assume one slider equals one object and it does not**,
+which is why their first dramatic sky only half works and they cannot see why. Question 2 makes them
+discover it by noticing what did **not** go grey.
 
-**Say the subtraction point out loud.** Every student's instinct is to push their favorite color up, which
-produces a neon mess. Taking the others away produces a photograph.
+### Question 5 is the quiet one
 
-### The extension: check which panel you have
+**What did you set in the first ten minutes that you went back and changed after the color work?**
 
-**It is written at the bottom of the sheet**, with four named looks and a hard rule about saturation.
+**Editing is not a one-way list** and this is where they find that out. Dropping a sky's luminance usually
+means the exposure now needs nudging; killing the saturation of four colors often means the whole photo
+needs more contrast. **Anyone who answers "nothing" either did very little color work or did not look
+again.**
 
-**Newer Camera Raw has Color Grading**, three wheels for Shadows, Midtones and Highlights. **Older
-versions have Split Toning instead**, a Hue and Saturation pair for highlights, the same for shadows, and
-a **Balance** slider. **Both do the same job** and the sheet covers both, but **look before class** so
-you can name the one they will see.
+### Color grading is off the table today
 
-**The rule that keeps it from being a disaster: saturation around 5 to 15.** At 60 it looks like a broken
-television, and a student who tries it at 60 first will conclude the whole panel is useless.
+**It is a separate assignment**, `color-grading-extension.md`, **posted ungraded and due Friday.** For
+whoever finishes.
 
-**Two things worth saying while they work:** shadows take color far more easily than highlights, so they
-will need less than they think; and **watch any skin**, because teal shadows on a face read as cold and
-ill very quickly.
+**Say out loud that we go deeper into grading later in the year**, so nobody thinks they missed the real
+version. **Check which panel you have** before you mention it: newer Camera Raw has **Color Grading**
+with three wheels, older has **Split Toning** with hue and saturation pairs plus a Balance slider. The
+handout covers both.
+
+**The one rule on that sheet is saturation around 5 to 15.** Whoever tries it at 60 first will conclude
+the panel is useless.
 
 ---
 
 ## The rest of the week
 
-**`handouts/editing-week-lab.md` is now the Thursday-and-Friday sheet**, 13 questions, numbered from 1.
-Wednesday has its own one-pager.
+**Every day has its own sheet now**, and **Friday has none**: it is a catch-up day.
 
 | Day | What |
 |-----|------|
 | **Wed** | **Two photos.** Silent review, discussion, Dehaze, Clarity, Vibrance vs Saturation. Both exported |
-| **Thu** | **HSL**, one color at a time, with a **color grading extension** at the bottom of the sheet |
-| **Fri** | **A list of photos.** Pick one untouched, take it all the way through alone. `LastName_Final_01` |
+| **Thu** | **Three photos.** Ten minutes of base, then changing one color. All three submitted |
+| **Fri** | **Catch-up day.** Finish and submit whatever is outstanding. Anyone done moves to the color grading assignment |
 
 **Mood moved to Thursday**, where it belongs: grading is the last thing you do to a photo, so it sits
 after HSL rather than before it. **Friday is no longer catch-up**, it is one more full pass start to
@@ -468,6 +473,11 @@ got away with something.
 **Tuesday:** `LastName_Tone_A_01`, `LastName_Tone_B_01` and the sheet, before they leave.
 
 **Wednesday:** `LastName_City_01`, `LastName_Portrait_01`, and the two paragraphs.
+
+**Thursday:** `LastName_Color1_01`, `LastName_Color2_01`, `LastName_Color3_01`, and the five answers.
+
+**Friday:** whatever is outstanding, plus `LastName_Grade_01` from anyone who did the ungraded grading
+assignment.
 
 **Questions 4, 10 and 13 are the ones to read.** Question 4 is the clipping distinction and it is the
 lesson of the day. Question 10 cannot be faked: a student who cannot name which goal is still off was not

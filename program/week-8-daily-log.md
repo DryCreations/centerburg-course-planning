@@ -11,8 +11,8 @@
 | **Mon** | **The editor.** White balance, **export**, isolate a color | Storyboard check, **detach audio and layer** | **Meteorology opens.** The brief opens | Lists change. **Two problems**, project opens | Next assignment |
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Two photos.** Silent review, discussion, dehaze, clarity, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
-| **Thu** | **HSL**, four steps, **grading as the extension** | **Cutaways.** Cover your worst cut | **FLIGHT.** Orbit, now **centered in frame** | **Plan due.** Bell ringer: search a list | Keep working |
-| **Fri** | **One more photo, start to finish, alone** | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
+| **Thu** | **Three photos.** Base, then changing one color | **Cutaways.** Cover your worst cut | **FLIGHT.** Orbit, now **centered in frame** | **Plan due.** Bell ringer: search a list | Keep working |
+| **Fri** | **Catch-up.** Done? The ungraded grading assignment | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
 
 ---
 
@@ -249,8 +249,8 @@ review, with no questions attached to it at all**; push all four new sliders bot
 answer four reflection questions; then decide final values across both and export. **The deliverable is
 both JPEGs plus one short paragraph per photo**, which is question 5. **Not an account of every slider.**
 
-**`editing-week-lab.md` is now the Thursday-and-Friday sheet**, 13 questions, numbered from 1. Every day
-of the week now has its own short sheet, which is the pattern Monday and Tuesday already used.
+**Every day of the week now has its own short sheet**, which is the pattern Monday and Tuesday already
+used. **Friday ended up with none**, because it became a catch-up day.
 
 **One thing to say out loud before step 3:** all the way up, then all the way down, then back to zero.
 Left to themselves they will nudge, and the reflection questions only have answers if they went to both
@@ -281,9 +281,9 @@ Clarity is about edges" has it.
 minutes and not the finishing time**, because the two paragraphs are the assignment and cannot be rushed
 at the bell.
 
-**Mood moved to Thursday and Friday was rewritten.** Grading is the last thing you do to a photo, so mood
-sits after HSL. **Friday is no longer catch-up**: a list of photos, pick one untouched, all the way
-through alone, `LastName_Final_01`. That is where it shows whether anything stuck.
+**Mood moved out of Wednesday.** It later became part of the color grading assignment, which is where
+grading belongs: it is the last thing you do to a photo. **Friday ended up as a catch-up day** rather
+than a new activity, since four days of new material is enough.
 
 **MS CS Wednesday is dialogue**, which is for their projects, not for Friday's quiz. Four blocks from the
 Game drawer: **`splash` and `show long text` say things; `ask` and `ask for string` hand something back**,
@@ -318,37 +318,55 @@ the slides and teacher notes need re-cutting against it.**
 
 ## Thursday
 
-**DT is HSL, and the whole idea is one sentence:** every color slider so far moved **all** the colors,
-today each one moves **one.** The sheet was restructured into four steps on **one photo**, with the
-color grading extension written at the bottom.
+**DT Thursday is three photos and five questions, and the editing is the period.** Three RAW files
+attached to the assignment, all three edited, all three submitted. **The sheet is deliberately short**
+and one of its five questions is just their notes from the presentation.
 
-**Step 2 is the best thing on the sheet and it is a discovery, not an explanation.** Students assume one
-slider owns one object, and it does not: a sky sits in **blue and aqua**, grass in **green and yellow**,
-skin in **orange and red**. They pull one slider to −100 and notice **what did not go grey.** That is why
-their first attempt at a dramatic sky only half works, and once they have it HSL makes sense. Before it,
-HSL feels broken.
+**Slide 1 carries the standards, the agenda and the download steps**, and goes up before the bell. **They
+need Finder open**, not the download bar: shift-click all three, right-click, Open With, Photoshop, any
+version listed. All three land in the Camera Raw filmstrip.
 
-**The three tabs get three jobs, because otherwise they feel like the same slider three times.** **Hue
-fixes and separates** (a color is wrong, or two colors mush together). **Saturation subtracts to
-emphasize**, and **pulling nine sliders down beats pushing one up**, which is worth saying out loud since
-every student's instinct is the opposite and produces a neon mess. **Luminance adds drama.**
+**First ten minutes they run the whole chain unassisted**, in order: Temperature and Tint, Contrast then
+Exposure, the tonal details (Highlights, Shadows, Whites, Blacks), then Vibrance, Saturation, Clarity and
+Dehaze, then final tweaks. **They have done every one of these already**, Monday through Wednesday, so
+this is the first time they do it all without being walked through, **which tells you who is ready for
+Friday.** The reason to say out loud: a photo that is still too dark will not be saved by changing its
+greens.
 
-**Saturation versus Luminance stays as its own slide**, since they sound alike and look nothing alike:
-saturation down on blue gives a pale washed grey-blue at the same brightness, luminance down gives a deep
-dark blue still fully blue.
+**Then the color lesson, which is three definitions and three jobs.** Without that framing the tabs feel
+like the same slider three times. **Hue fixes and separates. Saturation subtracts to emphasize. Luminance
+adds drama.** Question 1 is them writing those down. **The subtraction point needs saying out loud**,
+because every student's instinct is to push their favorite color up, which makes a neon mess, where
+pulling the other nine down makes a photograph.
 
-**Photo requirements for HSL are tighter than usual**, because the sliders are per-color: three or four
-distinct hues in large areas, a blue sky (blue Luminance is the most satisfying demo there is), green
-foliage, and **one strong warm accent** to be the subject of "make one color win." The classic is a red
-barn in a green field under blue sky. **Nothing monochromatic, no sunsets, no gradients**, since you
-cannot tell which slider did what. **Yesterday's portrait is the cheap option** and covers blue, green
-and orange, but lacks an accent, which weakens step 4.
+**Question 2 is the discovery that makes HSL click.** Drag one color's Saturation to −100 and notice
+**what did not go grey**: a sky is blue *and* aqua, grass is green *and* yellow, skin is orange *and*
+red. **One slider rarely owns a whole object**, which is why a first attempt at a dramatic sky only half
+works and they cannot see why.
 
-**The extension is color grading**, with four named looks and one hard rule: **keep saturation around 5
-to 15.** At 60 it looks like a broken television, and a student who tries it at 60 first concludes the
-panel is useless. **Newer Camera Raw calls it Color Grading with three wheels, older calls it Split
-Toning with hue and saturation pairs plus a Balance slider.** Both are covered, but flagged to check
-before class so he can name the one they will see.
+**Then make one color win on each of the three photos**, which is the bulk of the time, and submit all
+three.
+
+**Question 5 is the quiet one worth reading:** what did they set in the first ten minutes that they went
+back and changed after the color work? **Editing is not a one-way list.** Dropping a sky's luminance
+usually means the exposure needs nudging; killing four colors' saturation often means the photo needs
+more contrast. **"Nothing" means they either did very little or did not look again.**
+
+**Photo requirements across the three:** a blue sky in at least one, green foliage in at least one, one
+strong warm accent somewhere as the obvious "make one color win" subject, three or four distinct hues per
+photo in large areas, and ideally one with a face since orange and red control skin. **Three photos that
+differ from each other beats three good ones that are similar**, because question 4 asks which needed the
+most color work and that only has an answer if they differ.
+
+**Color grading came off the table and became its own assignment**,
+`handouts/color-grading-extension.md`, **posted ungraded and due Friday**, for whoever finishes. **Saying
+out loud that we go deeper into grading later in the year** keeps anyone from thinking they missed the
+real version. The one rule on that sheet is **saturation around 5 to 15**, because whoever tries 60 first
+concludes the panel is useless. It covers both **Color Grading** (newer, three wheels) and **Split
+Toning** (older, hue and saturation pairs plus Balance).
+
+**Friday became a catch-up day.** Finish and submit whatever is outstanding; anyone done moves to the
+grading assignment. **No new sheet.**
 
 **V&S Thursday was already on the books as cutaways and layering**, and the CapCut demo is three steps:
 main clip stays on the bottom track with its audio, cutaway goes on the track above, **mute the

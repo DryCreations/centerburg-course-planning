@@ -14,8 +14,8 @@
 | Mon Oct 5 | **White balance, exporting, and isolating a color.** Four files out by the end |
 | Tue Oct 6 | **Reading the histogram**, clipping, then white balance, tone, two exports |
 | Wed Oct 7 | **Two photos.** Everything so far on your own, then dehaze, clarity, vibrance, saturation |
-| Thu Oct 8 | **HSL.** One color at a time, with **color grading** as the extension |
-| Fri Oct 9 | **One more photo, start to finish, alone.** `LastName_Final_01` |
+| Thu Oct 8 | **Three photos.** Everything so far, then **changing one color at a time** |
+| Fri Oct 9 | **Catch-up.** Finished everything? Start the ungraded color grading assignment |
 
 ## What You'll Be Able to Do
 
@@ -47,8 +47,8 @@
 - `LastName_Tone_A_01`, `LastName_Tone_B_01` and the tone sheet **(Tuesday, before you leave)**
 - The editing sheet, answered
 - `LastName_City_01` and `LastName_Portrait_01`, plus a paragraph on each **(Wednesday)**
-- `LastName_Color_01` **(Thursday)**, and `LastName_Grade_01` if you do the extension
-- `LastName_Final_01`, from a photo you had not touched before **(Friday)**
+- `LastName_Color1_01`, `LastName_Color2_01`, `LastName_Color3_01` **(Thursday)**
+- `LastName_Grade_01` **only if** you do the color grading assignment, which is not worth points
 
 ## Standards Covered
 

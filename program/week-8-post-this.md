@@ -83,8 +83,9 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, make-a-copy.** Thu and Fri, 10 questions plus an extension |
-| 1b | **One photo for the HSL activity** | Yesterday's portrait works. **One with a strong accent color is better** |
+| 1 | `1-design-techniques/handouts/color-lab.md` | **Assignment, make-a-copy.** 5 questions, due today |
+| 1b | **Three RAW files attached to that assignment** | They edit all three. See the trait list in the teacher notes |
+| 1c | `1-design-techniques/handouts/color-grading-extension.md` | **Separate assignment. NOT worth points. Due Friday** |
 | 2 | `4-middle-school-cs/handouts/bell-ringer-thu.md` | **Material.** Search a list |
 
 **Do these yourself:**
@@ -97,9 +98,11 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
   yesterday, saying so is the correct call and it gets logged
 - **Collect MS CS project plans.** Walk the room and ask the one question that is the whole rubric: what
   breaks if I remove it?
-- **Check which grading panel Camera Raw has.** Newer versions call it **Color Grading** with three
-  wheels, older ones **Split Toning** with hue and saturation pairs. The extension covers both, but name
-  the one they will actually see
+- **Check which grading panel Camera Raw has**, so you can name it when you point at the extension.
+  Newer versions call it **Color Grading** with three wheels, older ones **Split Toning** with hue and
+  saturation pairs. The handout covers both
+- **Open all three RAW files yourself first**, via Finder and Open With, and confirm they land in the
+  filmstrip together
 - **Trojan time.** `program/trojan-time-oct.md`. Count To Twenty, then Werewolf. **Nothing to print**
 
 ---
@@ -111,7 +114,8 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | 1 | `1-design-techniques/handouts/white-balance-lab.md` | **Assignment, post Monday.** White balance only |
 | 2 | `1-design-techniques/handouts/tone-lab.md` | **Assignment, post Tuesday.** 13 questions, **two files out** |
 | 3 | `1-design-techniques/handouts/two-photos.md` | **Assignment, post Wednesday.** One page, 5 questions |
-| 3b | `1-design-techniques/handouts/editing-week-lab.md` | **Assignment, post Thursday.** Thu and Fri, 13 questions |
+| 3b | `1-design-techniques/handouts/color-lab.md` | **Assignment, post Thursday.** 5 questions, three photos |
+| 3c | `1-design-techniques/handouts/color-grading-extension.md` | **Separate, ungraded, due Friday.** For whoever finishes |
 | 4 | `1-design-techniques/outline.md` | Material |
 | 5 | `1-design-techniques/week-9-mood-project.md` | **Assignment, Week 9.** Hold until the photo folder exists |
 
@@ -132,9 +136,11 @@ nothing to write.
 **The period has no slack**: if something gives, shorten the discussion, not the silent review or the
 finishing time.
 
-**Due Thursday:** `LastName_Color_01`, plus `LastName_Grade_01` from anyone who did the extension.
+**Due Thursday:** all three edited photos, `LastName_Color1_01` through `LastName_Color3_01`, plus the
+five answers.
 
-**Due Friday:** all the sheets, plus `LastName_Final_01` from a photo they had not touched before.
+**Friday is a catch-up day.** Finish and submit whatever is outstanding. Anyone already done moves to the
+**color grading assignment**, which is ungraded and due Friday. **No new sheet Friday.**
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays
