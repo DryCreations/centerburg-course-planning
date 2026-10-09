@@ -1,88 +1,52 @@
 # FRIDAY (Oct 9): Slide Prompts (all classes)
 
-Every block is **one prompt, for one slide.** Board versions included.
-
-**Career-tech classes open with ONE slide holding both the standards and the agenda.** Full text, not
-numbers, standards at the top, the agenda underneath with each activity tied to one.
+**Minimal today.** Every block is one prompt, for one slide.
 
 | Class | Slides | Shape |
 |-------|--------|-------|
-| Design Techniques | 5 | **Portfolio day.** Two photos, four images, two short reflections |
-| Video & Sound | 4 | **Finish and upload.** Playback with you, storyboard out, meter showing |
-| Aviation UAS | 2 | **QUIZ**, then finish the weather brief |
-| Middle School CS | 2 | **QUIZ**, then build |
+| Design Techniques | 2 | Standards and agenda, then **submit missing work / update portfolio**, split in half |
+| Video & Sound | 2 | Standards and agenda, then **be ready for me**, how it is graded, and what to do after |
+| Aviation UAS | 1 | Standards and agenda: **quiz, then ODOT modules** |
+| Middle School CS | 1 | **Quiz, then the final project** |
 | Yearbook | 1 | Keep working |
 
 ---
 
-## 1. Design Techniques: Portfolio day
+## 1. Design Techniques
 
-**Documents:** **`week-8/handouts/portfolio-photos.md`** (post it today)
-**They pick two different photos from the week**: their favorite, and the one that shows the most skill
-with the sliders. Each goes on the portfolio as a before and after. **Two entries, four images.**
-**Finishing an unfinished edit is the first part of the day**, and that is fine.
-**The before is the fiddly part.** Have them export the **after first**, so the edit is safe. Then reset
-to defaults, Save Image for the before, and Command+Z to get the edit back. **Check the menu name on a
-student machine before class**: some versions say Camera Raw Defaults, newer ones Reset to Default. For
-any photo you supplied, re-downloading the original into a new folder is the easier route.
-**The reflection under Entry 2 uses the same pattern as the Figma portfolio**: what I did, the problem it
-solved, how I can tell it worked. **They have done this before**, so say so.
-**Collect the published URL, not the edit URL.**
-**Color grading is still open, ungraded, and due today** for anyone done.
+**Documents:** `week-8/handouts/portfolio-photos.md` (post it today)
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
-> "Today: Portfolio." Top half, headed "What we are covering," lists these with their FULL text, not just
-> the numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.9.5 Use
+> "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
+> numbers: 7.9.6 Edit photographs (e.g., color corrections, cropping, enhancements). 7.9.5 Use
 > International Standards Organization (ISO), shutter speed, aperture, and white balance settings to shoot
 > manual photographs. 7.2.7 Select colors based on color theory and psychology. 7.4.7 Optimize and export
 > graphics files for intended use. Bottom half, headed "What we are doing," is a short two-column list
-> pairing each activity with its competency: "Pick your two photos from the week" with 7.9.6; "Finish any
-> edit that is not done" with 7.9.6; "Export a before and an after for each" with 7.4.7; "Put both pairs
-> on your portfolio with a short reflection" with 7.2.7. Keep both halves readable from the back of the
-> room. Design it to stay up all period. One slide.
+> pairing each activity with its competency: "Submit anything missing from this week" with 7.9.6; "Add two
+> photos to your portfolio, before and after" with 7.4.7; "Describe what you changed in each one" with
+> 7.2.7. Keep it readable from the back of the room. One slide.
 
-### Slide 2: Pick two
+### Slide 2: Two things today
 
-> Create one slide for a high school design class titled "Pick Two. Different Photos." Two side-by-side
-> blocks. Left, headed "ENTRY 1: MY BEST PHOTO": "The one you like the most. The one you would show
-> someone." Right, headed "ENTRY 2: MY BEST EDITING": "The one that shows the most skill with the
-> sliders. Not always the prettiest. The one where you did the most, and it worked." Then a box: "Look
-> through everything from Monday to Thursday. Not finished editing one of them? Finish it first." One
-> slide.
-
-### Slide 3: The before and the after
-
-> Create one instruction slide for a high school photography class titled "Four Files." Two numbered
-> blocks. First, headed "THE AFTER, FIRST": "1. Open the photo with your edits. 2. Save Image, JPEG.
-> Name it LastName_Best_After or LastName_Editing_After." Second, headed "THEN THE BEFORE": "3. Small
-> menu icon at the top right of the panels: choose Camera Raw Defaults, or Reset to Default. 4. Save
-> Image, JPEG. Name it LastName_Best_Before or LastName_Editing_Before. 5. Command + Z to get your edits
-> back." Then a box: "After first means your edit is safe no matter what happens. Photo I gave you?
-> Download the original again into a NEW folder and save it untouched. That is your before." One slide.
-
-### Slide 4: What goes under each pair
-
-> Create one slide for a high school design class titled "What You Write." Two blocks. First, headed
-> "UNDER ENTRY 1": "Two or three sentences. What were you going for, and why is this the one you would
-> show someone?" Second, headed "UNDER ENTRY 2": "Your three biggest decisions, each one written as:
-> WHAT I DID. THE PROBLEM IT SOLVED. HOW I CAN TELL IT WORKED." Then an example in a box: "'I pulled
-> Blacks down until the warning just appeared, because the photo looked foggy, and now the shadows feel
-> solid.' That is a decision. 'I made it look better' is not." One slide.
-
-### Slide 5: Turn in
-
-> Create one checklist slide for a high school design class titled "Before You Leave." Three items in
-> large text: "Four images on your published portfolio page, as two before-and-after pairs." "A short
-> reflection under each pair, with the standards written about in words, not numbers." "The PUBLISHED
-> site link posted on Google Classroom. Not the edit link." Then a box at the bottom: "Done early? The
-> Color Grading assignment is still open. Not worth points. Due today." One slide.
+> Create ONE slide for a high school design class, split down the middle into two halves with a clear
+> vertical divider. Title across the top: "Two Things Today." LEFT HALF, headed "1. SUBMIT WHAT IS
+> MISSING": "Go back through the week. Every day needs its worksheet AND its photos, named exactly right."
+> Then a short list in readable text: "MONDAY: white balance sheet + LastName_WB_Cold_01, LastName_WB_Warm_01,
+> LastName_WB_Fixed_01, LastName_ColorPop_01." "TUESDAY: tone sheet + LastName_Tone_A_01,
+> LastName_Tone_B_01." "WEDNESDAY: two photos sheet + LastName_City_01, LastName_Portrait_01." "THURSDAY:
+> color sheet + LastName_Color1_01, LastName_Color2_01, LastName_Color3_01." RIGHT HALF, headed "2. UPDATE
+> YOUR PORTFOLIO": "Pick two different photos from this week: your BEST PHOTO, and your BEST EDITING."
+> Then: "Put each on your portfolio as a BEFORE and AFTER, side by side, on a page called Unit 2.1
+> Photography." Then: "Under each pair, describe WHAT YOU CHANGED and WHY. Name the sliders." Then a box
+> at the bottom of the right half: "Post the PUBLISHED link on Classroom. Details are in the assignment."
+> One slide.
 
 ### Board version
 
 ```
-TODAY: PORTFOLIO
+TODAY
   7.9.6  edit photographs (color corrections, cropping,
          enhancements)
   7.9.5  use ISO, shutter speed, aperture, and white
@@ -90,266 +54,142 @@ TODAY: PORTFOLIO
   7.2.7  select colors based on color theory and psychology
   7.4.7  optimize and export graphics files for intended use
 
-PICK TWO. DIFFERENT PHOTOS.
-  ENTRY 1  MY BEST PHOTO     the one you'd show someone
-  ENTRY 2  MY BEST EDITING   the most skill with the
-                             sliders. not always the
-                             prettiest one.
-  not finished editing one? finish it first.
-
-FOUR FILES
-  THE AFTER, FIRST
-    open it with your edits > SAVE IMAGE > JPEG
-    LastName_Best_After / LastName_Editing_After
-  THEN THE BEFORE
-    small menu, top right of the panels >
-      CAMERA RAW DEFAULTS (or RESET TO DEFAULT)
-    SAVE IMAGE > JPEG
-    LastName_Best_Before / LastName_Editing_Before
-    COMMAND + Z to get your edits back
-
-  photo I gave you? re-download it into a NEW folder,
-  save it untouched. that's your before.
-
-WHAT YOU WRITE
-  under entry 1: 2-3 sentences. what were you going for?
-  under entry 2: your 3 biggest decisions:
-    WHAT I DID. THE PROBLEM IT SOLVED. HOW I CAN TELL.
-
-  "i pulled blacks down until the warning just appeared,
-   because it looked foggy, and now the shadows feel
-   solid."  = a decision.
-  "i made it look better."  = not one.
-
-BEFORE YOU LEAVE
-  [ ] 4 images on the PUBLISHED page, as 2 pairs
-  [ ] a reflection under each pair
-  [ ] the PUBLISHED link on Classroom. not the edit link.
-
-done early? color grading is still open.
-  not worth points. due today.
+1. SUBMIT WHAT'S MISSING       | 2. UPDATE YOUR PORTFOLIO
+  every day: worksheet AND     |   pick 2 different photos:
+  photos, named exactly right  |     your BEST PHOTO
+                               |     your BEST EDITING
+  MON  wb sheet + WB_Cold,     |
+       WB_Warm, WB_Fixed,      |   each one as a BEFORE and
+       ColorPop                |   AFTER, side by side, on a
+  TUE  tone sheet + Tone_A,    |   page called
+       Tone_B                  |   "Unit 2.1 Photography"
+  WED  two photos sheet +      |
+       City, Portrait          |   under each pair: WHAT you
+  THU  color sheet + Color1,   |   changed and WHY. name the
+       Color2, Color3          |   sliders.
+                               |
+  (all LastName_..._01)        |   post the PUBLISHED link.
 ```
 
 ---
 
-## 2. Video & Sound: Finish and upload
+## 2. Video & Sound
 
-**Documents:** **`week-8/handouts/edit-rubric.md`** (attach to the assignment in Classroom),
-`week-7/project.md`
-**Today the edit is done and uploaded.** Many are behind; the plan does not move.
-**You circulate for playback, one student at a time.** Slide 2 stays up all period: **storyboard out,
-video cued to the start, audio on, level meter visible.** Nobody calls you over until all four are true.
-**Three rubric rows are checked right there:** you compare their **storyboard** to the video as it plays,
-they point to their **two split edits** on the timeline, and you **watch the level meter.** The other
-two, the whole story and the title and credits, you can check after upload.
-**What to watch on the meter:** speech peaking around **−12 to −6 dB**, never reaching **0 dB** (red),
-no jump between clips, music under the voices. **A clip that jumps on the meter is the single most common
-fix today**, and it takes a student thirty seconds once you point at it.
-**Keep a list of who you have seen.** The quiet ones get skipped otherwise.
-**The upload is the export and a photo of the storyboard.** Split edits are checked live, on the
-timeline.
+**Documents:** `week-8/handouts/edit-rubric.md` (attached to the assignment)
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school video production class that holds both the standards and the agenda.
-> Title: "Today: Finish It." Top half, headed "What we are covering," lists these with their FULL text,
-> not just the numbers: 7.3.7 Edit video footage. 7.8.8 Perform audio mixing. 7.7.8 Export video to the
-> desired medium. Bottom half, headed "What we are doing," is a short two-column list pairing each
-> activity with its competency: "Finish the edit" with 7.3.7; "Play it back for me: split edits and sound
-> levels" with 7.8.8; "Fix what we find" with 7.3.7; "Export and upload" with 7.7.8. One slide.
+> Title: "Today." Top half, headed "What we are covering," lists these with their FULL text, not just the
+> numbers: 7.3.7 Edit video footage. 7.8.8 Perform audio mixing. 7.7.8 Export video to the desired medium.
+> Bottom half, headed "What we are doing," is a short two-column list pairing each activity with its
+> competency: "Play your edit back for me" with 7.3.7; "Fix what we find, including sound levels" with
+> 7.8.8; "Export your video and submit it by the end of the period" with 7.7.8. One slide.
 
-### Slide 2: Ready for playback
+### Slide 2: Be ready when I come around
 
-> Create one checklist slide for a high school video class titled "Ready For Playback." Body: before you
-> call me over, all four of these have to be true. Then four large checklist items: "1. Your STORYBOARD is
-> out, on your desk. I compare it to the video." "2. Your video is CUED to the very start, ready to play." "3. AUDIO IS ON, and loud
-> enough for both of us to hear." "4. The audio LEVEL METER is showing, where I can see it." Then a box
-> headed "BE READY TO SHOW ME": "Your TWO split edits. Point to each one on your timeline, J-cut or L-cut."
-> Then a smaller line at the bottom: "I watch the meter while it plays. Speech should sit around −12 to −6.
-> Red means too loud." Design it to stay up all period. One slide.
-
-### Slide 3: Before I come over
-
-> Create one checklist slide for a high school video class titled "Check It Yourself First." A short
-> checklist in large text: "Watch the whole thing once yourself, start to finish, without stopping." "Does
-> any cut land in the middle of a word?" "Does the meter jump when one clip changes to the next?" "Does
-> anything hit the red?" "Is every line of the script there? Documentary: does an interview cut to B-roll
-> and come back?" "Title card at the start? Credits scroll at the end?" Then a box: "Fix what you find.
-> Then raise your hand." One slide.
-
-### Slide 4: Upload
-
-> Create one checklist slide for a high school video class titled "Upload Two Things." Two numbered items
-> in large text: "1. Your edit, exported at 1080p." "2. A photo of your storyboard." Then a box: "Export
-> takes longer than you think. Start it with at least ten minutes left." Then a smaller line: "The rubric
-> is attached to the assignment. Five things, twenty points." One slide.
+> Create ONE slide for a high school video class titled "Be Ready When I Come Around." Top section, headed
+> "HAVE THIS READY": "Your storyboard out on your desk. Your video cued to the start. Audio on. The level
+> meter showing." Middle section, headed "WHAT I AM LOOKING FOR," a short list of five items: "Your
+> storyboard matches the video: every scene and cut, with the framing you planned." "Two split edits, a
+> J-cut or L-cut. Point them out on your timeline." "Sound is even. Speech around -12 to -6 on the meter,
+> nothing in the red, no jumps between clips." "The whole story. Documentary: an interview that cuts to
+> B-roll and comes back. Scene: every line of the script." "A title card, and credits that scroll." Bottom
+> section, in a box: "EXPORT AND SUBMIT YOUR VIDEO BEFORE THE END OF THE PERIOD." Then a final line: "Done
+> early? Study for next Friday's quiz. Review this week's vocab terms." One slide.
 
 ### Board version
 
 ```
-TODAY: FINISH IT
+TODAY
   7.3.7  edit video footage
   7.8.8  perform audio mixing
   7.7.8  export video to the desired medium
 
-READY FOR PLAYBACK  (all four, before you call me)
-  [ ] STORYBOARD out on your desk (I compare it to
-      the video while it plays)
-  [ ] video CUED to the very start
-  [ ] AUDIO ON, loud enough for both of us
-  [ ] LEVEL METER showing where I can see it
+HAVE THIS READY
+  storyboard out / video cued to the start /
+  audio ON / level meter showing
 
-  be ready to POINT to your TWO split edits
-  on the timeline. J-cut or L-cut.
+WHAT I'M LOOKING FOR
+  storyboard matches: every scene, cut, and framing
+  TWO split edits. point them out on the timeline.
+  even sound: -12 to -6, no red, no jumps
+  the whole story (documentary: interview -> B-roll ->
+    back. scene: every line of the script)
+  title card + credits that SCROLL
 
-  I watch the meter while it plays:
-    speech around -12 to -6
-    RED = too loud
+*** EXPORT + SUBMIT YOUR VIDEO BEFORE THE BELL ***
 
-CHECK IT YOURSELF FIRST
-  [ ] watch it start to finish, no stopping
-  [ ] any cut in the middle of a WORD?
-  [ ] does the meter JUMP between clips?
-  [ ] anything hit the RED?
-  [ ] every script line there? (documentary: an
-      interview that cuts to B-roll and comes back?)
-  [ ] title card at the start? credits SCROLL?
-
-  fix it. THEN raise your hand.
-
-UPLOAD TWO THINGS
-  1. your edit, exported at 1080p
-  2. a photo of your storyboard
-
-  export takes longer than you think.
-  start it with at least 10 minutes left.
-
-RUBRIC: 5 things, 20 points (attached to the assignment)
-  storyboard        in person
-  split edits       in person
-  sound balance     in person
-  the whole story   after upload
-  title + credits   after upload
+done early? study for NEXT FRIDAY'S QUIZ.
+  review this week's vocab.
 ```
 
 ---
 
-## 3. Aviation UAS: Quiz, then finish the brief
+## 3. Aviation UAS
 
-**Documents:** `week-8/quiz-bank.csv` (teacher), `week-8/quiz.md` (teacher),
-`week-8/handouts/weather-brief-project.md`
-**The quiz is everything through last Friday, mostly sectional charts.** No meteorology, no storms, no
-METAR decoding. **Say that before the quiz starts** so nobody burns time second-guessing.
-**After the quiz, the rest of the period is finishing the weather brief.** Section 4, what the brief
-missed, is the one most likely to be blank. **Not new material.**
+**Documents:** `week-8/quiz-bank.csv` and `week-8/quiz.md` (teacher)
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school drone class that holds both the competencies and the agenda. Title:
-> "Today: Quiz, Then Finish." Top half, headed "What we are covering," lists these with their FULL text,
-> not just the numbers: 7.1.9 Describe classes of airspace and associated requirements and limitations.
-> 7.4.2 Describe the forces of flight and the three axes of motion. 7.6.13 Describe wind and wind effects
-> (i.e. crosswind, tailwind, windshear, mountain wave). Bottom half, headed "What we are doing," is a short
-> two-column list: "Quiz: airspace, sectional charts, forces and motors" with 7.1.9 and 7.4.2; "Finish the
-> weather brief, especially Section 4" with 7.6.13. Then one line in bold at the bottom: "The quiz has NO
-> weather on it. Everything through last Friday." One slide.
-
-### Slide 2: After the quiz
-
-> Create one work slide for a high school drone class titled "After The Quiz: Finish The Brief." Body:
-> the rest of the period is finishing your weather brief, not new material. Then a short list in large
-> text: "Any section you skipped." "SECTION 4: what did your brief MISS yesterday? That one is graded as
-> highly as the rest." "Your go or no-go numbers: did you actually hold to them outside?" Then a box: "A
-> brief that says what it got wrong is worth more than one that pretends it got everything right." One
-> slide.
+> "Today: Quiz." Top half, headed "What we are covering," lists these with their FULL text, not just the
+> numbers: 7.1.9 Describe classes of airspace and associated requirements and limitations. 7.4.2 Describe
+> the forces of flight and the three axes of motion. 7.9.3 Describe operating rules for small unmanned
+> aircraft systems. Bottom half, headed "What we are doing," is a short two-column list: "Quiz: airspace,
+> sectional charts, forces and motors" with 7.1.9 and 7.4.2; "Done? ODOT modules" with 7.9.3. Then a box
+> at the bottom in large text: "DONE WITH THE QUIZ? Go to the ODOT modules. Did not finish Module 2?
+> Finish it. Already done? Start the next one." One slide.
 
 ### Board version
 
 ```
-TODAY: QUIZ, THEN FINISH
-  7.1.9   describe classes of airspace and associated
-          requirements and limitations
-  7.4.2   describe the forces of flight and the three
-          axes of motion
-  7.6.13  describe wind and wind effects (crosswind,
-          tailwind, windshear, mountain wave)
+TODAY: QUIZ
+  7.1.9  describe classes of airspace and associated
+         requirements and limitations
+  7.4.2  describe the forces of flight and the three
+         axes of motion
+  7.9.3  describe operating rules for small unmanned
+         aircraft systems
 
-QUIZ = airspace, sectional charts, forces + motors.
-  NO weather on it. everything through LAST friday.
-
-AFTER THE QUIZ: FINISH THE BRIEF
-  any section you skipped
-  SECTION 4: what did your brief MISS yesterday?
-    (graded as highly as the rest)
-  your go / no-go numbers: did you hold to them?
-
-  a brief that says what it got wrong is worth more
-  than one that pretends it got everything right.
+DONE WITH THE QUIZ? -> ODOT MODULES
+  module 2 not finished? finish it.
+  already done?          start the next one.
 ```
 
 ---
 
-## 4. Middle School CS: Quiz, then build
+## 4. Middle School CS
 
 **Documents:** `week-8/quiz.md` (teacher), `week-8/quiz-screenshot-questions.csv`,
-`week-8/handouts/quiz-screenshot-blocks.md`, `week-8/quiz-bank.csv`
-**Build the Form before class.** The screenshot questions need a manual pass, since the Apps Script does
-not place images: paste each snippet into the JavaScript tab, switch to Blocks, screenshot.
-**After the quiz, they build.** Anyone whose plan is approved starts on the first piece of their project.
-Anyone whose plan is not approved finishes it first.
+`week-8/handouts/quiz-screenshot-blocks.md`
 
-### Slide 1: Quiz
+### Slide 1: Quiz, then your project
 
-> Create one slide for a middle school computer science class titled "Quiz Today." Body: lists, loops,
-> conditionals, variables, and reading blocks. Then a short list of reminders in large text: "Read the
-> blocks slowly. Most wrong answers on these come from reading too fast." "Index starts at ZERO." "When
-> you remove from a list, everything after it shifts." "Trace button presses in the order they happen."
-> One slide.
-
-### Slide 2: After the quiz
-
-> Create one work slide for a middle school computer science class titled "After The Quiz: Build." Two
-> blocks. "PLAN APPROVED: start on the first piece of your project. The one you said you would build
-> first." and "PLAN NOT APPROVED YET: finish it and bring it to me first. No code until it is approved."
-> Then a box in large text: "Next week is the build. Every piece you finish today is one less to do then."
-> One slide.
+> Create one slide for a middle school computer science class titled "Quiz Today." Top section: "Take the
+> quiz. Read the blocks slowly." Then a box in large text headed "DONE?": "Move on to your final project,
+> silently. Your plan should already be submitted. Be ready to work." One slide.
 
 ### Board version
 
 ```
-QUIZ TODAY
-  lists / loops / conditionals / variables /
-  reading blocks
+QUIZ TODAY. read the blocks slowly.
 
-  read the blocks SLOWLY.
-  index starts at ZERO.
-  remove from a list -> everything after it SHIFTS.
-  trace button presses in the ORDER they happen.
-
-AFTER THE QUIZ: BUILD
-  plan approved     -> start the FIRST piece of your
-                       project
-  plan not approved -> finish it, bring it to me.
-                       no code until it's approved.
-
-  next week is the build. every piece you finish today
-  is one less to do then.
+DONE? -> your final project. SILENTLY.
+  your plan should already be submitted.
+  be ready to work.
 ```
 
 ---
 
-## 5. Yearbook: Keep working
-
-**No change.**
+## 5. Yearbook
 
 ### Slide 1: Work time
 
 > Create one work slide for a high school yearbook class titled "Keep Going." Body: same assignment, same
-> expectations, next check-in. Then a short list headed "Today is for": shooting, if you have an event or
-> a subject lined up; placing photos into your spread; captions and headlines for what is already placed;
-> signing out a camera for something coming up. Then a box at the bottom with the standing rules: photos
-> go to eDesign AND Google Classroom, both; files named LastName_Event_01; sign the equipment log going
-> out and coming back, every time; offload before you return a camera. One slide.
+> expectations, next check-in. Then a box with the standing rules: photos go to eDesign AND Google
+> Classroom, both; files named LastName_Event_01; sign the equipment log going out and coming back;
+> offload before you return a camera. One slide.
 
 ### Board version
 
@@ -357,15 +197,8 @@ AFTER THE QUIZ: BUILD
 YEARBOOK: KEEP GOING
   same assignment. same expectations. next check-in.
 
-  today is for:
-    shooting, if you have something lined up
-    placing photos into your spread
-    captions + headlines for what's already placed
-    signing out a camera for something coming up
-
-STANDING RULES
   eDesign AND Classroom. both.
   named  LastName_Event_01
-  sign the log out AND back. every time.
+  sign the log out AND back.
   offload BEFORE you return a camera.
 ```

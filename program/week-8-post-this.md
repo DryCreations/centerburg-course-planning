@@ -111,7 +111,7 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `1-design-techniques/handouts/portfolio-photos.md` | **Assignment.** Portfolio, two before-and-after pairs |
+| 1 | `1-design-techniques/handouts/portfolio-photos.md` | **Assignment.** Brief portfolio update, two before-and-after pairs |
 | 2 | Aviation quiz, built from `3-aviation-uas/quiz-bank.csv` | **Quiz.** 30 questions, cut to taste |
 | 3 | MS CS quiz: `4-middle-school-cs/quiz-screenshot-questions.csv` plus your picks | **Quiz.** Screenshots need a manual pass |
 | 4 | `2-video-and-sound/handouts/edit-rubric.md` | **Rubric.** Attach to the edit assignment. Five rows, 20 points |
@@ -128,7 +128,11 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 - **V&S: attach the rubric to the edit assignment.** Five rows: storyboard, split edits and sound
   balance are checked in person during playback; the whole story and the title and credits after upload
 - **V&S: keep a list of who has played their edit for you.** The quiet ones get skipped otherwise
-- **Tell Aviation the quiz has no weather on it** before it starts
+- **Tell Aviation the quiz has no weather on it** before it starts. **Done with the quiz, they go to the
+  ODOT modules**: finish Module 2 if it is not done, otherwise start the next one
+- **MS CS: done with the quiz, they move silently to the final project.** Plans should already be in
+- **V&S: done early, they study for next Friday's quiz** by reviewing this week's vocab
+- **DT: the board slide lists every file due this week**, by day, so they can find what is missing
 
 ---
 
@@ -164,10 +168,10 @@ finishing time.
 **Due Thursday:** all three edited photos, `LastName_Color1_01` through `LastName_Color3_01`, plus the
 five answers.
 
-**Friday is portfolio day.** Two different photos from the week, their favorite and the one that shows
-the most skill with the sliders, each exported as a before and after and put on the portfolio with a
-short reflection. **Collect the published URL, not the edit URL.** Color grading stays open, ungraded,
-due Friday, for anyone done.
+**Friday: submit anything missing, then update the portfolio.** The board slide is split: the left lists
+every worksheet and photo due this week by day, the right describes the portfolio update. Two different
+photos, their best photo and their best editing, each as a before and after with a few sentences on what
+they changed and why. **Collect the published URL, not the edit URL.**
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays

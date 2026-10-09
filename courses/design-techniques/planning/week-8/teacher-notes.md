@@ -446,46 +446,21 @@ the panel is useless.
 
 ---
 
-## Friday: portfolio day
+## Friday: submit what is missing, then the portfolio
 
-**Two photos from the week, each as a before and after. Two entries, four images.**
+**One split slide does the whole day.** Left half lists every worksheet and photo due this week, by day
+and exact file name. Right half is the portfolio update.
 
-| Entry | Which photo |
-|---|---|
-| **My best photo** | Their favorite. The one they would show someone |
-| **My best editing** | **The most skill with the sliders.** Not always the prettiest |
+**The portfolio update is brief**, `handouts/portfolio-photos.md`: two different photos, their **best
+photo** and their **best editing**, each as a before and after on a Unit 2.1 Photography page, with three
+or four sentences under each pair on **what they changed and why, naming the sliders.**
 
-**They have to be different photos.** Otherwise Entry 2 has nothing to show that Entry 1 did not.
+**The before image is the fiddly part.** Export the after first so the edit is safe, then reset to
+defaults from the small menu at the top right of the panels, Save Image, and Command+Z to get the edit
+back. **Check the menu name on a student machine**: older versions say **Camera Raw Defaults**, newer ones
+**Reset to Default.** For a photo you supplied, re-downloading the original into a new folder is simpler.
 
-**Finishing an unfinished edit is the first part of the day**, and that is expected, not a failure.
-
-### The before is the fiddly part
-
-**Have them export the after first**, so the edit is safe whatever happens next. Then:
-
-1. The small menu icon at the top right of the panel area, **Camera Raw Defaults**
-2. Save Image as the before
-3. **Command+Z** to get the edit back
-
-**Check the menu name on a student machine before class.** Older versions say **Camera Raw Defaults**,
-newer ones **Reset to Default**, and the icon itself moved between versions. Nothing else about the day
-depends on this, but it will eat ten minutes if it surprises you.
-
-**For any photo you supplied**, there is a simpler route: re-download the original into a **new folder**
-and Save Image without touching it. A fresh copy in a new folder opens untouched.
-
-### The reflection reuses a pattern they know
-
-**Entry 2's reflection is the same shape as the Figma portfolio in Week 6:** what I did, the problem it
-solved, how I can tell it worked. **Say that out loud**, because the ones who did it well then will
-recognize it and the ones who did not get a second shot.
-
-**The standards go in as words, not numbers**, same rule as before. The sheet gives a plain-language
-version of each of the four.
-
-### What to collect
-
-**The published site URL**, not the edit URL. That has been the failure every time so far.
+**Collect the published URL, not the edit URL.**
 
 ---
 

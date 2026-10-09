@@ -426,21 +426,19 @@ that "tell us a fun fact" never does.
 
 ## Friday
 
-**DT is portfolio day.** Two different photos from the week: **their favorite**, and **the one that shows
-the most skill with the sliders**, which is not always the prettiest. Each goes on a Unit 2.1
-Photography page as a before and after, so **two entries and four images.** Finishing an unfinished edit
-is the first part of the day. **The two have to be different photos**, or the second entry has nothing to
-show that the first did not.
+**Slides are minimal today**, by request: two for DT, two for V&S, one each for Aviation, MS CS and
+Yearbook.
 
-**The before image is the fiddly part.** Export the after first so the edit is safe, then reset to
-defaults, Save Image for the before, and Command+Z to restore the edit. **The menu item is named Camera
-Raw Defaults in older versions and Reset to Default in newer ones**, so it is flagged to check on a
-student machine. For photos he supplied, re-downloading the original into a new folder gives an untouched
-copy, which is simpler.
+**DT is catch-up plus a portfolio update**, on one split slide. **Left half: submit what is missing**,
+with every worksheet and photo due this week listed by day and by exact file name, so nobody has to go
+hunting for what they owe. **Right half: the portfolio update.** Two different photos, their best photo
+and their best editing, each as a before and after on a Unit 2.1 Photography page, with a few sentences
+under each on **what they changed and why, naming the sliders.**
 
-**Entry 2's reflection reuses the Week 6 Figma portfolio pattern**: what I did, the problem it solved,
-how I can tell it worked. Standards go in as words, not numbers, with a plain-language version of each
-on the sheet. **Collect the published URL**, which has been the failure point every time.
+**The portfolio assignment was cut to a brief one**, `handouts/portfolio-photos.md`: the four standards,
+five steps, a list of what they can talk about (white balance, exposure and tone, the four new sliders,
+color, export), and one line on how it is graded. The before image is one short paragraph: export the
+after first, reset to defaults, Save Image, Command+Z.
 
 **V&S finishes and uploads, graded on a new five-row rubric**, `handouts/edit-rubric.md`, written to
 paste into Google Classroom. Three levels per row at 4, 2 and 0 points, twenty total. **Three rows are
@@ -458,6 +456,12 @@ credits block and fill in their own name as editor).
 visible, and ready to point at both split edits. Nobody calls him over until all four are true. A
 self-check slide comes first so his time goes on real notes. **The upload is the 1080p export and a photo of
 the storyboard**; split edits are checked live on the timeline.
+
+**Aviation: quiz, then the ODOT modules.** Finish Module 2 if it is not done, otherwise start the next
+one. That replaces finishing the weather brief, which the week's outline had listed for after the quiz.
+
+**MS CS: quiz, then silently to the final project.** Plans should already be in. **V&S: anyone done early
+studies for next Friday's quiz** by reviewing the week's vocab.
 
 **Aviation quiz: a new 30-question bank, `week-8/quiz-bank.csv`, with 22 on charts and airspace.** No
 meteorology, no hazards or storms, **and no METAR or TAF decoding**: that was Week 5, but it is weather, so
