@@ -139,9 +139,9 @@ done early? color grading is still open.
 **Today the edit is done and uploaded.** Many are behind; the plan does not move.
 **You circulate for playback, one student at a time.** Slide 2 stays up all period: **storyboard out,
 video cued to the start, audio on, level meter visible.** Nobody calls you over until all four are true.
-**Two rubric rows are checked right there:** they point to their **two split edits** on the timeline, and
-you **watch the level meter** while it plays. The other two, the whole story and the title and credits,
-you can check after upload.
+**Three rubric rows are checked right there:** you compare their **storyboard** to the video as it plays,
+they point to their **two split edits** on the timeline, and you **watch the level meter.** The other
+two, the whole story and the title and credits, you can check after upload.
 **What to watch on the meter:** speech peaking around **−12 to −6 dB**, never reaching **0 dB** (red),
 no jump between clips, music under the voices. **A clip that jumps on the meter is the single most common
 fix today**, and it takes a student thirty seconds once you point at it.
@@ -162,7 +162,7 @@ timeline.
 
 > Create one checklist slide for a high school video class titled "Ready For Playback." Body: before you
 > call me over, all four of these have to be true. Then four large checklist items: "1. Your STORYBOARD is
-> out, on your desk." "2. Your video is CUED to the very start, ready to play." "3. AUDIO IS ON, and loud
+> out, on your desk. I compare it to the video." "2. Your video is CUED to the very start, ready to play." "3. AUDIO IS ON, and loud
 > enough for both of us to hear." "4. The audio LEVEL METER is showing, where I can see it." Then a box
 > headed "BE READY TO SHOW ME": "Your TWO split edits. Point to each one on your timeline, J-cut or L-cut."
 > Then a smaller line at the bottom: "I watch the meter while it plays. Speech should sit around −12 to −6.
@@ -182,7 +182,7 @@ timeline.
 > Create one checklist slide for a high school video class titled "Upload Two Things." Two numbered items
 > in large text: "1. Your edit, exported at 1080p." "2. A photo of your storyboard." Then a box: "Export
 > takes longer than you think. Start it with at least ten minutes left." Then a smaller line: "The rubric
-> is attached to the assignment. Four things, sixteen points." One slide.
+> is attached to the assignment. Five things, twenty points." One slide.
 
 ### Board version
 
@@ -193,7 +193,8 @@ TODAY: FINISH IT
   7.7.8  export video to the desired medium
 
 READY FOR PLAYBACK  (all four, before you call me)
-  [ ] STORYBOARD out on your desk
+  [ ] STORYBOARD out on your desk (I compare it to
+      the video while it plays)
   [ ] video CUED to the very start
   [ ] AUDIO ON, loud enough for both of us
   [ ] LEVEL METER showing where I can see it
@@ -223,7 +224,8 @@ UPLOAD TWO THINGS
   export takes longer than you think.
   start it with at least 10 minutes left.
 
-RUBRIC: 4 things, 16 points (attached to the assignment)
+RUBRIC: 5 things, 20 points (attached to the assignment)
+  storyboard        in person
   split edits       in person
   sound balance     in person
   the whole story   after upload

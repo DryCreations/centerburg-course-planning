@@ -2,12 +2,24 @@
 
 **Video & Sound | Due Friday**
 
-**Four things are graded.** Two I check with you in person during playback. Two I check after you
+**Five things are graded.** Three I check with you in person during playback. Two I check after you
 upload.
 
 ---
 
-## 1. Split edits *(checked in person)*
+## 1. Storyboard *(checked in person)*
+
+**Have it out on your desk.** I compare it to your video while it plays.
+
+| Level | Points | What it looks like |
+|---|---|---|
+| **Full** | 4 | Storyboard is there, and **every scene and cut** in your video is in it, with the **framing** your storyboard shows |
+| **Partial** | 2 | Storyboard is there, but it **does not match the video exactly** |
+| **Missing** | 0 | No storyboard, it **does not match the video at all**, or it shows **no sign of planning ahead** |
+
+---
+
+## 2. Split edits *(checked in person)*
 
 **Point them out to me on your timeline** during playback.
 
@@ -19,7 +31,7 @@ upload.
 
 ---
 
-## 2. Sound balance *(checked in person)*
+## 3. Sound balance *(checked in person)*
 
 **Play it with the audio on and the level meter showing.** I watch the meter while you play.
 
@@ -31,7 +43,7 @@ upload.
 
 ---
 
-## 3. The whole story *(checked after you upload)*
+## 4. The whole story *(checked after you upload)*
 
 **Depends on which project you picked.**
 
@@ -43,7 +55,7 @@ upload.
 
 ---
 
-## 4. Title card and credits *(checked after you upload)*
+## 5. Title card and credits *(checked after you upload)*
 
 | Level | Points | What it looks like |
 |---|---|---|
@@ -62,7 +74,7 @@ editor.**
 
 ---
 
-## Total: 16 points
+## Total: 20 points
 
 **Before you call me over:** storyboard out, video ready to play from the start, audio on, and the level
 meter where I can see it.

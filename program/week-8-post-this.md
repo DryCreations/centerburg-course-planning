@@ -114,7 +114,7 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 | 1 | `1-design-techniques/handouts/portfolio-photos.md` | **Assignment.** Portfolio, two before-and-after pairs |
 | 2 | Aviation quiz, built from `3-aviation-uas/quiz-bank.csv` | **Quiz.** 30 questions, cut to taste |
 | 3 | MS CS quiz: `4-middle-school-cs/quiz-screenshot-questions.csv` plus your picks | **Quiz.** Screenshots need a manual pass |
-| 4 | `2-video-and-sound/handouts/edit-rubric.md` | **Rubric.** Attach to the edit assignment. Four rows, 16 points |
+| 4 | `2-video-and-sound/handouts/edit-rubric.md` | **Rubric.** Attach to the edit assignment. Five rows, 20 points |
 
 **Do these yourself:**
 
@@ -125,8 +125,8 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
   `4-middle-school-cs/quiz.md`
 - **Check the reset-to-defaults menu name in Camera Raw** on a student machine. DT needs it to export the
   before images
-- **V&S: attach the rubric to the edit assignment.** Four rows: split edits and sound balance are
-  checked in person during playback; the whole story and the title and credits after upload
+- **V&S: attach the rubric to the edit assignment.** Five rows: storyboard, split edits and sound
+  balance are checked in person during playback; the whole story and the title and credits after upload
 - **V&S: keep a list of who has played their edit for you.** The quiet ones get skipped otherwise
 - **Tell Aviation the quiz has no weather on it** before it starts
 

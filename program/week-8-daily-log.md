@@ -442,9 +442,11 @@ copy, which is simpler.
 how I can tell it worked. Standards go in as words, not numbers, with a plain-language version of each
 on the sheet. **Collect the published URL**, which has been the failure point every time.
 
-**V&S finishes and uploads, graded on a new four-row rubric**, `handouts/edit-rubric.md`, written to
-paste into Google Classroom. Three levels per row at 4, 2 and 0 points, sixteen total. **Two rows are
-checked in person** during playback: **split edits** (two for full credit, pointed out on the timeline)
+**V&S finishes and uploads, graded on a new five-row rubric**, `handouts/edit-rubric.md`, written to
+paste into Google Classroom. Three levels per row at 4, 2 and 0 points, twenty total. **Three rows are
+checked in person** during playback: **the storyboard** (every scene and cut in the video is in it, with
+the framing it shows; partial if it does not match exactly; zero if missing, unrelated, or showing no
+planning ahead), **split edits** (two for full credit, pointed out on the timeline)
 and **sound balance** (speech peaking around −12 to −6 dB, never reaching 0, no jumps between clips,
 music under the voices). **Two are checked after upload:** **the whole story** (documentary needs at
 least one interview that cuts to B-roll partway through and comes back; scripted scenes need every
