@@ -8,7 +8,7 @@ numbers, standards at the top, the agenda underneath with each activity tied to 
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 5 | **Portfolio day.** Two photos, four images, two short reflections |
-| Video & Sound | 3 | **Finish and upload.** Playback check with you, one student at a time |
+| Video & Sound | 4 | **Finish and upload.** Playback with you, storyboard out, meter showing |
 | Aviation UAS | 2 | **QUIZ**, then finish the weather brief |
 | Middle School CS | 2 | **QUIZ**, then build |
 | Yearbook | 1 | Keep working |
@@ -134,15 +134,20 @@ done early? color grading is still open.
 
 ## 2. Video & Sound: Finish and upload
 
-**Documents:** `week-7/project.md`, `week-8/handouts/layering-and-audio.md`
+**Documents:** **`week-8/handouts/edit-rubric.md`** (attach to the assignment in Classroom),
+`week-7/project.md`
 **Today the edit is done and uploaded.** Many are behind; the plan does not move.
-**You circulate for playback.** Each student plays their edit for you start to finish, you give one or
-two things to change, and they go change them. **Keep a list of who you have seen**, or the quiet ones
-get skipped.
-**Two notes worth carrying from student to student, since they will be common:** a cut that lands in the
-middle of a word, and audio levels that jump between clips.
-**The deliverable is the outline's three things:** the edit exported at 1080p, the split edit log, and a
-photo of the storyboard.
+**You circulate for playback, one student at a time.** Slide 2 stays up all period: **storyboard out,
+video cued to the start, audio on, level meter visible.** Nobody calls you over until all four are true.
+**Two rubric rows are checked right there:** they point to their **two split edits** on the timeline, and
+you **watch the level meter** while it plays. The other two, the whole story and the title and credits,
+you can check after upload.
+**What to watch on the meter:** speech peaking around **−12 to −6 dB**, never reaching **0 dB** (red),
+no jump between clips, music under the voices. **A clip that jumps on the meter is the single most common
+fix today**, and it takes a student thirty seconds once you point at it.
+**Keep a list of who you have seen.** The quiet ones get skipped otherwise.
+**The split edit log is not graded any more.** The rubric checks split edits live instead, so the upload
+is just the export and a photo of the storyboard.
 
 ### Slide 1: Standards and agenda
 
@@ -150,25 +155,34 @@ photo of the storyboard.
 > Title: "Today: Finish It." Top half, headed "What we are covering," lists these with their FULL text,
 > not just the numbers: 7.3.7 Edit video footage. 7.8.8 Perform audio mixing. 7.7.8 Export video to the
 > desired medium. Bottom half, headed "What we are doing," is a short two-column list pairing each
-> activity with its competency: "Finish the edit" with 7.3.7; "Play it back for me, then fix what we
-> find" with 7.3.7; "Even out the audio between clips" with 7.8.8; "Export at 1080p and upload" with
-> 7.7.8. One slide.
+> activity with its competency: "Finish the edit" with 7.3.7; "Play it back for me: split edits and sound
+> levels" with 7.8.8; "Fix what we find" with 7.3.7; "Export and upload" with 7.7.8. One slide.
 
-### Slide 2: Before you play it for me
+### Slide 2: Ready for playback
 
-> Create one checklist slide for a high school video class titled "Before I Come Over." A short checklist
-> in large text: "Watch the whole thing once yourself, start to finish, without stopping." "Does any cut
-> land in the middle of a word?" "Does the volume jump between clips?" "Is there a black frame or a gap
-> anywhere on the timeline?" "Do your titles and credits stay on screen long enough to read?" Then a box
-> in very large text: "If you would not want to show it to me yet, fix that first. Then raise your hand."
-> One slide.
+> Create one checklist slide for a high school video class titled "Ready For Playback." Body: before you
+> call me over, all four of these have to be true. Then four large checklist items: "1. Your STORYBOARD is
+> out, on your desk." "2. Your video is CUED to the very start, ready to play." "3. AUDIO IS ON, and loud
+> enough for both of us to hear." "4. The audio LEVEL METER is showing, where I can see it." Then a box
+> headed "BE READY TO SHOW ME": "Your TWO split edits. Point to each one on your timeline, J-cut or L-cut."
+> Then a smaller line at the bottom: "I watch the meter while it plays. Speech should sit around −12 to −6.
+> Red means too loud." Design it to stay up all period. One slide.
 
-### Slide 3: What gets uploaded
+### Slide 3: Before I come over
 
-> Create one checklist slide for a high school video class titled "Upload Three Things." Three numbered
-> items in large text: "1. Your edit, exported at 1080p." "2. Your split edit log: timecode, J or L, and
-> the offset." "3. A photo of your storyboard." Then a box: "Export takes longer than you think. Start it
-> with at least ten minutes left." One slide.
+> Create one checklist slide for a high school video class titled "Check It Yourself First." A short
+> checklist in large text: "Watch the whole thing once yourself, start to finish, without stopping." "Does
+> any cut land in the middle of a word?" "Does the meter jump when one clip changes to the next?" "Does
+> anything hit the red?" "Is every line of the script there? Documentary: does an interview cut to B-roll
+> and come back?" "Title card at the start? Credits scroll at the end?" Then a box: "Fix what you find.
+> Then raise your hand." One slide.
+
+### Slide 4: Upload
+
+> Create one checklist slide for a high school video class titled "Upload Two Things." Two numbered items
+> in large text: "1. Your edit, exported at 1080p." "2. A photo of your storyboard." Then a box: "Export
+> takes longer than you think. Start it with at least ten minutes left." Then a smaller line: "The rubric
+> is attached to the assignment. Four things, sixteen points." One slide.
 
 ### Board version
 
@@ -178,23 +192,42 @@ TODAY: FINISH IT
   7.8.8  perform audio mixing
   7.7.8  export video to the desired medium
 
-BEFORE I COME OVER
-  [ ] watch it yourself, start to finish, no stopping
+READY FOR PLAYBACK  (all four, before you call me)
+  [ ] STORYBOARD out on your desk
+  [ ] video CUED to the very start
+  [ ] AUDIO ON, loud enough for both of us
+  [ ] LEVEL METER showing where I can see it
+
+  be ready to POINT to your TWO split edits
+  on the timeline. J-cut or L-cut.
+
+  I watch the meter while it plays:
+    speech around -12 to -6
+    RED = too loud
+
+CHECK IT YOURSELF FIRST
+  [ ] watch it start to finish, no stopping
   [ ] any cut in the middle of a WORD?
-  [ ] does the VOLUME jump between clips?
-  [ ] any black frame or gap on the timeline?
-  [ ] titles + credits up long enough to READ?
+  [ ] does the meter JUMP between clips?
+  [ ] anything hit the RED?
+  [ ] every script line there? (documentary: an
+      interview that cuts to B-roll and comes back?)
+  [ ] title card at the start? credits SCROLL?
 
-  wouldn't show it to me yet? fix that first.
-  THEN raise your hand.
+  fix it. THEN raise your hand.
 
-UPLOAD THREE THINGS
+UPLOAD TWO THINGS
   1. your edit, exported at 1080p
-  2. your split edit log: timecode / J or L / offset
-  3. a photo of your storyboard
+  2. a photo of your storyboard
 
   export takes longer than you think.
   start it with at least 10 minutes left.
+
+RUBRIC: 4 things, 16 points (attached to the assignment)
+  split edits       in person
+  sound balance     in person
+  the whole story   after upload
+  title + credits   after upload
 ```
 
 ---

@@ -442,11 +442,21 @@ copy, which is simpler.
 how I can tell it worked. Standards go in as words, not numbers, with a plain-language version of each
 on the sheet. **Collect the published URL**, which has been the failure point every time.
 
-**V&S finishes and uploads.** He circulates for playback, one student at a time, giving one or two things
-to change. The slide has them **watch it themselves first**, checking for cuts mid-word, volume jumps
-between clips, gaps, and titles too short to read, so his time goes on the real notes. Three uploads, per
-the outline: the 1080p export, the split edit log, a photo of the storyboard. **Export takes longer than
-they think**, so the slide says start with ten minutes left.
+**V&S finishes and uploads, graded on a new four-row rubric**, `handouts/edit-rubric.md`, written to
+paste into Google Classroom. Three levels per row at 4, 2 and 0 points, sixteen total. **Two rows are
+checked in person** during playback: **split edits** (two for full credit, pointed out on the timeline)
+and **sound balance** (speech peaking around −12 to −6 dB, never reaching 0, no jumps between clips,
+music under the voices). **Two are checked after upload:** **the whole story** (documentary needs at
+least one interview that cuts to B-roll partway through and comes back; scripted scenes need every
+line of the script) and **title card and credits** (credits scroll with keyframes; documentary credits
+name the interviewee, the editor and any other names in the footage; scripted scenes paste the provided
+credits block and fill in their own name as editor).
+
+**A playback slide stays up all period:** storyboard out, video cued to the start, audio on, level meter
+visible, and ready to point at both split edits. Nobody calls him over until all four are true. A
+self-check slide comes first so his time goes on real notes. **The split edit log was dropped from the
+upload** since the rubric checks split edits live; the upload is now the 1080p export and a photo of
+the storyboard.
 
 **Aviation quiz: a new 30-question bank, `week-8/quiz-bank.csv`, with 22 on charts and airspace.** No
 meteorology, no hazards or storms, **and no METAR or TAF decoding**: that was Week 5, but it is weather, so
