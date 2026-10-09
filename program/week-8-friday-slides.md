@@ -146,8 +146,8 @@ you can check after upload.
 no jump between clips, music under the voices. **A clip that jumps on the meter is the single most common
 fix today**, and it takes a student thirty seconds once you point at it.
 **Keep a list of who you have seen.** The quiet ones get skipped otherwise.
-**The split edit log is not graded any more.** The rubric checks split edits live instead, so the upload
-is just the export and a photo of the storyboard.
+**The upload is the export and a photo of the storyboard.** Split edits are checked live, on the
+timeline.
 
 ### Slide 1: Standards and agenda
 

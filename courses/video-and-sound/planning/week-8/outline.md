@@ -30,7 +30,6 @@
 ## Due Friday
 
 - Your edit, exported at 1080p
-- A log of your split edits: timecode, J or L, and how much offset
 - Your storyboard, photographed
 
 **If you get there:** a second version of the same footage with different decisions, and three sentences

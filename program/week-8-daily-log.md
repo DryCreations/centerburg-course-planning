@@ -454,9 +454,8 @@ credits block and fill in their own name as editor).
 
 **A playback slide stays up all period:** storyboard out, video cued to the start, audio on, level meter
 visible, and ready to point at both split edits. Nobody calls him over until all four are true. A
-self-check slide comes first so his time goes on real notes. **The split edit log was dropped from the
-upload** since the rubric checks split edits live; the upload is now the 1080p export and a photo of
-the storyboard.
+self-check slide comes first so his time goes on real notes. **The upload is the 1080p export and a photo of
+the storyboard**; split edits are checked live on the timeline.
 
 **Aviation quiz: a new 30-question bank, `week-8/quiz-bank.csv`, with 22 on charts and airspace.** No
 meteorology, no hazards or storms, **and no METAR or TAF decoding**: that was Week 5, but it is weather, so
