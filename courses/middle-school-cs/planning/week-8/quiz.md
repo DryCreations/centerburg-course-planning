@@ -1,7 +1,39 @@
 # Week 8 Quiz: Lists, Loops and Planning (Friday Oct 9)
 
-**Teacher-only.** **Bank:** `quiz-bank.csv`, 31 questions. **Cut to 20.** Text only, no images, nothing
-coupled. Blocks only, no written JavaScript.
+**Teacher-only.** Two banks, plus whatever you pull from earlier quizzes:
+
+| Bank | Questions | What it is |
+|---|---|---|
+| **`quiz-screenshot-questions.csv`** | **14** | **Code-trace questions.** Each matches a snippet in `handouts/quiz-screenshot-blocks.md`: paste into the JavaScript tab, switch to Blocks, screenshot |
+| `quiz-bank.csv` | 31 | Text questions on lists, loops, conditionals, variables and planning. No images |
+| Earlier quizzes | | **The most-missed questions from Weeks 3 to 6**, your pick |
+
+**Every screenshot answer was verified by running the code**, not by reading it, and no distractor
+matches the real result.
+
+## The screenshot questions, in the formats you use
+
+| Format | Which ones |
+|---|---|
+| **What does the sprite say?** | 2, 4, 6, 9, 10, 11, 12, 14 |
+| **What is the value of the variable after this runs?** | 1, 5, 7, 8, 13 |
+| **The player presses A, then B: what is the score?** | 3, and 14 combines buttons with a list |
+
+**Ordered easiest to hardest.** The ones that tell you the most:
+
+- **4. The shift after a remove.** Remove index 1 from Ana, Ben, Cal, Dee and ask what is at index 1 now.
+  **Cal.** This is the week in one question; Ben is the answer of someone who has not watched a list shift
+- **10. Tuesday's bug.** Removing while looping over a three-item list leaves **one** item, not zero. They
+  built this on purpose, so anyone who says 0 did not run it
+- **11. Searching.** Find index of something not in the list gives **−1**, which is Thursday's bell ringer
+- **13. Matching two lists.** This is the version you actually taught Wednesday: walk two lists together
+  and keep the values that match
+
+## Suggested assembly, to about 20
+
+- **8 screenshot questions**, including 4, 10 and 13
+- **6 to 8 most-missed questions from earlier quizzes**
+- **4 to 6 from `quiz-bank.csv`**, favoring the planning ones, since nothing else covers them
 
 ## Coverage
 

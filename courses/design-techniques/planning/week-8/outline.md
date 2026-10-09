@@ -15,7 +15,7 @@
 | Tue Oct 6 | **Reading the histogram**, clipping, then white balance, tone, two exports |
 | Wed Oct 7 | **Two photos.** Everything so far on your own, then dehaze, clarity, vibrance, saturation |
 | Thu Oct 8 | **Three photos.** Everything so far, then **changing one color at a time** |
-| Fri Oct 9 | **Catch-up.** Finished everything? Start the ungraded color grading assignment |
+| Fri Oct 9 | **Portfolio.** Your best photo and your best editing, each as a before and after |
 
 ## What You'll Be Able to Do
 
@@ -48,6 +48,7 @@
 - The editing sheet, answered
 - `LastName_City_01` and `LastName_Portrait_01`, plus a paragraph on each **(Wednesday)**
 - `LastName_Color1_01`, `LastName_Color2_01`, `LastName_Color3_01` **(Thursday)**
+- **Your portfolio page**, Unit 2.1 Photography: two before-and-after pairs with a short reflection **(Friday)**
 - `LastName_Grade_01` **only if** you do the color grading assignment, which is not worth points
 
 ## Standards Covered

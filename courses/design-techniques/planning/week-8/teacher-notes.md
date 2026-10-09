@@ -9,7 +9,7 @@
 | **Wed** | **`handouts/two-photos.md`** | **5** |
 | **Thu** | **`handouts/color-lab.md`** | **5** |
 | Thu/Fri extra | `handouts/color-grading-extension.md` | **Separate assignment, ungraded, due Friday** |
-| Fri | No new sheet. **Catch-up day** | |
+| **Fri** | **`handouts/portfolio-photos.md`** | Portfolio day. No numbered questions |
 
 **Tuesday is taught off the slides, not off Camera Raw.** Every histogram shape they need to recognize
 is drawn on a slide, so you point at a diagram and they compare it to their own screen. **You are not
@@ -446,15 +446,58 @@ the panel is useless.
 
 ---
 
+## Friday: portfolio day
+
+**Two photos from the week, each as a before and after. Two entries, four images.**
+
+| Entry | Which photo |
+|---|---|
+| **My best photo** | Their favorite. The one they would show someone |
+| **My best editing** | **The most skill with the sliders.** Not always the prettiest |
+
+**They have to be different photos.** Otherwise Entry 2 has nothing to show that Entry 1 did not.
+
+**Finishing an unfinished edit is the first part of the day**, and that is expected, not a failure.
+
+### The before is the fiddly part
+
+**Have them export the after first**, so the edit is safe whatever happens next. Then:
+
+1. The small menu icon at the top right of the panel area, **Camera Raw Defaults**
+2. Save Image as the before
+3. **Command+Z** to get the edit back
+
+**Check the menu name on a student machine before class.** Older versions say **Camera Raw Defaults**,
+newer ones **Reset to Default**, and the icon itself moved between versions. Nothing else about the day
+depends on this, but it will eat ten minutes if it surprises you.
+
+**For any photo you supplied**, there is a simpler route: re-download the original into a **new folder**
+and Save Image without touching it. A fresh copy in a new folder opens untouched.
+
+### The reflection reuses a pattern they know
+
+**Entry 2's reflection is the same shape as the Figma portfolio in Week 6:** what I did, the problem it
+solved, how I can tell it worked. **Say that out loud**, because the ones who did it well then will
+recognize it and the ones who did not get a second shot.
+
+**The standards go in as words, not numbers**, same rule as before. The sheet gives a plain-language
+version of each of the four.
+
+### What to collect
+
+**The published site URL**, not the edit URL. That has been the failure every time so far.
+
+---
+
 ## The rest of the week
 
-**Every day has its own sheet now**, and **Friday has none**: it is a catch-up day.
+**Every day has its own sheet.** Friday's is the portfolio.
 
 | Day | What |
 |-----|------|
 | **Wed** | **Two photos.** Silent review, discussion, Dehaze, Clarity, Vibrance vs Saturation. Both exported |
 | **Thu** | **Three photos.** Ten minutes of base, then changing one color. All three submitted |
-| **Fri** | **Catch-up day.** Finish and submit whatever is outstanding. Anyone done moves to the color grading assignment |
+| **Fri** | **Portfolio day.** Two photos from the week, each as a before and after, with a short reflection |
 
 **Mood moved to Thursday**, where it belongs: grading is the last thing you do to a photo, so it sits
 after HSL rather than before it. **Friday is no longer catch-up**, it is one more full pass start to
@@ -476,8 +519,8 @@ got away with something.
 
 **Thursday:** `LastName_Color1_01`, `LastName_Color2_01`, `LastName_Color3_01`, and the five answers.
 
-**Friday:** whatever is outstanding, plus `LastName_Grade_01` from anyone who did the ungraded grading
-assignment.
+**Friday:** the **published portfolio URL**, showing two before-and-after pairs and a short reflection
+under each. Plus `LastName_Grade_01` from anyone who did the ungraded grading assignment.
 
 **Questions 4, 10 and 13 are the ones to read.** Question 4 is the clipping distinction and it is the
 lesson of the day. Question 10 cannot be faked: a student who cannot name which goal is still off was not

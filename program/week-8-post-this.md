@@ -107,6 +107,28 @@ Week 8. Each line is one post. Paths are inside `week-8-materials/` in the zip.
 
 ---
 
+## Friday, before class
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/portfolio-photos.md` | **Assignment.** Portfolio, two before-and-after pairs |
+| 2 | Aviation quiz, built from `3-aviation-uas/quiz-bank.csv` | **Quiz.** 30 questions, cut to taste |
+| 3 | MS CS quiz: `4-middle-school-cs/quiz-screenshot-questions.csv` plus your picks | **Quiz.** Screenshots need a manual pass |
+
+**Do these yourself:**
+
+- **Build the MS CS screenshots before class.** Paste each snippet from
+  `4-middle-school-cs/handouts/quiz-screenshot-blocks.md` into the JavaScript tab, switch to Blocks,
+  screenshot. **Clear the editor between each one**
+- **Pull the most-missed questions from earlier MS CS quizzes** into the same Form. Suggested mix is in
+  `4-middle-school-cs/quiz.md`
+- **Check the reset-to-defaults menu name in Camera Raw** on a student machine. DT needs it to export the
+  before images
+- **V&S: keep a list of who has played their edit for you.** The quiet ones get skipped otherwise
+- **Tell Aviation the quiz has no weather on it** before it starts
+
+---
+
 ## Design Techniques
 
 | Post | File | Type |
@@ -139,8 +161,10 @@ finishing time.
 **Due Thursday:** all three edited photos, `LastName_Color1_01` through `LastName_Color3_01`, plus the
 five answers.
 
-**Friday is a catch-up day.** Finish and submit whatever is outstanding. Anyone already done moves to the
-**color grading assignment**, which is ungraded and due Friday. **No new sheet Friday.**
+**Friday is portfolio day.** Two different photos from the week, their favorite and the one that shows
+the most skill with the sliders, each exported as a before and after and put on the portfolio with a
+short reflection. **Collect the published URL, not the edit URL.** Color grading stays open, ungraded,
+due Friday, for anyone done.
 
 **The editor is Camera Raw**, confirmed. Tuesday's handout and slides no longer hedge between it and
 Lightroom. Monday's white balance sheet still mentions both and is already out to students, so it stays
@@ -205,7 +229,7 @@ and what to listen for are in `week-9-mood-TEACHER.md`.
 |------|------|------|
 | 1 | `3-aviation-uas/handouts/weather-brief-project.md` | **Assignment, post Monday, make-a-copy.** Sections 1 to 3 are Mon, Tue, Wed |
 | 2 | `3-aviation-uas/outline.md` | Material. The week and the quiz scope |
-| 3 | Quiz from the Week 6 bank, or a fresh cut | **Quiz Friday.** Everything through last Friday |
+| 3 | `3-aviation-uas/quiz-bank.csv` | **Quiz Friday.** 30 questions, 22 on charts and airspace. No weather |
 
 **Wednesday is the heaviest content day of the week**, and it still runs Tuesday's shape: front-load the
 two things they cannot work out alone, then half the period on Section 3. Those two are **the three

@@ -12,7 +12,7 @@
 | **Tue** | **Catch-up**, the histogram off slides, then WB, tone, **two exports** | 10 min on rough assembly, then **work** | **Section 1 reviewed**, fronts, then **work time** | The bug, then **planning** | Keep working |
 | **Wed** | **Two photos.** Silent review, discussion, dehaze, clarity, vibrance | **Split edits**, logged | **The hazard list.** Vocab, then half the period on Section 3 | **Dialogue and parallel lists**, then planning | Keep working |
 | **Thu** | **Three photos.** Base, then changing one color | **Cutaways.** Cover your worst cut | **FLIGHT.** Orbit, now **centered in frame** | **Plan due.** Bell ringer: search a list | Keep working |
-| **Fri** | **Catch-up.** Done? The ungraded grading assignment | Export, then version 2 | **QUIZ**, then the brief | **QUIZ**, then plan or build | Keep working |
+| **Fri** | **Portfolio.** Two before-and-after pairs | **Finish and upload.** Playback with him | **QUIZ**, then finish the brief | **QUIZ**, then build | Keep working |
 
 ---
 
@@ -421,6 +421,71 @@ twenty as a group, anybody can say the next number, two people at once means sta
 with fixes. **Drawing Telephone is the paper-and-pencil backup** if moderating is unappealing. The
 argument for Werewolf: it gets the quiet kids talking **because the game requires it**, which is work
 that "tell us a fun fact" never does.
+
+---
+
+## Friday
+
+**DT is portfolio day.** Two different photos from the week: **their favorite**, and **the one that shows
+the most skill with the sliders**, which is not always the prettiest. Each goes on a Unit 2.1
+Photography page as a before and after, so **two entries and four images.** Finishing an unfinished edit
+is the first part of the day. **The two have to be different photos**, or the second entry has nothing to
+show that the first did not.
+
+**The before image is the fiddly part.** Export the after first so the edit is safe, then reset to
+defaults, Save Image for the before, and Command+Z to restore the edit. **The menu item is named Camera
+Raw Defaults in older versions and Reset to Default in newer ones**, so it is flagged to check on a
+student machine. For photos he supplied, re-downloading the original into a new folder gives an untouched
+copy, which is simpler.
+
+**Entry 2's reflection reuses the Week 6 Figma portfolio pattern**: what I did, the problem it solved,
+how I can tell it worked. Standards go in as words, not numbers, with a plain-language version of each
+on the sheet. **Collect the published URL**, which has been the failure point every time.
+
+**V&S finishes and uploads.** He circulates for playback, one student at a time, giving one or two things
+to change. The slide has them **watch it themselves first**, checking for cuts mid-word, volume jumps
+between clips, gaps, and titles too short to read, so his time goes on the real notes. Three uploads, per
+the outline: the 1080p export, the split edit log, a photo of the storyboard. **Export takes longer than
+they think**, so the slide says start with ten minutes left.
+
+**Aviation quiz: a new 30-question bank, `week-8/quiz-bank.csv`, with 22 on charts and airspace.** No
+meteorology, no hazards or storms, **and no METAR or TAF decoding**: that was Week 5, but it is weather, so
+it was left out to keep the line clean, with the Week 6 bank named as the source if he wants a few back.
+**Part 107 is one question** because he is adding his own ODOT-aligned regulation questions. The rest is
+forces, motors and axes (5) and battery safety (2).
+
+**Every option set was checked:** one objectively correct answer against what the Week 5 to 7 handouts
+taught, **the correct answer is the single longest option in 6 of 30**, no correct answer is more than 4
+characters longer than every distractor, and the distractors are real mistakes rather than free
+eliminations: AGL for MSL, the 400 versus 500 confusion, the back motors going the wrong way.
+
+**The question most worth reading is the Class B shelf one**: shelf 80 over 30, ground at 1,000 MSL,
+drone at 400 AGL. It needs three facts at once (hundreds of feet, MSL, converting AGL by adding the
+ground), so whoever gets it has the whole chart. **The most useful single chart fact is the faded magenta
+band**: at 300 feet AGL you are in Class G, because that Class E starts at 700. Most of Ohio sits under
+one, and a student who misreads it will ask for authorization they do not need.
+
+**Found while writing it:** the Week 5 `sectional-reading.md` handout calls the large grid-square number
+magenta. **On FAA sectionals the Maximum Elevation Figure is blue.** The quiz asks only what the number
+means, never its color. **The handout is already out to students, so it was not changed**; flagged in
+the quiz notes for a sentence in class.
+
+**MS CS quiz: 14 new code-trace questions in the existing screenshot format**, matching the Week 4
+setup: JavaScript snippets in `handouts/quiz-screenshot-blocks.md` that paste into MakeCode and convert to
+blocks, with `[SCREENSHOT n]` rows in `quiz-screenshot-questions.csv`. **They use his three formats**:
+what does the sprite say, what is the variable after this runs, and the player presses A then B, what is
+the score. **Mostly lists**, ordered easiest to hardest.
+
+**Every answer was verified by running the code in node**, with MakeCode's own list methods stubbed,
+**not by reading it**, and the run also confirmed no distractor coincidentally equals the real result.
+The ones that tell the most: **the shift after a remove** (the week in one question), **Tuesday's
+remove-while-looping bug** (leaves one item, not zero), **searching for something absent** (gives −1),
+and **matching two lists**, which is the version he actually taught Wednesday rather than the one in the
+original handout.
+
+**He is pulling the most-missed questions from earlier quizzes himself**, so the notes suggest a mix:
+about 8 screenshots, 6 to 8 from earlier quizzes, and 4 to 6 from the existing text bank, favoring the
+planning ones since nothing else covers them.
 
 ---
 
