@@ -1,4 +1,23 @@
-# Three Moods: Sourcing the Photos
+# Three Moods: Teacher Notes
+
+## Update: no new photos needed
+
+**Students now use a photo they edited in Week 8**, the cityscape, the portrait, or one of the three color
+photos. Those are already decent RAW files with real range, so **the sourcing section below is optional**:
+only use it if you want a fresh set. Monday starts by resetting the photo to defaults, which they learned
+for the Friday portfolio.
+
+**Pacing:** neutral version Monday, one mood Tuesday, one Wednesday, defend Thursday. **Friday is the
+quiz**, so it is due Thursday. Thursday is also the last chance to submit anything missing before the
+quarter closes.
+
+**What changed from the first draft:** they now know HSL and color grading, so the mood table uses them,
+and there is a fifth option, **one color only.** The clipping wording matches Wednesday's correction:
+one real black, nothing they care about clipped.
+
+---
+
+# Sourcing the Photos (optional)
 
 **Teacher-only.** Student sheet is `mood-project.md`.
 

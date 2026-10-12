@@ -1,19 +1,14 @@
 # Three Moods
 
-**Design Techniques | Unit 2.1 Photography | Week 9**
+**Design Techniques | Unit 2.1 Photography | Week 9, Monday to Thursday**
 
 **One photo. Three versions. Three different feelings.**
 
-The photos are in the class folder and they are all good photos already. **Nobody is fixing anything
-broken.** You are deciding what this picture is about.
-
-## Competencies
+## Standards
 
 **7.9.6** Edit photographs (e.g., color corrections, cropping, enhancements).
-
-**7.4.7** Optimize and export graphics files for intended use.
-
 **7.2.7** Select colors based on color theory and psychology.
+**7.4.7** Optimize and export graphics files for intended use.
 
 ---
 
@@ -21,81 +16,74 @@ broken.** You are deciding what this picture is about.
 
 **Correct is a measurement. Mood is a decision.**
 
-Last week you made a photo correct: white things look white, nothing is clipped. That is the floor, not
-the goal. This week you choose a feeling and push the photo there on purpose.
+Last week you learned to make a photo correct. That is the floor, not the goal. This week you take one
+photo and push it to two different feelings **on purpose**, and then defend the choice.
 
-Three decisions do most of the work:
-
-| The decision | The slider | One way | The other way |
-|---|---|---|---|
-| **Where the shadows sit** | Shadows, Blacks | **Lifted:** soft, open, modern | **Crushed:** heavy, serious, cinematic |
-| **How far apart dark and light are** | Contrast | **High:** hard, loud, energetic | **Low:** calm, faded, nostalgic |
-| **Which way the color leans** | Temperature | **Warm:** inviting, late afternoon | **Cool:** lonely, clinical, early morning |
+**You now have every tool you need:** the tone sliders, Clarity and Dehaze, Vibrance and Saturation, HSL,
+and color grading.
 
 ---
 
-## What to do
+## Monday: Version 1, neutral and correct
 
-**Pick one photo from the class folder.** Copy it to your own folder first. Make **three** versions of
-that same file.
+**Pick one photo you edited last week.** The cityscape, the portrait, or any of the three color photos.
 
-### Version 1: Neutral and correct
+1. Open it in Camera Raw and **reset it to its defaults**, so you start from how it was shot
+2. Make it **honest:** white balance right, exposure where it belongs, one real black, nothing you care
+   about clipped. **No mood**
+3. Export as `LastName_Neutral_01`
 
-The honest version. White balance right, nothing clipped, exposure where it belongs. **No mood.**
-
-Export as `LastName_Neutral_01`.
-
-**1.** What did you have to change from how it opened?
-
-### Version 2 and Version 3: Pick two from this list
-
-Not three. **Two**, and they have to feel different from each other.
-
-| Mood | Starting point, not a recipe |
-|------|------------------------------|
-| **Bright and open** | Exposure up, Shadows up, Blacks up, Contrast down, Temperature slightly warm |
-| **Heavy and cinematic** | Exposure down, Blacks down, Contrast up, Highlights down, Temperature slightly cool |
-| **Faded and nostalgic** | Contrast down, Blacks **up**, Whites down, Temperature warm, Saturation down |
-| **Cold and clinical** | Temperature cool, Contrast up, Saturation down, Clarity up |
-
-**Those numbers are a place to start, not an answer.** Push past them, then come back.
-
-Export as `LastName_Mood1_01` and `LastName_Mood2_01`.
-
-**2.** Which two moods did you pick, and why those two for **this** photo?
-
-**3.** For each one: name the **three** sliders that did the most work, and say which direction.
-
-**4.** One of your two moods fought the photo. Which one, and what in the photo resisted?
+**1.** Which photo did you pick, and what did you have to fix from how it opened?
 
 ---
 
-## The part that is actually graded
+## Tuesday and Wednesday: two moods
 
-**5.** Put the three side by side. **Which one would you publish**, and who is the audience that makes
-that the right call?
+**Pick two from this list.** They have to feel different from each other. Start from your neutral version
+each time.
 
-**6.** Your neutral version is the most honest. **Is it the best photo?** Answer yes or no, then defend
-it in three sentences.
+| Mood | A place to start, not a recipe |
+|------|--------------------------------|
+| **Bright and open** | Exposure up, Shadows and Blacks up, Contrast down, slightly warm. Vibrance up a little |
+| **Heavy and cinematic** | Blacks down, Contrast up, Highlights down, slightly cool. Teal shadows in color grading |
+| **Faded and nostalgic** | Contrast down, Blacks **up**, Whites down, warm. Saturation down. Yellow highlights, green shadows |
+| **Cold and clinical** | Cool, Contrast up, Saturation down, Clarity up. Pull every warm color down in HSL |
+| **One color only** | Everything neutral, then HSL: drop the Saturation of every color but one |
 
-**7.** Pick one slider you moved a long way in one version and barely at all in the other. **Why did the
-same slider matter so differently?**
+**Push past those, then come back.** If you cannot see it, go further. If you notice it before you notice
+the photo, go back. **Color grading saturation stays low, around 5 to 15.**
+
+Export as `LastName_Mood1_01` (Tuesday) and `LastName_Mood2_01` (Wednesday).
+
+**2.** Which two moods did you pick, and for each one, **which three sliders did the most work?**
+
+**3.** One of your moods fought the photo. **Which one, and what in the photo resisted?**
 
 ---
 
-## Turn in
+## Thursday: defend it
 
-- This document, answered
-- Three JPEGs: `LastName_Neutral_01`, `LastName_Mood1_01`, `LastName_Mood2_01`
+**Put all three side by side.**
 
-**Due Friday.**
+**4.** **Which one would you publish**, and who is the audience that makes it the right call?
+
+**5.** Your neutral version is the most honest. **Is it the best photo?** Yes or no, then defend it in
+three sentences.
+
+**6.** Pick a slider you moved a long way in one mood and barely at all in the other. **Why did the same
+slider matter so differently?**
+
+**Then: this is the last week of the quarter.** Anything missing from this unit, submit it today.
 
 ---
 
-## Grading
+## Turn in, by Thursday
 
-**Questions 5, 6 and 7 are most of the grade.** Three exported files with no written defense is a
-half-credit assignment.
+- This sheet
+- `LastName_Neutral_01`, `LastName_Mood1_01`, `LastName_Mood2_01`
 
-**You are not graded on which mood you chose.** You are graded on whether you can say what you did and
-why it works on this photo and not some other one.
+## Graded on
+
+**Questions 4, 5 and 6 are most of the grade.** Three good photos with no written defense is half credit.
+**You are not graded on which moods you chose**, only on whether you can say what you did and why it
+works on this photo.
