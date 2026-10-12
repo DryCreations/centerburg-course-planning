@@ -8,11 +8,11 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Mon** | **Color grading** | **Screen** finished edits, **submit v1**, lower third | No-go hunt: **gusts, low cloud.** ODOT | **Build** the first piece | Keep working |
-| **Tue** | Three Moods: **neutral and mood 1** | **Animated title** | Hunt: **precipitation, storms, fog.** ODOT | Build. Grade check-ins | Keep working |
-| **Wed** | **Mood 2** | **Keyframed text** | Hunt: **TAF, TFR, the sneaky one.** ODOT | Build | Keep working |
-| **Thu** | **Defend it, onto the portfolio.** Submit missing | **Export version 2.** Submit missing | **Our own call, every row. Fly if it all passes** | All six requirements in | Keep working |
-| **Fri** | **QUIZ** (Weeks 7 and 8) | **QUIZ** (Weeks 7 and 8) | Finish, ODOT, submit missing | **Project due** | **Week 9 check-in due** |
+| **Mon** | **Color grading** | **Screen** finished edits, **submit v1**, meet the bridge scene | No-go hunt: **gusts, low cloud.** ODOT | **Build** the first piece | Keep working |
+| **Tue** | Three Moods: **neutral and mood 1** | Bridge scene: **watch every clip, keep the best take** | Hunt: **precipitation, storms, fog.** ODOT | Build. Grade check-ins | Keep working |
+| **Wed** | **Mood 2** | **Assembly** | Hunt: **TAF, TFR, the sneaky one.** ODOT | Build | Keep working |
+| **Thu** | **Defend it, onto the portfolio.** Submit missing | **Rough cut.** Submit missing | **Our own call, every row. Fly if it all passes** | All six requirements in | Keep working |
+| **Fri** | **QUIZ** (Weeks 7 and 8) | **QUIZ** (Weeks 7 and 8), then cut. **Rough cut checkpoint** | Finish, ODOT, submit missing | **Project due** | **Week 9 check-in due** |
 
 ---
 
@@ -32,13 +32,26 @@ backup, so there is nothing new to source. Due Thursday, since Friday is the qui
 **Typography (Unit 1.3) was offered and set aside.** It was on the map for Weeks 6 and 7 and is still
 owed; it goes on the list for next quarter.
 
-**V&S: Monday screens a few finished edits, gets every version 1 submitted, then starts titles and
-motion.** Screening is by volunteer, as in Week 7: one thing that works, one thing to change, pointing at
-the rubric rows when they show up. **Anyone without a submitted version 1 exports and submits before the
-text work.** The rest of the week is titles and motion as version 2: four rules for on-screen text (read
-it twice, never touching the edge, stands out from the picture, two fonts at most), then a lower third,
-an In and Out animated title, and custom keyframed text (**move in, hold, move out**). Export Thursday.
-Audio, three-point lighting and a shoot-and-cut were offered and set aside.
+**V&S: Monday screens a few finished edits and gets every version 1 submitted**, which is the last Q1
+grade. Screening is by volunteer, as in Week 7: one thing that works, one thing to change, pointing at
+the rubric rows when they show up.
+
+**Then the Cinestudy color grading project, the bridge scene, revised in on Monday by request.** It
+replaced titles and motion as the best use of the week. Real footage from a Blackmagic URSA Mini and a
+DJI drone, several takes of each shot, no usable sound, so it looks flat and gray out of camera. **Week
+9 is cutting only:** watch every clip and keep the best take (Tue), assembly in story order (Wed), rough
+cut (Thu and Fri), with `LastName_Bridge_Rough` as an ungraded checkpoint Friday. **Next week is color in
+CapCut's free tools:** correct and match every shot (Mon), grade one mood on an adjustment layer (Tue and
+Wed), and export twice, corrected and graded (Thu and Fri). **Due Fri Oct 23, and it counts toward Q2,
+not Q1.** The rule all two weeks: **free tools only, skip anything with a crown**, since CapCut blocks
+export of projects that use Pro features.
+
+**Not verified:** which color tools in the current CapCut are free, whether adjustment layers and
+copy-paste of adjustments are in the lab's version, and the footage's codec. The project page could not
+be opened. **The teacher notes have a five-minute lab Mac check** and fallbacks for each.
+
+**Titles and motion is parked for a later week**, with its handout unchanged. Audio, three-point lighting
+and a shoot-and-cut were offered earlier and set aside.
 
 **Unit 1.3 Audio remains owed**, about 16% of the WebXam. Flagged for next quarter.
 
@@ -83,7 +96,7 @@ class, one slide for MS CS and Yearbook.
 
 **Approved as presented.** DT: photography from Weeks 7 and 8, shooting and editing, with Figma, color
 grading, Three Moods and the portfolio out. V&S: post-production from Weeks 7 and 8, built around what the
-Oct 2 quiz left out, with pre-production and this week's titles out. About 30 questions each, to cut to
+Oct 2 quiz left out, with pre-production and this week's project out. About 30 questions each, to cut to
 20. **Color grading stays off the DT quiz** even though Monday now teaches it, since the quiz covers only
 Weeks 7 and 8.
 
@@ -91,5 +104,6 @@ Weeks 7 and 8.
 
 - **DT Unit 1.3 Typography**, skipped in Weeks 6 and 7
 - **V&S Unit 1.3 Audio**, about 16% of the WebXam
+- **V&S: the bridge scene finishes in Q2 Week 1**, due Fri Oct 23, and **titles and motion** is parked
 - **Aviation Unit 2.2 Preflight**, the natural next unit
 - **BPA event selection** across all courses, held until next quarter by request

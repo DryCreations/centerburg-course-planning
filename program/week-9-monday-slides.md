@@ -5,7 +5,7 @@
 | Class | Slides | Shape |
 |-------|--------|-------|
 | Design Techniques | 2 | Standards and agenda, then **color grading** |
-| Video & Sound | 2 | Standards and agenda, then **screen, submit version 1, lower third** |
+| Video & Sound | 2 | Standards and agenda, then **screen, submit version 1, meet the bridge scene** |
 | Aviation UAS | 2 | Standards and agenda, then **the no-go hunt**, then ODOT |
 | Middle School CS | 1 | **Build the first piece** |
 | Yearbook | 1 | Keep working. **Week 9 check-in due Friday** |
@@ -75,64 +75,60 @@ TODAY: COLOR GRADING
 
 ---
 
-## 2. Video & Sound: Screen, Submit, Then Text
+## 2. Video & Sound: Screen, Submit, Then the Bridge Scene
 
-**Documents:** `week-9/handouts/titles-and-motion.md` (post it today)
+**Documents:** `week-9/handouts/bridge-scene.md` (post it today), `week-9/teacher-notes.md` (yours)
 **Three things today, in this order:** screen a few finished edits with feedback, make sure every version
-1 is exported and submitted, then the four rules for text and a lower third.
+1 is exported and submitted, then **show them the new footage** and why it looks gray.
 **Screening: ask for volunteers**, as in Week 7. Two or three is plenty. **One thing that works, one
 thing to change**, and point at the rubric rows when you see them: a split edit that lands, levels that
 stay even, credits that scroll.
-**Anyone without a submitted version 1 does that before the text work.**
+**Anyone without a submitted version 1 does that before anything else.** It is the last Q1 grade.
+**Have the footage in the shared folder before class**, the smaller version, not 4K.
 
 ### Slide 1: Standards and agenda
 
 > Create ONE slide for a high school video production class that holds both the standards and the agenda.
-> Title: "This Week." Top half, headed "What we are covering," lists these with their FULL text: 7.7.6 Add
-> transitions (dissolves, wipes, cuts), titles, special effects, and digital effects. 7.3.7 Edit video
-> footage. 7.7.8 Export video to the desired medium. Bottom half, headed "This week," a short day plan
-> paired with competencies: "MON: screen a few edits, submit version 1, then a lower third" with 7.3.7 and
-> 7.7.6; "TUE: an animated title" with 7.7.6; "WED: your own motion with keyframes" with 7.7.6; "THU:
-> export version 2" with 7.7.8; "FRI: quiz on Weeks 7 and 8." Then a line in bold: "Last week of the
-> quarter." One slide.
+> Title: "This Week." Top half, headed "What we are covering," lists these with their FULL text: 7.3.7
+> Edit video footage. 7.2.7 Select colors based on color theory and psychology. 7.7.8 Export video to the
+> desired medium. Bottom half, headed "This week," a short day plan paired with competencies: "MON:
+> screen a few edits, submit version 1, meet the footage" with 7.3.7 and 7.7.8; "TUE: watch every clip,
+> keep the best take" with 7.3.7; "WED: the assembly" with 7.3.7; "THU: the rough cut" with 7.3.7; "FRI:
+> quiz on Weeks 7 and 8, rough cut due" with 7.7.8. Then a line in bold: "Next week: color, with 7.2.7.
+> Due Oct 23, counts toward next quarter." One slide.
 
 ### Slide 2: Today
 
 > Create one slide for a high school video class titled "Today: Three Things." Three numbered blocks. "1.
 > WATCH: a few finished edits, from volunteers. One thing that works, one thing to change." "2. SUBMIT:
-> version 1 not submitted yet? Export it at 1080p and submit it before anything else." "3. TEXT: the four
-> rules, then a lower third." Then the four rules as a short list: "Long enough to read it TWICE." "Never
-> touching the EDGE." "It has to stand out: shadow, outline, or a bar." "Two fonts, at most." Then a
-> small line: "Lower third: a name and who they are, lower left, 3 to 5 seconds, the first time they
-> speak." One slide.
+> version 1 not submitted yet? Export it at 1080p and submit it before anything else." "3. MEET THE
+> FOOTAGE: a scene shot on a cinema camera and a drone. It looks flat and gray on purpose. This week we
+> cut it. Next week we color it." Then a small line in bold: "Free tools only. If it has a crown, skip
+> it." One slide.
 
 ### Board version
 
 ```
 THIS WEEK
-  7.7.6  add transitions, titles, special effects, and
-         digital effects
   7.3.7  edit video footage
+  7.2.7  select colors based on color theory and
+         psychology
   7.7.8  export video to the desired medium
 
-  MON  screen, submit v1, lower third
-  TUE  animated title     WED  your own keyframes
-  THU  export version 2   FRI  QUIZ (weeks 7 and 8)
+  MON  screen, submit v1, meet the footage
+  TUE  watch every clip, keep the best take
+  WED  assembly     THU  rough cut
+  FRI  QUIZ (weeks 7 and 8), rough cut due
+
+  NEXT WEEK: color. due oct 23 (next quarter)
 
 TODAY
   1. WATCH  a few finished edits. one thing that works,
             one thing to change.
   2. SUBMIT version 1 not in? export 1080p, submit it.
-  3. TEXT   the four rules, then a lower third.
+  3. MEET   the bridge scene. flat and gray on purpose.
 
-FOUR RULES FOR TEXT
-  long enough to read it TWICE
-  never touching the EDGE
-  stands out: shadow / outline / bar
-  two fonts, at most
-
-LOWER THIRD: name + who they are. lower left.
-  3-5 seconds. the FIRST time they speak.
+FREE TOOLS ONLY. if it has a crown, skip it.
 ```
 
 ---
