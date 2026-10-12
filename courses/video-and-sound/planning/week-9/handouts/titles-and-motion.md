@@ -26,6 +26,8 @@ there and moves like someone meant it to.
 
 ## Monday: a lower third
 
+**First: is version 1 submitted?** If not, export it at 1080p and submit it before anything else today.
+
 **A lower third** is the name that appears in the bottom part of the screen the first time someone
 speaks. It sits in the lower third of the frame, which is where the name comes from.
 

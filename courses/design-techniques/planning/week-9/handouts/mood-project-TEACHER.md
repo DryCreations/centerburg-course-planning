@@ -1,19 +1,16 @@
 # Three Moods: Teacher Notes
 
-## Update: no new photos needed
+## Update: the final shape of the week
 
-**Students now use a photo they edited in Week 8**, the cityscape, the portrait, or one of the three color
-photos. Those are already decent RAW files with real range, so **the sourcing section below is optional**:
-only use it if you want a fresh set. Monday starts by resetting the photo to defaults, which they learned
-for the Friday portfolio.
+**Monday is color grading**, `handouts/color-grading.md`, taught and graded properly this time (it was
+only an ungraded extension in Week 8). **Tuesday to Thursday is Three Moods**, and it now requires
+**color grading in at least one mood** plus **at least four of last week's tools** across the project.
+**Thursday they put all three versions on their portfolio** with a short description of what changed.
 
-**Pacing:** neutral version Monday, one mood Tuesday, one Wednesday, defend Thursday. **Friday is the
-quiz**, so it is due Thursday. Thursday is also the last chance to submit anything missing before the
-quarter closes.
+**Photos:** a photo **they took** in the Week 7 shoot is preferred; last week's class photos are the
+backup. **No new photo set to source**, so the section below is optional.
 
-**What changed from the first draft:** they now know HSL and color grading, so the mood table uses them,
-and there is a fifth option, **one color only.** The clipping wording matches Wednesday's correction:
-one real black, nothing they care about clipped.
+**Friday is the quiz** on Weeks 7 and 8, so everything is due Thursday.
 
 ---
 

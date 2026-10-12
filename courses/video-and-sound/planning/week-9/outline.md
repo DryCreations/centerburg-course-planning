@@ -12,7 +12,7 @@
 
 | Day | Focus |
 |-----|-------|
-| Mon Oct 12 | The four rules for text on screen. **A lower third** |
+| Mon Oct 12 | **Screen a few finished edits.** Submit version 1 if you have not. Then the four rules for text, and **a lower third** |
 | Tue Oct 13 | **An animated title**, with In and Out animations |
 | Wed Oct 14 | **Your own motion with keyframes:** move in, hold, move out |
 | Thu Oct 15 | Finish, **export version 2.** Submit anything missing before the quarter closes |
