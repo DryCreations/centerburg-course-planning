@@ -1,116 +1,105 @@
 # The Bridge Scene
 
-**Video & Sound | Week 9 into next week | Due Friday, Oct 23 | Counts toward next quarter**
+**Video & Sound | Due Friday, Oct 23 | Counts toward next quarter**
 
-**Real footage from a real film shoot.** It was shot on a cinema camera and a drone, and it is supposed
-to look **flat and gray** straight out of the camera. That leaves the color decisions to the editor.
-
-**This week you cut it. Next week you give it a look.**
+You get every shot from a real film shoot. You plan it, cut it, add music, and color it.
 
 ## Standards
 
+**7.2.5** Make preliminary sketches showing placement of images and text on screen.
 **7.3.7** Edit video footage.
+**7.3.9** Integrate sound with visuals.
+**7.7.6** Add transitions (e.g., dissolves, wipes, cuts), titles, special effects, and digital effects.
 **7.2.7** Select colors based on color theory and psychology.
-**7.7.8** Export video to the desired medium.
 
-## Three rules before you start
+## Rules
 
-- **Free tools only.** If a filter, effect or tool shows a **Pro badge or a crown, skip it.** CapCut will
-  not let you export a project that uses one
-- **Use the footage from the class folder.** Do not download the 4K files yourself
-- **If playback stutters**, lower the preview quality in the player. The export is unaffected
+- **Storyboard first.** No CapCut until I approve your storyboard
+- **Free tools only.** If something has a crown or a Pro label, skip it. CapCut will not export it
+- **Use the footage in the class folder**
 
 ---
 
-## Week 9: cut it (7.3.7)
+## Step 1: Plan it (7.2.5)
 
-### Tuesday: watch everything, keep the best
+1. Watch every clip. Most shots have more than one take
+2. Pick a mood for your scene: tense, lonely, hopeful, or your own idea
+3. Storyboard every shot in order. Each panel shows the framing (wide, medium, close-up, drone) and the
+   clip name. Stick figures are fine
+4. Bring it to me for approval
 
-1. Import every clip. **Watch each one all the way through**, even the long ones
-2. Most shots have **more than one take.** Pick the best take of each shot and **rename it**, or add it
-   to the timeline in a scrap area at the end
+**1.** What mood are you going for? Answer in one sentence.
 
-**1.** Pick one shot with several takes. **Which take did you keep, and what was wrong with the others?**
+## Step 2: Cut it (7.3.7)
 
-### Wednesday: the assembly
+1. Use the best take of each shot
+2. Put the shots in your storyboard order
+3. Trim each shot so it only stays on screen while something is happening
+4. Cut on action: if someone moves, cut in the middle of the movement
 
-**Put every take you kept on the timeline, in story order.** Do not trim much yet. The point is to see
-the whole scene from start to finish.
+**Optional:** film your own insert, such as a close-up of a note being unfolded, and cut it in. Add it to
+your storyboard first.
 
-**2.** **Which shot opens your scene, and why that one?** Wide, drone, close-up?
+**2.** Which cut are you proudest of? Name the shots on each side of it.
 
-### Thursday and Friday: the rough cut
+## Step 3: Music (7.3.9)
 
-**Now trim.** Each shot stays on screen only as long as it has something to show.
+1. Add music from CapCut's library that fits your mood. No crowns
+2. Keep the level between **−12 and −6 dB**. Never in the red
+3. Fade the music in at the start and out at the end
 
-- **Cut on action:** when someone moves, cut in the middle of the movement
-- **A drone shot or a wide shot** tells us where we are. A close-up tells us how someone feels
-- **Leave color alone.** If a shot looks gray and dull, that is expected. Next week fixes it
+**3.** Why does your music fit your mood?
 
-**3.** **Which cut are you proudest of?** Give the two shots on either side of it.
+## Step 4: Title and credits (7.7.6)
 
-**Export at 1080p as `LastName_Bridge_Rough` and submit it Friday.** This is a checkpoint, so I can see
-where you are before color.
+1. A **title card** at the start
+2. **Credits that scroll up** at the end, using keyframes, the same way as last project
+3. For the credits, copy the credits list from the page the footage came from. Put your name in as
+   editor, and add the name of your song
 
----
+## Step 5: Color (7.2.7)
 
-## Next week: color (7.2.7)
+We will go over this together. If you are ahead, these are the steps.
 
-**Select a clip, then open the Adjust panel** on the right. The free tools you need are all there:
+**First, correct each clip.** Select a clip, then click **Adjust** on the right.
 
-- **Basic:** Temperature, Tint, Exposure or Brightness, Contrast, Highlights, Shadows, Whites, Blacks,
-  Saturation
-- **HSL:** one color at a time. Hue shifts it, Saturation strengthens or weakens it, Lightness brightens
-  or darkens it
-- **Curves:** contrast you shape yourself
-- **Color wheels:** a color for the shadows, a different color for the highlights
+1. Lower **Blacks** and raise **Contrast** until something in the shot is truly dark. The footage
+   starts gray on purpose
+2. Use **Temperature** and **Tint** until white things look white
+3. Right-click the clip to copy the adjustments, then paste them onto clips from the same angle
 
-### Monday: correct first
+**Then, grade the whole scene with an adjustment layer.**
 
-**Make every shot honest and make every shot match.** No mood yet.
+1. Click **Adjustment** in the top toolbar and drag it onto a track above all your clips
+2. Stretch it so it covers the whole scene
+3. Select the adjustment layer, then use **Adjust** on it. Everything under it changes at once
 
-1. **Contrast and Blacks** until something in the frame is truly dark. That is what takes the gray away
-2. **Temperature and Tint** until white things look white and skin looks like skin
-3. **Shots from the same angle should match.** Copy the adjustments from one clip and paste them onto the
-   others, then fine-tune
+**Tools for the mood:**
 
-**4.** **Which two shots were hardest to match**, and what was different about them?
+- **Color wheels:** one color in the shadows, a different color in the highlights
+- **HSL:** change one color at a time
+- **Curves:** shape the contrast yourself
 
-### Tuesday and Wednesday: grade it
+**Mood ideas:**
 
-**Pick one mood for the whole scene.** Add an **adjustment layer** on a track above your clips and grade
-on that, so the look covers everything at once.
-
-Some places to start:
-
-- **Cold and lonely:** cooler, less saturation, blue in the shadows
-- **Warm memory:** warmer, softer contrast, blacks lifted a little
+- **Lonely:** cooler, less saturation, blue shadows
+- **Warm memory:** warmer, softer contrast
 - **Tense:** more contrast, teal shadows, warm highlights
-- **Faded:** less contrast, less saturation, a little yellow in the highlights
+- **Faded:** less contrast, less saturation, yellow highlights
 
-**Keep it subtle.** If faces turn orange or the sky turns a color skies never are, back off.
+**Keep it subtle.** If skin looks orange or green, back off.
 
-**5.** **What mood did you pick, and which two tools did the most work?**
-
-### Thursday and Friday: finish and export
-
-1. Finish trimming. Watch the whole scene once with **fresh eyes**
-2. **Music is optional.** Use CapCut's free library, no crowns, and keep levels between **−12 and −6**
-3. Export at 1080p **twice:** once with the adjustment layer turned **off** as
-   `LastName_Bridge_Corrected`, once with it **on** as `LastName_Bridge_Graded`
-
-**6.** Watch the two versions back to back. **What does the graded one make you feel that the corrected one
-does not?**
+**4.** Which two tools did the most work for your mood?
 
 ---
 
-## Turn in
+## Turn in by Friday, Oct 23
 
-- **Fri Oct 16:** `LastName_Bridge_Rough`, and questions 1 to 3
-- **Fri Oct 23:** `LastName_Bridge_Corrected`, `LastName_Bridge_Graded`, and questions 4 to 6
+- A photo of your storyboard
+- `LastName_Bridge`, exported at 1080p
+- Your answers to questions 1 to 4
 
 ## Graded on
 
-**The cut** (every part of the scene, in an order that makes sense, cutting on action), **the correction**
-(shots match), **the grade** (one mood, held across the whole scene), and **questions 5 and 6.** This goes
-in **next quarter's** grades.
+Five things, 4 points each: storyboard, music and sound, the whole scene, title and credits, and color.
+The details are on the rubric.

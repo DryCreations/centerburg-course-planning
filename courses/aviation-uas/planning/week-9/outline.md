@@ -1,34 +1,25 @@
 # Week 9: The No-Go Hunt: Outline
 
 **Course:** Aviation UAS (177024)
-**Quarter:** Q1 | **Week:** 9 | **Unit:** 2.1 Meteorology | **Dates:** Mon Oct 12 to Fri Oct 16
+**Week:** 9 | **Unit:** 2.1 Meteorology | **Dates:** Mon Oct 12 to Fri Oct 16
 
-> **"It's fine, let's go" has become a habit.** This week you hunt real reports, on the real tools, for
-> reasons **not** to fly. Somewhere in the country, every one of them is happening right now.
-> **Last week of the quarter.**
+This week you search real weather reports for reasons not to fly. Last week of the quarter.
 
 ---
 
-## Weekly Snapshot
+## This Week
 
 | Day | Focus |
 |-----|-------|
-| Mon Oct 12 | **Learn the map.** Find gusts, low cloud, low visibility. Then ODOT Module 3 |
-| Tue Oct 13 | Find **precipitation, a thunderstorm, and a small spread.** Then ODOT Module 3 |
-| Wed Oct 14 | **The sneaky ones:** a TAF that turns bad, a real TFR, a nice-looking day with one problem. Then ODOT |
-| Thu Oct 15 | **Our own call:** every row of the checklist, then **fly if every row passes** |
-| Fri Oct 16 | Finish the sheet. ODOT. **Submit anything missing before the quarter closes** |
-
-## What You'll Be Able to Do
-
-- Find real weather reports and TFRs on aviationweather.gov and tfr.faa.gov
-- Spot the one group in a report that cancels a flight, and name the rule it breaks
-- Work out your legal maximum altitude from the cloud layer, using the 500 foot rule
-- Run the whole checklist on a day that looks fine, instead of glancing at the sky
+| Mon Oct 12 | Learn the map. Find gusts and low cloud. Then ODOT Module 3 |
+| Tue Oct 13 | Find rain, a thunderstorm, and fog risk. Then ODOT |
+| Wed Oct 14 | Find a TAF that gets worse, a TFR, and a nice day with one problem. Then ODOT |
+| Thu Oct 15 | Check our own weather, every reason on the list. Fly if it all passes |
+| Fri Oct 16 | Finish the sheet. ODOT. Last day to submit missing work |
 
 ## Due Friday
 
-- The No-Go Hunt sheet, with **every find a real report**
+- The No-Go Hunt sheet, with real reports
 - ODOT Module 3 progress
 
 ## Standards

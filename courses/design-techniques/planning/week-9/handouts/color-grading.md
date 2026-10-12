@@ -1,62 +1,45 @@
 # Color Grading
 
-**Design Techniques | Week 9, Monday**
+**Design Techniques | Monday**
 
-**This is where the "look" of a photo comes from:** one color in the bright parts, a different one in the
-dark parts. Today you learn it. **Tuesday you use it** in the Three Moods project.
+Color grading adds one color to the bright parts of a photo and another color to the dark parts. You
+will use it in the Three Moods project starting Tuesday.
+
+## Standards
 
 **7.9.6** Edit photographs (e.g., color corrections, cropping, enhancements).
 **7.2.7** Select colors based on color theory and psychology.
 
 ---
 
-## Pick your photo
+## Steps (7.9.6)
 
-**A photo you took is best:** one from your Week 7 shoot, from your own RAW folder. If none of yours
-work, use one of last week's class photos. **Fix it first:** white balance, tone, the usual. Grading goes
-on top of a correct photo, never instead of one.
+1. Pick a photo. One you took in Week 7 is best. Last week's class photos are the backup
+2. Fix it first: white balance and tone, like last week
+3. Scroll below HSL. Your Camera Raw has one of these:
+   - **Color Grading:** three color wheels for Shadows, Midtones, and Highlights
+   - **Split Toning:** Hue and Saturation sliders for Highlights and Shadows
+4. Keep **Saturation between 5 and 15.** Higher than that looks fake
 
-## Find the panel
+## Try all four looks (7.2.7)
 
-**Scroll past HSL.** Your version of Camera Raw has one of these:
+- **Teal and orange:** orange highlights, teal shadows
+- **Golden hour:** gold highlights, warm brown shadows
+- **Cold:** neutral highlights, blue shadows
+- **Faded film:** pale yellow highlights, soft green shadows
 
-| If you see | It looks like |
-|---|---|
-| **Color Grading** | Three color wheels: **Shadows, Midtones, Highlights** |
-| **Split Toning** | A **Hue** and **Saturation** pair for Highlights, the same for Shadows, and a **Balance** slider |
-
-**They do the same job.**
-
-## The one rule
-
-> **Keep Saturation low: around 5 to 15.**
-
-At 60 it looks like a broken television. **If you notice it before you notice the photo, go back.**
-
-## Try all four looks on the same photo
-
-| Look | Highlights | Shadows |
-|---|---|---|
-| **Teal and orange** | Warm orange or gold | Teal or blue |
-| **Golden hour, faked** | Warm gold | Warm, slightly brown |
-| **Cold and cinematic** | Neutral | Blue, a little further than feels safe |
-| **Faded film** | Pale yellow | Soft green |
-
-**Keep the one that suits your photo best.** Export it as `LastName_Grade_01`.
+Keep the one that fits your photo best. Export it as `LastName_Grade_01`.
 
 ---
 
-**1.** Which panel does your version have, and **which look did you keep?** Write the hue and saturation
-you used for highlights and for shadows.
+## Questions
 
-**2.** Push one saturation to 60 on purpose. **Describe what goes wrong.**
+**1.** Which look did you keep? Write the hue and saturation numbers for the highlights and the shadows.
 
-**3.** Shadows usually take color much more easily than highlights. **Did you find that? Where did you
-see it?**
+**2.** Push one saturation to 60. What goes wrong?
 
----
+**3.** Did the shadows or the highlights show the color more easily?
 
 ## Graded on
 
-`LastName_Grade_01` and the three answers. **Question 1 is worth the most:** naming the actual numbers is
-how you prove it was a decision.
+`LastName_Grade_01` and the three answers. Question 1 counts the most.

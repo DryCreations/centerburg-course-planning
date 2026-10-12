@@ -1,47 +1,40 @@
 # MONDAY (Oct 12): Slide Prompts (all classes)
 
-**Minimal.** Every block is one prompt, for one slide. Last week of the quarter.
+Each block is one prompt for one slide. Last week of the quarter.
 
-| Class | Slides | Shape |
-|-------|--------|-------|
-| Design Techniques | 2 | Standards and agenda, then **color grading** |
-| Video & Sound | 2 | Standards and agenda, then **screen, submit version 1, meet the bridge scene** |
-| Aviation UAS | 2 | Standards and agenda, then **the no-go hunt**, then ODOT |
-| Middle School CS | 1 | **Build the first piece** |
-| Yearbook | 1 | Keep working. **Week 9 check-in due Friday** |
+| Class | Slides | What |
+|-------|--------|------|
+| Design Techniques | 2 | Standards and agenda, then color grading |
+| Video & Sound | 2 | Standards and agenda, then screen, submit, and meet the footage |
+| Aviation UAS | 2 | Standards and agenda, then the no-go hunt |
+| Middle School CS | 1 | Build week |
+| Yearbook | 1 | Keep working |
 
 ---
 
 ## 1. Design Techniques: Color Grading
 
-**Documents:** `week-9/handouts/color-grading.md` (today), `week-9/handouts/mood-project.md` (post today,
-starts Tuesday)
-**Color grading, taught properly**, since in Week 8 it was only an ungraded extension. **Check which
-panel your Camera Raw has** before class: Color Grading with three wheels, or Split Toning with hue and
-saturation pairs.
-**Their own photo is best**, from the Week 7 shoot. Last week's class photos are the backup.
+**Handouts:** `color-grading.md` (today), `mood-project.md` (post today, starts Tuesday)
+**Before class:** check whether your Camera Raw has Color Grading or Split Toning.
 
 ### Slide 1: Standards and agenda
 
-> Create ONE slide for a high school design class that holds both the standards and the agenda. Title:
-> "This Week." Top half, headed "What we are covering," lists these with their FULL text: 7.9.6 Edit
-> photographs (e.g., color corrections, cropping, enhancements). 7.2.7 Select colors based on color theory
-> and psychology. 7.4.7 Optimize and export graphics files for intended use. Bottom half, headed "This
-> week," a short day plan paired with competencies: "MON: color grading" with 7.2.7; "TUE: Three Moods,
-> neutral and mood 1" with 7.9.6; "WED: mood 2" with 7.2.7; "THU: defend it, put all three on your
-> portfolio, submit anything missing" with 7.4.7; "FRI: quiz on Weeks 7 and 8." Then a line in bold:
-> "Last week of the quarter." One slide.
+> Create ONE slide for a high school design class. Title: "This Week." Top half, headed "What we are
+> covering," lists these with their FULL text: 7.9.6 Edit photographs (e.g., color corrections, cropping,
+> enhancements). 7.2.7 Select colors based on color theory and psychology. 7.4.7 Optimize and export
+> graphics files for intended use. Bottom half, headed "This week": "MON: color grading (7.2.7)." "TUE:
+> Three Moods, neutral and mood 1 (7.9.6)." "WED: mood 2 (7.2.7)." "THU: portfolio, submit anything
+> missing (7.4.7)." "FRI: quiz." One slide.
 
 ### Slide 2: Today
 
-> Create one slide for a high school photography class titled "Color Grading." Body: one color in the
-> bright parts, a different color in the dark parts. That is where the look of a photo comes from. Then
-> three short steps: "1. Pick a photo. One YOU took is best. Fix it first." "2. Find Color Grading, or
-> Split Toning in older versions, below HSL." "3. Try all four looks, keep one, export LastName_Grade_01."
-> Then a small table of the four looks: "TEAL AND ORANGE: warm highlights, teal shadows." "FAKED GOLDEN
-> HOUR: warm highlights, warm shadows." "COLD AND CINEMATIC: neutral highlights, blue shadows." "FADED
-> FILM: pale yellow highlights, soft green shadows." Then a box in very large text: "KEEP SATURATION
-> AROUND 5 TO 15. At 60 it looks like a broken television." One slide.
+> Create one slide for a high school photography class titled "Color Grading." Body: "One color in the
+> bright parts, another in the dark parts." Then three steps: "1. Pick a photo. One you took is best.
+> Fix it first." "2. Find Color Grading, or Split Toning, below HSL." "3. Try all four looks. Keep one.
+> Export LastName_Grade_01." Then the four looks: "Teal and orange: orange highlights, teal shadows."
+> "Golden hour: gold highlights, warm shadows." "Cold: neutral highlights, blue shadows." "Faded film:
+> yellow highlights, green shadows." Then a box in large text: "Keep saturation between 5 and 15." One
+> slide.
 
 ### Board version
 
@@ -52,116 +45,95 @@ THIS WEEK
   7.2.7  select colors based on color theory and psychology
   7.4.7  optimize and export graphics files for intended use
 
-  MON  color grading
-  TUE  three moods: neutral + mood 1
-  WED  mood 2
-  THU  defend it, all three on your portfolio,
-       submit anything missing
-  FRI  QUIZ (weeks 7 and 8)
+  MON color grading   TUE neutral + mood 1   WED mood 2
+  THU portfolio, submit missing   FRI quiz
 
 TODAY: COLOR GRADING
-  one color in the BRIGHTS, another in the DARKS.
-  1. a photo YOU took is best. fix it first.
-  2. Color Grading (or Split Toning), below HSL
+  1. pick a photo. fix it first.
+  2. Color Grading or Split Toning, below HSL
   3. try all four, keep one -> LastName_Grade_01
 
-  TEAL + ORANGE      warm highs, teal shadows
-  FAKED GOLDEN HOUR  warm highs, warm shadows
-  COLD + CINEMATIC   neutral highs, blue shadows
-  FADED FILM         pale yellow highs, green shadows
-
-  *** SATURATION 5 TO 15. ***
+  SATURATION 5 TO 15.
 ```
 
 ---
 
-## 2. Video & Sound: Screen, Submit, Then the Bridge Scene
+## 2. Video & Sound: Screen, Submit, Meet the Footage
 
-**Documents:** `week-9/handouts/bridge-scene.md` (post it today), `week-9/teacher-notes.md` (yours)
-**Three things today, in this order:** screen a few finished edits with feedback, make sure every version
-1 is exported and submitted, then **show them the new footage** and why it looks gray.
-**Screening: ask for volunteers**, as in Week 7. Two or three is plenty. **One thing that works, one
-thing to change**, and point at the rubric rows when you see them: a split edit that lands, levels that
-stay even, credits that scroll.
-**Anyone without a submitted version 1 does that before anything else.** It is the last Q1 grade.
-**Have the footage in the shared folder before class**, the smaller version, not 4K.
+**Handouts:** `bridge-scene.md` and `bridge-rubric.md` (post today)
+**Today:** two or three volunteers screen their edits (one thing that works, one to change). Anyone
+without version 1 submitted does that first. Then show the bridge scene footage.
+**Before class:** the footage in a shared folder, the smaller version, not 4K.
 
 ### Slide 1: Standards and agenda
 
-> Create ONE slide for a high school video production class that holds both the standards and the agenda.
-> Title: "This Week." Top half, headed "What we are covering," lists these with their FULL text: 7.3.7
-> Edit video footage. 7.2.7 Select colors based on color theory and psychology. 7.7.8 Export video to the
-> desired medium. Bottom half, headed "This week," a short day plan paired with competencies: "MON:
-> screen a few edits, submit version 1, meet the footage" with 7.3.7 and 7.7.8; "TUE: watch every clip,
-> keep the best take" with 7.3.7; "WED: the assembly" with 7.3.7; "THU: the rough cut" with 7.3.7; "FRI:
-> quiz on Weeks 7 and 8, rough cut due" with 7.7.8. Then a line in bold: "Next week: color, with 7.2.7.
-> Due Oct 23, counts toward next quarter." One slide.
+> Create ONE slide for a high school video production class. Title: "This Week." Top half, headed "What
+> we are covering," lists these with their FULL text: 7.2.5 Make preliminary sketches showing placement
+> of images and text on screen. 7.3.7 Edit video footage. 7.3.9 Integrate sound with visuals. 7.7.6 Add
+> transitions (e.g., dissolves, wipes, cuts), titles, special effects, and digital effects. 7.2.7 Select
+> colors based on color theory and psychology. Bottom half, headed "This week": "MON: screen edits,
+> submit version 1, meet the footage (7.3.7)." "TUE: watch every clip, storyboard (7.2.5)." "WED:
+> storyboard approved, start cutting (7.3.7)." "THU: cut (7.3.7)." "FRI: quiz, then cut." Then: "Next
+> week: music, title, credits, color (7.3.9, 7.7.6, 7.2.7). Due Oct 23." One slide.
 
 ### Slide 2: Today
 
-> Create one slide for a high school video class titled "Today: Three Things." Three numbered blocks. "1.
-> WATCH: a few finished edits, from volunteers. One thing that works, one thing to change." "2. SUBMIT:
-> version 1 not submitted yet? Export it at 1080p and submit it before anything else." "3. MEET THE
-> FOOTAGE: a scene shot on a cinema camera and a drone. It looks flat and gray on purpose. This week we
-> cut it. Next week we color it." Then a small line in bold: "Free tools only. If it has a crown, skip
-> it." One slide.
+> Create one slide for a high school video class titled "Today." Three numbered steps. "1. Watch a few
+> finished edits. One thing that works, one thing to change." "2. Version 1 not submitted? Export at
+> 1080p and submit it first." "3. Meet the Bridge Scene: real film footage. Plan it, cut it, add music,
+> color it." Then a box: "Storyboard first. Free tools only: if it has a crown, skip it." One slide.
 
 ### Board version
 
 ```
 THIS WEEK
+  7.2.5  make preliminary sketches showing placement of
+         images and text on screen
   7.3.7  edit video footage
-  7.2.7  select colors based on color theory and
-         psychology
-  7.7.8  export video to the desired medium
+  7.3.9  integrate sound with visuals
+  7.7.6  add transitions, titles, special effects, and
+         digital effects
+  7.2.7  select colors based on color theory and psychology
 
-  MON  screen, submit v1, meet the footage
-  TUE  watch every clip, keep the best take
-  WED  assembly     THU  rough cut
-  FRI  QUIZ (weeks 7 and 8), rough cut due
-
-  NEXT WEEK: color. due oct 23 (next quarter)
+  MON screen, submit v1   TUE watch, storyboard
+  WED storyboard approved, cut   THU cut   FRI quiz, cut
+  NEXT WEEK music, title, credits, color. due oct 23
 
 TODAY
-  1. WATCH  a few finished edits. one thing that works,
-            one thing to change.
-  2. SUBMIT version 1 not in? export 1080p, submit it.
-  3. MEET   the bridge scene. flat and gray on purpose.
+  1. watch a few edits
+  2. version 1 not in? submit it first
+  3. meet the bridge scene
 
-FREE TOOLS ONLY. if it has a crown, skip it.
+STORYBOARD FIRST. crown = skip it.
 ```
 
 ---
 
 ## 3. Aviation UAS: The No-Go Hunt
 
-**Documents:** `week-9/handouts/no-go-hunt.md` (post it today), `week-9/teacher-notes.md`
-**Tour the GFA map on the projector first, five minutes**, before they touch it: the dot colors, clicking
-a dot for its METAR, and the data page for METAR and TAF by station. **Click through it yourself before
-class**; the layout changes often.
-**Then questions 1 to 3, then ODOT Module 3.**
+**Handout:** `no-go-hunt.md` (post today)
+**Today:** show the GFA map on the projector for five minutes (dot colors, click a dot, the data page).
+Then questions 1 to 3, then ODOT Module 3.
+**Before class:** click through the map yourself. The layout changes often.
 
 ### Slide 1: Standards and agenda
 
-> Create ONE slide for a high school drone class that holds both the competencies and the agenda. Title:
-> "This Week: The No-Go Hunt." Top half, headed "What we are covering," lists these with their FULL text:
-> 7.11.4 Describe weather products and resources required for preflight planning, current and forecast
-> weather for departure, enroute, and arrival phases of flight. 7.9.4 Describe operating limitations for
-> small unmanned aircraft systems. 7.11.8 Define and describe piloting requirements for special use
-> airspace (SUA), special flight rules areas (SFRA), temporary flight restrictions (TFR), and other
-> airspace areas. Bottom half, headed "This week": "MON to WED: hunt real reports for reasons to cancel,
-> then ODOT Module 3." "THU: our own call, every row of the checklist, and fly if it all passes." "FRI:
-> finish, ODOT, submit anything missing." Then a line in bold: "Last week of the quarter." One slide.
+> Create ONE slide for a high school drone class. Title: "This Week: The No-Go Hunt." Top half, headed
+> "What we are covering," lists these with their FULL text: 7.11.4 Describe weather products and
+> resources required for preflight planning, current and forecast weather for departure, enroute, and
+> arrival phases of flight. 7.9.4 Describe operating limitations for small unmanned aircraft systems.
+> 7.11.8 Define and describe piloting requirements for special use airspace (SUA), special flight rules
+> areas (SFRA), temporary flight restrictions (TFR), and other airspace areas. Bottom half, headed "This
+> week": "MON to WED: find real reasons to cancel a flight, then ODOT (7.11.4, 7.9.4, 7.11.8)." "THU:
+> check our own weather. Fly if it all passes (7.9.4)." "FRI: finish, ODOT, submit anything missing." One
+> slide.
 
 ### Slide 2: Today
 
-> Create one slide for a high school drone class titled "Find A Reason Not To Fly." Body in large text:
-> "The weather here has been good for weeks. 'It's fine, let's go' has become a habit. This week you go
-> looking for reasons to cancel, in REAL reports." Then the tools: "aviationweather.gov, the GFA map:
-> click a dot for its METAR." Then the dot colors as a small key: "GREEN good. BLUE marginal. RED low
-> cloud or poor visibility. PURPLE very low." Then a box: "TODAY: find a gust over your limit, and a red
-> or purple dot. Paste the whole real report. Name the group that cancels it, and the rule it breaks."
-> One slide.
+> Create one slide for a high school drone class titled "Find a Reason Not to Fly." Body: "aviationweather.gov,
+> GFA map. Click a dot to read its METAR." Then a color key: "Green good. Blue marginal. Red low cloud or
+> poor visibility. Purple very low." Then a box: "Today: find a gust over your limit and a red or purple
+> dot. Paste the whole report. Name the part that cancels the flight and the rule it breaks." One slide.
 
 ### Board version
 
@@ -175,17 +147,15 @@ THIS WEEK: THE NO-GO HUNT
   7.11.8  define and describe piloting requirements for
           SUA, SFRA, TFRs, and other airspace areas
 
-  MON-WED  hunt real reports, then ODOT module 3
-  THU      our own call. every row. fly if it all passes.
-  FRI      finish, ODOT, submit anything missing
+  MON-WED  find reasons to cancel, then ODOT
+  THU      our own weather. fly if it all passes
+  FRI      finish, ODOT, submit missing
 
-FIND A REASON NOT TO FLY
+TODAY
   aviationweather.gov -> GFA map -> click a dot
-  GREEN good  BLUE marginal  RED low  PURPLE very low
-
-  today: a gust over your limit, and a red/purple dot.
-  paste the WHOLE real report.
-  name the group that cancels it + the rule it breaks.
+  green good  blue marginal  red low  purple very low
+  find a gust over your limit + a red/purple dot.
+  paste the whole report. name what cancels it.
 ```
 
 ---
@@ -194,21 +164,19 @@ FIND A REASON NOT TO FLY
 
 ### Slide 1: Build week
 
-> Create one slide for a middle school computer science class titled "Build Week." Body: your plan is
-> approved, so this week you build it. Then three short lines in large text: "Build the FIRST piece from
-> your plan today." "Every piece should run before you start the next one." "I will come around for grade
-> check-ins. Have your missing work ready to talk about." Then a box: "Final project due FRIDAY." One
-> slide.
+> Create one slide for a middle school computer science class titled "Build Week." Three lines in large
+> text: "Build the first piece from your plan today." "Test each piece before starting the next." "Grade
+> check-ins this week: have your missing work ready." Then a box: "Project due Friday." One slide.
 
 ### Board version
 
 ```
 BUILD WEEK
-  build the FIRST piece from your plan today.
-  every piece should RUN before you start the next.
+  build the first piece from your plan today.
+  test each piece before starting the next.
   grade check-ins: have your missing work ready.
 
-  FINAL PROJECT DUE FRIDAY.
+  PROJECT DUE FRIDAY.
 ```
 
 ---
@@ -217,10 +185,9 @@ BUILD WEEK
 
 ### Slide 1: Keep going
 
-> Create one work slide for a high school yearbook class titled "Keep Going." Body: same assignment, same
-> expectations. In large text: "Week 9 check-in due FRIDAY." Then a box with the standing rules: photos
-> go to eDesign AND Google Classroom, both; files named LastName_Event_01; sign the equipment log going
-> out and coming back; offload before you return a camera. One slide.
+> Create one slide for a high school yearbook class titled "Keep Going." In large text: "Week 9 check-in
+> due Friday." Then a box with the rules: photos go to eDesign and Google Classroom; name files
+> LastName_Event_01; sign the equipment log out and back; offload before you return a camera. One slide.
 
 ### Board version
 
@@ -228,8 +195,8 @@ BUILD WEEK
 YEARBOOK: KEEP GOING
   WEEK 9 CHECK-IN DUE FRIDAY.
 
-  eDesign AND Classroom. both.
-  named  LastName_Event_01
+  eDesign AND Classroom.
+  name it LastName_Event_01
   sign the log out AND back.
   offload BEFORE you return a camera.
 ```

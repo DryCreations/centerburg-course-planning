@@ -15,7 +15,7 @@ the list rather than glancing at the sky.
 | **Mon** | **Tour the GFA map on the projector**, then questions 1 to 3 | ODOT Module 3 |
 | **Tue** | Questions 4 to 6 | ODOT Module 3 |
 | **Wed** | Questions 7 to 9, including tfr.faa.gov | ODOT Module 3 |
-| **Thu** | **Our own call**, questions 10 to 12, every row of the table | **Fly if every row passed** |
+| **Thu** | **Our own call**, questions 10 to 12, every reason on the list | **Fly if every reason passed** |
 | **Fri** | Finish the sheet | ODOT, and **submit anything missing before the quarter closes** |
 
 ## Monday: tour the map first, on the projector
@@ -67,11 +67,11 @@ carefully and finding none is a legitimate result.** Inventing one is not.
 | **7** | They find the FM or TEMPO group and convert its Zulu time to a local landing time. **Ohio is UTC minus 4 right now** |
 | **8** | A real TFR, its reason, and **no, not inside it** |
 | **9** | A mostly-green report with **exactly one** failing group, correctly named. **The best answers here are small spreads and gusts on otherwise clear days** |
-| **10** | **Every row** gets a line. A sheet with only the obvious rows filled in has missed the point |
+| **10** | **Every reason on the list** gets a line. Only the obvious ones filled in is not enough |
 | **11** | A real check, even if the answer is "nothing near us" |
-| **12** | A verdict **and** the number. "Go, every row passed" is a complete answer |
+| **12** | A verdict **and** the number. "Go, every reason passed" is a complete answer |
 
-**Question 10 is the week.** On a nice day it is tempting to fill in three rows and write "go."
+**Question 10 is the week.** On a nice day it is tempting to check three reasons and write "go."
 
 ## Thursday flight
 
