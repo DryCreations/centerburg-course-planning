@@ -8,13 +8,32 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Mon** | **Color grading** | **Screen** finished edits, **submit v1**, meet the bridge scene | No-go hunt: **gusts, low cloud.** ODOT | **Build** the first piece | Keep working |
-| **Tue** | Three Moods: **neutral and mood 1** | Bridge scene: **watch every clip, storyboard** | Hunt: **precipitation, storms, fog.** ODOT | Build. Grade check-ins | Keep working |
-| **Wed** | **Mood 2** | **Storyboard approvals**, start cutting | Hunt: **TAF, TFR, the sneaky one.** ODOT | Build | Keep working |
-| **Thu** | **Defend it, onto the portfolio.** Submit missing | **Cut.** Submit missing | **Our own call, every row. Fly if it all passes** | All six requirements in | Keep working |
-| **Fri** | **QUIZ** (Weeks 7 and 8) | **QUIZ** (Weeks 7 and 8), then cut | Finish, ODOT, submit missing | **Project due** | **Week 9 check-in due** |
+| **Mon** | **Shot photos outside**, offloaded, tried color grading | **Screen** finished edits, **submit v1**, meet the bridge scene | **Mission briefings** start | **Build** the first piece | Keep working |
+| **Tue** | Finish learning grading if needed, then **Three Moods: neutral and mood 1** | Watch every clip, **storyboard**, cut | Missions: research, emails | Build. One-on-one check-ins | Keep working |
+| **Wed** | **Mood 2** | **Cut** | Missions: finish research and emails | Build | Keep working |
+| **Thu** | **Portfolio.** Both sheets due. Submit missing | **Cut.** Submit missing | **Fly if it is nice.** Rain: keep working | All six requirements in | Keep working |
+| **Fri** | **QUIZ**, then finish | **QUIZ**, then cut. **Whole scene cut** | Finish, submit missing | **Project due** | **Week 9 check-in due** |
 
 ---
+
+## Tuesday update: what actually happened Monday
+
+**DT shot photos outside Monday**, offloaded, and mostly tried color grading. **The Color Grading sheet
+is still graded, now due Thursday** with Three Moods. Students who are behind use Tuesday to learn the
+tools, then start. Monday's photos are the first choice for Three Moods. Friday: quiz, then finish.
+
+**V&S saw the project Monday.** By Friday the whole scene is cut together. Study for Friday's quiz.
+Color is next week.
+
+**Aviation went a different direction: mission briefings**, replacing the no-go hunt. Four missions,
+each with a client, date, time, and latitude and longitude. Students research airspace, TFRs, METARs and
+TAFs, decide whether the flight is allowed or what restrictions apply, and draft an email to the client.
+Monday to Wednesday, Thursday too if it rains, otherwise fly. **The worksheet is not in the repo yet.**
+Mission dates are within a day or two. The no-go hunt handout was deleted (it is in git history).
+
+**MS CS:** one-on-one check-ins once grading is caught up. Project still due Friday.
+
+**Quiz banks built Tuesday:** DT and V&S, 30 questions each, cut to 20.
 
 ## Decisions made
 

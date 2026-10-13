@@ -3,8 +3,8 @@
 **Course:** Design Techniques (145095)
 **Week:** 9 | **Unit:** 2.1 Photography | **Dates:** Mon Oct 12 to Fri Oct 16
 
-Monday you learn color grading. Then you edit one photo three ways and add it to your portfolio. Last
-week of the quarter. Quiz Friday.
+Monday we shot photos outside and tried color grading. Now you edit one photo three ways and add it to
+your portfolio. Last week of the quarter. Quiz Friday.
 
 ---
 
@@ -12,15 +12,15 @@ week of the quarter. Quiz Friday.
 
 | Day | Focus |
 |-----|-------|
-| Mon Oct 12 | Color grading |
-| Tue Oct 13 | Three Moods: neutral version and mood 1 |
+| Mon Oct 12 | Shoot outside, offload, try color grading |
+| Tue Oct 13 | Finish learning color grading if you need to. Start Three Moods: neutral and mood 1 |
 | Wed Oct 14 | Mood 2 |
 | Thu Oct 15 | Add all three to your portfolio. Last day to submit missing work |
-| Fri Oct 16 | Quiz |
+| Fri Oct 16 | Quiz, then finish anything left |
 
 ## Due
 
-- **Monday:** the Color Grading sheet and `LastName_Grade_01`
+- **Thursday:** the Color Grading sheet and `LastName_Grade_01`
 - **Thursday:** the Three Moods sheet, your three photos, and your updated portfolio page
 
 ## Friday's Quiz

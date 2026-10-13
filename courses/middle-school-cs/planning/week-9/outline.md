@@ -11,7 +11,7 @@ Your plan is approved. This week you build your game. Last week of the quarter.
 | Day | Focus |
 |-----|-------|
 | Mon Oct 12 | Build the first piece from your plan |
-| Tue Oct 13 | Keep building. Grade check-ins |
+| Tue Oct 13 | Keep building |
 | Wed Oct 14 | Keep building. Test each piece before starting the next |
 | Thu Oct 15 | All six requirements in. Test and fix |
 | Fri Oct 16 | Project due. Submit your share link |
@@ -31,7 +31,7 @@ Your plan is approved. This week you build your game. Last week of the quarter.
 
 - Build in the order your plan says
 - Save and share often
-- During check-ins, have your missing work ready to talk about
+- I will check in with each of you one-on-one this week. Have your missing work ready to talk about
 
 ## Due Friday
 

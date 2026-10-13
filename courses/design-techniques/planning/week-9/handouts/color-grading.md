@@ -1,9 +1,9 @@
 # Color Grading
 
-**Design Techniques | Monday**
+**Design Techniques | Due Thursday**
 
 Color grading adds one color to the bright parts of a photo and another color to the dark parts. You
-will use it in the Three Moods project starting Tuesday.
+will use it in the Three Moods project.
 
 ## Standards
 
@@ -14,7 +14,7 @@ will use it in the Three Moods project starting Tuesday.
 
 ## Steps (7.9.6)
 
-1. Pick a photo. One you took in Week 7 is best. Last week's class photos are the backup
+1. Pick a photo. One you took Monday is best. Week 7 photos or last week's class photos also work
 2. Fix it first: white balance and tone, like last week
 3. Scroll below HSL. Your Camera Raw has one of these:
    - **Color Grading:** three color wheels for Shadows, Midtones, and Highlights

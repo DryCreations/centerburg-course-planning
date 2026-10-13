@@ -2,12 +2,13 @@
 
 **Teacher-only.** Student sheets: `color-grading.md` (Monday) and `mood-project.md` (Tuesday to Thursday).
 
-**Monday** is color grading, graded this time. **Tuesday to Thursday** is Three Moods: color grading in
+**Monday** the class shot photos outside, offloaded, and tried color grading. The Color Grading sheet
+is still graded, now due Thursday. Slower students use Tuesday to learn the tools before starting. **Tuesday to Thursday** is Three Moods: color grading in
 at least one mood, and at least four of last week's tools. **Thursday** all three go on the portfolio
 with a short description. Everything is due Thursday, since Friday is the quiz.
 
-**Photos:** their own Week 7 photos first, last week's class photos as the backup. Nothing new to
-download.
+**Photos:** Monday's shoot first, then their Week 7 photos, then last week's class photos. Nothing new
+to download.
 
 ## What to look for in the answers
 

@@ -4,7 +4,7 @@ Prebuilt bundles for grabbing on a machine where signing in is a hassle.
 
 | File | What it is |
 |------|-----------|
-| `week-9-materials.zip` | **Week 9 (Mon Oct 12 to Fri Oct 16), last week of the quarter.** Color grading and Three Moods (DT), the bridge scene color grading project (V&S, runs into next quarter), the no-go hunt on real reports (Aviation), MS CS build week. Monday slide prompts. Open `INDEX.md` first. |
+| `week-9-materials.zip` | **Week 9 (Mon Oct 12 to Fri Oct 16), last week of the quarter.** Three Moods (DT), the bridge scene (V&S, runs into next quarter), mission briefings (Aviation), MS CS build week. Monday and Tuesday slide prompts, DT and V&S quiz banks. Open `INDEX.md` first. |
 | `week-8-materials.zip` | **Week 8 (Mon Oct 5 to Fri Oct 9), the whole week.** Slide prompts for all five days, every class's handouts, the Aviation and MS CS Friday quizzes, and the V&S edit rubric. Open `INDEX.md` first. |
 | `week-7-materials.zip` | **Week 7 (Mon Sep 28 to Fri Oct 2).** |
 | `week-6-materials.zip` | **Week 6 (Mon Sep 21 to Fri Sep 25).** Three quiz banks, Monday slide prompts, the Yearbook two week photo assignment, the Aviation box pattern flight task, and the Middle School CS digital citizenship unit. Open `POST-THIS.md` first. |

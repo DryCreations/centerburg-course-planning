@@ -12,7 +12,7 @@ Edit one photo three ways: one neutral, two with different moods. Then put all t
 
 ## Requirements
 
-- Use your own photo if you can. It can be the one from Monday
+- Use a photo you took Monday if you can. It can be the same one you color graded
 - Use color grading in at least one mood
 - Use at least four of last week's tools across the project: white balance, tone sliders, Clarity or
   Dehaze, Vibrance or Saturation, HSL
@@ -59,6 +59,7 @@ sentences about what you changed and why. Publish, then check it in a new tab.
 ## Turn in by Thursday
 
 - This sheet
+- The Color Grading sheet and `LastName_Grade_01`, if not already in
 - `LastName_Neutral_01`, `LastName_Mood1_01`, `LastName_Mood2_01`
 - All three on your published portfolio page, with your description
 

@@ -13,10 +13,10 @@ the quarter. Quiz Friday.
 | Day | Focus |
 |-----|-------|
 | Mon Oct 12 | Watch a few finished edits. Submit version 1 if you have not. Meet the new footage |
-| Tue Oct 13 | Watch every clip. Start your storyboard |
+| Tue Oct 13 | Watch every clip. Storyboard. Approved? Start cutting |
 | Wed Oct 14 | Finish your storyboard. Once it is approved, start cutting |
 | Thu Oct 15 | Cut. Last day to submit missing work this quarter |
-| Fri Oct 16 | Quiz, then cut |
+| Fri Oct 16 | Quiz, then cut. **The whole scene should be cut together by the end of the day** |
 
 ## Next Week
 
@@ -30,7 +30,10 @@ Music, title, credits, and color. We go over color together. **Due Friday, Oct 2
 ## Friday's Quiz
 
 Post-production from Weeks 7 and 8: cut types, split edits, cutaways, layering, sound levels, keyframes,
-and export. Nothing from this week.
+color correction, and export. Nothing from this week.
+
+**To study:** the vocabulary list from Week 7, the Editing, Color, Audio, and Technical sections, plus the
+Week 8 handout on splitting audio and layering video.
 
 ## Standards
 
