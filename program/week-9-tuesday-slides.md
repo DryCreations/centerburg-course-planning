@@ -15,7 +15,8 @@ Each block is one prompt for one slide.
 ## 1. Design Techniques: Three Moods
 
 **Today:** students who are ready start Three Moods. Students who were slow Monday finish learning the
-color grading tools first, then start. Both sheets are due Thursday.
+color grading tools first, then start. Color Grading was due Monday. Three Moods is due Friday after the
+quiz.
 
 ### Slide 1: Standards and agenda
 
@@ -24,15 +25,15 @@ color grading tools first, then start. Both sheets are due Thursday.
 > enhancements). 7.2.7 Select colors based on color theory and psychology. 7.4.7 Optimize and export
 > graphics files for intended use. Bottom half, headed "This week": "TUE: finish color grading if you
 > need to, then Three Moods: neutral and mood 1 (7.9.6)." "WED: mood 2 (7.2.7)." "THU: all three on your
-> portfolio. Both sheets due (7.4.7)." "FRI: quiz, then finish anything left." One slide.
+> portfolio (7.4.7)." "FRI: quiz, then finish. Three Moods due by the end of the day." One slide.
 
 ### Slide 2: Today
 
 > Create one slide for a high school photography class titled "Three Moods." Body: "One photo, three
 > versions: neutral, mood 1, mood 2." Then two paths side by side. Left, headed "Still learning color
-> grading?": "Finish the Color Grading sheet first. Then start Three Moods." Right, headed "Ready?":
+> grading?": "Finish your one color grading photo first. Then start Three Moods." Right, headed "Ready?":
 > "1. Pick a photo from Monday. 2. Make it natural. Export LastName_Neutral_01. 3. Pick a mood. Export
-> LastName_Mood1_01." Then a box: "Both sheets due Thursday." One slide.
+> LastName_Mood1_01." Then a box: "Three Moods due Friday, after the quiz." One slide.
 
 ### Board version
 
@@ -44,10 +45,10 @@ THIS WEEK
   7.4.7  optimize and export graphics files for intended use
 
   TUE neutral + mood 1   WED mood 2
-  THU portfolio, both sheets due   FRI quiz
+  THU portfolio   FRI quiz, three moods due
 
 TODAY: THREE MOODS
-  still learning grading? finish that sheet first.
+  still learning grading? finish that photo first.
   ready? 1. pick a photo from monday
          2. make it natural -> LastName_Neutral_01
          3. pick a mood     -> LastName_Mood1_01

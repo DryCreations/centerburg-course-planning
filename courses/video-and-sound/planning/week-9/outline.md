@@ -20,7 +20,8 @@ the quarter. Quiz Friday.
 
 ## Next Week
 
-Music, title, credits, and color. We go over color together. **Due Friday, Oct 23.**
+Color grading together on **Monday, Oct 19**, then music, title, and credits. **Due Friday, Oct 23.**
+Your scene should be fully cut together before Monday.
 
 ## Due
 

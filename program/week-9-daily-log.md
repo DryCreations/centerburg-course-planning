@@ -11,19 +11,20 @@
 | **Mon** | **Shot photos outside**, offloaded, tried color grading | **Screen** finished edits, **submit v1**, meet the bridge scene | **Mission briefings** start | **Build** the first piece | Keep working |
 | **Tue** | Finish learning grading if needed, then **Three Moods: neutral and mood 1** | Watch every clip, **storyboard**, cut | Missions: research, emails | Build. One-on-one check-ins | Keep working |
 | **Wed** | **Mood 2** | **Cut** | Missions: finish research and emails | Build | Keep working |
-| **Thu** | **Portfolio.** Both sheets due. Submit missing | **Cut.** Submit missing | **Fly if it is nice.** Rain: keep working | All six requirements in | Keep working |
-| **Fri** | **QUIZ**, then finish | **QUIZ**, then cut. **Whole scene cut** | Finish, submit missing | **Project due** | **Week 9 check-in due** |
+| **Thu** | **Portfolio.** Submit missing | **Cut.** Submit missing | **Fly if it is nice.** Rain: keep working | All six requirements in | Keep working |
+| **Fri** | **QUIZ**, then finish. **Three Moods due** | **QUIZ**, then cut. **Whole scene cut** | Finish, submit missing | **Project due** | **Week 9 check-in due** |
 
 ---
 
 ## Tuesday update: what actually happened Monday
 
 **DT shot photos outside Monday**, offloaded, and mostly tried color grading. **The Color Grading sheet
-is still graded, now due Thursday** with Three Moods. Students who are behind use Tuesday to learn the
-tools, then start. Monday's photos are the first choice for Three Moods. Friday: quiz, then finish.
+was cut to one question and one photo, due Monday.** Students who are behind use Tuesday to learn the
+tools, then start. Monday's photos are the first choice for Three Moods. **Three Moods is due Friday,
+after the quiz.**
 
-**V&S saw the project Monday.** By Friday the whole scene is cut together. Study for Friday's quiz.
-Color is next week.
+**V&S saw the project Monday**, and were told it is not graded this quarter. By Friday the whole scene
+is cut together, ready for color on Monday Oct 19. Study for Friday's quiz.
 
 **Aviation went a different direction: mission briefings**, replacing the no-go hunt. Four missions,
 each with a client, date, time, and latitude and longitude. Students research airspace, TFRs, METARs and

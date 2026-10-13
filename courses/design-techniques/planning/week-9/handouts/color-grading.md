@@ -1,6 +1,6 @@
 # Color Grading
 
-**Design Techniques | Due Thursday**
+**Design Techniques | Due Monday**
 
 Color grading adds one color to the bright parts of a photo and another color to the dark parts. You
 will use it in the Three Moods project.
@@ -32,14 +32,10 @@ Keep the one that fits your photo best. Export it as `LastName_Grade_01`.
 
 ---
 
-## Questions
+## Question
 
 **1.** Which look did you keep? Write the hue and saturation numbers for the highlights and the shadows.
 
-**2.** Push one saturation to 60. What goes wrong?
-
-**3.** Did the shadows or the highlights show the color more easily?
-
 ## Graded on
 
-`LastName_Grade_01` and the three answers. Question 1 counts the most.
+`LastName_Grade_01` and your answer. Then move straight into Three Moods.

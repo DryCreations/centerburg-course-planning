@@ -1,6 +1,6 @@
 # Three Moods
 
-**Design Techniques | Tuesday to Thursday**
+**Design Techniques | Tuesday to Friday | Due Friday, after the quiz**
 
 Edit one photo three ways: one neutral, two with different moods. Then put all three on your portfolio.
 
@@ -43,7 +43,7 @@ Pick a different mood. Start from neutral again. Export as `LastName_Mood2_01`.
 
 **3.** Which mood was hardest to get right on this photo, and why?
 
-## Thursday: portfolio (7.4.7)
+## Thursday and Friday: portfolio (7.4.7)
 
 **4.** Which version would you publish, and who is it for?
 
@@ -52,14 +52,13 @@ Pick a different mood. Start from neutral again. Export as `LastName_Mood2_01`.
 Add all three photos to your Unit 2.1 Photography portfolio page, side by side. Write three or four
 sentences about what you changed and why. Publish, then check it in a new tab.
 
-**Last week of the quarter:** submit anything missing today.
+**Last week of the quarter:** submit anything missing by Friday.
 
 ---
 
-## Turn in by Thursday
+## Turn in by Friday
 
 - This sheet
-- The Color Grading sheet and `LastName_Grade_01`, if not already in
 - `LastName_Neutral_01`, `LastName_Mood1_01`, `LastName_Mood2_01`
 - All three on your published portfolio page, with your description
 

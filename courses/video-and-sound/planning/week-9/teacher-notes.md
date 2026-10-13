@@ -23,8 +23,8 @@ sound. Color is new. **Due Fri Oct 23, in the Q2 gradebook.**
 | **Tue to Wed** | Music, title, credits, color |
 | **Thu to Fri** | Finish. Playback checks for storyboard and sound. Due Friday |
 
-**Color can move earlier** if most of the class is cutting by Thursday. The full steps are in the
-handout for anyone working ahead.
+**Students were told it is not graded this quarter**, and that the scene must be fully cut by Friday so
+color can start Monday. The full color steps are in the handout for anyone working ahead.
 
 ## Before Tuesday
 

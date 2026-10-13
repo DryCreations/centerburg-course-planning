@@ -8,8 +8,8 @@ Week 9. Paths are inside `week-9-materials/` in the zip.
 
 | Post | File | Type |
 |------|------|------|
-| 1 | `1-design-techniques/handouts/color-grading.md` | Assignment, make a copy. **Due Thursday** |
-| 2 | `1-design-techniques/handouts/mood-project.md` | Assignment, make a copy. Due Thursday |
+| 1 | `1-design-techniques/handouts/color-grading.md` | Assignment, make a copy. **Due Monday**, cut to one question |
+| 2 | `1-design-techniques/handouts/mood-project.md` | Assignment, make a copy. **Due Friday, after the quiz** |
 | 3 | `2-video-and-sound/handouts/bridge-scene.md` | Assignment, make a copy. Due Fri Oct 23. **Q2 grading period** |
 | 4 | `2-video-and-sound/handouts/bridge-rubric.md` | Material, with the assignment |
 | 5 | Your own mission worksheet | Assignment. The no-go hunt was replaced |
@@ -29,7 +29,6 @@ Week 9. Paths are inside `week-9-materials/` in the zip.
 ## Tuesday
 
 - **Slides:** `SLIDE-PROMPTS/2-TUESDAY-slides.md`
-- **DT:** if Color Grading was posted as due Monday, change the due date to Thursday
 - **Updated docs to repost if you want:** the DT, V&S, aviation and MS CS outlines. Small changes only
 
 ## Through the week
