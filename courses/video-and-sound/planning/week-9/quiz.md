@@ -8,19 +8,40 @@ definition. One student takes it early, so it is the same quiz for everyone.
 
 ## What is on it
 
-**Weighted toward editing**: transitions, J-cuts and L-cuts, and editing terms, which are the most recent
-material and had not been assessed yet. Every earlier unit still has questions.
+**Weighted toward editing**: transitions, J-cuts and L-cuts, and editing terms, the most recent material
+and not yet assessed. Every earlier unit still has questions. **Each question asks students to do what a
+standard describes**, in a situation, never to recall the standard itself.
 
-| Section | Q | Count |
+| Q | Standard | What they have to show |
 |---|---|---|
-| **Camera** (Weeks 1 to 5): 180 degree rule, brightening order, what cannot be fixed | 1 to 3 | 3 |
-| **Pre-production and framing** (Weeks 4 to 6): scene headings, action lines, scheduling, lead room | 4 to 7 | 4 |
-| **Transitions**: the cut as default, what a dissolve signals, fade to black | 8 to 10 | **3** |
-| **Split edits**: L-cut, J-cut, detaching audio first | 11 to 13 | **3** |
-| **Editing terms**: jump vs match cut, cutting on action, track layering, keyframing credits, fine cut | 14 to 18 | **5** |
-| **Audio**: unmuted cutaways, music under dialogue | 19 to 20 | 2 |
+| 1 | 7.7.4 Select a video recording format and shoot the video | Set shutter by the 180 degree rule |
+| 2 | 7.7.4 | Brighten a shot in the right order |
+| 3 | 7.8.6 Set up and operate audio-for-video recording devices | Know clipped audio cannot be fixed |
+| 4 | 7.2.4 Determine uses and needs for multimedia scripts and storyboards | Start a new scene heading |
+| 5 | 7.2.4 | Write a filmable action line |
+| 6 | 7.7.2 Analyze the script and storyboard to develop a production schedule | Schedule by location |
+| 7 | 7.7.4 | Frame with lead room |
+| 8 | 7.7.6 Add transitions, titles, special effects, and digital effects | Use the cut as the default |
+| 9 | 7.7.6 | Know what a dissolve signals |
+| 10 | 7.7.6 | Close a section with a fade |
+| 11 | 7.3.9 Integrate sound with visuals | Choose an L-cut for a reaction |
+| 12 | 7.3.9 | Recognize a J-cut |
+| 13 | 7.7.5 Select a nonlinear editing system and edit the video | Detach audio to build a split edit |
+| 14 | 7.3.7 Edit video footage | Tell a jump cut from a match cut |
+| 15 | 7.3.7 | Cut on action |
+| 16 | 7.7.5 | Fix a title hidden under a track |
+| 17 | 7.7.6 | Keyframe position to scroll credits |
+| 18 | 7.3.7 | Know the fine cut stage |
+| 19 | 7.8.8 Perform audio mixing | Mute a cutaway's audio |
+| 20 | 7.8.8 | Set music under dialogue |
 
-**13 of 20 are editing.** Nothing on the Bridge Scene or adjustment layers. That is next quarter.
+**13 of 20 are editing** (8 to 20). Nothing on the Bridge Scene or adjustment layers.
+
+### Changed in the standards sweep
+
+**No questions replaced.** Each one already asks for a skill. **Retagged** to the closest standard:
+camera settings to 7.7.4 (they were under the general equipment outcome), clipped audio to 7.8.6, split
+edits to 7.3.9, detaching audio and track order to 7.7.5, and jump vs match cut to 7.3.7.
 
 ## How it was built
 

@@ -43,7 +43,7 @@ harder, every question a situation. One student takes them early, so it is one v
 **Options are written in parallel** (all four alike, or two matching pairs) so the odd one out is never
 the answer, and **the correct answer is the longest option in 5 of 20.** Weeks 1 and 2 are covered
 lightly from the recap lines. **Gimkit reviews** hold the quiz, extras in the same style, and every
-earlier bank and Gimkit: 247 questions for DT, 275 for V&S.
+earlier bank and Gimkit: 252 questions for DT, 275 for V&S.
 
 **Reweighted toward recent material**, by request, since it had not been assessed yet. **DT: 10 of 20 on
 Camera Raw** (tone, contrast, exposure, the histogram, Vibrance and Saturation, HSL, color grading).
@@ -148,3 +148,9 @@ Weeks 7 and 8.
 - **V&S: the bridge scene**: music, title, credits and color in Q2 Week 1, due Fri Oct 23. **Titles and motion** is parked
 - **Aviation Unit 2.2 Preflight**, the natural next unit
 - **BPA event selection** across all courses, held until next quarter by request
+
+**Standards sweep:** every quiz question now asks students to do what its standard describes, never to
+recall the standard. DT replaced four questions that tested a technique name, Figma mechanics, or a
+recipe (squint test, components, variables, where teal goes) with reading order by size, back button
+placement, one primary action, and choosing a grade for a mood. V&S kept every question and retagged
+seven to closer standards. Each `quiz.md` has a table of question, standard, and what it shows.
