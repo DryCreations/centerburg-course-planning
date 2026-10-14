@@ -43,7 +43,12 @@ harder, every question a situation. One student takes them early, so it is one v
 **Options are written in parallel** (all four alike, or two matching pairs) so the odd one out is never
 the answer, and **the correct answer is the longest option in 5 of 20.** Weeks 1 and 2 are covered
 lightly from the recap lines. **Gimkit reviews** hold the quiz, extras in the same style, and every
-earlier bank and Gimkit: 243 questions for DT, 269 for V&S.
+earlier bank and Gimkit: 247 questions for DT, 275 for V&S.
+
+**Reweighted toward recent material**, by request, since it had not been assessed yet. **DT: 10 of 20 on
+Camera Raw** (tone, contrast, exposure, the histogram, Vibrance and Saturation, HSL, color grading).
+**V&S: 13 of 20 on editing** (3 transitions, 3 split edits, 5 editing terms including keyframes, 2
+audio). Every earlier unit keeps a few questions.
 
 **Wednesday:** DT works on Three Moods, then studies. V&S checks PowerSchool, does missing work, and cuts
 the Bridge Scene. Aviation does Missions 3 and 4 on their own, after Mission 1 together and Mission 2 as

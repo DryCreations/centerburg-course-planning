@@ -8,31 +8,19 @@ definition. One student takes it early, so it is the same quiz for everyone.
 
 ## What is on it
 
-| Q | Topic | Weeks |
-|---|---|---|
-| 1 | Tv mode: you set shutter, camera sets aperture | 1 to 2 |
-| 2 | 180 degree rule at 24 fps | 5 |
-| 3 | Brightening order: aperture, ISO, light | 5 |
-| 4 | Why autofocus is off for video | 5 |
-| 5 | What cannot be fixed in editing | 5 |
-| 6 | When a script needs a new scene heading | 5 |
-| 7 | Filmable action lines | 5 |
-| 8 | A/V script for a narrated promo | 5 |
-| 9 | Scheduling by location | 5 |
-| 10 | Lead room | 5 to 6 |
-| 11 | What a dissolve signals | 5 to 6 |
-| 12 | Correction, then grading | 7 |
-| 13 | Jump cut vs match cut | 7 |
-| 14 | Cutting on action | 7 |
-| 15 | L-cut for a reaction | 7 to 8 |
-| 16 | Top track covers bottom | 8 |
-| 17 | Unmuted cutaway audio | 8 |
-| 18 | Music under dialogue | 7 to 8 |
-| 19 | Room tone for a silent gap | 7 |
-| 20 | 1080p frame size | 8 |
+**Weighted toward editing**: transitions, J-cuts and L-cuts, and editing terms, which are the most recent
+material and had not been assessed yet. Every earlier unit still has questions.
 
-**Weeks 1 and 2 are not in the repo.** Question 1 comes from the recap lines (Av, Tv, M). Check it
-against what you taught.
+| Section | Q | Count |
+|---|---|---|
+| **Camera** (Weeks 1 to 5): 180 degree rule, brightening order, what cannot be fixed | 1 to 3 | 3 |
+| **Pre-production and framing** (Weeks 4 to 6): scene headings, action lines, scheduling, lead room | 4 to 7 | 4 |
+| **Transitions**: the cut as default, what a dissolve signals, fade to black | 8 to 10 | **3** |
+| **Split edits**: L-cut, J-cut, detaching audio first | 11 to 13 | **3** |
+| **Editing terms**: jump vs match cut, cutting on action, track layering, keyframing credits, fine cut | 14 to 18 | **5** |
+| **Audio**: unmuted cutaways, music under dialogue | 19 to 20 | 2 |
+
+**13 of 20 are editing.** Nothing on the Bridge Scene or adjustment layers. That is next quarter.
 
 ## How it was built
 
@@ -40,15 +28,14 @@ against what you taught.
   jump cut, usually a mistake" against "A match cut, usually on purpose"). The odd one out is never the
   answer
 - **Answer lengths:** the correct answer is the single longest option in 5 of 20 (25%), and the single
-  shortest in 4 of 20. Picking the longest scores about 5 out of 20
+  shortest in 3 of 20. Picking the longest scores about 5 out of 20
 - **Every answer matches a handout:** 1/50 at 24 fps and the aperture-ISO-light order (Week 6 quiz),
-  the unfixable mistakes (Week 5), cutting on action and room tone (Week 7), top covers bottom and muting
-  cutaways (Week 8)
-- **Nothing on the Bridge Scene** or adjustment layers. That is next quarter
+  the unfixable mistakes (Week 5), cutting on action (Week 7), the cut as default and fade to black (Week 6 quiz), top covers
+  bottom, detaching audio and muting cutaways (Week 8), credits scrolled with keyframes (Week 8 rubric)
 
 ## Gimkit review
 
-`gimkit-review.csv`: **269 questions.** This quiz's 20, eight extra ones in the same style, the Weeks 7
+`gimkit-review.csv`: **275 questions.** This quiz's 20, the earlier draft of it, extra ones in the same style, the Weeks 7
 and 8 bank built Tuesday, and every earlier V&S quiz bank and Gimkit, with duplicates removed. One
 earlier question that called "clips in order, roughly trimmed" a rough cut was dropped, since the other
 banks call it an assembly. Studying it covers everything on the quiz.
