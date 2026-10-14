@@ -30,11 +30,10 @@ Your scene should be fully cut together before Monday.
 
 ## Friday's Quiz
 
-Post-production from Weeks 7 and 8: cut types, split edits, cutaways, layering, sound levels, keyframes,
-color correction, and export. Nothing from this week.
+**The whole quarter.** Camera settings, pre-production and scripts, framing and transitions, and
+editing: cuts, split edits, layering, audio, color, and export.
 
-**To study:** the vocabulary list from Week 7, the Editing, Color, Audio, and Technical sections, plus the
-Week 8 handout on splitting audio and layering video.
+**To study:** the Gimkit review on Google Classroom, and the Week 7 vocabulary list.
 
 ## Standards
 

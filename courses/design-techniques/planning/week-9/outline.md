@@ -25,8 +25,8 @@ your portfolio. Last week of the quarter. Quiz Friday.
 
 ## Friday's Quiz
 
-Photography from Weeks 7 and 8: camera settings, white balance, the histogram, the tone sliders,
-Clarity, Dehaze, Vibrance, Saturation, and HSL. Nothing from this week.
+**The whole quarter.** Design basics, hierarchy and layout, UX and UI, Figma, shooting, and editing
+photos. Study with the Gimkit review on Google Classroom.
 
 ## Standards
 

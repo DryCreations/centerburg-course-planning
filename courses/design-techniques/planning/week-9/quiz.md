@@ -1,28 +1,51 @@
-# Week 9 Quiz: Design Techniques (Friday Oct 16)
+# Q1 Final Quiz: Design Techniques (Friday Oct 16)
 
-**Teacher-only.** **Bank:** `quiz-bank.csv`, 30 questions. Cut to 20. The correct answer is always
-option A, so shuffle answers when you import.
+**Teacher-only.** **Quiz:** `quiz-bank.csv`, **20 questions, ready to give as is.** The correct answer is
+always option A in the file, so shuffle answers when you import. **Review:** `gimkit-review.csv`.
 
-**Scope:** photography from Weeks 7 and 8, shooting and editing. Nothing on Figma, color grading, Three
-Moods, or the portfolio.
+**Covers the whole quarter.** Harder than earlier quizzes: every question is a situation, not a
+definition. One student takes it early, so it is the same quiz for everyone.
 
-## The mix
+## What is on it
 
-| Section | Q | Covers |
-|---------|---|--------|
-| **Shooting** | 1 to 12 | Shutter speed, panning, motion blur vs camera shake, aperture and f-numbers, background blur, shutter and aperture priority, ISO cost, the exposure triangle |
-| **RAW and white balance** | 13 to 16 | Why RAW has more room, Temperature and Tint axes, the eyedropper on a colored object |
-| **Tone and the histogram** | 17 to 24 | Reading the histogram, clipping, which clipping is acceptable, Exposure as midtones, Blacks, Highlights, white balance first, non-destructive editing |
-| **Presence** | 25 to 27 | Dehaze vs Clarity, Clarity on skin, Vibrance vs Saturation |
-| **HSL** | 28 to 29 | Luminance to darken one color, why one slider rarely owns an object |
-| **Export** | 30 | Save Image as JPEG |
+| Q | Topic | Weeks |
+|---|---|---|
+| 1 | Vector vs raster, for a logo that must scale | 1 to 2 |
+| 2 | RGB vs CMYK, why print looks duller | 1 to 2 |
+| 3 | Squint test | 3 |
+| 4 | Proximity | 3 |
+| 5 | PDF to submit, PNG to post | 3 to 4 |
+| 6 | UI vs UX | 4 |
+| 7 | Wireframe to prototype | 4 to 5 |
+| 8 | Empty state | 5 |
+| 9 | Modal for a destructive action | 5 |
+| 10 | Staying quiet during a user test | 5 to 6 |
+| 11 | Components update every instance | 5 |
+| 12 | State in a variable instead of duplicate screens | 7 |
+| 13 | Shutter speed to freeze motion | 7 |
+| 14 | Panning speed | 7 |
+| 15 | Background distance for blur | 7 |
+| 16 | Narrow aperture causes a slow shutter | 7 |
+| 17 | Fixing an orange cast with Temperature | 8 |
+| 18 | Which clipping is acceptable | 8 |
+| 19 | Vibrance vs Saturation | 8 |
+| 20 | HSL Luminance | 8 |
 
-**Suggested cut to 20:** 7 shooting (2, 3, 5, 6, 8, 9, 11), 3 RAW and white balance (13, 14, 16), 6 tone
-(17, 18, 19, 21, 22, 23), 2 presence (25, 27), 1 HSL (28), and 30.
+**Weeks 1 and 2 are not in the repo.** Questions 1 and 2 come from the recap lines (raster and vector,
+RGB and CMYK). Check them against what you taught.
 
-## Checks
+## How it was built
 
-- **Every answer matches what the handouts taught.** Panning starts at 1/30 (the Week 7 key), white
-  balance comes first (the tone lab), and a small clipped light bulb is fine (the Two Photos correction)
-- **Answer lengths:** the correct answer is the longest option in 6 of 30, with no big gaps
-- **Question 5 uses f/3.5 as the widest.** It is the one the Week 7 key says everybody gets backwards
+- **Options are written in parallel.** All four share a structure, or two pairs do (for example, two
+  "Move the subject..." options and two "Change the..." options). The odd one out is never the answer
+- **Answer lengths:** the correct answer is the single longest option in 5 of 20 (25%), and the single
+  shortest in 2 of 20. Picking the longest scores about 5 out of 20
+- **Every answer matches a handout:** panning at 1/15 to 1/30 (Week 7 key), the background distance
+  rule (Week 7 key), a clipped light bulb is fine but a face is not (Week 8 correction), Vibrance
+  protects skin (Week 8)
+
+## Gimkit review
+
+`gimkit-review.csv`: **243 questions.** This quiz's 20, six extra ones in the same style, the Weeks 7 and 8
+bank built Tuesday, and every earlier DT quiz bank and Gimkit, with duplicates removed. Studying it covers
+everything on the quiz.

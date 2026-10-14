@@ -36,6 +36,19 @@ Mission dates are within a day or two. The no-go hunt handout was deleted (it is
 
 **Quiz banks built Tuesday:** DT and V&S, 30 questions each, cut to 20.
 
+## Wednesday update: the Friday quizzes cover the whole quarter
+
+**Replaced Tuesday's Weeks 7 and 8 banks** with one 20-question quiz per class on the whole quarter,
+harder, every question a situation. One student takes them early, so it is one version for everyone.
+**Options are written in parallel** (all four alike, or two matching pairs) so the odd one out is never
+the answer, and **the correct answer is the longest option in 5 of 20.** Weeks 1 and 2 are covered
+lightly from the recap lines. **Gimkit reviews** hold the quiz, extras in the same style, and every
+earlier bank and Gimkit: 243 questions for DT, 269 for V&S.
+
+**Wednesday:** DT works on Three Moods, then studies. V&S checks PowerSchool, does missing work, and cuts
+the Bridge Scene. Aviation does Missions 3 and 4 on their own, after Mission 1 together and Mission 2 as
+a follow-along. MS CS checks their game against the self-check posted on Classroom, then playtests.
+
 ## Decisions made
 
 **No large new units in the last week of the quarter**, by request. Each class either continues

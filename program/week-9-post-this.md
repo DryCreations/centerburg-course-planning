@@ -36,6 +36,7 @@ Week 9. Paths are inside `week-9-materials/` in the zip.
 | Day | Post |
 |-----|------|
 | **Thu** | Remind every class: last day to submit missing work |
-| **Fri** | DT and V&S quizzes: `1-design-techniques/quiz-bank.csv` and `2-video-and-sound/quiz-bank.csv`. Cut to 20 |
+| **Wed** | Slides: `SLIDE-PROMPTS/3-WEDNESDAY-slides.md`. **Post the DT and V&S Gimkit reviews** (`gimkit-review.csv`) |
+| **Fri** | DT and V&S quizzes: `quiz-bank.csv` in each folder. **20 questions, whole quarter, ready as is.** One student takes them early |
 
 **Next week:** V&S color lesson Monday Oct 19, then the Bridge Scene is due Friday Oct 23.
