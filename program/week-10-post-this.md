@@ -34,4 +34,4 @@ zip.
 |-----|---|
 | **Wed** | DT and Aviation choice sheets due |
 | **Thu** | V&S choice sheet due. **Yearbook assignments posted**, from the survey |
-| **Fri** | **Aviation quiz:** `3-aviation-uas/quiz-bank.csv`, 24 questions, cut to 20. V&S Bridge Scene due. Yearbook check-in due |
+| **Fri** | **Aviation quiz:** `3-aviation-uas/quiz-bank.csv`, 24 questions, cut to 20. V&S Bridge Scene due |

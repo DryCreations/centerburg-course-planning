@@ -44,7 +44,7 @@ keep it.
 | **Tue** | Q2 plan, then the survey. Done? Keep working on your spread |
 | **Wed** | Work on your spread. Find missing fall photos |
 | **Thu** | Assignments posted. Start on them |
-| **Fri** | Weekly check-in due |
+| **Fri** | Work on your assignments. First check-in is Fri Oct 30 |
 
 ## How Q2 is graded
 
@@ -61,7 +61,7 @@ is what each assignment is worth in your grade.
 | 2 spread reviews with written feedback | 10 each | 2 each |
 | 1 final edit of a spread | 20 | 4 |
 | The Q2 survey | 10 | 1.5 |
-| 9 weekly check-ins | 10 each | 1.5 each |
+| 5 check-ins, every other week | 18 each | 2.7 each |
 
 **Extra credit:** shoot anything that is not your assignment and submit 15 usable photos. Each is 4
 points and counts as 1, up to 5 shoots. **It does not replace your own assignments:** a missed assigned

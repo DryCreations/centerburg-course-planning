@@ -124,7 +124,7 @@ up to 4).
 | | Spread reviews, 2 at 10 | 20 | 4 |
 | | Final edit of a spread | 20 | 4 |
 | **Staff Contribution (15%)** | Q2 survey | 10 | 1.5 |
-| | Weekly check-ins, 9 at 10 | 90 | 13.5 |
+| | Check-ins every other week, 5 at 18 | 90 | 13.5 |
 
 **Extra credit:** any shoot outside your assignment, 15 usable photos, **4 raw in Coverage each, up to
 5 shoots** (counts as 1 each, up to 5).

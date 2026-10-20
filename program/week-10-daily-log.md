@@ -11,7 +11,7 @@
 | **Tue** | Q2 plan, BPA tour | **Color grading** | Q2 plan, BPA options | Tinkercad accounts, first shapes | Q2 plan, **survey** |
 | **Wed** | **Choose second event** | Finish color. BPA tour | **Choose event** | Move, resize, align | Spreads, find missing fall photos |
 | **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Holes and grouping | **Assignments posted** |
-| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Name tag or keychain | Check-in due |
+| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Name tag or keychain | Work on assignments |
 
 ---
 
@@ -64,9 +64,16 @@ whole quarter to 100 counted points. The full list, with extra credit for each c
 `program/q2-gradebook.md`.
 
 **Yearbook in points:** spreads 50 and 50 (Production and Deadlines), 4 shoots at 25 (Coverage), photo
-quality, theme, reviews, and edit (Craft), survey and weekly check-ins (Staff Contribution). Extra
+quality, theme, reviews, and edit (Craft), survey and check-ins (Staff Contribution). Extra
 credit is 4 raw per unassigned shoot in Coverage, counting 1 each, up to 5, less than the 6.25 a missed
 assigned shoot costs. The survey and `q2-plan.md` now show points.
 
 **MS CS final project:** to be decided near the end of the quarter, since the circuits are simulated and
 combining all three parts may not fit.
+
+## Yearbook: shorter survey, check-ins every other week
+
+**Check-ins are every other week, not weekly**, matching what has actually been posted. Five in Q2 at
+18 points, starting Fri Oct 30. **The survey is cut to 16 questions** to fit in one period. It now says
+**blank choices are assigned at random from what is left**, and **overlaps go first to real Q1 progress
+on that spread, then to finished Q1 work.** 12 students.
