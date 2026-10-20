@@ -33,23 +33,18 @@ spread and give them more review and edit work. If there are more, the six stron
 5. **Winter spreads.** Fill from question 18
 6. **Reviews and edits.** Assign from question 12. Nobody reviews or edits their own spread
 7. **Alternative path.** Anyone with a real answer to question 21 gets small-task roles from question 22.
-   Match the amount: for example, 60 photos edited or tagged equals 4 shoots
+   Match the points: for example, a batch of 30 photos edited or tagged equals one shoot
 
 ## Grading, as stated to students
 
-| Part | Weight |
-|---|---|
-| Photos for assigned areas (4 shoots, 15 usable each, 3-day upload) | 35% |
-| Spreads designed (2) | 35% |
-| Reviews (2) and edit (1) | 15% |
-| Weekly check-ins | 15% |
-| **Extra credit:** any unassigned shoot, 15 usable photos | +1% each, up to +5% |
+**Points per assignment, by PowerSchool category, are in `program/q2-gradebook.md`.** Each category
+totals 100 raw points, so the multipliers give exactly 40, 25, 20, and 15 counted points.
 
-**Adjust the weights before you post the Form** if you want something different. They appear in the
-Form description, in `q2-plan.md`, and in survey questions 24 and 25.
+**Change the points there first** if you want something different, then update the Form description,
+`q2-plan.md`, and survey questions 24 and 25.
 
-**Why extra credit is capped at 5%:** one missed assigned shoot is worth about 9% (35% over 4 shoots),
-so extra photos can never fully make up for skipping an assignment. It rewards students who shoot
+**Why extra credit is capped at 5 counted points:** one missed assigned shoot counts 6.25, so extra
+photos can never fully make up for skipping an assignment. It rewards students who shoot
 everything, and it puts more cameras at events nobody was assigned.
 
 **The survey does not list events.** Students find the sections that need photos on the ladder

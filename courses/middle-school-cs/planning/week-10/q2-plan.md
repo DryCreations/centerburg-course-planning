@@ -14,7 +14,7 @@ circuits** to see how computer hardware works. Plans can shift as we go.
 | **1 to 3** | **3D design** | Shapes, holes, grouping, measuring. Design things for a real use. A few get 3D printed |
 | **4 to 5** | **Codeblocks** | Write block code that builds 3D models for you: loops make patterns, variables change sizes |
 | **6 to 8** | **Circuits** | Build circuits on screen: lights, buttons, sensors. Find out how input, processing, and output work in a real computer |
-| **9** | **Final project** | Bring two of the three together |
+| **9** | **Final project** | To be decided near the end of the quarter |
 
 Nothing gets broken or burned out. The circuits run in a simulation.
 

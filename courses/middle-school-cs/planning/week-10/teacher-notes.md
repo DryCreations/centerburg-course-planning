@@ -48,8 +48,13 @@ Code blocks first. Students who are ready can open the text view to see the Ardu
 
 ## Part 4: Final project (Week 18)
 
-Two of the three parts together. For example, a 3D case designed for a circuit, or a Codeblocks model
-of something they designed by hand.
+**To be decided near the end of the quarter.** The circuits are simulated, not physical parts, so a
+project that combines all three parts may not make sense. Choose once you see how each part went.
+
+## Points
+
+Assignments and points are in `program/q2-gradebook.md`. The final project holds 40 raw points in
+Projects whatever it ends up being.
 
 ## Covers
 

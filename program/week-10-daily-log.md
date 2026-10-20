@@ -54,3 +54,19 @@ Onshape is a possible Q3 step.
 briefings: METAR and TAF decoding, Zulu time, the Part 107 weather limits, airspace, TFRs, and writing
 to a client. 24 questions. **MS CS skips this week's quiz** to start Tinkercad; the first is Fri Oct 30
 on 3D design. **DT and V&S** quizzed Oct 16, so their next is Fri Oct 30.
+
+## Grading: points, not percentages
+
+**PowerSchool's category weight multiplies points** rather than setting a share of the grade, so a
+10 point assignment in a 40% category counts as 4. **Every class's Q2 assignments are now planned so each
+category totals 100 raw points**, which makes the multipliers come out to the intended weights and the
+whole quarter to 100 counted points. The full list, with extra credit for each class, is in
+`program/q2-gradebook.md`.
+
+**Yearbook in points:** spreads 50 and 50 (Production and Deadlines), 4 shoots at 25 (Coverage), photo
+quality, theme, reviews, and edit (Craft), survey and weekly check-ins (Staff Contribution). Extra
+credit is 4 raw per unassigned shoot in Coverage, counting 1 each, up to 5, less than the 6.25 a missed
+assigned shoot costs. The survey and `q2-plan.md` now show points.
+
+**MS CS final project:** to be decided near the end of the quarter, since the circuits are simulated and
+combining all three parts may not fit.

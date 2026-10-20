@@ -48,16 +48,24 @@ keep it.
 
 ## How Q2 is graded
 
-| Part | Weight | Full credit |
-|------|--------|-------------|
-| **Photos for your assigned areas** | 35% | 4 shoots, 15 usable photos each, uploaded within 3 school days |
-| **Spreads you design** | 35% | One fall spread finished in the theme, one winter spread laid out |
-| **Reviews and edits** | 15% | 2 reviews with written feedback, 1 final edit |
-| **Weekly check-ins** | 15% | What you finished, checked against your assignments |
+Your grade is out of **100 counted points.** Each category multiplies the points in it, so "counts as"
+is what each assignment is worth in your grade.
 
-**Extra credit, up to 5%:** shoot anything that is not your assignment and submit 15 usable photos. You
-earn 1% per shoot, up to 5%. **It does not replace your own assignments.** A missed assigned shoot costs
-more than extra credit earns back.
+| Assignment | Points | Counts as |
+|---|---|---|
+| Fall spread, finished in the theme by its deadline | 50 | 20 |
+| Winter spread, laid out with photos placed | 50 | 20 |
+| 4 assigned shoots: 15 usable photos each, uploaded within 3 school days | 25 each | 6.25 each |
+| Photo quality: your best 10 photos | 30 | 6 |
+| Theme applied on your fall spread | 30 | 6 |
+| 2 spread reviews with written feedback | 10 each | 2 each |
+| 1 final edit of a spread | 20 | 4 |
+| The Q2 survey | 10 | 1.5 |
+| 9 weekly check-ins | 10 each | 1.5 each |
+
+**Extra credit:** shoot anything that is not your assignment and submit 15 usable photos. Each is 4
+points and counts as 1, up to 5 shoots. **It does not replace your own assignments:** a missed assigned
+shoot costs 6.25, more than all your extra credit can earn back.
 
 **Look at the ladder for what needs covering.** If a section looks like it will be missed, shoot it.
 

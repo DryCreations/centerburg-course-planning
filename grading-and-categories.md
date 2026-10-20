@@ -3,6 +3,11 @@
 Set up **identical** grade categories in **PowerTeacher Pro** and **Google Classroom** for each class so grades
 sync correctly. Source of truth: the course syllabi in `first-two-weeks/<course>/syllabus/syllabus-draft.md`.
 
+> **Correction, Q2:** in PowerSchool the category weight is a **multiplier on points**, not a share of
+> the grade. A 10 point assignment in a 40% category counts as 4 points. So each category needs about the
+> same raw point total for the weights to mean what they say. **Q2 assignments are planned that way, with
+> every category totaling 100 raw points, in `program/q2-gradebook.md`.**
+
 ## How to make sync work (read first)
 
 - **Category names must match exactly** between PowerTeacher and Google Classroom (same spelling, same

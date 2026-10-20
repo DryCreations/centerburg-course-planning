@@ -16,22 +16,29 @@ the period. **Anyone who finishes keeps working on their spread.**
 > open in another tab while you fill this out.
 >
 > **Everyone's Q2 work, in nine weeks:**
-> - **Shoot at least 4 times**, and be the main photographer for at least one winter area
+> - **Shoot at least 4 times**, and be the main photographer for at least one winter section
 > - **Submit at least 15 usable photos per shoot**, about 60 total, named and uploaded
 > - **Design 2 spreads:** finish one fall spread in our theme, and lay out one winter spread
 > - **Review 2 spreads** for a classmate, with written feedback
 > - **Edit 1 spread:** a final check of names, captions, and theme
 >
-> **How Q2 is graded:**
-> - **Photos for your assigned areas: 35%.** 4 shoots, 15 usable photos each, uploaded within 3 school
->   days, named `LastName_Event_01`
-> - **Spreads you design: 35%.** One fall spread finished in the theme, one winter spread laid out
-> - **Reviews and edits: 15%.** 2 reviews with written feedback, 1 final edit
-> - **Weekly check-ins: 15%.** What you finished that week, checked against your assignments
+> **How Q2 is graded.** Your grade is out of 100 counted points. Each category multiplies the points
+> in it, so "counts as" is what each one is worth in your grade.
 >
-> **Extra credit: up to 5%.** Shoot something that is not your assignment and submit 15 usable photos,
-> and you earn 1% per shoot, up to 5%. **It does not replace your own assignments.** A missed assigned
-> shoot costs you more than extra credit can earn back.
+> - Fall spread, finished in the theme by its deadline: 50 points, counts as 20
+> - Winter spread, laid out with photos placed: 50 points, counts as 20
+> - 4 assigned shoots, 15 usable photos each, uploaded within 3 school days: 25 points each, counts as
+>   6.25 each
+> - Photo quality, your best 10 photos: 30 points, counts as 6
+> - Theme applied on your fall spread: 30 points, counts as 6
+> - 2 spread reviews with written feedback: 10 points each, counts as 2 each
+> - 1 final edit of a spread: 20 points, counts as 4
+> - This survey: 10 points, counts as 1.5
+> - 9 weekly check-ins: 10 points each, counts as 1.5 each
+>
+> **Extra credit:** shoot anything that is not your assignment and submit 15 usable photos. Each one is
+> 4 points and counts as 1, up to 5 shoots. **It does not replace your own assignments:** a missed
+> assigned shoot costs 6.25, more than all your extra credit can earn back.
 >
 > **If your main photographer role is missed, your backup covers it and gets the credit.** No work, no
 > credit.
@@ -159,8 +166,8 @@ repeating elements?** | Multiple choice | Required
 
 ## Section 7: Another way to earn credit
 
-Small tasks count toward the same part of the grade as the work they replace. For example, editing or
-tagging 60 photos counts the same as 4 shoots.
+Small tasks earn the same points as the work they replace. For example, editing or tagging a batch of
+30 incoming photos earns the same as one shoot.
 
 **21. Is there anything you CANNOT do this quarter, or need another way to earn your grade, that is not
 taking photos or designing spreads? Explain.** Examples: you cannot stay after school, you have no ride,
