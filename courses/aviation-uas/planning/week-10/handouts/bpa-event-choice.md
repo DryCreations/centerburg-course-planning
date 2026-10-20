@@ -42,6 +42,9 @@ Pick one that uses what we study:
 
 **4.** Why this one, in one sentence?
 
+**Your first draft is due Fri Nov 13,** and you present it to the class Nov 16 to 18 and answer
+questions.
+
 ## Graded on
 
 All four answered. Question 3 counts the most.

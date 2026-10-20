@@ -17,13 +17,27 @@ event** you choose. Plans can shift as we go.
 
 | Weeks | What |
 |-------|------|
-| **1 to 2** | Read the guidelines. Choose your second event. Plan both. Start shooting |
-| **3 to 5** | Promotional Photography: shoot, edit, choose your best. Start your second event |
-| **6 to 8** | Second event: draft, get feedback, revise |
-| **9** | Polish, practice presenting, submit what is due |
+| When | What |
+|------|------|
+| **This week** | Read the guidelines. Choose your second event. Plan both. Start shooting |
+| **Fri Nov 6** | **Promotional Photography first draft:** your full set, shot and edited |
+| **Fri Nov 13** | **Second event first draft:** a complete version |
+| **Nov 16 to 18** | **Present both to the class**, with questions |
+| **After that** | Revise from the feedback. Finals go in by the WSAP deadlines |
 
-**Deadlines come from the WSAP.** Some events have a December registration deadline and a January
-submission deadline. I will post exact dates on Classroom.
+**Final deadlines come from the WSAP.** Some events have a December registration deadline and a
+January submission deadline. I will post exact dates on Classroom.
+
+## First drafts and presenting
+
+A **first draft** is a complete version: everything the event asks for, done, even if it is rough.
+Then you **present it to the class** and answer questions in front of everyone:
+
+- Show what you made
+- Explain two or three decisions you made, and why
+- Answer two or three questions from the class
+
+After that you revise, and the final goes in by the WSAP deadline.
 
 ## This week
 

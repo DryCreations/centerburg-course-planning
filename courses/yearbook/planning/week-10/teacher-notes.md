@@ -3,7 +3,9 @@
 **Teacher-only.** Student docs: `q2-plan.md`. Form build sheet: `handouts/q2-survey-FORM.md`.
 
 **Tuesday:** walk through `q2-plan.md` (five minutes), then the survey: 16 questions, about 20 to 25
-minutes. **Have the ladder open on the
+minutes for a student who thinks it through. **Due by the end of the day.** Anyone done works on
+leftover Q1 work, their spread, or uploading photos. **Wednesday:** post the full set of assignments on
+Classroom, built from the survey. **Have the ladder open on the
 projector or shared**, because the survey asks for spreads by page number.
 
 ---

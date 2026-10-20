@@ -40,7 +40,8 @@ year, and the WSAP is what counts.**
 
 **5.** What are the deadlines for your event? Find them in the WSAP.
 
-**6.** What will your team have finished by the end of Week 4?
+**6.** Your first complete version is due **Fri Nov 20**, and you screen it for the class. What will
+your team have finished by Fri Nov 6 to be on track?
 
 ---
 

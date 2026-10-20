@@ -48,7 +48,8 @@ the WSAP is what counts.**
 
 **6.** What are the deadlines for both events? Find them in the WSAP.
 
-**7.** What will you have finished by the end of Week 3?
+**7.** First drafts are due **Fri Nov 6** (Promotional Photography) and **Fri Nov 13** (your second
+event). What will you have finished by Fri Oct 30 to be on track?
 
 ---
 

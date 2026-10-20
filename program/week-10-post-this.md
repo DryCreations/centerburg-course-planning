@@ -32,6 +32,18 @@ zip.
 
 | Day | |
 |-----|---|
-| **Wed** | DT and Aviation choice sheets due |
-| **Thu** | V&S choice sheet due. **Yearbook assignments posted**, from the survey |
+| **Tue** | **Yearbook survey due by the end of the day** |
+| **Wed** | DT and Aviation choice sheets due. **Post Yearbook assignments** on Classroom, from the survey |
+| **Thu** | V&S choice sheet due |
 | **Fri** | **Aviation quiz:** `3-aviation-uas/quiz-bank.csv`, 24 questions, cut to 20. V&S Bridge Scene due |
+
+## First drafts, set this week
+
+| Class | First draft | Presented to the class |
+|---|---|---|
+| DT | Promotional Photography **Fri Nov 6**, second event **Fri Nov 13** | Nov 16 to 18 |
+| V&S | Whole piece, edited start to finish, **Fri Nov 20** | Screened Nov 23 to 24 |
+| Aviation | Complete presentation or plan, **Fri Nov 13** | Nov 16 to 18 |
+
+**Check these against the WSAP deadlines** when you are back at school, and move them earlier if a
+pre-submission lands sooner.

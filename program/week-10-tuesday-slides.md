@@ -31,7 +31,9 @@ First day of Q2. Each block is one prompt for one slide.
 > Promotional Photography. Plus one more event you choose." Then two columns. Left, headed "Work alone":
 > "Graphic Design Promotion. Desktop Publishing. Digital Media Production. Presentation." Right, headed
 > "Work on a team of 2 or 3": "Visual Design. User Experience Design. Website Design. Branding." Then a
-> box: "Read the WSAP on Classroom. Choice sheet due Wednesday." One slide.
+> box: "Read the WSAP on Classroom. Choice sheet due Wednesday." Then a small line: "First drafts:
+> Promotional Photography Fri Nov 6, your second event Fri Nov 13. Then you present both to the class."
+> One slide.
 
 ### Board version
 
@@ -51,6 +53,8 @@ Q2 IS BPA
   everyone: promotional photography
   plus one event you choose. alone or a team.
   choice sheet due wednesday.
+  first drafts: photo fri nov 6, second event fri nov 13.
+  then you present both to the class.
 ```
 
 ---
@@ -74,7 +78,8 @@ Q2 IS BPA
 > CORRECT each clip: Contrast and Blacks until something is truly dark. Temperature until white looks
 > white. Copy to matching clips." "2. GRADE the whole scene: add an adjustment layer above every clip,
 > then use color wheels, HSL, and curves on it." Then a box: "Pick one mood. Keep it subtle. Free tools
-> only: if it has a crown, skip it." One slide.
+> only: if it has a crown, skip it." Then a small line: "Finished? The BPA options are posted on
+> Classroom. Start looking." One slide.
 
 ### Board version
 
@@ -93,6 +98,8 @@ COLOR GRADING
   1. CORRECT each clip. copy to matching clips.
   2. GRADE on an adjustment layer above everything.
   one mood. subtle. crown = skip it.
+
+finished? BPA options are on classroom.
 ```
 
 ---
@@ -115,8 +122,8 @@ COLOR GRADING
 > Create one slide for a high school drone class titled "Your BPA Event." Two options side by side.
 > Left, headed "Presentation (alone or a team)": "Research a drone topic and present it live. The best
 > fit for this class." Right, headed "Entrepreneurship (alone)": "Plan a drone services business and
-> pitch it. Becomes your capstone." Then a box: "Choice sheet due Wednesday. ODOT when you finish." One
-> slide.
+> pitch it. Becomes your capstone." Then a box: "Choice sheet due Wednesday. ODOT when you finish."
+> Then a small line: "First draft Fri Nov 13, then you present it to the class." One slide.
 
 ### Board version
 
@@ -135,6 +142,7 @@ YOUR BPA EVENT
   PRESENTATION: a drone topic, presented live
   ENTREPRENEURSHIP: a drone business, pitched
   choice sheet due wednesday. then ODOT.
+  first draft fri nov 13. then present it to the class.
 ```
 
 ---
@@ -169,8 +177,10 @@ NEW QUARTER: TINKERCAD
 
 > Create one slide for a high school yearbook class titled "Q2: Seasons of Our Lives." Three short
 > goals in large text: "Finish fall: every photo placed, the theme applied." "Cover winter: every area
-> gets a main photographer and a backup." "Make it look like one book." Then a box: "Today: take the Q2
-> survey with the ladder open. Done? Keep working on your spread." One slide.
+> gets a main photographer and a backup." "Make it look like one book." Then a box: "Today: the Q2 survey, with
+> the ladder open. Take your time. Due by the end of the day." Then a short list headed "Done? Keep
+> going": "Finish anything left from Q1." "Work on your spread." "Upload your photos." Then a small line:
+> "Your assignments go up on Classroom tomorrow." One slide.
 
 ### Board version
 
@@ -181,5 +191,12 @@ Q2: SEASONS OF OUR LIVES
   one book, one look.
 
 TODAY: the Q2 survey, with the ladder open.
-  done? keep working on your spread.
+  take your time. due end of the day.
+
+DONE? keep going:
+  finish anything left from Q1.
+  work on your spread.
+  upload your photos.
+
+assignments on classroom tomorrow.
 ```

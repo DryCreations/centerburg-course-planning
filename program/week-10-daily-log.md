@@ -8,9 +8,9 @@
 
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
-| **Tue** | Q2 plan, BPA tour | **Color grading** | Q2 plan, BPA options | Tinkercad accounts, first shapes | Q2 plan, **survey** |
-| **Wed** | **Choose second event** | Finish color. BPA tour | **Choose event** | Move, resize, align | Spreads, find missing fall photos |
-| **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Holes and grouping | **Assignments posted** |
+| **Tue** | Q2 plan, BPA tour | **Color grading** | Q2 plan, BPA options | Tinkercad accounts, first shapes | Q2 plan, **survey due end of day** |
+| **Wed** | **Choose second event** | Keep color grading. BPA tour | **Choose event** | Move, resize, align | **Assignments posted** |
+| **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Holes and grouping | Work on assignments |
 | **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Name tag or keychain | Work on assignments |
 
 ---
@@ -77,3 +77,17 @@ combining all three parts may not fit.
 18 points, starting Fri Oct 30. **The survey is cut to 16 questions** to fit in one period. It now says
 **blank choices are assigned at random from what is left**, and **overlaps go first to real Q1 progress
 on that spread, then to finished Q1 work.** 12 students.
+
+## First drafts and presenting
+
+**Every BPA student has a first draft due soon**, a complete version even if rough, then presents it to
+the class and answers questions in front of everyone. **DT:** Promotional Photography Fri Nov 6, second
+event Fri Nov 13, present Nov 16 to 18. **V&S:** the whole piece edited Fri Nov 20, screened Nov 23 to
+24. **Aviation:** Fri Nov 13, present Nov 16 to 18. That leaves December for revision before the virtual
+registration deadline and January pre-submissions. **The dates are set without the WSAP in hand**; check
+them against it at school. The gradebook's first-draft assignments now carry these dates.
+
+**Yearbook:** the survey is due by the end of today. Assignments go up on Classroom Wednesday. Anyone
+who finishes the survey works on leftover Q1 work, their spread, or uploading photos.
+
+**V&S:** color grading Tuesday and Wednesday. BPA options are posted Tuesday for anyone who finishes.

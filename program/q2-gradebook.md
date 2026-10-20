@@ -40,7 +40,7 @@ evenly across however many there are.
 | Category (weight) | Assignment | Raw | Counts as |
 |---|---|---:|---:|
 | **Projects (40%)** | Promotional Photography entry | 40 | 16 |
-| | Second BPA event: midpoint draft | 20 | 8 |
+| | First drafts of both events, presented to the class (Nov 6, Nov 13, Nov 16 to 18) | 20 | 8 |
 | | Second BPA event: final entry | 40 | 16 |
 | **Labs (20%)** | BPA event choice sheet | 10 | 2 |
 | | Promotional Photography shoot plan | 10 | 2 |
@@ -60,7 +60,7 @@ evenly across however many there are.
 | Category (weight) | Assignment | Raw | Counts as |
 |---|---|---:|---:|
 | **Projects (40%)** | Bridge Scene (the 20 point rubric) | 20 | 8 |
-| | BPA production: rough cut | 20 | 8 |
+| | BPA first complete version, screened with questions (Nov 20, Nov 23 to 24) | 20 | 8 |
 | | BPA production: final | 60 | 24 |
 | **Labs (20%)** | BPA event choice sheet | 10 | 2 |
 | | Treatment or script | 15 | 3 |
@@ -78,7 +78,7 @@ evenly across however many there are.
 
 | Category (weight) | Assignment | Raw | Counts as |
 |---|---|---:|---:|
-| **Projects (40%)** | BPA research outline | 25 | 10 |
+| **Projects (40%)** | BPA first draft, presented with questions (Nov 13, Nov 16 to 18) | 25 | 10 |
 | | BPA final presentation or business plan | 50 | 20 |
 | | Mission package: a planned and flown mission with its briefing | 25 | 10 |
 | **Labs (20%)** | BPA event choice sheet | 10 | 2 |

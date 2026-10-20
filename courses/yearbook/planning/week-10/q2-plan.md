@@ -41,9 +41,9 @@ keep it.
 
 | Day | What |
 |-----|------|
-| **Tue** | Q2 plan, then the survey. Done? Keep working on your spread |
-| **Wed** | Work on your spread. Find missing fall photos |
-| **Thu** | Assignments posted. Start on them |
+| **Tue** | Q2 plan, then the survey. **Take your time on it. Due by the end of the day.** Done? Finish anything left from Q1, work on your spread, upload photos |
+| **Wed** | **Your assignments are posted on Classroom.** Start on them |
+| **Thu** | Work on your assignments |
 | **Fri** | Work on your assignments. First check-in is Fri Oct 30 |
 
 ## How Q2 is graded
