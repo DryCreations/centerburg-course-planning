@@ -108,7 +108,7 @@ COLOR GRADING
 > required for preflight planning, current and forecast weather for departure, enroute, and arrival
 > phases of flight. Bottom half, headed "This week": "TUE: Q2 plan, the BPA options (1.2.5)." "WED:
 > choose your event and start a topic list (7.9.4)." "THU: fly if the weather is good, after checking it
-> (7.11.4). If not, ODOT." "FRI: topic chosen. ODOT." One slide.
+> (7.11.4). If not, ODOT." "FRI: quiz on weather and mission briefings (7.11.4), then topic chosen and ODOT." One slide.
 
 ### Slide 2: Today
 
@@ -129,7 +129,7 @@ Q2, WEEK 1
   7.11.4  describe weather products and resources required
           for preflight planning
 
-  TUE options   WED choose   THU fly or ODOT   FRI topic
+  TUE options   WED choose   THU fly or ODOT   FRI QUIZ, topic
 
 YOUR BPA EVENT
   PRESENTATION: a drone topic, presented live
@@ -144,16 +144,17 @@ YOUR BPA EVENT
 ### Slide 1: Welcome to Tinkercad
 
 > Create one slide for a middle school computer science class titled "New Quarter: Tinkercad." Body:
-> "First you design 3D objects. Then you build and program circuits." Then three steps in large text:
+> "Design 3D objects. Program shapes with code blocks. Build circuits to see how computers work." Then three steps in large text:
 > "1. Go to tinkercad.com. Sign in, or Join Class with the code on the board." "2. Create, then 3D
 > Design." "3. Follow the Getting Started sheet on Classroom." Then a box: "Some of your designs will
-> get 3D printed." One slide.
+> get 3D printed. No quiz this week. First quiz Friday, Oct 30." One slide.
 
 ### Board version
 
 ```
 NEW QUARTER: TINKERCAD
-  3D design first. then circuits you program.
+  3D design. code blocks. circuits.
+  no quiz this week. first quiz fri oct 30.
 
   1. tinkercad.com. sign in, or join class: ______
   2. create -> 3D design

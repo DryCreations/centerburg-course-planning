@@ -34,6 +34,10 @@ submission deadline. I will post exact dates on Classroom.
 | **Thu** | Promotional Photography: read the prompt, plan your shoot |
 | **Fri** | Start shooting. Second event: write your plan |
 
+## Quizzes
+
+Every other week. **The next one is Friday, Oct 30.**
+
 ## Standards
 
 - **2.9.2** Determine the scope and purpose of the project

@@ -28,6 +28,10 @@ submission deadline. I will post exact dates on Classroom.
 | **Thu** | Choose your event and team |
 | **Fri** | **Bridge Scene due.** Start your BPA plan |
 
+## Quizzes
+
+Every other week. **The next one is Friday, Oct 30.**
+
 ## Standards
 
 - **7.2.7** Select colors based on color theory and psychology

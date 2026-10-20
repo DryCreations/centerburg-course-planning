@@ -11,7 +11,7 @@
 | **Tue** | Q2 plan, BPA tour | **Color grading** | Q2 plan, BPA options | Tinkercad accounts, first shapes | Q2 plan, **survey** |
 | **Wed** | **Choose second event** | Finish color. BPA tour | **Choose event** | Move, resize, align | Spreads, find missing fall photos |
 | **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Holes and grouping | **Assignments posted** |
-| **Fri** | Start shooting | **Bridge Scene due** | Topic chosen, ODOT | Name tag or keychain | Check-in due |
+| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Name tag or keychain | Check-in due |
 
 ---
 
@@ -45,6 +45,12 @@ option and becomes the capstone. ODOT and review keep running.
 **Event names and numbers are not in student documents.** The repo's BPA references are from an older
 guide, and this year's list could not be confirmed online. The WSAP you post is what counts.
 
-**MS CS: Tinkercad for Q2.** 3D design for about three weeks, with a few prints to test the printers,
-then Tinkercad Circuits with code blocks, then a combined final project. Onshape is a possible Q3
-extension.
+**MS CS: one broad unit, Exploring Tinkercad.** 3D design (Weeks 10 to 12, a few prints to test the
+printers), Codeblocks to build 3D models with block code (13 to 14), circuit labs on how computer
+hardware works: input, processing, output (15 to 17), then a final project combining two parts.
+Onshape is a possible Q3 step.
+
+**Quizzes stay every other week.** **Aviation quizzes this Friday** on weather and the mission
+briefings: METAR and TAF decoding, Zulu time, the Part 107 weather limits, airspace, TFRs, and writing
+to a client. 24 questions. **MS CS skips this week's quiz** to start Tinkercad; the first is Fri Oct 30
+on 3D design. **DT and V&S** quizzed Oct 16, so their next is Fri Oct 30.

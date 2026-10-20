@@ -16,6 +16,7 @@ zip.
 | 5 | `4-middle-school-cs/handouts/tinkercad-start.md` | Assignment, make a copy. Due today |
 | 6 | **Yearbook survey:** build the Google Form from `5-yearbook/handouts/q2-survey-FORM.md` | Assignment. Due today |
 | 7 | **The WSAP document**, in DT, V&S and Aviation | Material |
+| 8 | `4-middle-school-cs/q2-plan.md` | Material. The Tinkercad unit in broad strokes |
 
 ## Do these yourself
 
@@ -33,4 +34,4 @@ zip.
 |-----|---|
 | **Wed** | DT and Aviation choice sheets due |
 | **Thu** | V&S choice sheet due. **Yearbook assignments posted**, from the survey |
-| **Fri** | V&S Bridge Scene due. Yearbook check-in due |
+| **Fri** | **Aviation quiz:** `3-aviation-uas/quiz-bank.csv`, 24 questions, cut to 20. V&S Bridge Scene due. Yearbook check-in due |

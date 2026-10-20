@@ -23,7 +23,12 @@ can shift with the weather and as we go.
 | **Tue** | Q2 plan. The BPA options |
 | **Wed** | Choose your event. Start a topic list |
 | **Thu** | Fly if the weather is good. If not, ODOT |
-| **Fri** | Topic chosen. ODOT |
+| **Fri** | **Quiz:** weather and mission briefings. Then topic chosen, ODOT |
+
+## Quizzes
+
+Every other week. **This Friday:** METARs, TAFs, Zulu time, the Part 107 weather limits, airspace,
+TFRs, and writing to a client.
 
 ## Standards
 
