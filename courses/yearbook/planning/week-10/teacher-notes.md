@@ -35,6 +35,26 @@ spread and give them more review and edit work. If there are more, the six stron
 7. **Alternative path.** Anyone with a real answer to question 21 gets small-task roles from question 22.
    Match the amount: for example, 60 photos edited or tagged equals 4 shoots
 
+## Grading, as stated to students
+
+| Part | Weight |
+|---|---|
+| Photos for assigned areas (4 shoots, 15 usable each, 3-day upload) | 35% |
+| Spreads designed (2) | 35% |
+| Reviews (2) and edit (1) | 15% |
+| Weekly check-ins | 15% |
+| **Extra credit:** any unassigned shoot, 15 usable photos | +1% each, up to +5% |
+
+**Adjust the weights before you post the Form** if you want something different. They appear in the
+Form description, in `q2-plan.md`, and in survey questions 24 and 25.
+
+**Why extra credit is capped at 5%:** one missed assigned shoot is worth about 9% (35% over 4 shoots),
+so extra photos can never fully make up for skipping an assignment. It rewards students who shoot
+everything, and it puts more cameras at events nobody was assigned.
+
+**The survey does not list events.** Students find the sections that need photos on the ladder
+(questions 11, 14, 18, and 26), so the coverage list comes from them.
+
 ## The coverage sheet
 
 One shared Google Sheet, one row per winter area:

@@ -28,7 +28,7 @@ eDesign, checking names, writing captions, or collecting photos from coaches. Te
 
 ## How coverage works
 
-Every winter area gets a **main photographer** and a **backup**. If the main photographer does not
+Every winter section gets a **main photographer** and a **backup**. If the main photographer does not
 cover it within three school days, the backup's photos are used. **Credit goes to whoever did the
 work.**
 
@@ -46,7 +46,20 @@ keep it.
 | **Thu** | Assignments posted. Start on them |
 | **Fri** | Weekly check-in due |
 
-## Graded on
+## How Q2 is graded
 
-Weekly check-ins, against your assignments: photos submitted, spreads designed, reviewed, and edited.
-**No work, no credit.**
+| Part | Weight | Full credit |
+|------|--------|-------------|
+| **Photos for your assigned areas** | 35% | 4 shoots, 15 usable photos each, uploaded within 3 school days |
+| **Spreads you design** | 35% | One fall spread finished in the theme, one winter spread laid out |
+| **Reviews and edits** | 15% | 2 reviews with written feedback, 1 final edit |
+| **Weekly check-ins** | 15% | What you finished, checked against your assignments |
+
+**Extra credit, up to 5%:** shoot anything that is not your assignment and submit 15 usable photos. You
+earn 1% per shoot, up to 5%. **It does not replace your own assignments.** A missed assigned shoot costs
+more than extra credit earns back.
+
+**Look at the ladder for what needs covering.** If a section looks like it will be missed, shoot it.
+
+**No work, no credit.** If you miss your assignment and your backup covers it, the backup gets the
+credit.

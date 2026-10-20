@@ -22,8 +22,22 @@ the period. **Anyone who finishes keeps working on their spread.**
 > - **Review 2 spreads** for a classmate, with written feedback
 > - **Edit 1 spread:** a final check of names, captions, and theme
 >
-> If you cannot take photos or design pages, there is another way to earn the same credit. The last
-> section asks about it.
+> **How Q2 is graded:**
+> - **Photos for your assigned areas: 35%.** 4 shoots, 15 usable photos each, uploaded within 3 school
+>   days, named `LastName_Event_01`
+> - **Spreads you design: 35%.** One fall spread finished in the theme, one winter spread laid out
+> - **Reviews and edits: 15%.** 2 reviews with written feedback, 1 final edit
+> - **Weekly check-ins: 15%.** What you finished that week, checked against your assignments
+>
+> **Extra credit: up to 5%.** Shoot something that is not your assignment and submit 15 usable photos,
+> and you earn 1% per shoot, up to 5%. **It does not replace your own assignments.** A missed assigned
+> shoot costs you more than extra credit can earn back.
+>
+> **If your main photographer role is missed, your backup covers it and gets the credit.** No work, no
+> credit.
+>
+> If you cannot take photos or design pages, there is another way to earn the same credit. Section 7
+> asks about it.
 
 ---
 
@@ -106,17 +120,11 @@ photos we could use? Give names if you can.** | Paragraph | Required
 Winter photo coverage will be assigned with a **main photographer** and a **backup** for each area. If
 the main photographer does not cover it, the backup does.
 
-**14. Which winter areas would you want to photograph?** | Checkboxes | Required
-- Winter sports
-- Clubs and organizations
-- Arts: band, choir, theater
-- Student life: lunch, hallways, spirit days, dances
-- Academics: classes and labs
-- Holiday and seasonal events
-- Other (Form adds a text box)
+**14. Look at the ladder. Which winter sections need photos? List every one you can find.** |
+Paragraph | Required
 
-**15. For your checked areas, which specific teams, clubs, or events would you want to be the MAIN
-photographer for? Which would you back up?** | Paragraph | Required
+**15. From your list, which would you want to be the MAIN photographer for? Which would you back up?
+Give at least two of each.** | Paragraph | Required
 
 **16. When can you take photos?** | Checkboxes | Required
 - During class only
@@ -151,6 +159,9 @@ repeating elements?** | Multiple choice | Required
 
 ## Section 7: Another way to earn credit
 
+Small tasks count toward the same part of the grade as the work they replace. For example, editing or
+tagging 60 photos counts the same as 4 shoots.
+
 **21. Is there anything you CANNOT do this quarter, or need another way to earn your grade, that is not
 taking photos or designing spreads? Explain.** Examples: you cannot stay after school, you have no ride,
 you are not comfortable with a camera, you cannot use eDesign at home. | Paragraph | Required
@@ -173,8 +184,26 @@ Multiple choice | Required
 
 ---
 
-## Section 8: Commitment
+## Section 8: Grading and extra credit
 
-**24. In your own words, what will you have finished by the end of Q2?** | Paragraph | Required
+**24. How many shoots do you need for full credit on photos, and how many usable photos per shoot?** |
+Short answer | Required
 
-**25. Anything else I should know before I make assignments?** | Paragraph | Optional
+**25. If you are the main photographer and do not upload within 3 school days, what happens?** |
+Paragraph | Required
+
+**26. Look at the ladder. What sections look like they will be missed or need more photos? Would you
+shoot any of them for extra credit?** | Paragraph | Required
+
+**27. Which part of the grade will be hardest for you, and what would help?** | Paragraph | Required
+
+**28. I have read how Q2 is graded.** | Checkbox | Required
+- Yes
+
+---
+
+## Section 9: Commitment
+
+**29. In your own words, what will you have finished by the end of Q2?** | Paragraph | Required
+
+**30. Anything else I should know before I make assignments?** | Paragraph | Optional
