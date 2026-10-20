@@ -91,3 +91,9 @@ them against it at school. The gradebook's first-draft assignments now carry the
 who finishes the survey works on leftover Q1 work, their spread, or uploading photos.
 
 **V&S:** color grading Tuesday and Wednesday. BPA options are posted Tuesday for anyone who finishes.
+
+**Virtual events are allowed** in every class, by request. The choice sheets now list them: DT adds
+Social Media Marketing Campaign and Multimedia and Promotion (Branding Team and Promotional Photography
+are already virtual), V&S adds 2D Animation Team, and Aviation adds Promotional Photography (aerial
+shots) and Multimedia and Promotion (flight footage). Virtual events usually need registration in early
+December and a January submission, which the first-draft dates leave room for.

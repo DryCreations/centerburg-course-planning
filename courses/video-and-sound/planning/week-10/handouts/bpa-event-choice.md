@@ -21,9 +21,16 @@ deliverables, and responsibilities for completion.
 **Alone, or a team:**
 
 - **Digital Media Production:** a 1 to 2 minute video or animation on a set topic
-- **Multimedia and Promotion:** a short digital promotion
+- **Multimedia and Promotion:** a short digital promotion. Virtual, submitted online
 
+**Virtual, a team:**
+
+- **2D Animation Team:** a short animation on this year's topic
+
+**Virtual events are fine too.** You submit online and skip the in-person rounds. They usually need
+registration in early December and a submission in January, so check the dates in the WSAP.
 **Optional second event:** **Promotional Photography**, photos shot and edited to this year's prompt.
+Also virtual.
 
 Read each event's guidelines in the WSAP before you choose. **Names, lengths, and topics change every
 year, and the WSAP is what counts.**

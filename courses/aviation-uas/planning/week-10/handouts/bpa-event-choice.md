@@ -2,7 +2,7 @@
 
 **Aviation UAS | Due Wednesday**
 
-There is no BPA event for flying drones. These two let you use the most of what this class covers.
+There is no BPA event for flying drones. The first two let you use the most of what this class covers.
 
 ## Standards
 
@@ -19,6 +19,14 @@ intended audience and purpose.
 - **Entrepreneurship, alone:** plan a drone services business and pitch it. This becomes your capstone
   later in the year
 
+**Virtual, submitted online:**
+
+- **Promotional Photography:** photos shot and edited to this year's prompt. Aerial photos from our
+  flights could fit
+- **Multimedia and Promotion:** a short video, alone or a team. Flight footage could fit
+
+**Virtual events are fine too.** You submit online and skip the in-person rounds. They usually need
+registration in early December and a submission in January, so check the dates in the WSAP.
 Read each event's guidelines in the WSAP before you choose. **The WSAP is what counts.**
 
 ## Topic ideas (7.9.4)

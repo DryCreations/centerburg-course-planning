@@ -13,7 +13,7 @@ deliverables, and responsibilities for completion.
 
 ## Event 1: Promotional Photography (everyone)
 
-Photos shot and edited to this year's prompt. Read the prompt in the WSAP document on Classroom.
+Photos shot and edited to this year's prompt. This is a virtual event, submitted online. Read the prompt in the WSAP document on Classroom.
 
 **1.** In your own words, what does this year's prompt ask for?
 
@@ -33,6 +33,14 @@ Photos shot and edited to this year's prompt. Read the prompt in the WSAP docume
 - **Website Design Team:** design and build a website on a set topic
 - **Branding Team:** a brand across digital design, social media, and mock-ups
 
+**Virtual, submitted online:**
+
+- **Social Media Marketing Campaign:** a full campaign for a brand, alone or a team
+- **Multimedia and Promotion:** a short digital promotion, alone or a team
+- **Branding Team**, above, is also a virtual event
+
+**Virtual events are fine too.** You submit online and skip the in-person rounds. They usually need
+registration in early December and a submission in January, so check the dates in the WSAP.
 Read each event's guidelines in the WSAP before you choose. **Names and details change every year, and
 the WSAP is what counts.**
 
