@@ -9,9 +9,9 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Tue** | Q2 plan, BPA tour | **Color grading** | Q2 plan, BPA options | Tinkercad accounts, first shapes | Q2 plan, **survey due end of day** |
-| **Wed** | **Choose second event** | Keep color grading. BPA tour | **Choose event** | Move, resize, align | **Assignments posted** |
-| **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Holes and grouping | Work on assignments |
-| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Name tag or keychain | Work on assignments |
+| **Wed** | **Choose second event** | Keep color grading. BPA tour | **Choose event** | **Pencil cup:** the cup | **Assignments posted** |
+| **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Pencil cup: initials | Work on assignments |
+| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Pencil cup: make it yours | Work on assignments |
 
 ---
 
@@ -97,3 +97,24 @@ Social Media Marketing Campaign and Multimedia and Promotion (Branding Team and 
 are already virtual), V&S adds 2D Animation Team, and Aviation adds Promotional Photography (aerial
 shots) and Multimedia and Promotion (flight footage). Virtual events usually need registration in early
 December and a January submission, which the first-draft dates leave room for.
+
+## Wednesday
+
+**Yearbook:** most finished the survey Tuesday; absences and internet problems left a few. **An
+assignment sheet** (two CSVs into one Google Sheet) counts each student's designs, reviews, edits, and
+shoots and flags anyone short. Missing surveys finish first thing Thursday; everyone else's assignments
+can post now.
+
+**DT:** Promotional Photography examples. This year's prompt is **through the frame**: something in the
+scene frames the subject. A short sheet: kinds of frames, two examples, five places to shoot. Then BPA
+work time.
+
+**V&S:** finish color grading the Bridge Scene, then look at the BPA events. Choice sheet due Thursday.
+
+**Aviation:** **ODOT Module 3 due Friday.** A **Know Your Event** sheet keeps them in their seats with
+the WSAP open: every piece they turn in, the rating sheet, penalties, and deadlines. Each student should
+be able to say what they are making by the end of the period.
+
+**MS CS:** a three-day **build along, the pencil cup**: 50 mm by 60 mm, 3 mm walls and floor, initials,
+grouped and flat for printing. It uses every tool on the Oct 30 quiz. It replaces the name tag in the
+gradebook's Labs category, same 10 points. A few get printed to test the printers.

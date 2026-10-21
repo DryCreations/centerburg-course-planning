@@ -23,9 +23,9 @@ Nothing gets broken or burned out. The circuits run in a simulation.
 | Day | What |
 |-----|------|
 | **Tue** | Q2 plan. Tinkercad accounts. First shapes |
-| **Wed** | Move, resize, and align shapes |
-| **Thu** | Holes and grouping |
-| **Fri** | A name tag or keychain with your name cut in |
+| **Wed** | **Build along: pencil cup.** The cup: sizes, holes, align, group |
+| **Thu** | Pencil cup: your initials |
+| **Fri** | Pencil cup: make it yours, and check it is ready to print |
 
 ## Quizzes
 

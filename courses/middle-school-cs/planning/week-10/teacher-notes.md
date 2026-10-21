@@ -11,11 +11,12 @@ then every other week: Codeblocks around Week 14, circuits around Week 16.
 
 | Week | Focus | A project |
 |------|-------|-----------|
-| **10** | Workplane, shapes, move, resize, rotate, holes, group, align | Name tag or keychain |
+| **10** | Workplane, shapes, move, resize, rotate, holes, group, align, text | Build along: pencil cup (`handouts/pencil-cup.md`) |
 | **11** | Measuring real objects, exact dimensions, the ruler tool | Something that fits a real object: a cap, a stand, a clip |
 | **12** | Designing for someone else | A desk organizer or phone stand for a classmate's needs |
 
-**Printing:** start with a few small, quick prints, mostly keychains, **to test the printers.** One
+**Printing:** start with a few pencil cups **to test the printers.** They are under 80 mm; scale one down
+to half size for a faster test print. One
 print per student only if the filament budget allows.
 
 **Quiz Oct 30:** workplane, solid vs hole, grouping, aligning, measuring in millimeters, why a design

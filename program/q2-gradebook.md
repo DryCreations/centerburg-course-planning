@@ -102,7 +102,7 @@ up to 4).
 | | Codeblocks model | 30 | 12 |
 | | Final project, to be decided late in the quarter | 40 | 16 |
 | **Labs and Activities (25%)** | Tinkercad start | 5 | 1.25 |
-| | Name tag or keychain | 10 | 2.5 |
+| | Build along: pencil cup | 10 | 2.5 |
 | | Measured fit design | 15 | 3.75 |
 | | Codeblocks labs, 2 at 10 | 20 | 5 |
 | | Circuit labs, 5 at 10 | 50 | 12.5 |

@@ -47,3 +47,14 @@ zip.
 
 **Check these against the WSAP deadlines** when you are back at school, and move them earlier if a
 pre-submission lands sooner.
+
+## Wednesday
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `1-design-techniques/handouts/through-the-frame.md` | Assignment, make a copy. Due Friday |
+| 2 | `3-aviation-uas/handouts/know-your-event.md` | Assignment, make a copy. Due Thursday |
+| 3 | `4-middle-school-cs/handouts/pencil-cup.md` | Assignment, make a copy. Due Friday |
+
+**Slides:** `SLIDE-PROMPTS/2-WEDNESDAY-slides.md`. **Yearbook:** set up the assignment sheet from
+`5-yearbook/assignments-HOWTO.md`.
