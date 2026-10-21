@@ -52,7 +52,7 @@ Pick a small object: an eraser, a phone, a charging case. Measure it with a rule
 
 ## Done early?
 
-Export your keychain as an STL. A few will be 3D printed.
+Export your keychain as an STL. Then open **3D Design Project** on Classroom and start your plan.
 
 ## Graded on
 

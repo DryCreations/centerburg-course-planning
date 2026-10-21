@@ -52,7 +52,8 @@ Three spheres, **30, 22, and 15 mm**, stacked so each one just touches the one b
 
 ## Done early?
 
-Build a chair that matches your table. Then a lamp for the table.
+Build a chair that matches your table. Or open **3D Design Project** on Classroom and start
+thinking about what you will make next week.
 
 ## Graded on
 

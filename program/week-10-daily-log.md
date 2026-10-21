@@ -121,3 +121,11 @@ holes and groups (a window, a die, the pencil cup, a mirrored build), and detail
 the ruler, the workplane tool, modeling a real object with tolerance, a print-ready keychain). Each has
 more than a period of work plus a done-early build. A vocab list feeds the Oct 30 quiz. Gradebook: three
 skills sheets at 5 points in Labs; the measured fit design drops to 10.
+
+**MS CS project:** skills this week while students plan a **3D Design Project**, built next week and due
+Mon Nov 2, with Codeblocks starting Tue Nov 3. Three tracks: solve a problem for a real person (measured
+to fit), a scale model, or a game. Requirements: 15 or more shapes, holes, groups, align, text, exact
+millimeters, one print-ready part. The plan (sketch with sizes, parts list) is due Friday and replaces
+the measured-fit lab in the gradebook; the project takes the Projects slot that was "design for a
+classmate." Students who finish the skills early start the project early.
+

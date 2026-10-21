@@ -58,6 +58,8 @@ pre-submission lands sooner.
 | 4 | `4-middle-school-cs/vocab.md` | Material. Quiz Fri Oct 30 |
 
 **MS CS Thursday:** `skills-2-holes-and-groups.md`. **Friday:** `skills-3-details-and-printing.md`.
+**MS CS today too:** `4-middle-school-cs/handouts/3d-project.md`, assignment. Plan due Friday, build next
+week, project due Mon Nov 2.
 
 **Slides:** `SLIDE-PROMPTS/2-WEDNESDAY-slides.md`. **Yearbook:** set up the assignment sheet from
 `5-yearbook/assignments-HOWTO.md`.

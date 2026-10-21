@@ -3,17 +3,27 @@
 **Teacher-only.** Student doc: `q2-plan.md`. A broad map, not a commitment.
 
 **Quizzes:** the Week 10 quiz is skipped to start Tinkercad. **First quiz Fri Oct 30** on 3D design,
-then every other week: Codeblocks around Week 14, circuits around Week 16.
+then every other week: Codeblocks around Fri Nov 13, then circuits.
 
 ---
 
-## Part 1: 3D design (Weeks 10 to 12)
+## Part 1: 3D design (Weeks 10 and 11, plus Mon Nov 2)
 
-| Week | Focus | A project |
-|------|-------|-----------|
-| **10** | One skills sheet a day, with vocab (`vocab.md`): getting around (Wed), holes and groups (Thu), details and printing (Fri) | Table, snowman, die, pencil cup, keychain |
-| **11** | Measuring real objects, exact dimensions, the ruler tool | Something that fits a real object: a cap, a stand, a clip |
-| **12** | Designing for someone else | A desk organizer or phone stand for a classmate's needs |
+| Week | Focus | Work |
+|------|-------|------|
+| **10** | One skills sheet a day, with vocab (`vocab.md`), and **plan the project by Friday** | Table, snowman, die, pencil cup, keychain. `handouts/3d-project.md` questions 1 to 5 |
+| **11** | **Build the 3D Design Project.** Quiz Friday | The project, in one of three tracks |
+| **Mon Nov 2** | Finish, screenshots, a quick gallery walk | Project due |
+
+**The project's three tracks:** solve a problem for a real person (measured to fit real objects), a
+scale model (scale written down), or a game (every piece). At least 15 shapes, holes, groups, align,
+text, exact millimeters, and one print-ready part. **Students who finish the skills early start
+planning or building early.**
+
+**Ideas that land well with this age:** a stand or hook for a family member, a plant pot with drainage,
+a dream bedroom at scale, a redesigned school space, a marble maze, a dice tower, a chess set. **Watch
+for scope:** a whole house or a full chess set can take forever. Steer them to one room, or four pieces
+done well.
 
 **Printing:** start with a few Friday keychains **to test the printers.** They are small and quick. One
 print per student only if the filament budget allows.
@@ -23,7 +33,7 @@ print per student only if the filament budget allows.
 **Each skills sheet has more than a period of work** plus a done-early build, so fast students keep
 going. Week 11 can keep a slower student on Skills 3 while others start measured designs.
 
-## Part 2: Codeblocks (Weeks 13 to 14)
+## Part 2: Codeblocks (from Tue Nov 3, about two weeks)
 
 Tinkercad's **Codeblocks** builds 3D models from block code. This is the bridge from MakeCode to
 Tinkercad.
@@ -33,7 +43,7 @@ Tinkercad.
 - **Variables:** change one number and the whole model changes size
 - **Project:** a model that would be tedious by hand, like a gear, a tower, or a pattern
 
-## Part 3: Circuits (Weeks 15 to 17)
+## Part 3: Circuits (about four weeks after Codeblocks)
 
 Tinkercad **Circuits** simulates a breadboard and an Arduino. Frame it as **how a computer works**:
 input, processing, output.

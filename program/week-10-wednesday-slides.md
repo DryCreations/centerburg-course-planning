@@ -148,7 +148,8 @@ them work. Skills 2 Thursday, Skills 3 Friday.
 > Around." Top, headed "Today's words": "workplane, solid, handles, millimeter, view cube, orbit, pan,
 > zoom, lift arrow, nudge, snap grid." Then the parts as a short list: "1. Move your view." "2. Exact
 > sizes." "3. Stack and move." "4. Build a table." "5. Build a snowman." Then a box: "New words every
-> day. Quiz next Friday." One slide.
+> day. Quiz next Friday." Then a small line: "Done early? Open the 3D Design Project on Classroom.
+> Plan it by Friday, build it next week." One slide.
 
 ### Board version
 
@@ -162,6 +163,8 @@ TINKERCAD SKILLS 1: GETTING AROUND
 
   THU holes and groups   FRI details and printing
   quiz next friday.
+
+done early? 3D design project: plan by fri, build next week.
 ```
 
 ---

@@ -98,12 +98,12 @@ up to 4).
 
 | Category (weight) | Assignment | Raw | Counts as |
 |---|---|---:|---:|
-| **Projects (40%)** | 3D design for a classmate | 30 | 12 |
+| **Projects (40%)** | 3D Design Project (due Mon Nov 2) | 30 | 12 |
 | | Codeblocks model | 30 | 12 |
 | | Final project, to be decided late in the quarter | 40 | 16 |
 | **Labs and Activities (25%)** | Tinkercad start | 5 | 1.25 |
 | | Skills sheets, 3 at 5 (Wed to Fri, Week 10) | 15 | 3.75 |
-| | Measured fit design | 10 | 2.5 |
+| | 3D Design Project plan (due Fri Oct 23) | 10 | 2.5 |
 | | Codeblocks labs, 2 at 10 | 20 | 5 |
 | | Circuit labs, 5 at 10 | 50 | 12.5 |
 | **Checkpoints (25%)** | Quizzes, about 4 at 25, starting Fri Oct 30 | 100 | 25 |

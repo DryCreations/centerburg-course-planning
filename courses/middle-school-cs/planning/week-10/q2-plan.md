@@ -11,9 +11,9 @@ circuits** to see how computer hardware works. Plans can shift as we go.
 
 | Weeks | Part | What you do |
 |-------|------|-------------|
-| **1 to 3** | **3D design** | Shapes, holes, grouping, measuring. Design things for a real use. A few get 3D printed |
-| **4 to 5** | **Codeblocks** | Write block code that builds 3D models for you: loops make patterns, variables change sizes |
-| **6 to 8** | **Circuits** | Build circuits on screen: lights, buttons, sensors. Find out how input, processing, and output work in a real computer |
+| **1 to 2** | **3D design** | Skills this week. Next week, a bigger project you choose. A few get 3D printed |
+| **3 to 4** | **Codeblocks** | Write block code that builds 3D models for you: loops make patterns, variables change sizes |
+| **5 to 8** | **Circuits** | Build circuits on screen: lights, buttons, sensors. Find out how input, processing, and output work in a real computer |
 | **9** | **Final project** | To be decided near the end of the quarter |
 
 Nothing gets broken or burned out. The circuits run in a simulation.
@@ -28,6 +28,9 @@ Nothing gets broken or burned out. The circuits run in a simulation.
 | **Fri** | **Skills 3: Details and printing.** Text, the ruler, measuring real things, a keychain |
 
 **New words each day.** The vocabulary list is on Classroom, and next Friday's quiz uses it.
+
+**Plan your 3D Design Project by Friday.** Pick something that matters: a fix for a real person, a
+scale model, or a game. You build it next week. **Due Mon Nov 2.**
 
 ## Quizzes
 
