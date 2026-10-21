@@ -7,7 +7,7 @@ Each block is one prompt for one slide.
 | Design Techniques | 2 | Standards and agenda, then Through the Frame |
 | Video & Sound | 2 | Standards and agenda, then finish color, then BPA |
 | Aviation UAS | 2 | Standards and agenda, then Know Your Event |
-| Middle School CS | 1 | Build along: pencil cup |
+| Middle School CS | 1 | Skills 1: getting around |
 | Yearbook | 1 | Finish the survey, keep working |
 
 ---
@@ -137,28 +137,31 @@ KNOW YOUR EVENT
 
 ---
 
-## 4. Middle School CS: Pencil Cup
+## 4. Middle School CS: Tinkercad Skills
 
-**Handout:** `pencil-cup.md`. Build Wednesday's steps together on the projector, one step at a time.
+**Handouts:** `skills-1-getting-around.md` today, `vocab.md`. Demo each part on the projector, then let
+them work. Skills 2 Thursday, Skills 3 Friday.
 
-### Slide 1: Build along
+### Slide 1: Today
 
-> Create one slide for a middle school computer science class titled "Build Along: Pencil Cup." Four
-> goals in large text: "50 mm wide, 60 mm tall." "A floor and walls 3 mm thick." "Your initials on the
-> side." "Grouped and flat, ready to print." Then a small line: "Today: the cup. Thursday: initials.
-> Friday: make it yours." Then a box: "Quiz next Friday on these tools." One slide.
+> Create one slide for a middle school computer science class titled "Tinkercad Skills 1: Getting
+> Around." Top, headed "Today's words": "workplane, solid, handles, millimeter, view cube, orbit, pan,
+> zoom, lift arrow, nudge, snap grid." Then the parts as a short list: "1. Move your view." "2. Exact
+> sizes." "3. Stack and move." "4. Build a table." "5. Build a snowman." Then a box: "New words every
+> day. Quiz next Friday." One slide.
 
 ### Board version
 
 ```
-BUILD ALONG: PENCIL CUP
-  50 mm wide, 60 mm tall
-  floor + walls 3 mm thick
-  your initials on the side
-  grouped, flat, ready to print
+TINKERCAD SKILLS 1: GETTING AROUND
+  words: workplane, solid, handles, mm, view cube,
+         orbit, pan, zoom, lift arrow, nudge, snap grid
 
-  WED cup   THU initials   FRI make it yours
-  quiz next friday on these tools.
+  1. move your view   2. exact sizes   3. stack and move
+  4. a table          5. a snowman
+
+  THU holes and groups   FRI details and printing
+  quiz next friday.
 ```
 
 ---

@@ -9,9 +9,9 @@
 | Day | DT | V&S | Aviation | MS CS | Yearbook |
 |-----|----|-----|----------|-------|----------|
 | **Tue** | Q2 plan, BPA tour | **Color grading** | Q2 plan, BPA options | Tinkercad accounts, first shapes | Q2 plan, **survey due end of day** |
-| **Wed** | **Choose second event** | Keep color grading. BPA tour | **Choose event** | **Pencil cup:** the cup | **Assignments posted** |
-| **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | Pencil cup: initials | Work on assignments |
-| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | Pencil cup: make it yours | Work on assignments |
+| **Wed** | **Choose second event** | Keep color grading. BPA tour | **Choose event** | **Skills 1:** getting around | **Assignments posted** |
+| **Thu** | Promo Photo: prompt, plan | **Choose event and team** | Fly or ODOT | **Skills 2:** holes and groups | Work on assignments |
+| **Fri** | Start shooting | **Bridge Scene due** | **QUIZ**, topic chosen, ODOT | **Skills 3:** details and printing | Work on assignments |
 
 ---
 
@@ -115,6 +115,9 @@ work time.
 the WSAP open: every piece they turn in, the rating sheet, penalties, and deadlines. Each student should
 be able to say what they are making by the end of the period.
 
-**MS CS:** a three-day **build along, the pencil cup**: 50 mm by 60 mm, 3 mm walls and floor, initials,
-grouped and flat for printing. It uses every tool on the Oct 30 quiz. It replaces the name tag in the
-gradebook's Labs category, same 10 points. A few get printed to test the printers.
+**MS CS:** the three-day pencil cup build-along was too little work, so it became **one skills sheet a
+day, each with new vocabulary**: getting around (views, exact sizes, stacking, a table and a snowman),
+holes and groups (a window, a die, the pencil cup, a mirrored build), and details and printing (text,
+the ruler, the workplane tool, modeling a real object with tolerance, a print-ready keychain). Each has
+more than a period of work plus a done-early build. A vocab list feeds the Oct 30 quiz. Gradebook: three
+skills sheets at 5 points in Labs; the measured fit design drops to 10.

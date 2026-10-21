@@ -23,9 +23,11 @@ Nothing gets broken or burned out. The circuits run in a simulation.
 | Day | What |
 |-----|------|
 | **Tue** | Q2 plan. Tinkercad accounts. First shapes |
-| **Wed** | **Build along: pencil cup.** The cup: sizes, holes, align, group |
-| **Thu** | Pencil cup: your initials |
-| **Fri** | Pencil cup: make it yours, and check it is ready to print |
+| **Wed** | **Skills 1: Getting around.** Views, exact sizes, stacking. Build a table and a snowman |
+| **Thu** | **Skills 2: Holes and groups.** A window, a die, a pencil cup, a mirrored build |
+| **Fri** | **Skills 3: Details and printing.** Text, the ruler, measuring real things, a keychain |
+
+**New words each day.** The vocabulary list is on Classroom, and next Friday's quiz uses it.
 
 ## Quizzes
 

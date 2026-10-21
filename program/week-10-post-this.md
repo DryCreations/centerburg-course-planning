@@ -54,7 +54,10 @@ pre-submission lands sooner.
 |------|------|------|
 | 1 | `1-design-techniques/handouts/through-the-frame.md` | Assignment, make a copy. Due Friday |
 | 2 | `3-aviation-uas/handouts/know-your-event.md` | Assignment, make a copy. Due Thursday |
-| 3 | `4-middle-school-cs/handouts/pencil-cup.md` | Assignment, make a copy. Due Friday |
+| 3 | `4-middle-school-cs/handouts/skills-1-getting-around.md` | Assignment, make a copy. Due today |
+| 4 | `4-middle-school-cs/vocab.md` | Material. Quiz Fri Oct 30 |
+
+**MS CS Thursday:** `skills-2-holes-and-groups.md`. **Friday:** `skills-3-details-and-printing.md`.
 
 **Slides:** `SLIDE-PROMPTS/2-WEDNESDAY-slides.md`. **Yearbook:** set up the assignment sheet from
 `5-yearbook/assignments-HOWTO.md`.
