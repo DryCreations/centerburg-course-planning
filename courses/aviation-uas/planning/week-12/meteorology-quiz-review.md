@@ -3,6 +3,10 @@
 **Teacher-only.** Results from the Fri Oct 23 meteorology quiz, a 15 minute review to open class, the
 slide prompts, and the makeup review bank.
 
+> **Use `review-slides-google-prompt.md` for the Google Slides deck.** It replaces the eight slide
+> prompts below with question and explanation pairs. **Retake:** Friday, averaged with the first score.
+> **Full Q1 Gimkit:** `gimkit-q1-full-review.csv`.
+
 ---
 
 ## Results
