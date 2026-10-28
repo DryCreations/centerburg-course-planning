@@ -28,17 +28,29 @@ transitions, and every student has something to produce.
 
 ---
 
-## Video & Sound: Audio, and the rights to what you use
+## Video & Sound: Mic setup in small groups, then work time
 
-Audio is **16% of the WebXam** and has not been taught. Every BPA production needs it.
+Mixing and the audio meter are already covered. This week is **recording sound right at the source**,
+in small groups, while everyone else works from your feedback on their Friday submission.
 
-| Day | Learn it | Use it on your BPA project |
-|---|---|---|
-| **Mon** | **Microphones and placement.** Distance changes everything. Record one line at 6 inches, 3 feet, and across the room, then compare (7.8.4) | Decide which mic you will use for each scene, and where it goes |
-| **Tue** | **Recording levels and room tone.** Set gain so speech peaks around -12 dB, never red. Record 30 seconds of room tone (7.8.6) | Record a test line and room tone where you will shoot |
-| **Wed** | **Mixing.** Dialogue on top, music under it, sound effects in between. Use keyframes to lower music under speech (7.8.8) | Build an audio mix on your current cut |
-| **Thu** | **Music and rights.** Copyright, royalty-free, Creative Commons, and why BPA entries need rights to everything (1.3.8) | Find legal music for your entry and add it to a credits list |
-| **Fri** | **Quiz:** audio and rights, plus Q1 review | BPA work time |
+**Equipment fact that shapes everything:** only the **T4i has a mic jack.** The T3, T5, and T6 do not,
+and the DJI Mic Mini receiver cannot record on its own. So T4i groups record into the camera; everyone
+else records into a phone through the receiver and **syncs with a clap.** Handout:
+`courses/video-and-sound/planning/week-12/handouts/mic-setup.md`.
+
+| Day | Whole class (5 to 10 min) | Small groups at the camera table | Everyone else |
+|---|---|---|---|
+| **Mon** | Read your feedback comment. Bell ringer: the one thing you will fix first | **Video production teams:** DJI Mic Mini and shotgun placement, T4i levels to -12 dB, phone recording and clap sync (7.8.4, 7.8.6, 7.8.7) | Work on your feedback |
+| **Tue** | Bell ringer: why closer beats louder | **Individual competitors** (Digital Media Production, animation, graphic design): mic setup for narration and voiceover. Then any team that missed Monday | Work on your feedback |
+| **Wed** | **Copyright and music, briefly** (10 min): your work must be yours or licensed, royalty-free vs Creative Commons, and credit what you use (1.3.8) | Optional: a short Premiere Pro tour for anyone moving to the lab computers | Find legal music and sound, then work time |
+| **Thu** | Bell ringer on syncing | Open help: recording and syncing | Shoot or record with the mics, then work time |
+| **Fri** | **Quiz:** mic setup, syncing, copyright, plus Q1 review | | Work time |
+
+**Work time stays orderly while you are at the camera table** because each student has a specific job:
+the comment you left on their Friday submission. The slide says it: read your comment, do what it
+says, then keep going on your next step. Exit ticket: what did you finish today?
+
+**Premiere Pro:** encouraged, not required. The lab computers are limited, so CapCut is still fine.
 
 ## Design Techniques: Typography, and copyright
 
