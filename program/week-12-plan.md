@@ -38,19 +38,23 @@ and the DJI Mic Mini receiver cannot record on its own. So T4i groups record int
 else records into a phone through the receiver and **syncs with a clap.** Handout:
 `courses/video-and-sound/planning/week-12/handouts/mic-setup.md`.
 
-| Day | Whole class (5 to 10 min) | Small groups at the camera table | Everyone else |
+**Observation: 3rd period, Monday or Tuesday**, with Mr. Garee choosing the day.
+
+| Day | Start of class | During work time | Everyone else |
 |---|---|---|---|
-| **Mon** | Read your feedback comment. Bell ringer: the one thing you will fix first | **Video production teams:** DJI Mic Mini and shotgun placement, T4i levels to -12 dB, phone recording and clap sync (7.8.4, 7.8.6, 7.8.7) | Work on your feedback |
-| **Tue** | Bell ringer: why closer beats louder | **Individual competitors** (Digital Media Production, animation, graphic design): mic setup for narration and voiceover. Then any team that missed Monday | Work on your feedback |
-| **Wed** | **Copyright and music, briefly** (10 min): your work must be yours or licensed, royalty-free vs Creative Commons, and credit what you use (1.3.8) | Optional: a short Premiere Pro tour for anyone moving to the lab computers | Find legal music and sound, then work time |
-| **Thu** | Bell ringer on syncing | Open help: recording and syncing | Shoot or record with the mics, then work time |
-| **Fri** | **Quiz:** mic setup, syncing, copyright, plus Q1 review | | Work time |
+| **Mon** | Review the feedback left on your BPA project over the weekend | **Pull groups of 2 to 3** to the camera table: the mics and how to connect them to a camera (7.8.4, 7.8.6, 7.8.7). Video production teams first | Make the changes from your feedback |
+| **Tue** | **Group review** of the mic setup | **Keep pulling groups** not reached Monday (individual competitors next), then **rotate to every group** to check competition progress | Work on your project |
+| **Wed** | **Short discussion: copyright and related terms** (1.3.8) | Circulate | Work time |
+| **Thu** | **Quick vocab and standards review** | Help groups starting to record | Some groups record footage, the rest keep working |
+| **Fri** | **Quiz** | | Work time on projects |
 
 **Work time stays orderly while you are at the camera table** because each student has a specific job:
-the comment you left on their Friday submission. The slide says it: read your comment, do what it
-says, then keep going on your next step. Exit ticket: what did you finish today?
+the comment you left on their Friday submission. Put it on the slide: read your comment, make the
+changes, then keep going on your next step.
 
 **Premiere Pro:** encouraged, not required. The lab computers are limited, so CapCut is still fine.
+
+**Friday's quiz:** mic setup and syncing, copyright, and Thursday's vocab and standards review.
 
 ## Design Techniques: Typography, and copyright
 

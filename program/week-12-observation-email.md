@@ -1,22 +1,27 @@
-# Observation Email: Draft
+# Observation Reply: Final
 
-**Teacher-only.** Short, bullets only. Edit before sending.
+**Teacher-only.** Reply to Mr. Garee about 3rd period. Your draft, lightly edited.
 
 ```
-Subject: Video & Sound plan for next week
+Hi Brent,
 
-Hi [Name],
+I'm not picky, but Monday or Tuesday would work best. Here's the plan for 3rd period next week:
 
-Here is the plan for Video & Sound next week. Any day works, but I would love to have you in on Monday or Tuesday, when I am running small-group mic setup at the cameras.
+- Monday: Students review the feedback I left on their BPA projects over the weekend and make changes. While they work, I'll pull groups of 2 to 3 to learn the microphones and how to connect them to our cameras, so they can get better audio in their projects.
+- Tuesday: We start with a quick group review of the mic setup. I'll keep pulling any groups I didn't get to Monday, then rotate to each group to check in on their competition progress.
+- Wednesday: A short discussion on copyright and related terms, then work time.
+- Thursday: A quick vocab and standards review to start. Some groups will begin recording footage while others keep working on their projects.
+- Friday: Quiz, then work time on projects.
 
-- Monday: Students read my feedback on their BPA progress, then work on it. I pull video production teams in small groups to set up wireless and shotgun mics on our cameras and record to proper levels.
-- Tuesday: Same structure. Small groups are students on individual competitions, setting up for narration and voiceover.
-- Wednesday: Short lesson on copyright and music rights for their projects, then work time. Optional Premiere Pro tour for students moving to the lab computers.
-- Thursday: Shooting and recording with the mics, plus open help with syncing audio.
-- Friday: Quiz on audio setup, syncing, and copyright, then work time.
+Just let me know which day you plan on coming in.
 
-Every day opens with the standards and agenda, a short bell ringer, and ends with an exit ticket.
-
-Thanks,
-Hayden
+Best,
+Hayden Mankin
 ```
+
+## What changed from your draft
+
+- Added a greeting, and "3rd period" so the plan matches his request
+- Tuesday: said what the group review covers (the mic setup), since "review as a group" could read as
+  reviewing anything
+- Light tightening only. The structure and every day's plan are yours
