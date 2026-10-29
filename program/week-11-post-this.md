@@ -26,6 +26,15 @@ Gimkit's format.
 - **Check-In 1 is due Friday, Oct 30**
 - Post reviews, the final edit, photo quality, and the winter spread when they get close
 
+## Thursday
+
+| Post | File | Type |
+|------|------|------|
+| 1 | `3-aviation-uas/meteorology-review/` | Teacher-only. Meteorology quiz review: results, slide prompts, two Gimkit kits (51 and 345 questions) |
+| 2 | `3-aviation-uas/thursday-slides.md` | Teacher-only. Two slide prompts: Before We Fly, and Do Now |
+| 3 | `4-middle-school-cs/vocab-review-slides-prompt.md` | Teacher-only. 16 slide prompts reviewing the 25 Tinkercad words |
+| 4 | `4-middle-school-cs/gimkit-3d-vocab-review.csv` | Gimkit kit. 52 questions, optional review for the Nov 6 quiz |
+
 ## Friday
 
 - **Quizzes:** DT, V&S, and MS CS are on the every-other-week schedule this Friday, Oct 30
