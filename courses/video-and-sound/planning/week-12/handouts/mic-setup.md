@@ -1,4 +1,4 @@
-# Mic Setup
+# Mic Station: DJI Mic Mini on the T4i
 
 **Video & Sound | Small groups, Monday and Tuesday**
 
@@ -10,49 +10,47 @@
 
 ---
 
-## Which camera do you have? (7.8.6)
+## Your jobs
 
-**Only the T4i has a mic jack.** The T3, T5, and T6 do not, so their sound goes to a phone instead.
+Groups of 2 or 3. Take turns so **every person does steps 3 to 6 once.**
 
-| Camera | Where the sound records |
-|---|---|
-| **T4i** | Into the camera, through the mic jack |
-| **T3, T5, T6** | Into a phone, then you sync it to the video |
+- **Talent:** wears the mic and talks
+- **Sound:** plugs in and sets the level
+- **Camera:** frames the shot and records
 
-## Placing the mic (7.8.4)
+## The steps
 
-- **DJI Mic Mini:** clip it to the shirt, about a hand's width below the chin, facing the mouth. Keep it
-  off fabric that rubs
-- **Shotgun mic:** point it at the mouth, as close as you can while staying out of frame
-- **Closer always beats louder.** A mic across the room records the room
+**Placement (7.8.4)**
 
-## T4i: into the camera (7.8.6)
+1. Turn on the **transmitter** and the **receiver.** Wait until they show they are connected
+2. Clip the transmitter to the talent's shirt, **center of the chest, about a hand's width below the
+   chin.** Keep it off fabric that rubs, hair, and jackets that swish
 
-1. Plug the receiver (or the shotgun mic) into the **mic jack** on the left side of the camera
-2. Switch to **movie mode.** In the menu, set **Sound recording to Manual**
-3. Have someone talk at normal volume. Set the **record level** so it peaks around **-12 dB**, never in
-   the red
-4. Outdoors, turn on the **wind filter**
-5. Record ten seconds and play it back with headphones
+**Setup (7.8.6)**
 
-## T3, T5, T6: into a phone, then sync (7.8.7)
+3. Put the receiver on top of the camera. Plug its cable into the **MIC jack** on the left side of the
+   T4i, under the rubber cover
+4. Switch the camera to **movie mode.** In the menu, set **Sound recording** to **Manual**
+5. Talent talks at a normal volume. Set the **record level** so the meter peaks around **-12 dB.** It
+   should never reach the end of the meter
+6. Outdoors? Turn on the **wind filter**
 
-1. Plug the receiver into the phone with the adapter. Open a voice recording app
-2. **Start the phone recording, then start the camera**
-3. Stand in frame and **clap once**, sharply. This is your sync point
-4. Act the scene. Stop the camera, then the phone
-5. **In the editor:** line up the spike of the clap in the phone audio with the frame where the hands
-   meet. In Premiere Pro, select both clips, right-click, and choose **Synchronize** by audio. Then mute
-   the camera's own audio
+**Test and slate (7.8.7)**
 
----
+7. Start recording. **Slate it:** say your names and "take one," then clap once. Talk for ten seconds
+8. Play it back on the camera. Can you hear every word clearly, with no crackle?
 
-**1.** Which camera and mic will your project use, and where will the mic go?
+**Pack up**
 
-**2.** Play back your ten-second test. Did it stay out of the red? What would you change?
+9. Stop recording. Turn off both mic pieces. Unplug the cable, coil it, and put everything back in the
+   case
 
-**3.** Why does the clap make syncing possible?
+## Why the clap?
+
+When sound is recorded somewhere else, like a phone, the clap makes a sharp spike in the sound and a
+clear frame in the video. Line them up and the sound is synced. On the T4i, the sound goes straight
+into the video, so it is already synced.
 
 ## Graded on
 
-All three answers, and a test recording that stays out of the red.
+A sign-off from Mr. Mankin once you have done steps 3 to 6 yourself.

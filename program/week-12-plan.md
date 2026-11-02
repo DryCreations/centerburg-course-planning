@@ -1,11 +1,10 @@
 # Week 12 Plan: Mon Nov 2 to Fri Nov 6
 
-**Teacher-only.** A rough plan to confirm before slides and handouts are built.
+**Teacher-only.** The week for every class. **Observation: Tuesday, 3rd period, Video & Sound.**
 
-**Goal:** cover the WebXam topics not taught yet, each tied to what students need for BPA, while most of
-the period stays BPA work time. **There is an observation this week**, so every class runs the **same
-three-part routine every day.** Students always know what comes next, there are only two
-transitions, and every student has something to produce.
+**Goal:** cover the WebXam topics not taught yet, each tied to BPA, while most of the period stays BPA
+work time. Every career-tech class runs the **same three-part routine every day**, so students always
+know what comes next.
 
 ---
 
@@ -13,89 +12,87 @@ transitions, and every student has something to produce.
 
 | Part | Time | What happens | What the observer sees |
 |---|---|---|---|
-| **1. Start** | 5 to 7 min | Slide 1 is up when they walk in: standards and agenda. One bell-ringer question on today's topic, answered in a shared doc | Everyone working within a minute, the standard posted |
-| **2. Learn it** | 12 to 15 min | Short lesson with one live demo, and **one quick practice task everyone does at their seat** | Direct instruction, checking for understanding |
-| **3. Use it on your BPA project** | Rest of the period | A **specific target** for today that applies the lesson to their own entry. You circulate with a checklist. Two-minute exit ticket at the end | Students applying the standard to real work |
+| **1. Start** | 5 min | Slide 1 up at the bell: standards and agenda. A do-now question answered in Classroom | Everyone working within a minute, the standard posted |
+| **2. Learn it** | 10 to 15 min | Short lesson and **one practice everyone does** | Direct instruction, checking for understanding |
+| **3. Use it on your BPA project** | Rest of the period | A **specific target** that applies the lesson to their own entry. You circulate. Two-minute exit ticket in Classroom | Students applying the standard to real work |
 
-**Why this works for an observation:**
-
-- The standard is posted, named in the lesson, and **applied to their own project**, so the link from
-  standard to work is visible
-- Only two transitions, the same every day
-- Every student produces something in each part: a bell-ringer answer, a practice result, project
-  progress, and an exit ticket
-- **Friday:** the quiz takes the place of Part 2, then BPA work
+**Content is heaviest Monday and Tuesday.** Wednesday and Thursday lessons are short, so there is more
+BPA time. Friday is the quiz, then work.
 
 ---
 
-## Video & Sound: Mic setup in small groups, then work time
+## Video & Sound: mics, copyright, then recording
 
-Mixing and the audio meter are already covered. This week is **recording sound right at the source**,
-in small groups, while everyone else works from your feedback on their Friday submission.
+**One DJI Mic Mini kit and one T4i,** so mic practice is a station. Groups of 2 or 3 rotate through it
+while everyone else works from your feedback. **Checklist sign-off only.**
 
-**Equipment fact that shapes everything:** only the **T4i has a mic jack.** The T3, T5, and T6 do not,
-and the DJI Mic Mini receiver cannot record on its own. So T4i groups record into the camera; everyone
-else records into a phone through the receiver and **syncs with a clap.** Handout:
-`courses/video-and-sound/planning/week-12/handouts/mic-setup.md`.
-
-**Observation: 3rd period, Monday or Tuesday**, with Mr. Garee choosing the day.
-
-| Day | Start of class | During work time | Everyone else |
+| Day | Start | During work time | Everyone else |
 |---|---|---|---|
-| **Mon** | Review the feedback left on your BPA project over the weekend | **Pull groups of 2 to 3** to the camera table: the mics and how to connect them to a camera (7.8.4, 7.8.6, 7.8.7). Video production teams first | Make the changes from your feedback |
-| **Tue** | **Group review** of the mic setup | **Keep pulling groups** not reached Monday (individual competitors next), then **rotate to every group** to check competition progress | Work on your project |
-| **Wed** | **Short discussion: copyright and related terms** (1.3.8) | Circulate | Work time |
-| **Thu** | **Quick vocab and standards review** | Help groups starting to record | Some groups record footage, the rest keep working |
-| **Fri** | **Quiz** | | Work time on projects |
+| **Mon** | Read your feedback, write your first change | **Mic station:** video teams first. Record the three review clips with the first group | Make the changes from your feedback |
+| **Tue (observed)** | **Group review of the mic setup:** a student demo, three clips, quick check | **Mic station** for groups not reached Monday, then **check in with every group** on competition progress | Work on your project |
+| **Wed** | **Copyright** discussion and yes, no, or depends | Circulate | List everything not theirs in the project, then work |
+| **Thu** | **Vocab and standards review** | T4i time slots for recording | Edit, or shoot shots without dialogue |
+| **Fri** | **Quiz** | | Work |
 
-**Work time stays orderly while you are at the camera table** because each student has a specific job:
-the comment you left on their Friday submission. Put it on the slide: read your comment, make the
-changes, then keep going on your next step.
+**Files:** `courses/video-and-sound/planning/week-12/`: `agenda.md` (post it), `handouts/mic-setup.md`
+(the station card), `mic-station-TEACHER.md` (rotation, the three clips, sign-off sheet),
+`slides-google-prompts.md` (with Tuesday's run of show).
 
-**Premiere Pro:** encouraged, not required. The lab computers are limited, so CapCut is still fine.
+## Design Techniques: typography, then copyright
 
-**Friday's quiz:** mic setup and syncing, copyright, and Thursday's vocab and standards review.
-
-## Design Techniques: Typography, and copyright
-
-Typography is **about 12% of the WebXam** and was skipped. Copyright matters for every entry.
+Typography is **about 12% of the WebXam** and was skipped.
 
 | Day | Learn it | Use it on your BPA project |
 |---|---|---|
-| **Mon** | **Kinds of type.** Serif, sans serif, script, display, and what each says (7.5.4) | Choose fonts for your second event, or the text in your Promotional Photography presentation |
-| **Tue** | **Spacing.** Kerning, tracking, leading, and points (7.5.1, 7.5.3). Fix a badly spaced sample | Fix the spacing on one piece of your entry |
-| **Wed** | **Pairing and a style guide.** Two families, one job each (7.5.2, 7.5.5) | Write a mini type style guide for your entry |
-| **Thu** | **Copyright and model releases.** Original work, fair use, Creative Commons, and permission to photograph people (1.3.8) | Check your entry: is everything yours, and do you need a model release? |
-| **Fri** | **Quiz:** typography and copyright, plus Q1 review. **Promotional Photography first draft due** | BPA work time |
+| **Mon** | **Kinds of type and measuring type** (7.5.4, 7.5.1). Practice: name the kind | Choose two fonts for your entry |
+| **Tue** | **Spacing and pairing** (7.5.3, 7.5.2). Practice: kern WAVE TOWER | Fix the spacing on one piece of your entry |
+| **Wed** | **Copyright and model releases** (1.3.8). Practice: yes, no, or depends | List everything not theirs, and who needs a release |
+| **Thu** | **Vocab review and a type style guide** (7.5.5) | Write the style guide, finish the first draft |
+| **Fri** | **Quiz. Promotional Photography first draft due** | Start on the second event, first draft due Nov 13 |
 
-## Aviation UAS: Preflight and emergencies
+**Files:** `courses/design-techniques/planning/week-12/`: `agenda.md`, `slides-google-prompts.md`.
+
+## Aviation UAS: preflight and emergencies
 
 Preflight is the **most heavily tested area, about 15%.** Emergency operations is another 6%.
 
 | Day | Learn it | Use it on your BPA project |
 |---|---|---|
-| **Mon** | **Preflight and airworthiness.** Walk the checklist on a real drone, and say who decides it is safe to fly (7.11.2, 7.11.14) | BPA work |
-| **Tue** | **Performance.** Heat, humidity, and altitude mean thinner air and less lift (7.11.11) | BPA work |
-| **Wed** | **Emergencies.** Lost link, flyaways, lost GPS, low battery, and what Return to Home does (7.14.15, 7.14.16) | BPA work |
-| **Thu** | **Fly**, if the weather allows: a full preflight from the checklist, then a planned Return to Home test. **Rain:** NOTAMs (7.11.6) | Fly, or BPA work |
-| **Fri** | **Quiz:** preflight and emergencies, plus Q1 review | BPA work. **First draft due Fri Nov 13** |
+| **Mon** | **Preflight and airworthiness** (7.11.2, 7.11.14). Practice: walk the checklist on a real drone | BPA or ODOT |
+| **Tue** | **Performance and emergencies** (7.11.11, 7.14.15, 7.14.16). Practice: what do you do? | BPA or ODOT |
+| **Wed** | **NOTAMs and TFRs** (7.11.6). Practice: find a real TFR | BPA or ODOT |
+| **Thu** | **Fly** if the weather allows and everyone shows progress: preflight, then an RTH test. **Rain:** preflight indoors, then BPA | Fly, or BPA |
+| **Fri** | **Quiz** | BPA. **First draft due Fri Nov 13** |
 
-## Middle School CS and Yearbook
+**Files:** `courses/aviation-uas/planning/week-12/`: `agenda.md`, `slides-google-prompts.md`.
 
-- **MS CS:** 3D Design Project due Monday, then Codeblocks from Tuesday. **The 3D design quiz moves to
-  Fri Nov 6**
-- **Yearbook:** assigned work, with the next progress check Fri Nov 13
+## Middle School CS: project due, then Codeblocks
+
+| Day | What |
+|---|---|
+| **Mon** | Finish the 3D Design Project, screenshots, gallery walk. **Due** |
+| **Tue** | Codeblocks: sequence (a snowman) |
+| **Wed** | Codeblocks: loops (a row, then a staircase) |
+| **Thu** | Codeblocks: variables (a tower) |
+| **Fri** | **3D design vocab quiz**, then the Codeblocks challenge |
+
+**Files:** `courses/middle-school-cs/planning/week-12/`: `agenda.md`, `handouts/codeblocks-start.md`,
+`slides-google-prompts.md`.
+
+## Yearbook
+
+Follow the assignments on Classroom. **Assigned Shoot 1 due Fri Nov 6. Progress Check 2 due Fri Nov 13.**
+File: `courses/yearbook/planning/week-12/agenda.md`.
 
 ---
 
-## Quizzes on Fri Nov 6
+## Still to build
 
-DT, V&S, and MS CS moved from Oct 30 to Nov 6. Aviation is on its normal schedule. **All four still need
-building** once the plan is confirmed.
+**Friday quizzes** for DT, V&S, Aviation, and MS CS, from each class's agenda vocab.
 
 ## To prepare
 
-- **V&S:** a mic or phone per group for Monday, and headphones
-- **DT:** one badly spaced type sample for Tuesday's practice
-- **Aviation:** a drone and printed preflight checklists for Monday; scenario cards for Wednesday
-- **For the observation:** the daily slide up before the bell, and the exit ticket form ready
+- **V&S:** charge the mic kit, fresh T4i battery and card, test the kit once. Laptop for Tuesday's clips
+- **Aviation:** a drone and printed preflight checklists for Monday and Thursday
+- **MS CS:** run the Codeblocks handout yourself before Tuesday
+- **Observation:** Tuesday's V&S slide up before the bell, and the exit ticket question posted
