@@ -28,8 +28,8 @@ while everyone else works from your feedback. **Checklist sign-off only.**
 
 | Day | Start | During work time | Everyone else |
 |---|---|---|---|
-| **Mon** | Read your feedback, write your first change | **Mic station:** video teams first. Record the three review clips with the first group | Make the changes from your feedback |
-| **Tue (observed)** | **Group review of the mic setup:** a student demo, three clips, quick check | **Mic station** for groups not reached Monday, then **check in with every group** on competition progress | Work on your project |
+| **Mon** | **Audio review**, run like the aviation review: decibels, where levels belong (-12 to -6), clipping, then their questions | **Mic station:** video teams first. Record the three review clips with the first group. Groups ready to record use the mic at the end | Review your feedback, make the changes, get ready to film this week |
+| **Tue (observed)** | **Group review of the mic setup:** a quick recap of Monday, a student demo, three clips, quick check | **Mic station** for groups not reached Monday, then **check in with every group** on competition progress. Groups ready to record use the mic at the end | Feedback changes, get ready to film |
 | **Wed** | **Copyright** discussion and yes, no, or depends | Circulate | List everything not theirs in the project, then work |
 | **Thu** | **Vocab and standards review** | T4i time slots for recording | Edit, or shoot shots without dialogue |
 | **Fri** | **Quiz** | | Work |
@@ -38,19 +38,23 @@ while everyone else works from your feedback. **Checklist sign-off only.**
 (the station card), `mic-station-TEACHER.md` (rotation, the three clips, sign-off sheet),
 `slides-google-prompts.md` (with Tuesday's run of show).
 
-## Design Techniques: typography, then copyright
+## Design Techniques: right to use, then typography
 
 Typography is **about 12% of the WebXam** and was skipped.
 
 | Day | Learn it | Use it on your BPA project |
 |---|---|---|
-| **Mon** | **Kinds of type and measuring type** (7.5.4, 7.5.1). Practice: name the kind | Choose two fonts for your entry |
-| **Tue** | **Spacing and pairing** (7.5.3, 7.5.2). Practice: kern WAVE TOWER | Fix the spacing on one piece of your entry |
-| **Wed** | **Copyright and model releases** (1.3.8). Practice: yes, no, or depends | List everything not theirs, and who needs a release |
+| **Mon** | **Copyright review**, run like the aviation review, then **what they can use** and the Adobe tools to design it themselves (1.3.8) | Source list on the Right to Use handout, replace what they cannot use, then design |
+| **Tue** | **Kinds of type and measuring type** (7.5.4, 7.5.1). Practice: name the kind | Choose two fonts for your entry |
+| **Wed** | **Spacing and pairing** (7.5.3, 7.5.2). Practice: kern WAVE TOWER | Fix the spacing on one piece of your entry |
 | **Thu** | **Vocab review and a type style guide** (7.5.5) | Write the style guide, finish the first draft |
 | **Fri** | **Quiz. Promotional Photography first draft due** | Start on the second event, first draft due Nov 13 |
 
-**Files:** `courses/design-techniques/planning/week-12/`: `agenda.md`, `slides-google-prompts.md`.
+**Files:** `courses/design-techniques/planning/week-12/`: `agenda.md`, `handouts/right-to-use.md`,
+`slides-google-prompts.md`.
+
+**Adobe:** students have the full suite. Encourage Illustrator for logos now, as long as the logo and
+main pieces are their own design.
 
 ## Aviation UAS: preflight and emergencies
 

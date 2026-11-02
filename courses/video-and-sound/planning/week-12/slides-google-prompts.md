@@ -12,16 +12,40 @@ with a target, and a two-minute exit ticket. Post each exit ticket as a Classroo
 
 ## Monday
 
+**Run it like the aviation review:** on each **question slide**, read it aloud, give 15 seconds, take
+answers from the group (hands, or hold up fingers for A, B, C), and ask **why** before you reveal. The
+next slide explains it. About 12 minutes, then the questions slide, then work.
+
+**After the review:** pull groups to the mic station (video teams first). Groups that are ready to
+record can use the mic at the end of class. Everyone else reviews your weekend feedback, makes the
+changes, and gets ready to film later this week.
+
 ```
-Create a presentation for a high school video production class called "Monday: Feedback and Mics." Dark charcoal background, bold yellow and white headings, large readable text, simple flat icons. Keep text short. 4 slides:
+Create a presentation for a high school video production class called "Monday: Audio Review." Dark charcoal background, bold yellow and white headings, large readable text, simple flat icons and diagrams. Keep text short. 12 slides:
 
-Slide 1, "Today": top section headed "What we are covering" lists in full, in smaller text: "7.8.4 Determine microphone and speaker placement." "7.8.6 Set up and operate audio-for-video recording devices." "2.9.5 Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion." Bottom section headed "Agenda": "Read the feedback on your BPA project (2.9.5)." "Make the changes (2.9.5)." "Mic station, small groups when called (7.8.4, 7.8.6)." "Exit ticket."
+Slide 1, "Today": top section headed "What we are covering" lists in full, in smaller text: "7.8.4 Determine microphone and speaker placement." "7.8.6 Set up and operate audio-for-video recording devices." "7.8.8 Perform audio mixing." "2.9.5 Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion." Bottom section headed "Agenda": "Audio review: decibels, levels, clipping (7.8.6, 7.8.8)." "Your questions about audio." "Mic station, small groups when called (7.8.4, 7.8.6)." "Review my feedback, make changes, get ready to film (2.9.5)." "Ready to record? Use the mic at the end of class." "Exit ticket."
 
-Slide 2, "Do Now": "Open your BPA project. Read the comment I left." "Write down the first change you will make." "Start on it."
+Slide 2, question slide, title "Question 1": "What does a decibel (dB) measure?" Three lettered options: "A. How loud a sound is." "B. How high or low a sound is." "C. How long a sound lasts." Bottom: "Which is right? Why?"
 
-Slide 3, "The Mic Station": "I will call groups of 2 or 3 to learn the wireless mic on the T4i." "Video teams first." "Everyone does the setup themselves. You get signed off when you do." "Not at the station? Work through your feedback." Include a simple graphic of a small clip-on microphone, a receiver, and a camera, connected by arrows.
+Slide 3, explanation slide, title "Decibels": "Answer: A. Decibels measure loudness, or level." "On a recording meter, 0 dB is the TOP. Nothing can go louder." "So the numbers are negative: -40 is quiet, -6 is loud, 0 is the limit." Include a simple vertical audio meter graphic labeled from -48 at the bottom to 0 at the top, green at the bottom, yellow near the top, red at 0.
 
-Slide 4, "Exit Ticket": "What did you change today, and what is your next step?"
+Slide 4, question slide, title "Question 2": "Someone is talking and the meter reads about -40. What is wrong?" Three lettered options: "A. Nothing. That is perfect." "B. It is too quiet." "C. It is clipping." Bottom: "Which is right? What happens if you just turn it up later?"
+
+Slide 5, explanation slide, title "Too Quiet": "Answer: B. Too quiet." "Turn it up in editing and the hiss and room noise get louder too." "Fix it while recording: move the mic closer first, then raise the level."
+
+Slide 6, question slide, title "Question 3": "Where should talking land on the meter?" Three lettered options: "A. Around -30 to -20." "B. Around -12 to -6." "C. Right at 0." Bottom: "Which is right? Why not 0?"
+
+Slide 7, explanation slide, title "The Sweet Spot": "Answer: B. Talking lands around -12 to -6." "That leaves room for a laugh or a shout without hitting the top." Include the same vertical meter graphic with a highlighted band from -12 to -6 labeled "talking here."
+
+Slide 8, question slide, title "Question 4": "Someone shouts, the meter hits 0, and it flashes red. What happened?" Three lettered options: "A. Clipping. The sound distorted, and it cannot be fixed in editing." "B. Clipping. It is fine, just turn it down in editing." "C. Nothing. Red means it is recording." Bottom: "Which is right? How do you prevent it?"
+
+Slide 9, explanation slide, title "Clipping": "Answer: A. The sound was louder than 0 dB, so the top of the wave got cut off." "It sounds crunchy and distorted. Turning it down later does not bring it back." "Prevent it: lower the record level, or back the mic off a little." Include a simple graphic of a smooth sound wave next to one with its peaks flattened off, labeled "clean" and "clipped."
+
+Slide 10, title "Your Questions": large text: "What is still confusing about decibels, levels, or recording sound?" "Ask now, or post it in Classroom."
+
+Slide 11, "Work Time (2.9.5)": "Mic station: I will call your group." "Everyone else: read my feedback on your project and make the changes." "Get ready to film or record later this week." "Ready to record now? Tell me, and use the mic at the end of class."
+
+Slide 12, "Exit Ticket": "Where should talking land on the meter, and what happens if it hits 0?"
 ```
 
 ## Tuesday (observation)
@@ -31,9 +55,9 @@ Slide 4, "Exit Ticket": "What did you change today, and what is your next step?"
 | Time | What | Slide |
 |---|---|---|
 | 0 to 5 | Slide 1 up at the bell. Do-now answered in Classroom | 1, 2 |
-| 5 to 15 | **Group review of the mic setup.** One student from Monday walks through the steps while you hold the gear. Then play the three clips and the class names each problem | 3 to 5 |
+| 5 to 15 | **Group review:** a one-minute recap of yesterday (dB, -12 to -6, clipping), then **the mic setup.** One student from Monday walks through the steps while you hold the gear. Then play the three clips and the class names each problem | 3 to 5 |
 | 15 to 18 | **Quick check**, hands up, everyone answers before you reveal | 6 |
-| 18 to 46 | **Work.** Mic station with the groups not reached Monday. Then rotate to every group with the competition progress check | 7 |
+| 18 to 46 | **Work.** Mic station with the groups not reached Monday. Then rotate to every group with the competition progress check. Groups ready to record use the mic in the last part of work time | 7 |
 | 46 to 50 | Exit ticket | 8 |
 
 **What the observer sees:** standards posted and named at each step, a demo led by a student, every
@@ -47,20 +71,20 @@ Slide 1, "Today": top section headed "What we are covering" lists in full, in sm
 
 Slide 2, "Do Now": "Where should a clip-on mic go on the speaker? Why does closer beat louder?" Answer in Classroom.
 
-Slide 3, "The Setup (7.8.4, 7.8.6)": five numbered steps in large text: "1. Turn on the transmitter and receiver." "2. Clip the transmitter mid-chest, a hand below the chin." "3. Plug the receiver into the T4i MIC jack." "4. Movie mode. Sound recording: Manual." "5. Set the level so talking peaks around -12." Include a simple diagram: a person with a small clip-on mic, a wireless signal to a receiver on top of a camera.
+Slide 3, "The Setup (7.8.4, 7.8.6)": five numbered steps in large text: "1. Turn on the transmitter and receiver." "2. Clip the transmitter mid-chest, a hand below the chin." "3. Plug the receiver into the T4i MIC jack." "4. Movie mode. Sound recording: Manual." "5. Set the level so talking lands around -12 to -6." Include a simple diagram: a person with a small clip-on mic, a wireless signal to a receiver on top of a camera.
 
 Slide 4, "Name That Problem": three large numbered boxes: "Clip 1." "Clip 2." "Clip 3." Under them: "What went wrong? How would you fix it?"
 
-Slide 5, "The Answers": three rows: "Clip 1: good. Mic placed right, level around -12." "Clip 2: clipping. Level too high. Turn the record level down. You cannot fix this in editing." "Clip 3: mic too far away. You hear the room. Put the mic on the speaker." Include a simple audio meter graphic with a green zone and a red zone at the top.
+Slide 5, "The Answers": three rows: "Clip 1: good. Mic placed right, level around -12 to -6." "Clip 2: clipping. Level too high. Turn the record level down. You cannot fix this in editing." "Clip 3: mic too far away. You hear the room. Put the mic on the speaker." Include a simple audio meter graphic with a green zone and a red zone at the top.
 
 Slide 6, "Quick Check": three numbered questions in large text, no answers: "1. Which of our cameras has a mic jack?" "2. Where should the loudest talking land on the meter?" "3. Recording sound on a phone instead? What do you do at the start so you can sync it?"
 
-Slide 7, "Work Time (2.9.5)": "Your target: finish the changes from your feedback, then the next step on your timeline." "Mic station: I will call your group." "I will check in with every group. Have your progress open."
+Slide 7, "Work Time (2.9.5)": "Your target: finish the changes from your feedback, then the next step on your timeline." "Mic station: I will call your group." "I will check in with every group. Have your progress open." "Ready to record? Use the mic at the end of class."
 
 Slide 8, "Exit Ticket": "Name one thing you will do differently when you record your sound."
 ```
 
-**Quick check answers:** 1. The T4i. 2. Around -12 dB, never the end of the meter. 3. Slate it with
+**Quick check answers:** 1. The T4i. 2. Around -12 to -6 dB, never 0. 3. Slate it with
 one clap.
 
 ## Wednesday

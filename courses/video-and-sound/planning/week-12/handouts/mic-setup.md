@@ -31,8 +31,8 @@ Groups of 2 or 3. Take turns so **every person does steps 3 to 6 once.**
 3. Put the receiver on top of the camera. Plug its cable into the **MIC jack** on the left side of the
    T4i, under the rubber cover
 4. Switch the camera to **movie mode.** In the menu, set **Sound recording** to **Manual**
-5. Talent talks at a normal volume. Set the **record level** so the meter peaks around **-12 dB.** It
-   should never reach the end of the meter
+5. Talent talks at a normal volume. Set the **record level** so talking lands around **-12 to -6 dB.**
+   It should never hit 0
 6. Outdoors? Turn on the **wind filter**
 
 **Test and slate (7.8.7)**

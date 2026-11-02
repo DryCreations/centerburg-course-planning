@@ -12,8 +12,46 @@ font like Impact.
 
 ## Monday
 
+**Copyright review, run like the aviation review:** read each question slide aloud, take answers from
+the group, ask **why**, then reveal. Then the "what to use" slides. Students work from
+`handouts/right-to-use.md` (post it today).
+
 ```
-Create a presentation for a high school graphic design class called "Monday: Kinds of Type." Clean white background, bold black headings with one coral accent color, large readable text. Keep text short. 7 slides:
+Create a presentation for a high school graphic design class called "Monday: Your Right to Use It." Clean white background, bold black headings with one coral accent color, large readable text, simple flat icons. Keep text short. 13 slides:
+
+Slide 1, "Today": top section headed "What we are covering" lists in full, in smaller text: "1.3.8 Verify compliance with computer and intellectual property laws and regulations." "2.9.5 Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion." Bottom section headed "Agenda": "Copyright review (1.3.8)." "What you can use, and the tools to make it yourself (1.3.8, 2.9.5)." "Source list on the Right to Use handout (1.3.8)." "Work on your project (2.9.5)." "Exit ticket."
+
+Slide 2, question slide, title "Question 1": "You find a great photo on Google Images. Can you put it in your entry?" Three lettered options: "A. Yes, if you credit the photographer." "B. Yes, if you change it enough." "C. No, not without permission or a license." Bottom: "Which is right? Why?"
+
+Slide 3, explanation slide, title "Copyright Is Automatic": "Answer: C." "The creator owns their work the moment it is made." "Credit is not permission. Changing it does not make it yours." Include a simple copyright symbol icon.
+
+Slide 4, question slide, title "Question 2": "You type your company name into a ready-made logo template. Is that your logo design?" Three lettered options: "A. Yes. You typed the name." "B. Yes, if the template was free." "C. No. Someone else designed it." Bottom: "Which is right? What would a judge see?"
+
+Slide 5, explanation slide, title "Design It Yourself": "Answer: C. A template is someone else's design, even when it is free." "Your logo and the main pieces of your project must be YOUR design." "A traced or changed version of another logo is not yours either."
+
+Slide 6, question slide, title "Question 3": "You photograph a friend for your promotion. What do you need?" Three lettered options: "A. Nothing. You took the photo." "B. Their written permission, a model release." "C. A credit line with their name." Bottom: "Which is right? Why?"
+
+Slide 7, explanation slide, title "Model Releases": "Answer: B. You own the photo, but they control how their face is used." "Under 18? A parent signs." Include a simple graphic of a camera and a signed form.
+
+Slide 8, question slide, title "Question 4": "Which of these can you use in your logo?" Three lettered options: "A. A font from Adobe Fonts." "B. A font from a random free font site, license unknown." "C. A font traced from a famous brand." Bottom: "Which is right? How do you check?"
+
+Slide 9, explanation slide, title "Fonts Have Licenses Too": "Answer: A. Adobe Fonts and Google Fonts allow use in logos and projects." "Unknown license? Do not use it."
+
+Slide 10, title "Make It Yourself: You Have Adobe": four rows with a small icon for each: "Illustrator: logos and anything that must stay sharp at any size." "Photoshop: edit your photos, build mockups." "InDesign: brochures, menus, anything with pages." "Adobe Express: quick drafts and social posts." Bottom: "Working ahead on these now is encouraged. It is how your project turns out well."
+
+Slide 11, title "What You Can Use": two columns. Left, headed "Yes": "Your own photos and designs." "Adobe Fonts or Google Fonts." "Public domain." "Creative Commons, following the license." "Unsplash or Pexels, for extras, with the link saved." Right, headed "No": "Google Images or Pinterest." "Other companies' logos." "Traced artwork." "Anything with an unknown license." Bottom: "Check your event guidelines. Many require your own photos and limit AI images."
+
+Slide 12, "Work Time (1.3.8, 2.9.5)": "Target: fill in your source list on the Right to Use handout." "Replace anything you do not have the right to use." "Then design. Try one new Adobe tool."
+
+Slide 13, "Exit Ticket": "What is one asset in your project you will replace or remake yourself?"
+```
+
+**Answers:** 1 C, 2 C, 3 B, 4 A.
+
+## Tuesday
+
+```
+Create a presentation for a high school graphic design class called "Tuesday: Kinds of Type." Clean white background, bold black headings with one coral accent color, large readable text. Keep text short. 7 slides:
 
 Slide 1, "Today": top section headed "What we are covering" lists in full, in smaller text: "7.5.4 Identify appropriate typefaces (e.g., serif, sans serif, Web Safe, screen, print)." "7.5.1 Identify typographic measurements (e.g., picas, points, pixels, ems)." "2.9.5 Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion." Bottom section headed "Agenda": "Do now (7.5.4)." "Four kinds of type, and how type is measured (7.5.4, 7.5.1)." "Practice: name the kind (7.5.4)." "Choose fonts for your entry (7.5.4, 2.9.5)." "Exit ticket."
 
@@ -32,13 +70,13 @@ Slide 7, "Exit Ticket": "Which two fonts did you pick, and what kind is each?"
 
 **Name the Kind answers:** 1 script, 2 serif, 3 sans serif, 4 display, 5 serif, 6 sans serif.
 
-## Tuesday
+## Wednesday
 
 **Practice:** each student types **WAVE TOWER** in large capitals in their design software and fixes
 the gaps by kerning. AV, WA, and TO are classic gaps, so the problem shows up on its own.
 
 ```
-Create a presentation for a high school graphic design class called "Tuesday: Spacing and Pairing." Clean white background, bold black headings with one coral accent color, large readable text. Keep text short. 7 slides:
+Create a presentation for a high school graphic design class called "Wednesday: Spacing and Pairing." Clean white background, bold black headings with one coral accent color, large readable text. Keep text short. 7 slides:
 
 Slide 1, "Today": top section headed "What we are covering" lists in full, in smaller text: "7.5.3 Select appropriate kerning, leading, tracking, and other related formatting." "7.5.2 Mix families of type within a project." "2.9.5 Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion." Bottom section headed "Agenda": "Do now (7.5.3)." "Kerning, tracking, leading (7.5.3)." "Practice: fix WAVE TOWER (7.5.3)." "Pairing two fonts (7.5.2)." "Fix the spacing on your entry (7.5.3, 2.9.5)." "Exit ticket."
 
@@ -53,28 +91,6 @@ Slide 5, "Pairing Fonts (7.5.2)": "Two families, one job each." "Headline: somet
 Slide 6, "Work Time (7.5.3, 2.9.5)": "Target: fix the kerning, tracking, or leading on one piece of your entry." "Then keep working toward your first draft."
 
 Slide 7, "Exit Ticket": "What spacing did you fix, and was it kerning, tracking, or leading?"
-```
-
-## Wednesday
-
-```
-Create a presentation for a high school graphic design class called "Wednesday: Copyright and Releases." Clean white background, bold black headings with one coral accent color, large readable text. Keep text short. 8 slides:
-
-Slide 1, "Today": top section headed "What we are covering" lists in full, in smaller text: "1.3.8 Verify compliance with computer and intellectual property laws and regulations." "2.9.5 Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion." Bottom section headed "Agenda": "Do now (1.3.8)." "Copyright, fair use, and releases (1.3.8)." "Practice: yes, no, or depends (1.3.8)." "Check your own entry, then work (1.3.8, 2.9.5)." "Exit ticket."
-
-Slide 2, "Do Now": "You find a great photo on Google Images. Can you put it in your BPA entry? Why or why not?"
-
-Slide 3, "Copyright": "The creator owns their work the moment it is made." "Covers photos, art, logos, and fonts." "Giving credit is NOT the same as permission."
-
-Slide 4, "What You CAN Use": "Your own work." "Public domain: no one owns it anymore." "Creative Commons: follow the license, usually give credit." "Anything you got written permission for." "Fair use exists, but it is decided case by case. Do not count on it for a competition."
-
-Slide 5, "Model Releases": "Photographing a person for a promotion? Get their written permission." "Under 18? A parent signs." Include a simple graphic of a camera and a signed form.
-
-Slide 6, "Yes, No, or Depends?": four numbered situations: "1. A photo you took of your friend, with a signed release." "2. A Google Images photo, with the photographer credited." "3. A free font, used the way its license allows." "4. A famous logo, changed a little, as a joke."
-
-Slide 7, "The Answers": "1. Yes." "2. No. Credit is not permission." "3. Yes." "4. Depends. Parody can be fair use, but it is risky in a competition."
-
-Slide 8, "Work Time and Exit Ticket": "Target: list every photo, font, and graphic in your entry you did not make, and where it came from. Do any people in your photos need a release?" Bottom, headed "Exit ticket": "Is everything in your entry yours or licensed? If not, what will you replace?"
 ```
 
 ## Thursday

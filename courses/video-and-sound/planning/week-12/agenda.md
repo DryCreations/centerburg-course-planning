@@ -5,16 +5,20 @@
 **7.8.4** Determine microphone and speaker placement.
 **7.8.6** Set up and operate audio-for-video recording devices.
 **7.8.7** Set up and operate a time code system for audio-video synchronization.
+**7.8.8** Perform audio mixing.
 **1.3.8** Verify compliance with computer and intellectual property laws and regulations.
 **2.9.5** Develop a timeline, a communication plan, a task breakdown, costs (e.g., equipment, labor), deliverables, and responsibilities for completion.
 
 ## This week
 
-**Monday:** Read the feedback on your BPA project and make the changes. Small groups come to the mic
-station when called. (7.8.4, 7.8.6, 2.9.5)
+**Monday:** Audio review: decibels, where your levels should be, and clipping. Bring your questions.
+Then small groups come to the mic station when called. Everyone else reviews my feedback on your
+project, makes the changes, and gets ready to film later this week. Groups ready to record can use the
+mic at the end of class. (7.8.6, 7.8.8, 7.8.4, 2.9.5)
 
 **Tuesday:** Group review of the mic setup. More groups at the mic station. I check in with every
-group on your competition progress. (7.8.4, 7.8.6, 7.8.7, 2.9.5)
+group on your competition progress. Groups ready to record can use the mic at the end of class.
+(7.8.4, 7.8.6, 7.8.7, 2.9.5)
 
 **Wednesday:** Short discussion on copyright, then work time. (1.3.8, 2.9.5)
 
@@ -25,6 +29,8 @@ working. (7.8.4, 7.8.6, 1.3.8, 2.9.5)
 
 ## Vocab
 
+- **Decibel (dB):** the unit for how loud a sound is. On a recording meter, 0 is the top, so levels
+  are negative numbers
 - **Lavalier (lav) mic:** a small mic clipped to the speaker's clothing
 - **Transmitter:** the part clipped to the speaker. It sends the sound wirelessly
 - **Receiver:** the part on the camera. It picks up the sound and sends it into the camera
@@ -33,8 +39,9 @@ working. (7.8.4, 7.8.6, 1.3.8, 2.9.5)
 - **Mic placement:** where the mic goes. Closer to the mouth beats turning it up
 - **Record level:** how loud the camera records the sound
 - **Audio meter:** the bars that show how loud the sound is
-- **Peak:** the loudest point of the sound. Aim for about -12 dB
-- **Clipping:** sound so loud it hits the top of the meter and distorts. It cannot be fixed in editing
+- **Peak:** the loudest point of the sound
+- **Levels:** where the sound lands on the meter. Talking should land around -12 to -6 dB
+- **Clipping:** sound so loud it hits 0 dB and distorts. It cannot be fixed in editing
 - **Wind filter:** a camera setting that cuts wind noise outdoors
 - **Slate:** marking the start of a take by saying the scene and take out loud, or with a clap
 - **Sync:** lining up sound and picture so mouths match words

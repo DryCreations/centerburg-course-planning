@@ -7,7 +7,7 @@ standards, the plan for each day, and the vocab for Friday's quiz.
 
 | Class | Post on Classroom | Teacher-only |
 |---|---|---|
-| Design Techniques | `1-design-techniques/agenda.md` | `slides-google-prompts.md` |
+| Design Techniques | `1-design-techniques/agenda.md`, and `handouts/right-to-use.md` | `slides-google-prompts.md` |
 | Video & Sound | `2-video-and-sound/agenda.md`, and `handouts/mic-setup.md` | `slides-google-prompts.md`, `mic-station-TEACHER.md` |
 | Aviation UAS | `3-aviation-uas/agenda.md` | `slides-google-prompts.md` |
 | Middle School CS | `4-middle-school-cs/agenda.md`, and `handouts/codeblocks-start.md` on Tuesday | `slides-google-prompts.md` |

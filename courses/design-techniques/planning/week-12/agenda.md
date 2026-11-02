@@ -12,14 +12,14 @@
 
 ## This week
 
-**Monday:** Kinds of type and how type is measured. Then choose the fonts for your entry. (7.5.4,
+**Monday:** Copyright review: what you have the right to use, and using Adobe to design it yourself.
+Fill in your source list on the Right to Use handout, then work. (1.3.8, 2.9.5)
+
+**Tuesday:** Kinds of type and how type is measured. Then choose the fonts for your entry. (7.5.4,
 7.5.1, 2.9.5)
 
-**Tuesday:** Spacing and pairing fonts. Fix the spacing on a headline, then on your own entry. (7.5.3,
-7.5.2, 2.9.5)
-
-**Wednesday:** Copyright and model releases. Check that everything in your entry is yours or licensed.
-(1.3.8, 2.9.5)
+**Wednesday:** Spacing and pairing fonts. Fix the spacing on a headline, then on your own entry.
+(7.5.3, 7.5.2, 2.9.5)
 
 **Thursday:** Quick vocab review. Write a type style guide for your entry. (7.5.5, 2.9.5)
 

@@ -17,6 +17,7 @@
 - **Monday:** video production teams first, then any group that will record soon
 - **Tuesday:** the groups not reached Monday, individual competitors next. Then rotate to every group
   for competition progress
+- **End of class, both days:** groups that are ready to record can take the kit for real footage
 - **Each student does steps 3 to 6 themselves.** Roles rotate inside the group
 - If a group finishes early, have them swap who wears the mic and do it again
 
@@ -24,7 +25,7 @@
 
 During Monday's first group, record three short clips on purpose:
 
-1. **Good:** mic placed right, peaks around -12
+1. **Good:** mic placed right, talking around -12 to -6
 2. **Too hot:** record level all the way up, so it clips
 3. **Too far:** the transmitter on the table across the room instead of on the talent
 
