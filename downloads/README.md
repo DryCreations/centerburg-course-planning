@@ -4,6 +4,7 @@ Prebuilt bundles for grabbing on a machine where signing in is a hassle.
 
 | File | What it is |
 |------|-----------|
+| `week-13-materials.zip` | **Week 13 (Nov 9 to Nov 13).** One 5-slide deck prompt for every class, Classroom posts (presentations, DT brand kit first, V&S recording, Unmanned Aircraft Systems), Google Forms quiz summaries for DT and Unmanned Aircraft Systems, and the MS CS how-to-submit, quiz preview, and Codeblocks city. Open `POST-THIS.md` first. |
 | `week-12-materials.zip` | **Week 12 (Nov 2 to Nov 6), observation week.** Student-facing weekly agendas with vocab for every class, daily Google Slides prompts with standards, the V&S mic station card and sign-off plan, Tuesday's observation run of show, and the MS CS Codeblocks handout. Open `POST-THIS.md` first. |
 | `week-11-materials.zip` | **Week 11 (Oct 26 to Oct 30).** Q1 Gimkit reviews for DT, V&S, and Aviation, the Yearbook Q2 Classroom assignment posts, the aviation meteorology review and Thursday fly-check slides, and the MS CS 3D vocab review slides and Gimkit. Open `POST-THIS.md` first. |
 | `week-10-materials.zip` | **Week 10 (Tue Oct 20 to Fri Oct 23), first week of Q2.** Q2 plans for every class, BPA choice sheets (DT, V&S, Aviation), the Tinkercad unit plan and start (MS CS), the Yearbook Q2 survey build sheet and assignment notes, the Aviation Friday quiz, and the Q2 gradebook in points for every class. Tuesday slide prompts. Open `INDEX.md` first. |
